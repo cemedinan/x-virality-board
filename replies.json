@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "updated_at": "2026-10-26T15:56:00-03:00"
+  },
+  "replies": [
+    {
+      "id": "bitcoin_dawg-2114780069432602801",
+      "date": "2026-10-26T15:03:00-03:00",
+      "handle": "bitcoin_dawg",
+      "post_url": "https://x.com/bitcoin_dawg/status/2114780069432602801",
+      "user_post": "Sunday stacking is underrated. Boring routine beats perfect timing.",
+      "reply": "100 percent agree with you on this 👊",
+      "draft": "Appreciate it. Consistency compounds. Most people overthink the entry and underrate the habit.",
+      "draft_alt": "Thanks! The habit does the heavy lifting.",
+      "status": "Esperando tu ok"
+    },
+    {
+      "id": "TraderCobb-2114655652530532395",
+      "date": "2026-10-26T06:49:00-03:00",
+      "handle": "TraderCobb",
+      "post_url": "https://x.com/TraderCobb/status/2114655652530532395",
+      "user_post": "Weekly trend first, noise second. That framing keeps me from overtrading the lower timeframes.",
+      "reply": "Correct",
+      "draft": "Simple rules, fewer mistakes. Appreciate it.",
+      "status": "Opcional (un like basta)"
+    },
+    {
+      "id": "Meeload001-2114650806041678212",
+      "date": "2026-10-26T06:30:00-03:00",
+      "handle": "Meeload001",
+      "post_url": "https://x.com/Meeload001/status/2114650806041678212",
+      "user_post": "Liquidity is the real issue. Thin books turn ordinary headlines into big wicks.",
+      "reply": "double agree",
+      "draft": "Weekend and off-hours liquidity especially. That's where the worst wicks happen.",
+      "status": "Opcional (un like basta)"
+    },
+    {
+      "id": "RUNECLAW_AI-2114632837315924396",
+      "date": "2026-10-26T05:18:00-03:00",
+      "handle": "RUNECLAW_AI",
+      "post_url": "https://x.com/RUNECLAW_AI/status/2114632837315924396",
+      "user_post": "[Gráfico año por año de la mejor estrategia del heatmap de backtest, sin texto]",
+      "reply": "Nice, thanks for sharing. Did you pick that setting on the full history or only on the early years? A walk-forward run would show whether it holds up on data it never saw.",
+      "draft": "Fair point. The heatmap was run on the full history, so in-sample bias is real. A walk-forward test is next on my list and I'll share the results.",
+      "status": "Falta tu confirmación",
+      "note": "Confirmar si fue con el historial completo y si harás el walk-forward."
+    },
+    {
+      "id": "KYVORAWALLET-2114597203163697302",
+      "date": "2026-10-26T02:57:00-03:00",
+      "handle": "KYVORAWALLET",
+      "post_url": "https://x.com/KYVORAWALLET/status/2114597203163697302",
+      "user_post": "Self custody eliminates exchange risk. It doesn't eliminate security risk. Who generated your seed? On what machine? Could you recover without the vendor's app?",
+      "reply": "The third question catches the most people. A standard 12 or 24 word seed should open in any compatible wallet, so loading it into a second, unrelated app once tells you whether you'd still get in if the vendor's app disappeared.",
+      "draft": "Agreed. Test the recovery before you need it, ideally on a device you trust, and never on a machine you wouldn't trust with the funds.",
+      "status": "Esperando tu ok",
+      "note": "Cuenta nueva de marca de wallets, posible promoción."
+    }
+  ]
+}
