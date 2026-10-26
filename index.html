@@ -514,6 +514,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   .reveal{opacity:1;transform:none}
 }
 </style>
+<style>.xvs-refresh-bar{display:flex;justify-content:flex-end;align-items:center;gap:10px;padding:10px 0 0}.xvs-refresh-btn{font:600 11px "IBM Plex Mono",monospace;letter-spacing:.12em;text-transform:uppercase;color:#0b0d0e;background:linear-gradient(135deg,#2ad4f5,#c8f04a);border:0;border-radius:999px;padding:10px 18px;cursor:pointer}.xvs-refresh-btn:disabled{opacity:.6;cursor:wait}.xvs-refresh-note{font:400 10px "IBM Plex Mono",monospace;color:var(--muted)}</style>
 </head>
 <body class="xvs-dash-2026 xvs-mobile-2026">
 <div class="grok-trail" aria-hidden="true"></div>
@@ -536,6 +537,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   </svg>
 </div>
 <div class="wrap">
+<div class="xvs-refresh-bar"><span class="xvs-refresh-note" id="xvs-refresh-note"></span><button type="button" class="xvs-refresh-btn" id="xvs-refresh-btn">↻ Actualizar</button></div>
   <header class="site-header reveal">
     <div class="brand-lockup">
       <div class="x-logo" aria-label="X"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
@@ -941,5 +943,6 @@ async function boot(){
 initTheme();
 boot().catch(err=>{document.getElementById('meta').textContent='failed to load data.json';console.error(err)});
 </script>
+<script>(function(){var b=document.getElementById('xvs-refresh-btn');if(!b)return;b.addEventListener('click',function(){b.disabled=true;b.textContent='Actualizando…';var u=new URL(location.href);u.searchParams.set('r',Date.now());location.replace(u.toString())});var n=document.getElementById('xvs-refresh-note');if(n)n.textContent='Muestra los últimos datos publicados';})();</script>
 </body>
 </html>
