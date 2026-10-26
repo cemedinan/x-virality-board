@@ -49,7 +49,10 @@
    "views_label": "271,181 views",
    "highlight": true,
    "created_at": "2026-10-25T14:40:54.000Z",
-   "likes": 2382
+   "likes": 2382,
+   "draft_en": "Financial freedom should come with free time.\n\nBut a strategy you have to watch every hour isn't freedom.\n\nCan a simple rule run without your attention and still compete with buy and hold $BTC?",
+   "draft_quote_en": "Free time is the real test of a strategy.\n\nIf it needs you glued to the chart, it's a job, not freedom.",
+   "video_tip": "Short clip: your rule in one sentence, then the equity curve vs buy and hold."
   },
   {
    "handle": "@APompliano",
@@ -63,7 +66,10 @@
    "views_label": "244,644 views",
    "highlight": true,
    "created_at": "2026-10-25T13:00:50.000Z",
-   "likes": 2971
+   "likes": 2971,
+   "draft_en": "\"$BTC will do well for 2 decades because governments never stop printing.\"\n\nMaybe. But what's the evidence that holding through every drawdown is the best way to capture that?\n\nI'd rather test it than assume it.",
+   "draft_quote_en": "Reasonable thesis. Question: does it require holding through every drawdown, or can a simple rule capture the same trend with less exposure?\n\nCan we test it?",
+   "video_tip": "Chart: buy and hold drawdown vs a trend rule, same period, costs included."
   },
   {
    "handle": "@APompliano",
@@ -77,7 +83,10 @@
    "views_label": "218,648 views",
    "highlight": true,
    "created_at": "2026-10-24T14:29:18.000Z",
-   "likes": 640
+   "likes": 640,
+   "draft_en": "\"$BTC is going to zero.\"\n\n\"$BTC is invulnerable.\"\n\nI distrust both.\n\nWhich quantum or AI attack would actually work, and why would $BTC be the most profitable target?",
+   "draft_quote_en": "Good topic. Two questions: what's the mechanism of the attack, and why would $BTC be a better target than banks or payment rails?\n\nTheory, demo and real attack are three different things.",
+   "video_tip": "Talking head 30s: theoretical vs demonstrated vs executed attack."
   },
   {
    "handle": "@saylor",
@@ -91,7 +100,10 @@
    "views_label": "214,948 views",
    "highlight": true,
    "created_at": "2026-10-24T16:26:18.000Z",
-   "likes": 3266
+   "likes": 3266,
+   "draft_en": "Programmatic buybacks, credit frameworks, capital structure.\n\nAll of it sits on top of $BTC. Fine.\n\nBut spot $BTC with no leverage and no counterparties is the version I trust.",
+   "draft_quote_en": "Four months of data is a start. What happens to this framework in a long drawdown?\n\nCurious how it's stress tested.",
+   "video_tip": "Text-only, or a simple diagram: spot vs leveraged structure in a drawdown."
   },
   {
    "handle": "@BitcoinMagazine",
@@ -105,7 +117,10 @@
    "views_label": "113,382 views",
    "highlight": true,
    "created_at": "2026-10-24T22:56:49.000Z",
-   "likes": 1880
+   "likes": 1880,
+   "draft_en": "A $5.3B firm bought 16 $BTC on a dip.\n\nThat's $1.28M. About 0.02% of what it manages.\n\nHeadline size and actual conviction are different things.",
+   "draft_quote_en": "16 $BTC out of a $5.3B firm. Is that conviction, or a marketing allocation?\n\nCurious what share of AUM that is.",
+   "video_tip": "One-liner number card: 16 BTC vs $5.3B."
   },
   {
    "handle": "@BitcoinMagazine",
@@ -195,7 +210,10 @@
    "views_label": "70,796 views",
    "highlight": true,
    "created_at": "2026-10-25T14:43:34.000Z",
-   "likes": 1097
+   "likes": 1097,
+   "draft_en": "Public company CEO \"hints\" at buying more $BTC.\n\nA hint isn't a purchase.\n\nI wait for the filing, not the tweet.",
+   "draft_quote_en": "\"Hints at buying\" isn't buying. Waiting for the filing.",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@BitcoinMagazine",
@@ -209,7 +227,10 @@
    "views_label": "64,606 views",
    "highlight": true,
    "created_at": "2026-10-24T13:50:38.000Z",
-   "likes": 778
+   "likes": 778,
+   "draft_en": "Liberty Bitcoin Accumulation Fund targets 8% to 12% a year \"in BTC.\"\n\nHow? Which strategy, which risks, and what happens in a drawdown?\n\nA target isn't a track record.",
+   "draft_quote_en": "A target return in BTC isn't a result. What's the strategy, and what's the worst drawdown it can have?",
+   "video_tip": "Text-only; checklist: strategy, risks, track record."
   },
   {
    "handle": "@BitcoinMagazine",
@@ -223,7 +244,10 @@
    "views_label": "64,124 views",
    "highlight": true,
    "created_at": "2026-10-25T14:09:26.000Z",
-   "likes": 693
+   "likes": 693,
+   "draft_en": "USDT on Bitcoin.\n\nA dollar IOU, on a network designed to remove IOUs.\n\nIs that adoption, or a new dependency on an issuer?",
+   "draft_quote_en": "USDT on Bitcoin is a dollar liability on a network built to avoid them. Interesting, but is it a new dependency?",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@BitcoinArchive",
@@ -285,7 +309,10 @@
    "views_label": "56,756 views",
    "highlight": true,
    "created_at": "2026-10-24T16:29:14.000Z",
-   "likes": 733
+   "likes": 733,
+   "draft_en": "$BTC dropped $5K in two days and the call is \"expected, not panic.\"\n\nExpected by whom, and based on what rule?\n\nIf it can't be written down before the move, it's a story.",
+   "draft_quote_en": "\"Expected, not panic\" is a feeling. What's the rule that says so, and what level would invalidate it?",
+   "video_tip": "Chart: the dip with your pre-written rule overlaid."
   },
   {
    "handle": "@LynAldenContact",
@@ -313,7 +340,10 @@
    "views_label": "54,457 views",
    "highlight": true,
    "created_at": "2026-10-24T15:49:08.000Z",
-   "likes": 743
+   "likes": 743,
+   "draft_en": "$160M of leveraged longs liquidated in 12 hours.\n\nThat's the cost of leverage, even when the long thesis is right.\n\nNo leverage. I repeat. No leverage.",
+   "draft_quote_en": "This is why I don't use leverage. You can be right on direction and still get liquidated.\n\nSpot only.",
+   "video_tip": "Short clip: liquidation chart, then 'spot only'."
   },
   {
    "handle": "@APompliano",
@@ -355,7 +385,10 @@
    "views_label": "52,725 views",
    "highlight": true,
    "created_at": "2026-10-25T20:42:25.000Z",
-   "likes": 723
+   "likes": 723,
+   "draft_en": "\"Historically, this is a signal a bull market has started.\"\n\nHow many times has it actually happened? And how many signals like it didn't work?\n\nSmall sample, big confidence.",
+   "draft_quote_en": "Historically on how many occasions? Small sample sizes make any indicator look reliable.",
+   "video_tip": "Chart: indicator signals vs outcomes, counting misses."
   },
   {
    "handle": "@LynAldenContact",
@@ -383,7 +416,10 @@
    "views_label": "45,431 views",
    "highlight": true,
    "created_at": "2026-10-24T18:00:09.000Z",
-   "likes": 2076
+   "likes": 2076,
+   "draft_en": "\"If you can't handle me at my -36% you don't deserve me at my +1000%.\"\n\nGood line. But a drawdown rule you wrote in advance beats being able to stomach it.\n\nWhat's your rule?",
+   "draft_quote_en": "Funny, but survivorship bias in one sentence. Plenty of people couldn't handle -36% and don't know the +1000% happened.\n\nDrawdown rules matter.",
+   "video_tip": "Meme-style text card with the bias spelled out."
   },
   {
    "handle": "@BitcoinArchive",
@@ -397,7 +433,10 @@
    "views_label": "43,272 views",
    "highlight": true,
    "created_at": "2026-10-25T14:26:18.000Z",
-   "likes": 231
+   "likes": 231,
+   "draft_en": "Someone has written the U.S. Constitution into Bitcoin, 40 times a day for 3 weeks.\n\nCurious: is that a stress test, art, or someone testing fee markets?\n\nThe funds came from 3 tiny withdrawals. What do you make of it?",
+   "draft_quote_en": "Interesting. 76% of the 0.0333 BTC still unspent. What would be the goal here: fee market, art or a test?",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@LynAldenContact",
@@ -425,7 +464,10 @@
    "views_label": "37,267 views",
    "highlight": true,
    "created_at": "2026-10-24T18:01:28.000Z",
-   "likes": 937
+   "likes": 937,
+   "draft_en": "Leverage gets flushed. Shorts get paid. Again.\n\nThe pattern isn't new. The lesson isn't either.\n\nThe $BTC thesis can be right and your position can still be gone.",
+   "draft_quote_en": "Same lesson every cycle: you don't need leverage to benefit from $BTC. You only need to survive.",
+   "video_tip": "Short clip: the three-step pattern as a diagram."
   },
   {
    "handle": "@danheld",
@@ -439,7 +481,10 @@
    "views_label": "35,211 views",
    "highlight": true,
    "created_at": "2026-10-25T12:38:03.000Z",
-   "likes": 1095
+   "likes": 1095,
+   "draft_en": "Bitcoin.\n\nOne word. No promise.\n\nNow show me the backtest.",
+   "draft_quote_en": "Agreed. Now how do we know when to be exposed and when not to?",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@BitcoinArchive",
@@ -453,7 +498,10 @@
    "views_label": "34,267 views",
    "highlight": true,
    "created_at": "2026-10-25T18:59:10.000Z",
-   "likes": 547
+   "likes": 547,
+   "draft_en": "A $2.9B firm holds 36,818 $BTC at an average of $88,710.\n\nThat's a cost basis above where $BTC trades today.\n\nWhat does a company do when it's underwater and still wants to buy?",
+   "draft_quote_en": "Average cost $88,710. How does that change future buying behaviour for a company that holds 36,818 $BTC?",
+   "video_tip": "Chart: average cost vs current price."
   },
   {
    "handle": "@APompliano",
@@ -481,7 +529,10 @@
    "views_label": "28,129 views",
    "highlight": true,
    "created_at": "2026-10-24T15:20:11.000Z",
-   "likes": 184
+   "likes": 184,
+   "draft_en": "Obsession finds alpha, sure.\n\nBut obsession also finds patterns that aren't there.\n\nThat's why I backtest before I believe anything I see.",
+   "draft_quote_en": "Obsession is useful. Backtesting keeps it honest.",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@BitcoinArchive",
@@ -495,7 +546,10 @@
    "views_label": "27,130 views",
    "highlight": true,
    "created_at": "2026-10-25T22:50:22.000Z",
-   "likes": 520
+   "likes": 520,
+   "draft_en": "$BTC hash rate up 11% in 30 days. \"Bullish.\"\n\nDoes hash rate lead price, follow it, or just move with it?\n\nHas anyone tested it, with costs, no look-ahead?",
+   "draft_quote_en": "Hash rate +11% in 30 days. Does it lead price in the data, or follow it?",
+   "video_tip": "Chart: hash rate vs price lag test."
   },
   {
    "handle": "@Dennis_Porter_",
@@ -593,7 +647,10 @@
    "views_label": "15,700 views",
    "highlight": true,
    "created_at": "2026-10-25T21:20:53.000Z",
-   "likes": 495
+   "likes": 495,
+   "draft_en": "If your TV is spying on you, your seed phrase shouldn't live anywhere near a connected device.\n\nAir-gap everything that touches keys.",
+   "draft_quote_en": "Same logic for keys. Every connected device is attack surface. Air-gapped signing keeps the surface small.",
+   "video_tip": "Clip: offline signing flow."
   },
   {
    "handle": "@danheld",
@@ -607,7 +664,10 @@
    "views_label": "14,926 views",
    "highlight": true,
    "created_at": "2026-10-25T16:11:00.000Z",
-   "likes": 73
+   "likes": 73,
+   "draft_en": "Quantum risk to $BTC: overblown or underpriced?\n\nI don't know yet. I want to see the mechanism, the timeline and the cost of attack.\n\nAnd why $BTC first, not banks.",
+   "draft_quote_en": "Mechanism, timeline and cost of attack are what matter. Thanks for laying it out. Why would $BTC be the first target?",
+   "video_tip": "Talking head: three things you'd need to see before worrying."
   },
   {
    "handle": "@lopp",
@@ -677,7 +737,10 @@
    "views_label": "11,970 views",
    "highlight": true,
    "created_at": "2026-10-25T21:21:28.000Z",
-   "likes": 86
+   "likes": 86,
+   "draft_en": "Why did it take so long to invent Bitcoin?\n\nMy guess: not the code. The incentive design and the timing.\n\nWhat's yours?",
+   "draft_quote_en": "My bet: incentive design, not code. What do you think was the missing piece?",
+   "video_tip": "Text-only. Reply to the best answers."
   },
   {
    "handle": "@LynAldenContact",
@@ -775,7 +838,10 @@
    "views_label": "7,564 views",
    "highlight": false,
    "created_at": "2026-10-26T02:14:54.000Z",
-   "likes": 52
+   "likes": 52,
+   "draft_en": "Nobody really understands Bitcoin.\n\nThat includes me. I test what I can and say what I can't.\n\nWhat's one thing you believed about $BTC and later changed your mind on?",
+   "draft_quote_en": "Probably true. Which part do you think people misunderstand the most?",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@Dennis_Porter_",
@@ -845,7 +911,10 @@
    "views_label": "5,814 views",
    "highlight": false,
    "created_at": "2026-10-26T03:02:44.000Z",
-   "likes": 232
+   "likes": 232,
+   "draft_en": "Death, taxes, and fiat debasement.\n\nOk. Then the question is how to hold $BTC through it.\n\nAll in forever, or with rules for exposure?",
+   "draft_quote_en": "Debasement is the thesis. The open question is the exposure rule.",
+   "video_tip": "Text-only."
   },
   {
    "handle": "@ecoinometrics",
@@ -859,7 +928,10 @@
    "views_label": "5,778 views",
    "highlight": false,
    "created_at": "2026-10-25T16:37:14.000Z",
-   "likes": 20
+   "likes": 20,
+   "draft_en": "Nasdaq +15% over 12 months. $BTC -26%.\n\nSo it isn't trading like a tech stock. Only the downside matches.\n\nThat asymmetry is exactly what a rule-based exposure should address.",
+   "draft_quote_en": "Asymmetry: the \"leveraged Nasdaq\" label only applies on the way down. Have you tested a simple trend filter on this?",
+   "video_tip": "Chart: Nasdaq vs $BTC 12 months."
   },
   {
    "handle": "@Pledditor",
