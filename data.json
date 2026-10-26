@@ -18,24 +18,8 @@
    "views_label": "444,275 views",
    "highlight": true,
    "created_at": "2026-10-25T17:12:08.000Z",
-   "likes": 1681
-  },
-  {
-   "handle": "@APompliano",
-   "display_name": "Anthony Pompliano 🌪",
-   "name": "Anthony Pompliano 🌪",
-   "text": "My current views on investing:\n\n- Government will never stop printing money, so bitcoin / gold / land will all do well for 2 decades\n\n- AI is drastically underestimated and the best AI companies are significantly undervalued\n\n- Shorting individual stocks is very difficult, so I",
-   "hook": "My current views on investing:",
-   "url": "https://x.com/APompliano/status/2114341413898854761",
-   "status_url": "https://x.com/APompliano/status/2114341413898854761",
-   "views": 313394,
-   "views_label": "313,394 views",
-   "highlight": true,
-   "created_at": "2026-10-25T13:00:50.000Z",
-   "likes": 3662,
-   "draft_en": "\"$BTC will do well for 2 decades because governments never stop printing.\"\n\nMaybe. But what's the evidence that holding through every drawdown is the best way to capture that?\n\nI'd rather test it than assume it.",
-   "draft_quote_en": "Reasonable thesis. Question: does it require holding through every drawdown, or can a simple rule capture the same trend with less exposure?\n\nCan we test it?",
-   "video_tip": "Chart: buy and hold drawdown vs a trend rule, same period, costs included."
+   "likes": 1681,
+   "is_new": false
   },
   {
    "handle": "@saylor",
@@ -52,7 +36,8 @@
    "likes": 2701,
    "draft_en": "Financial freedom should come with free time.\n\nBut a strategy you have to watch every hour isn't freedom.\n\nCan a simple rule run without your attention and still compete with buy and hold $BTC?",
    "draft_quote_en": "Free time is the real test of a strategy.\n\nIf it needs you glued to the chart, it's a job, not freedom.",
-   "video_tip": "Short clip: your rule in one sentence, then the equity curve vs buy and hold."
+   "video_tip": "Short clip: your rule in one sentence, then the equity curve vs buy and hold.",
+   "is_new": false
   },
   {
    "handle": "@saylor",
@@ -66,7 +51,8 @@
    "views_label": "154,163 views",
    "highlight": true,
    "created_at": "2026-10-26T12:51:39.000Z",
-   "likes": 2453
+   "likes": 2453,
+   "is_new": true
   },
   {
    "handle": "@LynAldenContact",
@@ -80,7 +66,8 @@
    "views_label": "85,881 views",
    "highlight": true,
    "created_at": "2026-10-26T02:11:32.000Z",
-   "likes": 1359
+   "likes": 1359,
+   "is_new": false
   },
   {
    "handle": "@BitcoinMagazine",
@@ -97,7 +84,29 @@
    "likes": 1252,
    "draft_en": "Public company CEO \"hints\" at buying more $BTC.\n\nA hint isn't a purchase.\n\nI wait for the filing, not the tweet.",
    "draft_quote_en": "\"Hints at buying\" isn't buying. Waiting for the filing.",
-   "video_tip": "Text-only."
+   "video_tip": "Text-only.",
+   "is_new": true,
+   "story": "Strive buys 6,182 BTC",
+   "also": [
+    {
+     "handle": "@BitcoinArchive",
+     "views": 49968,
+     "views_label": "49,968 views",
+     "url": "https://x.com/BitcoinArchive/status/2114431593716826559"
+    },
+    {
+     "handle": "@BitcoinMagazine",
+     "views": 45788,
+     "views_label": "45,788 views",
+     "url": "https://x.com/BitcoinMagazine/status/2114689507127648538"
+    },
+    {
+     "handle": "@BitcoinArchive",
+     "views": 27664,
+     "views_label": "27,664 views",
+     "url": "https://x.com/BitcoinArchive/status/2114692322730398176"
+    }
+   ]
   },
   {
    "handle": "@BitcoinMagazine",
@@ -114,24 +123,8 @@
    "likes": 1116,
    "draft_en": "\"Historically, this is a signal that a bull market has started.\"\n\nHow many times did the same signal fire and nothing started?\n\nA signal is a rule with a hit rate, a lag and a cost. Not a chart with a circle on it.\n\nWho has the false positives for $BTC vs the DXY?",
    "draft_quote_en": "Historically according to which test?\n\nHow many times did $BTC bounce off a low vs the DXY and keep falling anyway?\n\nShow me the misses, not just the hits.",
-   "video_tip": "Screen-record the $BTC/DXY chart and mark every past 'low' — including the ones that failed. 20s, no music."
-  },
-  {
-   "handle": "@BitcoinMagazine",
-   "display_name": "Bitcoin Magazine",
-   "name": "Bitcoin Magazine",
-   "text": "NEW: Utexo is rolling out its public launch of USDT on Bitcoin next month, \"an opportunity to bring dollar liquidity into the Bitcoin ecosystem\" 👀\n\nUSDT is coming home! 🚀 https://t.co/UvNRlcDpTD",
-   "hook": "NEW: Utexo is rolling out its public launch of USDT on Bitcoin next month, \"an opportunity to bring dollar liquidity into the Bitcoin ecosystem\" 👀",
-   "url": "https://x.com/BitcoinMagazine/status/2114358677490512296",
-   "status_url": "https://x.com/BitcoinMagazine/status/2114358677490512296",
-   "views": 76582,
-   "views_label": "76,582 views",
-   "highlight": true,
-   "created_at": "2026-10-25T14:09:26.000Z",
-   "likes": 843,
-   "draft_en": "USDT on Bitcoin.\n\nA dollar IOU, on a network designed to remove IOUs.\n\nIs that adoption, or a new dependency on an issuer?",
-   "draft_quote_en": "USDT on Bitcoin is a dollar liability on a network built to avoid them. Interesting, but is it a new dependency?",
-   "video_tip": "Text-only."
+   "video_tip": "Screen-record the $BTC/DXY chart and mark every past 'low' — including the ones that failed. 20s, no music.",
+   "is_new": false
   },
   {
    "handle": "@APompliano",
@@ -145,7 +138,8 @@
    "views_label": "68,747 views",
    "highlight": true,
    "created_at": "2026-10-25T15:29:59.000Z",
-   "likes": 714
+   "likes": 714,
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -159,7 +153,8 @@
    "views_label": "68,486 views",
    "highlight": true,
    "created_at": "2026-10-25T19:56:20.000Z",
-   "likes": 885
+   "likes": 885,
+   "is_new": false
   },
   {
    "handle": "@APompliano",
@@ -173,7 +168,8 @@
    "views_label": "57,336 views",
    "highlight": true,
    "created_at": "2026-10-25T23:44:23.000Z",
-   "likes": 120
+   "likes": 120,
+   "is_new": false
   },
   {
    "handle": "@BitcoinArchive",
@@ -190,38 +186,8 @@
    "likes": 296,
    "draft_en": "Someone has written the U.S. Constitution into Bitcoin, 40 times a day for 3 weeks.\n\nCurious: is that a stress test, art, or someone testing fee markets?\n\nThe funds came from 3 tiny withdrawals. What do you make of it?",
    "draft_quote_en": "Interesting. 76% of the 0.0333 BTC still unspent. What would be the goal here: fee market, art or a test?",
-   "video_tip": "Text-only."
-  },
-  {
-   "handle": "@BitcoinArchive",
-   "display_name": "Bitcoin Archive",
-   "name": "Bitcoin Archive",
-   "text": "$2.9B Strive hints at more Bitcoin buys. 🚀\n\nCurrently holds 36,818 BTC | average $88,710. https://t.co/KDCJnHJtEO",
-   "hook": "$2.9B Strive hints at more Bitcoin buys. 🚀",
-   "url": "https://x.com/BitcoinArchive/status/2114431593716826559",
-   "status_url": "https://x.com/BitcoinArchive/status/2114431593716826559",
-   "views": 49968,
-   "views_label": "49,968 views",
-   "highlight": true,
-   "created_at": "2026-10-25T18:59:10.000Z",
-   "likes": 814,
-   "draft_en": "A $2.9B firm holds 36,818 $BTC at an average of $88,710.\n\nThat's a cost basis above where $BTC trades today.\n\nWhat does a company do when it's underwater and still wants to buy?",
-   "draft_quote_en": "Average cost $88,710. How does that change future buying behaviour for a company that holds 36,818 $BTC?",
-   "video_tip": "Chart: average cost vs current price."
-  },
-  {
-   "handle": "@BitcoinMagazine",
-   "display_name": "Bitcoin Magazine",
-   "name": "Bitcoin Magazine",
-   "text": "JUST IN: 🇺🇸 Public company Strive purchases 6,182 Bitcoin for $511.4 million! 🤯 https://t.co/5KImRceLzA",
-   "hook": "JUST IN: 🇺🇸 Public company Strive purchases 6,182 Bitcoin for $511.4 million! 🤯 https://t.co/5KImRceLzA",
-   "url": "https://x.com/BitcoinMagazine/status/2114689507127648538",
-   "status_url": "https://x.com/BitcoinMagazine/status/2114689507127648538",
-   "views": 45788,
-   "views_label": "45,788 views",
-   "highlight": true,
-   "created_at": "2026-10-26T12:04:02.000Z",
-   "likes": 945
+   "video_tip": "Text-only.",
+   "is_new": false
   },
   {
    "handle": "@BitcoinArchive",
@@ -238,24 +204,8 @@
    "likes": 1014,
    "draft_en": "Hash rate up. \"Miners are confident. Bullish.\"\n\nOr are miners just reacting to price, months late, because new machines take time to plug in?\n\nIf hash rate follows price, it's not a buy signal for $BTC. It's a receipt.\n\nHas anyone tested it as an entry rule, with no look-ahead bias?",
    "draft_quote_en": "My read: hash rate mostly follows price, it doesn't lead it. Rigs get ordered when margins are already good.\n\nWhat's the actual track record of \"hash rate up\" as a $BTC buy signal?",
-   "video_tip": "Overlay $BTC price and hash rate on one chart; point at which line turns first. 15-20s."
-  },
-  {
-   "handle": "@danheld",
-   "display_name": "Dan Held",
-   "name": "Dan Held",
-   "text": "Bitcoin.",
-   "hook": "Bitcoin.",
-   "url": "https://x.com/danheld/status/2114335680646275138",
-   "status_url": "https://x.com/danheld/status/2114335680646275138",
-   "views": 41087,
-   "views_label": "41,087 views",
-   "highlight": true,
-   "created_at": "2026-10-25T12:38:03.000Z",
-   "likes": 1254,
-   "draft_en": "Bitcoin.\n\nOne word. No promise.\n\nNow show me the backtest.",
-   "draft_quote_en": "Agreed. Now how do we know when to be exposed and when not to?",
-   "video_tip": "Text-only."
+   "video_tip": "Overlay $BTC price and hash rate on one chart; point at which line turns first. 15-20s.",
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -269,7 +219,8 @@
    "views_label": "37,816 views",
    "highlight": true,
    "created_at": "2026-10-25T19:09:16.000Z",
-   "likes": 2229
+   "likes": 2229,
+   "is_new": false
   },
   {
    "handle": "@APompliano",
@@ -283,7 +234,8 @@
    "views_label": "36,798 views",
    "highlight": true,
    "created_at": "2026-10-25T14:30:09.000Z",
-   "likes": 104
+   "likes": 104,
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -297,7 +249,8 @@
    "views_label": "30,730 views",
    "highlight": true,
    "created_at": "2026-10-25T17:11:06.000Z",
-   "likes": 768
+   "likes": 768,
+   "is_new": false
   },
   {
    "handle": "@lopp",
@@ -314,7 +267,8 @@
    "likes": 1090,
    "draft_en": "If your TV is spying on you, your seed phrase shouldn't live anywhere near a connected device.\n\nAir-gap everything that touches keys.",
    "draft_quote_en": "Same logic for keys. Every connected device is attack surface. Air-gapped signing keeps the surface small.",
-   "video_tip": "Clip: offline signing flow."
+   "video_tip": "Clip: offline signing flow.",
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -328,21 +282,8 @@
    "views_label": "29,360 views",
    "highlight": true,
    "created_at": "2026-10-26T05:50:29.000Z",
-   "likes": 758
-  },
-  {
-   "handle": "@BitcoinArchive",
-   "display_name": "Bitcoin Archive",
-   "name": "Bitcoin Archive",
-   "text": "HUUUUGE! 👀\n\n$2.9B Strive acquired 6,182 Bitcoin, worth $510M\n\nNow holds 43,000 BTC\n\nCash position increased to $555M from $188M\n\n$ASST https://t.co/QU96JCtqhL",
-   "hook": "HUUUUGE! 👀",
-   "url": "https://x.com/BitcoinArchive/status/2114692322730398176",
-   "status_url": "https://x.com/BitcoinArchive/status/2114692322730398176",
-   "views": 27664,
-   "views_label": "27,664 views",
-   "highlight": true,
-   "created_at": "2026-10-26T12:15:13.000Z",
-   "likes": 535
+   "likes": 758,
+   "is_new": true
   },
   {
    "handle": "@danheld",
@@ -356,7 +297,8 @@
    "views_label": "26,005 views",
    "highlight": true,
    "created_at": "2026-10-25T15:15:26.000Z",
-   "likes": 244
+   "likes": 244,
+   "is_new": false
   },
   {
    "handle": "@APompliano",
@@ -370,7 +312,8 @@
    "views_label": "25,626 views",
    "highlight": true,
    "created_at": "2026-10-26T09:43:13.000Z",
-   "likes": 274
+   "likes": 274,
+   "is_new": true
   },
   {
    "handle": "@BitcoinArchive",
@@ -387,7 +330,8 @@
    "likes": 61,
    "draft_en": "A wallet company's email and domains get compromised.\n\nYour keys don't change. Your device doesn't either. Unless you \"update\" from a link in that email.\n\nAir-gapped doesn't make you immune. It shrinks what a fake site or fake firmware can touch.\n\nDo you verify firmware signatures, or do you just click update?",
    "draft_quote_en": "This is the attack surface people forget: not the device, the update channel.\n\nDon't click links. Verify signatures. Wait for confirmation through a channel you already trust.",
-   "video_tip": "20s clip: verifying a firmware signature offline before updating (no seed on screen)."
+   "video_tip": "20s clip: verifying a firmware signature offline before updating (no seed on screen).",
+   "is_new": true
   },
   {
    "handle": "@APompliano",
@@ -401,7 +345,8 @@
    "views_label": "20,816 views",
    "highlight": true,
    "created_at": "2026-10-26T13:11:42.000Z",
-   "likes": 58
+   "likes": 58,
+   "is_new": true
   },
   {
    "handle": "@BitcoinMagazine",
@@ -415,7 +360,8 @@
    "views_label": "20,368 views",
    "highlight": true,
    "created_at": "2026-10-26T13:33:12.000Z",
-   "likes": 48
+   "likes": 48,
+   "is_new": true
   },
   {
    "handle": "@DocumentingBTC",
@@ -432,7 +378,8 @@
    "likes": 221,
    "draft_en": "Nobody really understands Bitcoin.\n\nThat includes me. I test what I can and say what I can't.\n\nWhat's one thing you believed about $BTC and later changed your mind on?",
    "draft_quote_en": "Probably true. Which part do you think people misunderstand the most?",
-   "video_tip": "Text-only."
+   "video_tip": "Text-only.",
+   "is_new": false
   },
   {
    "handle": "@BitcoinArchive",
@@ -449,7 +396,8 @@
    "likes": 140,
    "draft_en": "ETF flows are the new daily horoscope for $BTC.\n\nInflows: bullish. Outflows: bearish. Both explained after price already moved.\n\nDo flows lead price, or follow it? That's testable.\n\nUntil someone shows it, I treat flows as a description, not a signal.",
    "draft_quote_en": "Useful data. The question is direction.\n\nDo weekly ETF flows predict the next week of $BTC, or just echo the last one?",
-   "video_tip": "Scatter plot: weekly flows vs next-week $BTC return. Let the cloud speak."
+   "video_tip": "Scatter plot: weekly flows vs next-week $BTC return. Let the cloud speak.",
+   "is_new": true
   },
   {
    "handle": "@danheld",
@@ -466,7 +414,8 @@
    "likes": 119,
    "draft_en": "\"Quantum will kill $BTC.\" \"Quantum is overblown.\"\n\nBoth camps skip the useful questions.\n\nWhich coins are actually exposed? The ones whose public key is already on-chain, not every wallet.\n\nHow many qubits, how much time, how much money?\n\nAnd why would whoever builds that machine start with $BTC?",
    "draft_quote_en": "Agree the timelines are usually oversold. But \"overblown\" isn't \"zero\".\n\nWhat happens to the coins whose public keys are already exposed on-chain? And who decides?",
-   "video_tip": "Whiteboard in 30s: exposed pubkey vs hashed address, and what an attacker would need."
+   "video_tip": "Whiteboard in 30s: exposed pubkey vs hashed address, and what an attacker would need.",
+   "is_new": false
   },
   {
    "handle": "@_Checkmatey_",
@@ -480,7 +429,8 @@
    "views_label": "18,532 views",
    "highlight": true,
    "created_at": "2026-10-26T11:03:22.000Z",
-   "likes": 250
+   "likes": 250,
+   "is_new": true
   },
   {
    "handle": "@BitcoinArchive",
@@ -494,7 +444,8 @@
    "views_label": "18,182 views",
    "highlight": true,
    "created_at": "2026-10-26T13:02:47.000Z",
-   "likes": 112
+   "likes": 112,
+   "is_new": true
   },
   {
    "handle": "@jameslavish",
@@ -511,7 +462,8 @@
    "likes": 907,
    "draft_en": "Debasement is close to a certainty. $BTC going up in a straight line is not.\n\nThe thesis can be right and your entry can still sit through a 70%+ drawdown. It has happened before.\n\nWhat's your rule for when to hold more and when to hold less?",
    "draft_quote_en": "Agree on the debasement. But it doesn't tell you when to buy, how much, or what drawdown you can live with.\n\nA thesis isn't a strategy.",
-   "video_tip": "Show $BTC drawdown chart (underwater curve) for 5s, then your rule in one sentence."
+   "video_tip": "Show $BTC drawdown chart (underwater curve) for 5s, then your rule in one sentence.",
+   "is_new": false
   },
   {
    "handle": "@DocumentingBTC",
@@ -528,35 +480,8 @@
    "likes": 157,
    "draft_en": "Why did it take so long to invent Bitcoin?\n\nMy guess: not the code. The incentive design and the timing.\n\nWhat's yours?",
    "draft_quote_en": "My bet: incentive design, not code. What do you think was the missing piece?",
-   "video_tip": "Text-only. Reply to the best answers."
-  },
-  {
-   "handle": "@lopp",
-   "display_name": "Jameson Lopp",
-   "name": "Jameson Lopp",
-   "text": "You really Can See Everything.\n\nI saw a couple of sociopaths with delusions of grandeur.",
-   "hook": "You really Can See Everything.",
-   "url": "https://x.com/lopp/status/2114334731298869657",
-   "status_url": "https://x.com/lopp/status/2114334731298869657",
-   "views": 15368,
-   "views_label": "15,368 views",
-   "highlight": true,
-   "created_at": "2026-10-25T12:34:17.000Z",
-   "likes": 37
-  },
-  {
-   "handle": "@lopp",
-   "display_name": "Jameson Lopp",
-   "name": "Jameson Lopp",
-   "text": "\"Talk to my agent\" is going to take on a very different meaning in the near future.",
-   "hook": "\"Talk to my agent\" is going to take on a very different meaning in the near future.",
-   "url": "https://x.com/lopp/status/2114351270253502668",
-   "status_url": "https://x.com/lopp/status/2114351270253502668",
-   "views": 15136,
-   "views_label": "15,136 views",
-   "highlight": true,
-   "created_at": "2026-10-25T13:40:00.000Z",
-   "likes": 141
+   "video_tip": "Text-only. Reply to the best answers.",
+   "is_new": false
   },
   {
    "handle": "@lopp",
@@ -570,7 +495,8 @@
    "views_label": "13,967 views",
    "highlight": true,
    "created_at": "2026-10-25T16:05:44.000Z",
-   "likes": 54
+   "likes": 54,
+   "is_new": false
   },
   {
    "handle": "@_Checkmatey_",
@@ -587,7 +513,8 @@
    "likes": 57,
    "draft_en": "Peak apathy. Disbelief. Capitulation. Euphoria.\n\nCycle phases are easy to name in hindsight.\n\nCan you label today's phase with a rule written before the data? And would trading it have beaten buy and hold $BTC after costs?",
    "draft_quote_en": "Interesting framework. How often did the \"disbelief\" label get called in real time, not after the fact?\n\nAny out-of-sample test?",
-   "video_tip": "Chart with phase labels covered; ask viewers to guess the phase before revealing. 20s."
+   "video_tip": "Chart with phase labels covered; ask viewers to guess the phase before revealing. 20s.",
+   "is_new": true
   },
   {
    "handle": "@Dennis_Porter_",
@@ -601,7 +528,8 @@
    "views_label": "11,637 views",
    "highlight": true,
    "created_at": "2026-10-25T15:49:26.000Z",
-   "likes": 307
+   "likes": 307,
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -615,7 +543,8 @@
    "views_label": "9,612 views",
    "highlight": false,
    "created_at": "2026-10-25T18:29:18.000Z",
-   "likes": 131
+   "likes": 131,
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -629,7 +558,8 @@
    "views_label": "7,574 views",
    "highlight": false,
    "created_at": "2026-10-25T18:40:00.000Z",
-   "likes": 73
+   "likes": 73,
+   "is_new": false
   },
   {
    "handle": "@Dennis_Porter_",
@@ -643,7 +573,8 @@
    "views_label": "6,981 views",
    "highlight": false,
    "created_at": "2026-10-25T15:12:26.000Z",
-   "likes": 67
+   "likes": 67,
+   "is_new": false
   },
   {
    "handle": "@ecoinometrics",
@@ -660,7 +591,8 @@
    "likes": 22,
    "draft_en": "Nasdaq +15% over 12 months. $BTC -26%.\n\nSo it isn't trading like a tech stock. Only the downside matches.\n\nThat asymmetry is exactly what a rule-based exposure should address.",
    "draft_quote_en": "Asymmetry: the \"leveraged Nasdaq\" label only applies on the way down. Have you tested a simple trend filter on this?",
-   "video_tip": "Chart: Nasdaq vs $BTC 12 months."
+   "video_tip": "Chart: Nasdaq vs $BTC 12 months.",
+   "is_new": false
   }
  ],
  "virals": [],
@@ -704,7 +636,7 @@
  "narrative_synthesis": "Niche hits today are signal claims without evidence (DXY, hash rate, ETF flows) and treasury-company headlines. Best angle for @ForecastQuant: ask for hit rate, false positives and lead/lag — data-first, $BTC, spot only.",
  "virals_window": "since Oct 25 09:00 CLT (~26h)",
  "virals_target": 20,
- "hits_count": 43,
+ "hits_count": 35,
  "outsiders_count": 0,
  "previous_day": {
   "date": "2026-10-25",
@@ -1077,5 +1009,6 @@
   "vs_5k": "pending",
   "vs_10k": "pending",
   "note": "Originals + quotes since Oct 25 09:00 CLT; replies excluded."
- }
+ },
+ "window_hours": 24
 }
