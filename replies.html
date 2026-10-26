@@ -552,14 +552,15 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
     <p class="muted" style="margin-top:24px">Los borradores son sugerencias; revisa antes de publicar. Nada se publica en X desde este panel.</p>
   </main>
 </div>
+<style>.new-pill{display:inline-block;font:700 10px "IBM Plex Mono",monospace;letter-spacing:.12em;padding:4px 9px;border-radius:999px;color:#0b0d0e;background:linear-gradient(135deg,#2ad4f5,#c8f04a);margin-right:6px}html[data-theme="day"] .new-pill{color:#fff;background:linear-gradient(135deg,#048fad,#4f8f00)}</style>
 <script>
 function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
 async function copyDraft(btn,text){try{await navigator.clipboard.writeText(text)}catch(e){const ta=document.createElement('textarea');ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove()}const p=btn.textContent;btn.textContent='¡COPIADO!';btn.classList.add('copied');setTimeout(()=>{btn.textContent=p;btn.classList.remove('copied')},1400)}
-let D,O='new';
+let D,O='new';const H=3600e3;function isNew(p){return p.new===true||Date.now()-new Date(p.date)<=6*H}
 function blk(lbl,id,t){return`<div class="draft-block"><div class="draft-head"><span class="draft-label">${lbl}</span><button type="button" class="copy-btn cp" data-draft-id="${id}">COPIAR BORRADOR</button></div><pre class="draft-text" id="${id}">${esc(t)}</pre></div>`}
-function render(){const rs=[...D.replies].sort((a,b)=>(new Date(b.date)-new Date(a.date))*(O==='new'?1:-1));
+function render(){const rs=D.replies.filter(p=>Date.now()-new Date(p.date)<=24*H).sort((a,b)=>(new Date(b.date)-new Date(a.date))*(O==='new'?1:-1));
 document.getElementById('replies').innerHTML=rs.map((p,i)=>{const d=new Date(p.date).toLocaleString('es-CL',{timeZone:'America/Santiago',dateStyle:'medium',timeStyle:'short'});
-return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">@${esc(p.handle)}</a></div><div class="handle">${esc(d)} (Chile)</div></div></div><div class="chip">${esc(p.status)}</div></div>
+return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">@${esc(p.handle)}</a></div><div class="handle">${esc(d)} (Chile)</div></div></div><div>${isNew(p)?'<span class="new-pill">NUEVA</span> ':''}<span class="chip">${esc(p.status)}</span></div></div>
 <div class="draft-label" style="margin-top:12px">Tu post</div><div class="hook">${esc(p.user_post)}</div>
 <div class="draft-label">Su respuesta</div><div class="hook">${esc(p.reply)}</div>
 ${p.note?`<div class="chip">⚠ ${esc(p.note)}</div>`:''}
@@ -569,7 +570,7 @@ document.querySelectorAll('.cp').forEach(b=>b.addEventListener('click',()=>copyD
 document.querySelectorAll('[data-o]').forEach(b=>b.classList.toggle('copied',b.dataset.o===O));}
 (async()=>{const r=await fetch('./replies.json?ts='+Date.now());D=await r.json();
 document.getElementById('meta').textContent='Actualizado: '+new Date(D.meta.updated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (Chile)';
-document.getElementById('summary').textContent=`${D.replies.length} respuestas · ordenadas por fecha`;
+document.getElementById('summary').textContent=`${D.replies.filter(p=>Date.now()-new Date(p.date)<=24*H).length} respuestas (últimas 24 h) · ${D.replies.filter(isNew).length} nuevas · ordenadas por fecha`;
 document.querySelectorAll('[data-o]').forEach(b=>b.addEventListener('click',()=>{O=b.dataset.o;render()}));render();})();
 document.getElementById('theme-toggle').addEventListener('click',()=>{const h=document.documentElement;h.dataset.theme=h.dataset.theme==='night'?'day':'night'});
 document.getElementById('xvs-refresh-btn').addEventListener('click',function(){this.disabled=true;this.textContent='Actualizando…';const u=new URL(location.href);u.searchParams.set('r',Date.now());location.replace(u.toString())});
