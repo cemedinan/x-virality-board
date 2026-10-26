@@ -20,7 +20,8 @@
    "created_at": "2026-10-25T01:12:18.000Z",
    "likes": 4654,
    "draft_en": "Self custody eliminates exchange risk. It doesn't eliminate security risk.\n\nWho generated your seed? On what machine? Could you recover without the vendor's app?",
-   "video_tip": "20-30s clip of your air-gapped flow: offline seed, QR signing."
+   "video_tip": "20-30s clip of your air-gapped flow: offline seed, QR signing.",
+   "draft_quote_en": "Quiet is fine. But who holds the keys?\n\nSelf custody eliminates exchange risk. It doesn't eliminate security risk."
   },
   {
    "handle": "@Dennis_Porter_",
@@ -120,7 +121,8 @@
    "created_at": "2026-10-24T12:21:09.000Z",
    "likes": 1642,
    "draft_en": "\"Realized Cap is rising, so a new bull market started.\"\n\nOr is it just describing a price that already went up?\n\nHas anyone tested it as an entry rule, with costs and no look-ahead bias?",
-   "video_tip": "Screen-record your backtest of a Realized Cap entry rule, costs included."
+   "video_tip": "Screen-record your backtest of a Realized Cap entry rule, costs included.",
+   "draft_quote_en": "Rising Realized Cap describes what already happened. Has anyone backtested it as an entry rule, with costs and no look-ahead?\n\nI'd like to see the numbers."
   },
   {
    "handle": "@APompliano",
@@ -164,7 +166,8 @@
    "created_at": "2026-10-24T11:46:24.000Z",
    "likes": 105,
    "draft_en": "What's one $BTC claim you repeat but have never tested yourself?\n\nMine was the halving. Still checking.\n\n(Edit the last line if it isn't true for you.)",
-   "video_tip": "Text-only post. Reply to the best answers within the first hour."
+   "video_tip": "Text-only post. Reply to the best answers within the first hour.",
+   "draft_quote_en": "Best thing I read this week: a paper on backtest overfitting. It changed how I read every \"this strategy beats buy and hold\" chart.\n\n(Edit to the real thing you read.)"
   },
   {
    "handle": "@LynAldenContact",
@@ -236,7 +239,8 @@
    "created_at": "2026-10-24T16:04:08.000Z",
    "likes": 1322,
    "draft_en": "Every dip brings a new reason to sell $BTC. The reason changes. The pitch doesn't.\n\nDid your thesis change, or just the price?\n\nA rule you wrote before the dip beats a feeling you have during it.",
-   "video_tip": "Talking-head 20s: show your rule written BEFORE the dip, then the dip chart."
+   "video_tip": "Talking-head 20s: show your rule written BEFORE the dip, then the dip chart.",
+   "draft_quote_en": "Scare tactics work because they hit when you have no plan.\n\nWrite your sell rule BEFORE the dip. If it says hold, hold. If it says sell, you'll know why."
   },
   {
    "handle": "@BitcoinArchive",
@@ -252,7 +256,8 @@
    "created_at": "2026-10-24T22:51:49.000Z",
    "likes": 1226,
    "draft_en": "Same month, opposite headlines: $BTC down about 5%, gold down about 7%, and both \"finally breaking down.\"\n\nNarratives follow price. Data shouldn't.\n\n(Figures from the Bitcoin Archive post: verify before posting.)",
-   "video_tip": "One chart: 30-day $BTC vs gold with the headline dates marked."
+   "video_tip": "One chart: 30-day $BTC vs gold with the headline dates marked.",
+   "draft_quote_en": "Both calls were made after the move. Narratives follow price.\n\nWould the same people say the opposite if the chart flipped tomorrow?"
   },
   {
    "handle": "@Dennis_Porter_",
