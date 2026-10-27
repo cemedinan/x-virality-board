@@ -874,7 +874,7 @@ function staggerCards(rootSel){
   });
 }
 async function boot(){
-  const res=await fetch('./data.json?ts='+Date.now());if(!res.ok)throw new Error('data.json '+res.status);const d=await res.json();
+  const res=await fetch('./data.json?ts='+Date.now());if(!res.ok)throw new Error('data.json '+res.status);const d=await res.json();const _cut=Date.now()-24*3600*1000;const _fresh=x=>{const t=Date.parse(x&&x.created_at);return !Number.isFinite(t)||t>=_cut};if(Array.isArray(d.hits))d.hits=d.hits.filter(_fresh);if(Array.isArray(d.virals))d.virals=d.virals.filter(_fresh);if(Array.isArray(d.outsiders))d.outsiders=d.outsiders.filter(_fresh);
   resolveThemeFromData(d);
   const brand=applyBrand(d);
   const op={handle:brand.handle, name:brand.name, ...(d.operator||{})};
