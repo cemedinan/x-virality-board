@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-27T07:12:07-03:00",
+  "generated_at": "2026-10-27T11:16:07-03:00",
   "window_hours": 24,
-  "likes_scanned": 200,
-  "listed": 37,
-  "in_niche": 16,
-  "not_recommended": 21
+  "likes_scanned": 199,
+  "listed": 28,
+  "in_niche": 12,
+  "not_recommended": 16
  },
  "posts": [
   {
@@ -20,11 +20,11 @@
    "in_niche": true,
    "skip_reason": "",
    "m": {
-    "bookmark_count": 2,
-    "impression_count": 573,
-    "like_count": 17,
+    "bookmark_count": 1,
+    "impression_count": 1129,
+    "like_count": 29,
     "quote_count": 0,
-    "reply_count": 4,
+    "reply_count": 6,
     "repost_count": 1
    }
   },
@@ -41,11 +41,11 @@
    "skip_reason": "Anécdota/meme sin contenido de estrategia.",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1901,
-    "like_count": 95,
+    "impression_count": 3284,
+    "like_count": 159,
     "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 2
+    "reply_count": 14,
+    "repost_count": 4
    }
   },
   {
@@ -61,8 +61,8 @@
    "skip_reason": "",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1235,
-    "like_count": 9,
+    "impression_count": 1498,
+    "like_count": 12,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 0
@@ -80,12 +80,12 @@
    "in_niche": false,
    "skip_reason": "Meme/chiste, sin espacio para aportar valor.",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 7440,
-    "like_count": 164,
+    "bookmark_count": 5,
+    "impression_count": 11966,
+    "like_count": 300,
     "quote_count": 2,
-    "reply_count": 51,
-    "repost_count": 7
+    "reply_count": 63,
+    "repost_count": 15
    }
   },
   {
@@ -101,11 +101,11 @@
    "skip_reason": "",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 3308,
-    "like_count": 38,
+    "impression_count": 3945,
+    "like_count": 47,
     "quote_count": 0,
     "reply_count": 10,
-    "repost_count": 5
+    "repost_count": 7
    }
   },
   {
@@ -120,11 +120,11 @@
    "in_niche": true,
    "skip_reason": "",
    "m": {
-    "bookmark_count": 8,
-    "impression_count": 4818,
-    "like_count": 149,
+    "bookmark_count": 9,
+    "impression_count": 5734,
+    "like_count": 163,
     "quote_count": 1,
-    "reply_count": 6,
+    "reply_count": 7,
     "repost_count": 3
    }
   },
@@ -140,12 +140,12 @@
    "in_niche": true,
    "skip_reason": "",
    "m": {
-    "bookmark_count": 20,
-    "impression_count": 14397,
-    "like_count": 222,
+    "bookmark_count": 21,
+    "impression_count": 17798,
+    "like_count": 257,
     "quote_count": 0,
     "reply_count": 26,
-    "repost_count": 7
+    "repost_count": 8
    }
   },
   {
@@ -161,10 +161,10 @@
    "skip_reason": "Altcoin ($ETHFI) en vietnamita; fuera de tu nicho.",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 431,
-    "like_count": 24,
+    "impression_count": 448,
+    "like_count": 25,
     "quote_count": 0,
-    "reply_count": 22,
+    "reply_count": 23,
     "repost_count": 0
    }
   },
@@ -181,11 +181,11 @@
    "skip_reason": "Centrado en liquidaciones de apalancados; ya hay otro post similar con respuesta.",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 2409,
-    "like_count": 29,
+    "impression_count": 3903,
+    "like_count": 34,
     "quote_count": 0,
     "reply_count": 7,
-    "repost_count": 0
+    "repost_count": 2
    }
   },
   {
@@ -200,12 +200,12 @@
    "in_niche": true,
    "skip_reason": "",
    "m": {
-    "bookmark_count": 18,
-    "impression_count": 10218,
-    "like_count": 244,
+    "bookmark_count": 23,
+    "impression_count": 15521,
+    "like_count": 274,
     "quote_count": 0,
-    "reply_count": 4,
-    "repost_count": 13
+    "reply_count": 5,
+    "repost_count": 15
    }
   },
   {
@@ -221,11 +221,11 @@
    "skip_reason": "Frase motivacional con imagen, sin espacio para aportar valor.",
    "m": {
     "bookmark_count": 8,
-    "impression_count": 988,
-    "like_count": 75,
+    "impression_count": 1080,
+    "like_count": 79,
     "quote_count": 0,
-    "reply_count": 8,
-    "repost_count": 16
+    "reply_count": 9,
+    "repost_count": 17
    }
   },
   {
@@ -240,9 +240,9 @@
    "in_niche": true,
    "skip_reason": "",
    "m": {
-    "bookmark_count": 7,
-    "impression_count": 3266,
-    "like_count": 25,
+    "bookmark_count": 8,
+    "impression_count": 3922,
+    "like_count": 29,
     "quote_count": 0,
     "reply_count": 8,
     "repost_count": 3
@@ -261,11 +261,11 @@
    "skip_reason": "",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 277,
-    "like_count": 16,
+    "impression_count": 292,
+    "like_count": 17,
     "quote_count": 0,
     "reply_count": 1,
-    "repost_count": 0
+    "repost_count": 1
    }
   },
   {
@@ -281,11 +281,11 @@
    "skip_reason": "Solo imagen/enlace sin texto; difícil aportar valor.",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 504,
-    "like_count": 35,
+    "impression_count": 542,
+    "like_count": 37,
     "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 4
+    "reply_count": 7,
+    "repost_count": 5
    }
   },
   {
@@ -301,11 +301,11 @@
    "skip_reason": "",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 6117,
-    "like_count": 187,
+    "impression_count": 6848,
+    "like_count": 209,
     "quote_count": 1,
-    "reply_count": 32,
-    "repost_count": 10
+    "reply_count": 34,
+    "repost_count": 12
    }
   },
   {
@@ -321,7 +321,7 @@
    "skip_reason": "Setup de trading de corto plazo; fuera de tu enfoque spot.",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 1946,
+    "impression_count": 2056,
     "like_count": 30,
     "quote_count": 0,
     "reply_count": 6,
@@ -341,7 +341,7 @@
    "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor.",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 433,
+    "impression_count": 445,
     "like_count": 17,
     "quote_count": 0,
     "reply_count": 0,
@@ -360,12 +360,12 @@
    "in_niche": false,
    "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor.",
    "m": {
-    "bookmark_count": 107,
-    "impression_count": 208706,
-    "like_count": 2638,
-    "quote_count": 30,
-    "reply_count": 199,
-    "repost_count": 216
+    "bookmark_count": 127,
+    "impression_count": 245917,
+    "like_count": 2892,
+    "quote_count": 32,
+    "reply_count": 215,
+    "repost_count": 232
    }
   },
   {
@@ -380,11 +380,11 @@
    "in_niche": false,
    "skip_reason": "Idioma/tema sin espacio para aportar valor, o post de hype/promoción.",
    "m": {
-    "bookmark_count": 8,
-    "impression_count": 16606,
-    "like_count": 47,
+    "bookmark_count": 9,
+    "impression_count": 21018,
+    "like_count": 62,
     "quote_count": 1,
-    "reply_count": 11,
+    "reply_count": 13,
     "repost_count": 0
    }
   },
@@ -401,9 +401,9 @@
    "skip_reason": "Idioma/tema sin espacio para aportar valor, o post de hype/promoción.",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1866,
+    "impression_count": 2887,
     "like_count": 32,
-    "quote_count": 0,
+    "quote_count": 1,
     "reply_count": 5,
     "repost_count": 0
    }
@@ -421,11 +421,11 @@
    "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor.",
    "m": {
     "bookmark_count": 8,
-    "impression_count": 3924,
-    "like_count": 45,
+    "impression_count": 4483,
+    "like_count": 46,
     "quote_count": 0,
     "reply_count": 1,
-    "repost_count": 8
+    "repost_count": 9
    }
   },
   {
@@ -441,8 +441,8 @@
    "skip_reason": "",
    "m": {
     "bookmark_count": 18,
-    "impression_count": 10540,
-    "like_count": 181,
+    "impression_count": 11122,
+    "like_count": 187,
     "quote_count": 0,
     "reply_count": 13,
     "repost_count": 5
@@ -460,9 +460,9 @@
    "in_niche": false,
    "skip_reason": "Meme especulativo sin dato verificable.",
    "m": {
-    "bookmark_count": 16,
-    "impression_count": 22881,
-    "like_count": 69,
+    "bookmark_count": 22,
+    "impression_count": 24721,
+    "like_count": 74,
     "quote_count": 0,
     "reply_count": 18,
     "repost_count": 0
@@ -480,11 +480,11 @@
    "in_niche": true,
    "skip_reason": "",
    "m": {
-    "bookmark_count": 1,
-    "impression_count": 478,
-    "like_count": 45,
+    "bookmark_count": 2,
+    "impression_count": 519,
+    "like_count": 51,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 2,
     "repost_count": 8
    }
   },
@@ -501,10 +501,10 @@
    "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor.",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 386,
-    "like_count": 26,
+    "impression_count": 442,
+    "like_count": 29,
     "quote_count": 0,
-    "reply_count": 2,
+    "reply_count": 4,
     "repost_count": 4
    }
   },
@@ -521,8 +521,8 @@
    "skip_reason": "Idioma/tema sin espacio para aportar valor, o post de hype/promoción.",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 2480,
-    "like_count": 12,
+    "impression_count": 2783,
+    "like_count": 14,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 1
@@ -541,8 +541,8 @@
    "skip_reason": "",
    "m": {
     "bookmark_count": 11,
-    "impression_count": 5266,
-    "like_count": 76,
+    "impression_count": 5587,
+    "like_count": 77,
     "quote_count": 0,
     "reply_count": 15,
     "repost_count": 13
@@ -561,191 +561,11 @@
    "skip_reason": "En turco y es un plan de entrada long de trading; fuera de tu enfoque spot.",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 3505,
-    "like_count": 28,
+    "impression_count": 3571,
+    "like_count": 29,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 1
-   }
-  },
-  {
-   "id": "2114722624299528357",
-   "author": "The Bitcoin Conference",
-   "username": "TheBitcoinConf",
-   "text": "🚨 STRIVE JUST BOUGHT 6,182 #BITCOIN WORTH $511 MILLION 🚀\n\n43,000 BTC AND COUNTING 🤯 https://t.co/ZqfqbKonYI",
-   "created_at": "2026-10-26T14:15:37.000Z",
-   "lang": "en",
-   "url": "https://x.com/TheBitcoinConf/status/2114722624299528357",
-   "reply_en": "Corporate buying keeps stacking up. What I watch is how it's funded, debt or equity, and whether that buying holds up in a drawdown.",
-   "in_niche": true,
-   "skip_reason": "",
-   "m": {
-    "bookmark_count": 4,
-    "impression_count": 9005,
-    "like_count": 345,
-    "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 19
-   }
-  },
-  {
-   "id": "2114717948573016402",
-   "author": "Wolf",
-   "username": "KryptoWolfGER",
-   "text": "Falls #Bitcoin NICHT, am 50er abprallen sollte, dann sollte es deutlich tiefer gehen als 75K. \n\nIch werde nahe das 50er weitere Spot Käufe tätigen. Weil ich nicht weiss, ob wir durchbrechen. \n\nAls Anregung. Der Markt ist sehr fragil und unberechenbar, hört einfach nicht auf die https://t.co/cmHfDwQeOk",
-   "created_at": "2026-10-26T13:57:03.000Z",
-   "lang": "de",
-   "url": "https://x.com/KryptoWolfGER/status/2114717948573016402",
-   "reply_en": "Adding spot near the 50 without knowing if it holds is the honest approach. Do you split the buys or keep cash for the 75K case?",
-   "in_niche": true,
-   "skip_reason": "",
-   "m": {
-    "bookmark_count": 18,
-    "impression_count": 30733,
-    "like_count": 432,
-    "quote_count": 1,
-    "reply_count": 39,
-    "repost_count": 5
-   }
-  },
-  {
-   "id": "2114716373121475030",
-   "author": "Maurice Trades",
-   "username": "MauriceTrades",
-   "text": "$BTC NY plan\n\nWe did not sweep the weekend highs\nNow expecting lower https://t.co/fA7C74zDBW",
-   "created_at": "2026-10-26T13:50:47.000Z",
-   "lang": "en",
-   "url": "https://x.com/MauriceTrades/status/2114716373121475030",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Plan intradía apoyado solo en un gráfico; fuera de tu enfoque spot.",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 1718,
-    "like_count": 24,
-    "quote_count": 0,
-    "reply_count": 4,
-    "repost_count": 3
-   }
-  },
-  {
-   "id": "2114713206350401681",
-   "author": "The Wyckoff Architect",
-   "username": "WyckArchitect",
-   "text": "For those who’ve missed it \n\n$Btc HTF chart https://t.co/KDltiOh7Gt",
-   "created_at": "2026-10-26T13:38:12.000Z",
-   "lang": "en",
-   "url": "https://x.com/WyckArchitect/status/2114713206350401681",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo imagen/enlace sin texto; difícil aportar valor.",
-   "m": {
-    "bookmark_count": 12,
-    "impression_count": 8826,
-    "like_count": 41,
-    "quote_count": 1,
-    "reply_count": 12,
-    "repost_count": 5
-   }
-  },
-  {
-   "id": "2114710881988674006",
-   "author": "TraderJqrit",
-   "username": "TraderJqrit",
-   "text": "$BTC bullish plan today.\n\nFirst reversals signs are risky to long but in a HTF extreme its worth the risk as the RR is pretty good.\n\nNeeds to hold LTF bullish structure to see a move towards 81k. https://t.co/jc7cIVOAHB",
-   "created_at": "2026-10-26T13:28:58.000Z",
-   "lang": "en",
-   "url": "https://x.com/TraderJqrit/status/2114710881988674006",
-   "reply_en": "At HTF extremes I'd rather scale in spot than try to catch the exact reversal. What invalidates the plan if 81K doesn't come?",
-   "in_niche": true,
-   "skip_reason": "",
-   "m": {
-    "bookmark_count": 5,
-    "impression_count": 5549,
-    "like_count": 67,
-    "quote_count": 1,
-    "reply_count": 5,
-    "repost_count": 3
-   }
-  },
-  {
-   "id": "2114702616194175177",
-   "author": "SatoshisKids.org",
-   "username": "Satoshiskidzz",
-   "text": "The system is broken https://t.co/rR4ObaAER0",
-   "created_at": "2026-10-26T12:56:07.000Z",
-   "lang": "en",
-   "url": "https://x.com/Satoshiskidzz/status/2114702616194175177",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor.",
-   "m": {
-    "bookmark_count": 5,
-    "impression_count": 1580,
-    "like_count": 58,
-    "quote_count": 3,
-    "reply_count": 2,
-    "repost_count": 12
-   }
-  },
-  {
-   "id": "2114699846288384070",
-   "author": "G.Martín",
-   "username": "GMartin_0",
-   "text": "$BTC:\n\nPay attention to ALL the technical data displayed on this chart and answer one thing:\n\nIs this bearish? https://t.co/tUkIy8aqzJ",
-   "created_at": "2026-10-26T12:45:07.000Z",
-   "lang": "en",
-   "url": "https://x.com/GMartin_0/status/2114699846288384070",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo imagen/gráfico; difícil aportar valor sin verlo.",
-   "m": {
-    "bookmark_count": 5,
-    "impression_count": 5931,
-    "like_count": 31,
-    "quote_count": 0,
-    "reply_count": 11,
-    "repost_count": 1
-   }
-  },
-  {
-   "id": "2114689701647118509",
-   "author": "フ ォ リ ス",
-   "username": "follis_",
-   "text": "Textbook long setup on $BTC \n\nVery bullish https://t.co/hbwGAtSj84",
-   "created_at": "2026-10-26T12:04:48.000Z",
-   "lang": "en",
-   "url": "https://x.com/follis_/status/2114689701647118509",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo imagen con frase hype; difícil aportar valor.",
-   "m": {
-    "bookmark_count": 109,
-    "impression_count": 65841,
-    "like_count": 725,
-    "quote_count": 4,
-    "reply_count": 89,
-    "repost_count": 28
-   }
-  },
-  {
-   "id": "2114689484021182865",
-   "author": "Zord",
-   "username": "ZordXBT",
-   "text": "$BTC Huge Bullish Divergence!\n\nCan have it's target as much as $100k as I already predicted when I told to Buy at $58k. \n\nThis whole trade was given by me based on my years of market experience + Bullish Divs + Some insider knowledge of the working of market orderbooks.\n\nI still https://t.co/PX8VFhbuF2 https://t.co/L4fePC8jvX",
-   "created_at": "2026-10-26T12:03:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/ZordXBT/status/2114689484021182865",
-   "reply_en": "Bullish divergence is a good early sign, but it needs a reclaim of resistance to confirm.",
-   "in_niche": true,
-   "skip_reason": "",
-   "m": {
-    "bookmark_count": 2,
-    "impression_count": 4970,
-    "like_count": 42,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 4
    }
   }
  ]
