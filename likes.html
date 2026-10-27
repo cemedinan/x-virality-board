@@ -546,7 +546,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
     <div class="header-meta"><div class="header-actions"><button type="button" class="theme-toggle" id="theme-toggle"><span class="ico" id="theme-ico">☾</span><span id="theme-label">Night</span></button></div><div id="meta">cargando datos…</div></div>
   </header>
   <main>
-    <div class="section-head reveal"><div><div class="section-index">01 / resumen</div><h2>Likes sin comentar</h2></div><div class="section-note" id="summary"></div></div>
+    <div class="section-head reveal"><div><div class="section-index">01 / resumen</div><h2>Likes sin comentar</h2><div class="section-note">Posts de las últimas 24 horas</div></div><div class="section-note" id="summary"></div></div>
     <div class="xvs-refresh-bar" style="justify-content:flex-start"><button type="button" class="copy-btn" data-f="niche">En tu nicho</button><button type="button" class="copy-btn" data-f="all">Todos</button><button type="button" class="copy-btn" data-f="skip">No recomendado</button></div>
     <section class="grid" id="likes"></section>
     <p class="muted" id="limits" style="margin-top:24px"></p>
@@ -557,7 +557,7 @@ function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'
 function fmt(n){n=Number(n)||0;return n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?(n/1e3).toFixed(1)+'K':String(n)}
 async function copyDraft(btn,text){try{await navigator.clipboard.writeText(text)}catch(e){const ta=document.createElement('textarea');ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove()}const p=btn.textContent;btn.textContent='COPIED';btn.classList.add('copied');setTimeout(()=>{btn.textContent=p;btn.classList.remove('copied')},1400)}
 let D,F='niche';
-function render(){const ps=D.posts.slice().sort((a,b)=>Date.parse(b.created_at)-Date.parse(a.created_at)).filter(p=>F==='all'||(F==='niche'?p.in_niche:!p.in_niche));
+function render(){const cut=Date.now()-864e5;const ps=D.posts.filter(p=>Date.parse(p.created_at)>=cut).slice().sort((a,b)=>Date.parse(b.created_at)-Date.parse(a.created_at)).filter(p=>F==='all'||(F==='niche'?p.in_niche:!p.in_niche));
 document.getElementById('likes').innerHTML=ps.map((p,i)=>{const m=p.m||{};const d=new Date(p.created_at).toLocaleString('es-CL',{timeZone:'America/Santiago',dateStyle:'medium',timeStyle:'short'});
 const rep=p.in_niche?`<div class="draft-block"><div class="draft-head"><span class="draft-label">Reply · EN</span><button type="button" class="copy-btn cp" data-draft-id="r-${p.id}">COPY DRAFT</button></div><pre class="draft-text" id="r-${p.id}">${esc(p.reply_en)}</pre></div>`:`<div class="chip">No recomendado responder: ${esc(p.skip_reason)}</div>`;
 return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name">${esc(p.author)}</div><div class="handle">@${esc(p.username)} · ${esc(d)}</div></div></div><div class="views-big">${fmt(m.impression_count)}<small>views</small></div></div><div class="handle">♥ ${fmt(m.like_count)} · ↻ ${fmt(m.repost_count)} · 💬 ${fmt(m.reply_count)}</div><div class="hook">${esc(p.text)}</div>${rep}<a class="post-link" href="${esc(p.url)}" target="_blank" rel="noopener">ABRIR POST ↗</a></article>`}).join('')||'<p class="muted">Nada en este filtro.</p>';
@@ -565,8 +565,8 @@ document.querySelectorAll('.cp').forEach(b=>b.addEventListener('click',()=>copyD
 document.querySelectorAll('[data-f]').forEach(b=>b.classList.toggle('copied',b.dataset.f===F));}
 (async()=>{const r=await fetch('./likes.json?ts='+Date.now());D=await r.json();const M=D.meta;
 document.getElementById('meta').textContent='Actualizado: '+new Date(M.generated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (Chile)';
-document.getElementById('summary').textContent=`${M.likes_scanned} likes revisados · ${M.excluded_replied} ya comentados · ${M.excluded_own} propios · ${M.listed} pendientes (${M.in_niche} en tu nicho)`;
-document.getElementById('limits').textContent=`Límites: se revisaron todos los likes que devolvió la API (${M.likes_scanned}) y tus ${M.own_posts_scanned} posts/respuestas desde el 25-sep-2026. "Comentado" = tienes una respuesta o quote en la conversación del post. Las respuestas son sugerencias de opinión, no consejo financiero; revisa antes de publicar.`;
+{const cut=Date.now()-864e5;const v=D.posts.filter(p=>Date.parse(p.created_at)>=cut);const n=v.filter(p=>p.in_niche).length;document.getElementById('summary').textContent=`Posts de las últimas 24 horas · ${v.length} pendientes (${n} en tu nicho, ${v.length-n} no recomendado) · Última actualización: ${new Date(M.generated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})} (Chile)`;}
+document.getElementById('limits').textContent=`Solo se muestran posts creados en las últimas 24 horas (según tu hora actual); se revisaron tus últimos ${M.likes_scanned} likes. "Comentado" = tienes una respuesta o quote en la conversación del post. Las respuestas son sugerencias de opinión, no consejo financiero; revisa antes de publicar.`;
 document.querySelectorAll('[data-f]').forEach(b=>b.addEventListener('click',()=>{F=b.dataset.f;render()}));render();})();
 document.getElementById('theme-toggle').addEventListener('click',()=>{const h=document.documentElement;h.dataset.theme=h.dataset.theme==='night'?'day':'night'});
 document.getElementById('xvs-refresh-btn').addEventListener('click',function(){this.disabled=true;this.textContent='Actualizando…';const u=new URL(location.href);u.searchParams.set('r',Date.now());location.replace(u.toString())});
