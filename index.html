@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="night">
+<html lang="en" data-theme="day">
 <head>
 <meta http-equiv="Cache-Control" content="no-cache" />
 <meta http-equiv="Pragma" content="no-cache" />
@@ -651,7 +651,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
 </div>
 <script>
 const DASHBOARD_TARGETS = Object.freeze({ hits: 12, views: 100000, minHitViews: 5000, starViews: 10000 });
-const THEME_KEY = 'xvs-theme';
+const THEME_KEY='xvs-theme-v2';
 let CONFIG_DEFAULT_THEME = null;
 function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
 function num(n){n=Number(n);return Number.isFinite(n)?n:0}
@@ -678,8 +678,7 @@ function applyTheme(theme, {persist=true}={}){
   if(persist){ try{localStorage.setItem(THEME_KEY,t)}catch(e){} }
 }
 function preferSystemTheme(){
-  try{if(window.matchMedia('(prefers-color-scheme: light)').matches) return 'day'}catch(e){}
-  return 'night';
+  return 'day';
 }
 function initTheme(){
   let stored=null;
@@ -696,7 +695,7 @@ function resolveThemeFromData(d){
   try{stored=localStorage.getItem(THEME_KEY)}catch(e){}
   if(stored==='day'||stored==='night') return;
   const ui=(d&&d.ui)||{};
-  const pref=String(ui.default_theme||d.default_theme||'').toLowerCase();
+  const pref='day';
   if(pref==='day'||pref==='night'){ applyTheme(pref, {persist:false}); }
 }
 async function copyDraft(btn,text){try{await navigator.clipboard.writeText(text)}catch(e){const ta=document.createElement('textarea');ta.value=text;ta.style.position='fixed';ta.style.left='-9999px';document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove()}const prev=btn.textContent;btn.textContent='COPIED';btn.classList.add('copied');setTimeout(()=>{btn.textContent=prev;btn.classList.remove('copied')},1400)}
