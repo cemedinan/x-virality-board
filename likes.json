@@ -1,13 +1,13 @@
 {
  "meta": {
-  "generated_at": "2026-10-27T13:00:00-03:00",
+  "generated_at": "2026-10-27T16:14:01-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 14,
+  "listed": 6,
   "in_niche": 0,
-  "not_recommended": 14,
+  "not_recommended": 6,
   "new_since_prev": 0,
-  "removed_replied": 11
+  "removed_replied": 0
  },
  "posts": [
   {
@@ -19,11 +19,11 @@
    "lang": "en",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3590,
-    "like_count": 175,
+    "impression_count": 4187,
+    "like_count": 202,
     "quote_count": 0,
-    "reply_count": 16,
-    "repost_count": 4
+    "reply_count": 18,
+    "repost_count": 5
    },
    "url": "https://x.com/blackwidowbtc/status/2114991695444271590",
    "reply_en": "",
@@ -39,11 +39,11 @@
    "lang": "en",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 13791,
-    "like_count": 338,
-    "quote_count": 2,
-    "reply_count": 70,
-    "repost_count": 17
+    "impression_count": 16284,
+    "like_count": 400,
+    "quote_count": 3,
+    "reply_count": 74,
+    "repost_count": 24
    },
    "url": "https://x.com/shahh/status/2114945195007709581",
    "reply_en": "",
@@ -59,7 +59,7 @@
    "lang": "vi",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 455,
+    "impression_count": 459,
     "like_count": 25,
     "quote_count": 0,
     "reply_count": 23,
@@ -79,9 +79,9 @@
    "lang": "en",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 4354,
-    "like_count": 34,
-    "quote_count": 0,
+    "impression_count": 4852,
+    "like_count": 35,
+    "quote_count": 1,
     "reply_count": 7,
     "repost_count": 2
    },
@@ -99,7 +99,7 @@
    "lang": "en",
    "m": {
     "bookmark_count": 8,
-    "impression_count": 1089,
+    "impression_count": 1104,
     "like_count": 79,
     "quote_count": 0,
     "reply_count": 9,
@@ -119,8 +119,8 @@
    "lang": "zxx",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 559,
-    "like_count": 38,
+    "impression_count": 574,
+    "like_count": 40,
     "quote_count": 0,
     "reply_count": 7,
     "repost_count": 5
@@ -129,166 +129,6 @@
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Solo imagen/enlace sin texto; difícil aportar valor."
-  },
-  {
-   "id": "2114796068701691965",
-   "author": "Bubbatrading9",
-   "username": "Bubbatrading9",
-   "text": "$BTC \n\ncan take the low (a) , or not. maybe take just one of other higher lows, but in any case I'm expecting a corrective bounce up to at least tag the 0.382 at 81350\n\nif you smart enough there's a potential tradable setup in the chart https://t.co/snDSsRGNpI",
-   "created_at": "2026-10-26T19:07:28.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 7,
-    "impression_count": 2069,
-    "like_count": 30,
-    "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 0
-   },
-   "url": "https://x.com/Bubbatrading9/status/2114796068701691965",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Setup de trading de corto plazo; fuera de tu enfoque spot."
-  },
-  {
-   "id": "2114788138740850854",
-   "author": "Losku⚡️| Esclavo de la libertad",
-   "username": "lightninglosku",
-   "text": "El verdadero Balón de Oro. https://t.co/DsLwOB8gtk",
-   "created_at": "2026-10-26T18:35:57.000Z",
-   "lang": "es",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 448,
-    "like_count": 18,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "url": "https://x.com/lightninglosku/status/2114788138740850854",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor."
-  },
-  {
-   "id": "2114779048245362723",
-   "author": "Michael Saylor",
-   "username": "saylor",
-   "text": "Passive income should be passive. $STRC https://t.co/rHGug9GNWZ",
-   "created_at": "2026-10-26T17:59:50.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 135,
-    "impression_count": 262443,
-    "like_count": 3005,
-    "quote_count": 33,
-    "reply_count": 218,
-    "repost_count": 241
-   },
-   "url": "https://x.com/saylor/status/2114779048245362723",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor."
-  },
-  {
-   "id": "2114778699614876078",
-   "author": "Crypto Bond",
-   "username": "SeffafNet",
-   "text": "🚨 KRİPTO SAHİPLERİNE UYARI.\n\nAltseason 3.0 gelecek.\n\nTrilyonlar yakında kriptoya girecek.\n\n$SOL 1.000$'a.\n\n$ETH 10.000$'a.\n\n$BTC 200.000$'a.\n\nAltcoin'ler ortalama 100 kat artacak. https://t.co/OzNiQPOxRf https://t.co/6IFo9R2hdp",
-   "created_at": "2026-10-26T17:58:27.000Z",
-   "lang": "tr",
-   "m": {
-    "bookmark_count": 9,
-    "impression_count": 22978,
-    "like_count": 67,
-    "quote_count": 1,
-    "reply_count": 13,
-    "repost_count": 2
-   },
-   "url": "https://x.com/SeffafNet/status/2114778699614876078",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Idioma/tema sin espacio para aportar valor, o post de hype/promoción."
-  },
-  {
-   "id": "2114777071306117485",
-   "author": "Zenon",
-   "username": "ZenonvKryption",
-   "text": "$BTC \n\nFantastisches Long-Setup meiner Meinung nach.\n\nSEND IT!!🚀💸 https://t.co/XUcXoIvy4C https://t.co/SzarsbXp8o",
-   "created_at": "2026-10-26T17:51:59.000Z",
-   "lang": "de",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 3045,
-    "like_count": 33,
-    "quote_count": 1,
-    "reply_count": 5,
-    "repost_count": 0
-   },
-   "url": "https://x.com/ZenonvKryption/status/2114777071306117485",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Idioma/tema sin espacio para aportar valor, o post de hype/promoción."
-  },
-  {
-   "id": "2114773692454748204",
-   "author": "ᛋ",
-   "username": "DanielxHarald",
-   "text": "BTC ☉ Forecast\n\nIt could be so pretty.\n\nPure speculation.\nNot financial advice.\n\n#casino ℞ bitcoin https://t.co/CDE8nyL3Vx",
-   "created_at": "2026-10-26T17:38:33.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 12,
-    "impression_count": 5210,
-    "like_count": 51,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 10
-   },
-   "url": "https://x.com/DanielxHarald/status/2114773692454748204",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor."
-  },
-  {
-   "id": "2114768478498693484",
-   "author": "Rekt Fencer",
-   "username": "rektfencer",
-   "text": "SpaceX IPO filing ➜ $BTC -30%\n\nAnthropic IPO filing ➜ $BTC ____\n\nLet’s pray. https://t.co/tIwWcf72m0",
-   "created_at": "2026-10-26T17:17:50.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 22,
-    "impression_count": 25394,
-    "like_count": 78,
-    "quote_count": 0,
-    "reply_count": 19,
-    "repost_count": 1
-   },
-   "url": "https://x.com/rektfencer/status/2114768478498693484",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Meme especulativo sin dato verificable."
-  },
-  {
-   "id": "2114748678665560158",
-   "author": "₿itcorn⚡️",
-   "username": "corn_hodl",
-   "text": "I’m sure you can relate ⚡️ https://t.co/NX7rAPCchW",
-   "created_at": "2026-10-26T15:59:09.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 461,
-    "like_count": 29,
-    "quote_count": 0,
-    "reply_count": 4,
-    "repost_count": 4
-   },
-   "url": "https://x.com/corn_hodl/status/2114748678665560158",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Fuera de tu nicho (bitcoin spot) o sin espacio para aportar valor."
   }
  ]
 }
