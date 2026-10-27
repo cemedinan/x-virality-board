@@ -42,6 +42,7 @@ main{max-width:860px;padding:14px 18px 60px}
   <div class="bar">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6l-1 6 3 3H7l3-3-1-6zM12 12v9"/></svg>
     <span class="tag" style="margin:0">#respuestas</span>
+    <button type="button" id="refresh" title="actualizar datos">↻ actualizar</button>
     <button type="button" id="theme-toggle" title="cambiar tema">☀ día</button>
   </div>
 </header>
@@ -50,7 +51,7 @@ main{max-width:860px;padding:14px 18px 60px}
   <div class="sys">* nada se publica desde aquí: copia el borrador y publícalo tú en X *</div>
   <div class="sys strong" id="meta">* cargando datos… *</div>
   <div class="sys strong" id="summary"></div>
-  <div class="row"><button type="button" data-o="new">[más recientes]</button><button type="button" data-o="old">[más antiguas]</button><button type="button" id="refresh">[↻ actualizar]</button><a href="./index.html">[← board principal]</a></div>
+  <div class="row"><button type="button" data-o="new">[más recientes]</button><button type="button" data-o="old">[más antiguas]</button><a href="./index.html">[← board principal]</a></div>
   <section id="replies"></section>
 </main>
 <script>
