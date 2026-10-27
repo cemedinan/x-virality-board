@@ -546,7 +546,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
     <div class="header-meta"><div class="header-actions"><button type="button" class="theme-toggle" id="theme-toggle"><span class="ico" id="theme-ico">☾</span><span id="theme-label">Night</span></button></div><div id="meta">cargando datos…</div></div>
   </header>
   <main>
-    <div class="section-head reveal"><div><div class="section-index">01 / resumen</div><h2>Likes sin comentar</h2><div class="section-note">Solo posts nuevos de las últimas 24 horas, sin repetir los ya mostrados ni los que ya respondiste</div></div><div class="section-note" id="summary"></div></div>
+    <div class="section-head reveal"><div><div class="section-index">01 / resumen</div><h2>Likes sin comentar</h2><div class="section-note">Posts de las últimas 24 horas que aún no has respondido</div></div><div class="section-note" id="summary"></div></div>
     <div class="xvs-refresh-bar" style="justify-content:flex-start"><button type="button" class="copy-btn" data-f="niche">En tu nicho</button><button type="button" class="copy-btn" data-f="all">Todos</button><button type="button" class="copy-btn" data-f="skip">No recomendado</button></div>
     <section class="grid" id="likes"></section>
     <p class="muted" id="limits" style="margin-top:24px"></p>
@@ -565,7 +565,7 @@ document.querySelectorAll('.cp').forEach(b=>b.addEventListener('click',()=>copyD
 document.querySelectorAll('[data-f]').forEach(b=>b.classList.toggle('copied',b.dataset.f===F));}
 (async()=>{const r=await fetch('./likes.json?ts='+Date.now());D=await r.json();const M=D.meta;
 document.getElementById('meta').textContent='Actualizado: '+new Date(M.generated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (Chile)';
-{const cut=Date.now()-864e5;const v=D.posts.filter(p=>Date.parse(p.created_at)>=cut);const n=v.filter(p=>p.in_niche).length;document.getElementById('summary').textContent=`${v.length} nuevos (${n} en tu nicho, ${v.length-n} no recomendado) · Última actualización: ${new Date(M.generated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})} (Chile)`;}
+{const cut=Date.now()-864e5;const v=D.posts.filter(p=>Date.parse(p.created_at)>=cut);const n=v.filter(p=>p.in_niche).length;document.getElementById('summary').textContent=`${v.length} pendientes (${n} en tu nicho, ${v.length-n} no recomendado) · Última actualización: ${new Date(M.generated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})} (Chile)`;}
 document.getElementById('limits').textContent=`Solo se muestran posts creados en las últimas 24 horas (según tu hora actual); se revisaron tus últimos ${M.likes_scanned} likes. "Comentado" = tienes una respuesta o quote en la conversación del post. Las respuestas son sugerencias de opinión, no consejo financiero; revisa antes de publicar.`;
 document.querySelectorAll('[data-f]').forEach(b=>b.addEventListener('click',()=>{F=b.dataset.f;render()}));render();})();
 document.getElementById('theme-toggle').addEventListener('click',()=>{const h=document.documentElement;h.dataset.theme=h.dataset.theme==='night'?'day':'night'});
