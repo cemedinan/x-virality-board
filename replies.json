@@ -1,8 +1,21 @@
 {
   "meta": {
-    "updated_at": "2026-10-27T09:14:00-03:00"
+    "updated_at": "2026-10-27T11:25:00-03:00"
   },
   "replies": [
+    {
+      "id": "BTC21Academy-2115081891942711407",
+      "date": "2026-10-27T11:03:14-03:00",
+      "handle": "BTC21Academy",
+      "post_url": "https://x.com/BTC21Academy/status/2115081891942711407",
+      "user_post": "So the practical version is a new address per payment, and choosing which UTXOs you spend so old and new history don't get merged. Do most wallets make coin control easy enough, or is that where people give up?",
+      "reply": "@ForecastQuant @PROTOCOLNULL A lot of wallets hide it under advanced settings, and that's usually where people give up. An easy habit to start with: label coins as you receive them, so when you do use coin control you already know which ones not to mix.",
+      "draft": "Makes sense. Labeling when you receive is the easy part, because later you won't remember where each coin came from. So coin control stops being guesswork. Which wallet handles labels best right now?",
+      "draft_alt": "Good habit. I assume the labels need to survive a restore too, otherwise you lose them with the device. Does BIP-329 export actually solve that in most wallets?",
+      "status": "Esperando tu ok",
+      "new": true,
+      "note": "Sigue el hilo con @PROTOCOLNULL sobre autocustodia y privacidad; responde a tu pregunta sobre coin control."
+    },
     {
       "id": "0_3_BTC-2115050932052382020",
       "date": "2026-10-27T09:00:12-03:00",
@@ -25,9 +38,9 @@
       "reply": "@PROTOCOLNULL @ForecastQuant Spot on. Self-custody protects ownership, not privacy. A fresh receive address for each payment helps, and coin control (picking which UTXOs you spend) stops old history leaking into new payments.",
       "draft": "So the practical version is a new address per payment, and choosing which UTXOs you spend so old and new history don't get merged. Do most wallets make coin control easy enough, or is that where people give up?",
       "draft_alt": "Good addition. Fresh addresses are easy. Coin control is the part most people skip because their wallet hides it.",
-      "status": "Esperando tu ok",
-      "new": true,
-      "note": "Responde dentro del hilo de @PROTOCOLNULL en tu post sobre autocustodia."
+      "status": "Publicada",
+      "new": false,
+      "note": "Responde dentro del hilo de @PROTOCOLNULL en tu post sobre autocustodia. Ya respondiste con el borrador principal (10:15)."
     },
     {
       "id": "PROTOCOLNULL-2114948733477531851",
