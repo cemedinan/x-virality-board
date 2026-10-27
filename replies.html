@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="night">
+<html lang="es" data-theme="day">
 <head>
 <meta http-equiv="Cache-Control" content="no-cache" />
 <meta http-equiv="Pragma" content="no-cache" />
@@ -543,7 +543,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
       <div class="x-logo" aria-label="X"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
       <div><div class="eyebrow">respuestas recibidas</div><h1>Respuestas en X <span class="handle">· @ForecastQuant</span></h1><div class="powered">borradores en inglés · nada se publica desde aquí: copias el borrador y lo publicas tú en X</div></div>
     </div>
-    <div class="header-meta"><div class="header-actions"><button type="button" class="theme-toggle" id="theme-toggle"><span class="ico" id="theme-ico">☾</span><span id="theme-label">Night</span></button></div><div id="meta">cargando datos…</div></div>
+    <div class="header-meta"><div class="header-actions"><button type="button" class="theme-toggle" id="theme-toggle"><span class="ico" id="theme-ico">☀</span><span id="theme-label">Day</span></button></div><div id="meta">cargando datos…</div></div>
   </header>
   <main>
     <div class="section-head reveal"><div><div class="section-index">01 / respuestas</div><h2>Respuestas y borradores</h2></div><div class="section-note" id="summary"></div></div>
@@ -572,7 +572,7 @@ document.querySelectorAll('[data-o]').forEach(b=>b.classList.toggle('copied',b.d
 document.getElementById('meta').textContent='Actualizado: '+new Date(D.meta.updated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (Chile)';
 document.getElementById('summary').textContent=`${D.replies.filter(p=>Date.now()-new Date(p.date)<=24*H).length} respuestas (últimas 24 h) · ${D.replies.filter(isNew).length} nuevas · ordenadas por fecha`;
 document.querySelectorAll('[data-o]').forEach(b=>b.addEventListener('click',()=>{O=b.dataset.o;render()}));render();})();
-document.getElementById('theme-toggle').addEventListener('click',()=>{const h=document.documentElement;h.dataset.theme=h.dataset.theme==='night'?'day':'night'});
+document.getElementById('theme-toggle').addEventListener('click',()=>{const h=document.documentElement;h.dataset.theme=h.dataset.theme==='night'?'day':'night';const n=h.dataset.theme==='night';document.getElementById('theme-ico').textContent=n?'☾':'☀';document.getElementById('theme-label').textContent=n?'Night':'Day'});
 document.getElementById('xvs-refresh-btn').addEventListener('click',function(){this.disabled=true;this.textContent='Actualizando…';const u=new URL(location.href);u.searchParams.set('r',Date.now());location.replace(u.toString())});
 document.getElementById('xvs-refresh-note').textContent='Muestra los últimos datos publicados';
 </script>
