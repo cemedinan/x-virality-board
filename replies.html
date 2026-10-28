@@ -65,7 +65,7 @@ return`<article class="msg"><div><span class="who"><a href="${esc(p.post_url)}" 
 <div class="lbl">tu post</div><div class="txt">${esc(p.user_post)}</div>
 <div class="lbl">su respuesta</div><div class="txt">${esc(p.reply)}</div>
 ${p.note?`<div class="note">* ${esc(p.note)} *</div>`:''}
-${blk('borrador · EN','d-'+p.id,p.draft)}${p.draft_alt?blk('alternativa corta · EN','a-'+p.id,p.draft_alt):''}
+${p.visual?`<div class="draft"><div class="lbl">visual sugerido</div><pre>${esc(p.visual)}</pre></div>`:''}${blk('borrador · EN','d-'+p.id,p.draft)}${p.draft_alt?blk('alternativa corta · EN','a-'+p.id,p.draft_alt):''}
 <div style="margin-top:8px"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">[abrir respuesta ↗]</a></div></article>`}).join('')||'<div class="sys" style="margin-top:22px">* sin respuestas por ahora *</div>';
 document.querySelectorAll('.cp').forEach(b=>b.addEventListener('click',()=>copyDraft(b,document.getElementById(b.dataset.draftId).textContent)));
 document.querySelectorAll('[data-o]').forEach(b=>{b.style.fontWeight=b.dataset.o===O?'700':'400'});}
