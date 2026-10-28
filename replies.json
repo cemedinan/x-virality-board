@@ -1,44 +1,20 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T11:20:00-03:00"
+    "updated_at": "2026-10-28T11:42:00-03:00"
   },
   "replies": [
     {
-      "id": "2115445262034645337",
-      "date": "2026-10-28T11:07:08-03:00",
-      "handle": "LeonWgmii",
-      "post_url": "https://x.com/LeonWgmii/status/2115445262034645337",
-      "user_post": "Leverage is great. You get to experience a whole bear market in four minutes.\n\nIf this was you, a repost helps the next guy step away from the 50x button.",
-      "reply": "@ForecastQuant That 50x button should come with a warning label.",
-      "draft": "It kind of does. At 50x, a move of less than 2% against you wipes the position, before fees and funding. The warning is there, it's just math nobody reads before clicking. Would a big liquidation price on the button actually stop anyone?",
-      "draft_alt": "Exchanges already show the liquidation price. At 50x it sits under 2% away. People see it and click anyway. So maybe the problem isn't the missing label, it's how easy the button is to reach.",
-      "status": "Esperando tu ok",
-      "new": true,
-      "note": "Responder rápido: cuenta grande, 22K seguidores (@LeonWgmii, DeFi/shitposter); tu post aún tiene poco alcance, una buena respuesta puede darle visibilidad."
-    },
-    {
-      "id": "2115408370978992418",
-      "date": "2026-10-28T08:40:32-03:00",
+      "id": "2115451559597232513",
+      "date": "2026-10-28T11:32:09-03:00",
       "handle": "AndreeaTomoiag3",
-      "post_url": "https://x.com/AndreeaTomoiag3/status/2115408370978992418",
-      "user_post": "@AndreeaTomoiag3 Makes sense. Intraday targets are easy to check, which is what makes them useful. Do you track your hit rate on these?",
-      "reply": "@ForecastQuant Would you trust any claim? Nowadays everybody can build a tracker with simple GPT or Claude for any tweets and X accounts. But yes, it would eat some money. I do not give targets regularly. Also here AI can do a lot. Sometimes astro gives an edge though.",
-      "draft": "Fair point, a self-reported tracker proves little. What's hard to fake is the public record: target posted before the move, timestamped, misses included. X already gives you that for free. How would you tell an astro edge apart from normal volatility hitting the target?",
-      "draft_alt": "Agreed, anyone can build a tracker. So the claim matters less than the log behind it. Have you ever compared your calls against a simple baseline, like a random entry with the same stop and target?",
+      "post_url": "https://x.com/AndreeaTomoiag3/status/2115451559597232513",
+      "user_post": "@AndreeaTomoiag3 Fair point, a self-reported tracker proves little. What's hard to fake is the public record: target posted before the move, timestamped, misses included. X already gives you that for free. How would you tell an astro edge apart from normal volatility hitting the target?",
+      "reply": "@ForecastQuant I do not know how this is distinguished in crypto with grok but in sports astrology Claude is capable to tell if you have an edge with astro on top of the realistic probabilities.",
+      "draft": "Sports has a clean baseline: the betting odds. Beat them over enough bets, after the bookmaker's margin, and that's an edge. Crypto has no market-implied target to compare against. The closest thing I know is a random entry with the same stop and target. How many picks did it take before the model called it an edge?",
+      "draft_alt": "Makes sense in sports, the odds give you the realistic probability for free. But a model saying there's an edge isn't the same as the edge showing up in results. What would convince you more: the model's read, or profit over a few hundred picks?",
       "status": "Esperando tu ok",
       "new": true,
-      "note": "Cuenta de ~5K seguidores (astrología aplicada a mercados); hilo con poco alcance aún."
-    },
-    {
-      "id": "2115404680763482590",
-      "date": "2026-10-28T08:25:52-03:00",
-      "handle": "BTC21Academy",
-      "post_url": "https://x.com/BTC21Academy/status/2115404680763482590",
-      "user_post": "@BTC21Academy @PROTOCOLNULL Good habit. I assume the labels need to survive a restore too, otherwise you lose them with the device. Does BIP-329 export actually solve that in most wallets?",
-      "reply": "@ForecastQuant @PROTOCOLNULL Mostly, yes. BIP-329 is a shared file format for labels, so you can export them and import into another wallet. Support isn't universal yet, so check yours first. Keep the file private: no keys in it, but it maps your history.",
-      "draft": "Got it. So the seed restores the coins, but the labels only come back if I kept the file and the new wallet reads it. That file is basically a privacy backup of its own. Which wallets handle the import cleanly today?",
-      "status": "Esperando tu ok",
-      "new": true
+      "note": "Cuenta de ~5K seguidores (astrología aplicada a mercados); tercer intercambio en el hilo, alcance bajo."
     }
   ]
 }
