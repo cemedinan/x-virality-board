@@ -1,35 +1,395 @@
 {
  "meta": {
-  "generated_at": "2026-10-27T20:03:25-03:00",
+  "generated_at": "2026-10-27T21:03:20-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 7,
-  "in_niche": 1,
-  "not_recommended": 6,
-  "new_since_prev": 0,
-  "removed_replied": 0,
-  "removed_old": 0
+  "listed": 37,
+  "in_niche": 20,
+  "not_recommended": 17,
+  "new_since_prev": 33,
+  "removed_replied": 1,
+  "removed_old": 2
  },
  "posts": [
   {
-   "id": "2115118830909284727",
-   "author": "Lana Valentis",
-   "username": "LanaValentis",
-   "text": "$BTC This Is How Bull Market Starts. Pay Attention 🧐\n\nBitcoin is holding above the broken falling wedge on the weekly chart. This is the same structure that launched the last two major bull runs.\n\nThe wedge has broken. The consolidation is tightening. Everything is falling into https://t.co/PbUONX2Mwm",
-   "created_at": "2026-10-27T16:30:00.000Z",
+   "id": "2115223671728140653",
+   "author": "Sylvia",
+   "username": "Sylvia_xh6",
+   "text": "Long Term Holders hold 16.42M $BTC\n\nAll-time high\n\nPrice dumps - they don't sell\nPrice crashes - they don't sell\nBear market - they don't sell\n\nThe smart money has never been this concentrated https://t.co/n5woBsuFfH",
+   "created_at": "2026-10-27T23:26:36.000Z",
    "lang": "en",
+   "url": "https://x.com/Sylvia_xh6/status/2115223671728140653",
    "m": {
-    "bookmark_count": 11,
-    "impression_count": 4396,
-    "like_count": 55,
-    "quote_count": 1,
-    "reply_count": 4,
-    "repost_count": 4
+    "bookmark_count": 0,
+    "impression_count": 708,
+    "like_count": 132,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
    },
-   "url": "https://x.com/LanaValentis/status/2115118830909284727",
-   "reply_en": "Holding above the wedge on the weekly is a good sign. I'd still want a weekly close confirming it.",
+   "reply_en": "16.42M is a strong number, but part of that supply is just lost coins. How much of it is actually smart money still holding?",
    "in_niche": true,
    "skip_reason": ""
+  },
+  {
+   "id": "2115223631559373297",
+   "author": "Starry Sky",
+   "username": "laura33981",
+   "text": "$BTC may sweep $79K first as sellers remain in control https://t.co/drQlcjD19Y",
+   "created_at": "2026-10-27T23:26:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/laura33981/status/2115223631559373297",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 497,
+    "like_count": 136,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "If 79K gets swept, does that change anything for spot buyers, or is it just noise inside the range?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115204363904053659",
+   "author": "MKLA",
+   "username": "fabinhocr80",
+   "text": "$BTC Estou nessa expectativa. https://t.co/oT9wPIHtiu https://t.co/K8Zx169m7G",
+   "created_at": "2026-10-27T22:09:53.000Z",
+   "lang": "pt",
+   "url": "https://x.com/fabinhocr80/status/2115204363904053659",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 356,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "En portugués, solo una frase con imagen; difícil aportar valor."
+  },
+  {
+   "id": "2115203479551590522",
+   "author": "Soldat",
+   "username": "soldatxbt",
+   "text": "$BTC slammed into short POI during super illiquid hours \nnow the short POI has moved up a few hundred $, and awaiting liquid hours to execunt https://t.co/sejzR35nD0 https://t.co/Kh5MbOIXF8",
+   "created_at": "2026-10-27T22:06:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/soldatxbt/status/2115203479551590522",
+   "m": {
+    "bookmark_count": 3,
+    "impression_count": 1161,
+    "like_count": 18,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Plan de short; fuera de tu enfoque (nunca short)."
+  },
+  {
+   "id": "2115197420665438640",
+   "author": "CryptoSoldier",
+   "username": "CryptoSoldierNR",
+   "text": "BTC reclama los 81k\n▫️ Según expertos económicos mañana la Decisión de Tipos sería Hawkish (bajista o recio para el mercado)\n▫️ BTC subiendo un día antes del FOMC, ¡Eso me suena conocido...!\n🏅 Justo lo que está pasando lo hablamos en el streaming se hoy https://t.co/ixWeKmOhIy",
+   "created_at": "2026-10-27T21:42:18.000Z",
+   "lang": "es",
+   "url": "https://x.com/CryptoSoldierNR/status/2115197420665438640",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 2230,
+    "like_count": 32,
+    "quote_count": 0,
+    "reply_count": 8,
+    "repost_count": 2
+   },
+   "reply_en": "Subir antes del FOMC ya pasó otras veces y después se devolvió. Para spot prefiero esperar el cierre diario después del anuncio.",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115181372860227735",
+   "author": "Spring Flowers",
+   "username": "SpringFlowerse",
+   "text": "I will see you at 160-180K for 1 $BTC in 2029. https://t.co/4bzQcCODLf",
+   "created_at": "2026-10-27T20:38:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/SpringFlowerse/status/2115181372860227735",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 293,
+    "like_count": 13,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 3
+   },
+   "reply_en": "160-180K by 2029 is a long horizon. What's the plan if it takes longer, keep stacking or wait?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115173283469619314",
+   "author": "CryptoLegend⭐",
+   "username": "CryptoLegend_ET",
+   "text": "$BTC Bull Map 🐂\n\nEl roadmap lleva meses trazado.\n\nAtt. Legend🧢 https://t.co/fHeEgzzeof https://t.co/R4VBk6jtwK",
+   "created_at": "2026-10-27T20:06:23.000Z",
+   "lang": "es",
+   "url": "https://x.com/CryptoLegend_ET/status/2115173283469619314",
+   "m": {
+    "bookmark_count": 8,
+    "impression_count": 3224,
+    "like_count": 43,
+    "quote_count": 0,
+    "reply_count": 6,
+    "repost_count": 6
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Solo un mapa en imagen sin explicación; difícil aportar valor."
+  },
+  {
+   "id": "2115164873516785961",
+   "author": "D’ Astro Goat 🐐",
+   "username": "thewooofwallst",
+   "text": "“Dee why are you updating us?”\n\nBecause I told you to get out of longs on 9/23, that I wasn’t going to consider longs until Nov 2, and because 5D charts don’t get updated daily. \n\nNow that said 10/28-11/2, is time to make or break this 79-80k area. \n\nCurrently working on my https://t.co/vrvcM90k7I https://t.co/t2kEKQfw2e",
+   "created_at": "2026-10-27T19:32:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/thewooofwallst/status/2115164873516785961",
+   "m": {
+    "bookmark_count": 12,
+    "impression_count": 2287,
+    "like_count": 67,
+    "quote_count": 1,
+    "reply_count": 0,
+    "repost_count": 1
+   },
+   "reply_en": "A dated window for 79-80K is useful. What would you need to see by Nov 2 to call it broken rather than held?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115160576221643169",
+   "author": "Vex",
+   "username": "undrratedtrader",
+   "text": "$BTC 4H Analysis\n\nBTC is pushing up into the highs around 80.9k-81.0k, where I expect a sweep of that liquidity, followed by a retest of the daily key level (~81.2k).\n\nOnce it’s there, I’m watching for a 4H close back below the level. That would point to a rejection, and I’d https://t.co/WEZc8603Nk",
+   "created_at": "2026-10-27T19:15:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/undrratedtrader/status/2115160576221643169",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 512,
+    "like_count": 8,
+    "quote_count": 1,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Clear conditions, the 4H close is what makes it testable. Is the daily level also where you'd look for spot buys?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115150900477956364",
+   "author": "BitcoinHyper",
+   "username": "BitcoinHypers",
+   "text": "$BTC was higher a year later in all 4 previous cases where it reclaimed the 50-week MA https://t.co/DDkeK6k5LB",
+   "created_at": "2026-10-27T18:37:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/BitcoinHypers/status/2115150900477956364",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 3398,
+    "like_count": 19,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 1
+   },
+   "reply_en": "Four cases is a small sample. Has it reclaimed and then lost the 50-week MA within a few weeks before?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115148999342866827",
+   "author": "Ki Young Ju",
+   "username": "ki_young_ju",
+   "text": "BTC must hold $80K level to avoid a long liquidation cascade toward $73K. https://t.co/BAQveYX2Q5",
+   "created_at": "2026-10-27T18:29:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/ki_young_ju/status/2115148999342866827",
+   "m": {
+    "bookmark_count": 32,
+    "impression_count": 31024,
+    "like_count": 408,
+    "quote_count": 6,
+    "reply_count": 46,
+    "repost_count": 30
+   },
+   "reply_en": "80K matters for leveraged longs. For spot holders the more useful question is whether you'd add at 73K if the cascade happens.",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115142764371296619",
+   "author": "Solomining",
+   "username": "solo_mining",
+   "text": "Bitcoin Market Update https://t.co/fo8eFSZeB0",
+   "created_at": "2026-10-27T18:05:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/solo_mining/status/2115142764371296619",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 397,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 2
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Solo enlace/imagen sin texto; difícil aportar valor."
+  },
+  {
+   "id": "2115138861382672656",
+   "author": "SamuelGann",
+   "username": "SamuelGann_",
+   "text": "$ETH - Idea\n\nLooking at $ETH it's at strong support right now, it looks like we could've gotten some clean longs here, now the first resistance I am looking at on $ETH is 2380, all the way to 2436.\n\nhold above this support and we won't take out the low, break below and we'll go https://t.co/h4Q2nmitfg",
+   "created_at": "2026-10-27T17:49:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/SamuelGann_/status/2115138861382672656",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 7187,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 1
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Idea de trading sobre $ETH; fuera de tu nicho."
+  },
+  {
+   "id": "2115120680396115981",
+   "author": "Max Trades",
+   "username": "_ctm_crypto",
+   "text": "$BTC\n\nDon’t get baited into a false breakout here.\n\nPrice is currently grinding its way back up towards our key resistance level around $81k.\n\nHowever, with FOMC tomorrow, I wouldn’t expect a breakout just yet. \n\nPrice often remains choppy ahead of major events like this and https://t.co/YpyoeNeLNm",
+   "created_at": "2026-10-27T16:37:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/_ctm_crypto/status/2115120680396115981",
+   "m": {
+    "bookmark_count": 5,
+    "impression_count": 4518,
+    "like_count": 50,
+    "quote_count": 0,
+    "reply_count": 6,
+    "repost_count": 4
+   },
+   "reply_en": "Agree that the days before FOMC tend to be noise. I'd rather wait for the daily close after the decision than guess the breakout.",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115117572765225014",
+   "author": "TraderaEdge",
+   "username": "Anarchoeconomy",
+   "text": "$BTC `Oh, sh&t https://t.co/U6zcViO3Ip",
+   "created_at": "2026-10-27T16:25:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/Anarchoeconomy/status/2115117572765225014",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 928,
+    "like_count": 22,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 0
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Solo una frase y una imagen; difícil aportar valor."
+  },
+  {
+   "id": "2115116218428338180",
+   "author": "Peter Akintade",
+   "username": "ilesanpepsi",
+   "text": "#Bitcoin | 4-Hour Chart\n\nThe price has been trading above an important level, having found support at this level.\n\nIf Buyers continue to hold this level, we may see a quick move to $82.2k.\n\nFailure to hold this level, the next support level to watch is $76.9k\n\n$BTC\n\nTrade safe ✌️ https://t.co/8InyLSPs5t",
+   "created_at": "2026-10-27T16:19:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/ilesanpepsi/status/2115116218428338180",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 1046,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 0
+   },
+   "reply_en": "Clear levels. For spot, would you see 76.9K as a buy zone or as a sign to wait for more confirmation?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115113094297100634",
+   "author": "Owl Prints",
+   "username": "ItsOwlPrints",
+   "text": "🚨💰 BTC has broken below $80K 4 times in the last 4 days!\n\nYet every single time the price has been pushed back above $80K, preventing a major selloff.\n\nWe expect One more small pump, followed by FOMC driven price manipulation before the real dump begins. https://t.co/T3jnJslRuU",
+   "created_at": "2026-10-27T16:07:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/ItsOwlPrints/status/2115113094297100634",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 4622,
+    "like_count": 44,
+    "quote_count": 0,
+    "reply_count": 8,
+    "repost_count": 4
+   },
+   "reply_en": "Four defenses of 80K is a fact. 'Price manipulation before the dump' isn't. What would invalidate the dump call?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115111377601786120",
+   "author": "Unchained",
+   "username": "unchained",
+   "text": "If bitcoin returns to the power law trend this time next year, that would mean prices above $220k. https://t.co/FAieng9DK3",
+   "created_at": "2026-10-27T16:00:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/unchained/status/2115111377601786120",
+   "m": {
+    "bookmark_count": 3,
+    "impression_count": 3646,
+    "like_count": 76,
+    "quote_count": 1,
+    "reply_count": 0,
+    "repost_count": 5
+   },
+   "reply_en": "Returning to trend is a big if. How far below the power law has price stayed before, and for how long?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115098695419285881",
+   "author": "Ali Faisal Trades",
+   "username": "alifaisaltrades",
+   "text": "$BTC Trade Updates:\n \nI will close this trade at breakeven.\n\nRunning Trades:\n\n- Swing BTC long from 80.5k, 79k limit will remain active.\n- Swing ETH from $2350.\n- Swing SOL from $101, $95 limit will remain active.\n- Swing TAO from $263, $240 limit will remain active.\n\nCLEAR. https://t.co/JsQfEEYaut https://t.co/sDfyygdFWt",
+   "created_at": "2026-10-27T15:10:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/alifaisaltrades/status/2115098695419285881",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 1237,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 1
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Actualización de trades long apalancados y altcoins; fuera de tu enfoque spot."
   },
   {
    "id": "2115094352057753950",
@@ -40,16 +400,256 @@
    "lang": "pl",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 3198,
-    "like_count": 26,
+    "impression_count": 3560,
+    "like_count": 28,
     "quote_count": 0,
-    "reply_count": 3,
+    "reply_count": 4,
     "repost_count": 1
    },
    "url": "https://x.com/MikolajMatofij/status/2115094352057753950",
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "En polaco y centrado en liquidez para trading de corto plazo; poco espacio para aportar valor desde spot."
+  },
+  {
+   "id": "2115093472935837786",
+   "author": "Kevin Svenson",
+   "username": "KevinSvenson_",
+   "text": "#BITCOIN Ascending Broadening Wedge\n\n$100,000 $BTC COMING 🎆 NEW YEAR https://t.co/dv6kjmJkbo",
+   "created_at": "2026-10-27T14:49:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/KevinSvenson_/status/2115093472935837786",
+   "m": {
+    "bookmark_count": 26,
+    "impression_count": 10127,
+    "like_count": 244,
+    "quote_count": 0,
+    "reply_count": 12,
+    "repost_count": 15
+   },
+   "reply_en": "100K by new year from a broadening wedge is a target, not a plan. What level invalidates the pattern?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115090610130464914",
+   "author": "Crypto.Vitali",
+   "username": "CryptoVitali_",
+   "text": "$BTC another long here https://t.co/S4bGrEwbBL",
+   "created_at": "2026-10-27T14:37:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/CryptoVitali_/status/2115090610130464914",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 2193,
+    "like_count": 24,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 1
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Entrada long de trading con solo un gráfico; fuera de tu enfoque spot."
+  },
+  {
+   "id": "2115085885846831270",
+   "author": "philarekt",
+   "username": "philarekt",
+   "text": "No liquidity above\n\nA massive cluster sitting at $60K below\n\nThe market always hunts liquidity https://t.co/CA7M071eXm https://t.co/lPIX0z7HYY",
+   "created_at": "2026-10-27T14:19:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/philarekt/status/2115085885846831270",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 6242,
+    "like_count": 28,
+    "quote_count": 0,
+    "reply_count": 21,
+    "repost_count": 6
+   },
+   "reply_en": "A cluster at 60K shows where leveraged positions sit, not where price has to go. Is there a case where that liquidity never gets taken?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115079505337336238",
+   "author": "Tony Research",
+   "username": "TonyResearch_",
+   "text": "$BTC BUYING ZONES\n\nPreviously, I highlighted one broad zone for accumulating positions. Now I've decided to narrow it down and mark more specific zones for spot purchases and long entries.\n\nImportant: these zones don't mean you should go all-in at the first level. It's better to https://t.co/7J14tbM6WA https://t.co/P3wrZydwJW",
+   "created_at": "2026-10-27T13:53:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/TonyResearch_/status/2115079505337336238",
+   "m": {
+    "bookmark_count": 20,
+    "impression_count": 8349,
+    "like_count": 46,
+    "quote_count": 0,
+    "reply_count": 10,
+    "repost_count": 7
+   },
+   "reply_en": "Narrower zones plus not going all in at the first one is a sane spot plan. How do you size between levels?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115073170411573637",
+   "author": "Fidelity Digital Assets",
+   "username": "DigitalAssets",
+   "text": "Bitcoin's price remains focused on rates, yields, and oil. Meanwhile, the network just hit a 7-month high in hash rate.\n\nDifferent signals. Different horizons.\n\nThe market is looking for the next catalyst. Miners are committing capital. https://t.co/7MLWs8sPvq",
+   "created_at": "2026-10-27T13:28:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/DigitalAssets/status/2115073170411573637",
+   "m": {
+    "bookmark_count": 17,
+    "impression_count": 6965,
+    "like_count": 187,
+    "quote_count": 1,
+    "reply_count": 11,
+    "repost_count": 14
+   },
+   "reply_en": "Hash rate up while price chops is a good reminder that miners plan in years. I'd weigh that more than one rate decision.",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115056912156807333",
+   "author": "Fox Green",
+   "username": "TheFoxView",
+   "text": "Bitcoin has been dumping for 3 WEEKS STRAIGHT\n\nover the past year, 3 consecutive red weeks ALWAYS led to a deeper flush with zero bounce\n\nmost similar fractal happened back in may - $BTC dropped ~11% over 3 weeks (barely anything for a bear market), only to violently accelerate https://t.co/PuCOUeSkom",
+   "created_at": "2026-10-27T12:23:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheFoxView/status/2115056912156807333",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 650,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "reply_en": "One year of data and one fractal is thin. Did three red weeks lead to a flush in earlier cycles too?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115030220293935433",
+   "author": "UnCryptoBro",
+   "username": "christianglez46",
+   "text": "🚨 BITCOIN ESTÁ A PUNTO DE EXPLOTAR 🚨\n\n#BTC lleva 3 días comprimido en un triángulo en H4, justo encima de los 79.200 $.\n\nY esta semana viene con la mecha encendida:\n\n📅 Mañana → la FED decide tipos\n📅 El martes → elecciones en EE. UU.\nCuanto más se comprime el precio, más https://t.co/8lRTFOEChi",
+   "created_at": "2026-10-27T10:37:54.000Z",
+   "lang": "es",
+   "url": "https://x.com/christianglez46/status/2115030220293935433",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 2279,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 1
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Titular alarmista basado en un triángulo H4; poco espacio para aportar."
+  },
+  {
+   "id": "2115027633885098223",
+   "author": "Chetanya",
+   "username": "CryptoBatchof17",
+   "text": "@AndreeaTomoiag3 >Range $79K-$80.6k, ticker is sitting inside it.\n>Next sell zone around $80.6k is clear \n>more movement possible after 12:00 PM UTC \n>Forecast comes from astrology, not chart alone \n>not level for a range break, idk",
+   "created_at": "2026-10-27T10:27:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/CryptoBatchof17/status/2115027633885098223",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 27,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Respuesta a otro post basada en astrología; no aporta."
+  },
+  {
+   "id": "2115025158327152834",
+   "author": "Shaun Analysis",
+   "username": "shaunanalysis",
+   "text": "Every bounce $BTC  makes is smaller than the last. That's not a bottom forming, that's buyers running out.\n\n80,951, then 80,648, then 80,300, now 79,569. Four lower highs in one session. The 79,368 low is the only thing still holding this together.\n\nDirection: BEARISH\n\nEntry: https://t.co/q1OXcd2zIG",
+   "created_at": "2026-10-27T10:17:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/shaunanalysis/status/2115025158327152834",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 3336,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 1
+   },
+   "reply_en": "Four lower highs in one session is a short-term read. Does 79,368 matter on the daily too, or only intraday?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2115005974197195155",
+   "author": "Sykodelic 🔪",
+   "username": "Sykodelic_",
+   "text": "Looks like a big nuke is loading to me.\n\nClear bear flag and just looks to me like it wants to roll over and drop heavily.\n\nThis, is of course, an inverted chart.\n\nTehe. https://t.co/QJt1DHJNNQ https://t.co/CERmb8eAci",
+   "created_at": "2026-10-27T09:01:33.000Z",
+   "lang": "en",
+   "url": "https://x.com/Sykodelic_/status/2115005974197195155",
+   "m": {
+    "bookmark_count": 66,
+    "impression_count": 75736,
+    "like_count": 1054,
+    "quote_count": 3,
+    "reply_count": 68,
+    "repost_count": 45
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Chiste con gráfico invertido; no hay espacio para aportar."
+  },
+  {
+   "id": "2115004327609725111",
+   "author": "Andreea Tomoiaga - astroandreea.eth",
+   "username": "AndreeaTomoiag3",
+   "text": "🚨 bitcoin:native Update — Rangebound action likely today\n\n#Bitcoin is expected to remain rangebound, similar to yesterday, with price most likely trading between $79K–$80.6K intraday.\n\nAfter 12:00 PM UTC, we could see more movement. 👀\n\nNo day-level aspect is exact today, while https://t.co/vQ1AE4SyPB",
+   "created_at": "2026-10-27T08:55:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/AndreeaTomoiag3/status/2115004327609725111",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 1441,
+    "like_count": 13,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "reply_en": "A 79K-80.6K range is something you can check by end of day. What would you count as a miss?",
+   "in_niche": true,
+   "skip_reason": ""
+  },
+  {
+   "id": "2114996301847044554",
+   "author": "₿lackcatbtc",
+   "username": "BlackcatBitcoin",
+   "text": "This is the start of a new bull market and there is nothing you can do about it\n\n#Bitcoin https://t.co/RwoSSYBa9i",
+   "created_at": "2026-10-27T08:23:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/BlackcatBitcoin/status/2114996301847044554",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 1496,
+    "like_count": 58,
+    "quote_count": 0,
+    "reply_count": 4,
+    "repost_count": 4
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Frase hype con imagen, sin dato que discutir."
   },
   {
    "id": "2114991695444271590",
@@ -60,8 +660,8 @@
    "lang": "en",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 4514,
-    "like_count": 212,
+    "impression_count": 4577,
+    "like_count": 215,
     "quote_count": 0,
     "reply_count": 18,
     "repost_count": 6
@@ -72,6 +672,26 @@
    "skip_reason": "Anécdota/meme sin contenido de estrategia."
   },
   {
+   "id": "2114987596619346313",
+   "author": "OV Markets",
+   "username": "OVmarkets",
+   "text": "$BTC Bitcoin, no update is the update.\n\nHave a good day ! https://t.co/BDiiLWKCR8 https://t.co/CNTCH33xul",
+   "created_at": "2026-10-27T07:48:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/OVmarkets/status/2114987596619346313",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 3345,
+    "like_count": 37,
+    "quote_count": 1,
+    "reply_count": 1,
+    "repost_count": 3
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Post sin contenido (\"no update is the update\")."
+  },
+  {
    "id": "2114945195007709581",
    "author": "shah",
    "username": "shahh",
@@ -80,16 +700,36 @@
    "lang": "en",
    "m": {
     "bookmark_count": 8,
-    "impression_count": 18582,
-    "like_count": 457,
+    "impression_count": 18913,
+    "like_count": 465,
     "quote_count": 3,
     "reply_count": 77,
-    "repost_count": 30
+    "repost_count": 31
    },
    "url": "https://x.com/shahh/status/2114945195007709581",
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Meme/chiste, sin espacio para aportar valor."
+  },
+  {
+   "id": "2114911003955646509",
+   "author": "bold",
+   "username": "0xBold",
+   "text": "\"bear markets take the stairs up, and the elevator down. bull markets take the stairs down, and the elevator up\"\n\nI can't remember where I saw this quote but it's always stuck with me, especially in times like these https://t.co/8GGjYUWRvJ",
+   "created_at": "2026-10-27T02:44:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/0xBold/status/2114911003955646509",
+   "m": {
+    "bookmark_count": 31,
+    "impression_count": 8331,
+    "like_count": 160,
+    "quote_count": 0,
+    "reply_count": 10,
+    "repost_count": 6
+   },
+   "reply_en": "Good line. It's also why I'd rather buy spot on the stairs down than chase the elevator up.",
+   "in_niche": true,
+   "skip_reason": ""
   },
   {
    "id": "2114889123626717566",
@@ -100,8 +740,8 @@
    "lang": "vi",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 462,
-    "like_count": 25,
+    "impression_count": 465,
+    "like_count": 26,
     "quote_count": 0,
     "reply_count": 23,
     "repost_count": 0
@@ -110,46 +750,6 @@
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Altcoin ($ETHFI) en vietnamita; fuera de tu nicho."
-  },
-  {
-   "id": "2114861405564289226",
-   "author": "Void 🔎",
-   "username": "VoidOnChain",
-   "text": "🚨 $BTC HAS LIQUIDITY WAITING ON BOTH SIDES\n\n$85K: Massive liquidation cluster above.\n\n$78K: Another one sitting below.\n\nBoth zones are magnets for price, but the real question is which side gets hit first.\n\nDo we squeeze shorts above $86K, or flush longs toward $75K first? https://t.co/AubkCUK3b9 https://t.co/vZ58U4QwF8",
-   "created_at": "2026-10-26T23:27:05.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 3,
-    "impression_count": 5429,
-    "like_count": 35,
-    "quote_count": 1,
-    "reply_count": 7,
-    "repost_count": 2
-   },
-   "url": "https://x.com/VoidOnChain/status/2114861405564289226",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Centrado en liquidaciones de apalancados; ya hay otro post similar con respuesta."
-  },
-  {
-   "id": "2114856043356549149",
-   "author": "Rick Lennon",
-   "username": "MrRickLennon",
-   "text": "The iceberg doesn’t care if you’re prepared.\nStack sats while the music is still playing. https://t.co/KyYKgsxLPC",
-   "created_at": "2026-10-26T23:05:47.000Z",
-   "lang": "en",
-   "m": {
-    "bookmark_count": 8,
-    "impression_count": 1134,
-    "like_count": 79,
-    "quote_count": 0,
-    "reply_count": 9,
-    "repost_count": 17
-   },
-   "url": "https://x.com/MrRickLennon/status/2114856043356549149",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Frase motivacional con imagen, sin espacio para aportar valor."
   }
  ]
 }
