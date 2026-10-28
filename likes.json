@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-28T17:01:53-03:00",
+  "generated_at": "2026-10-28T19:09:28-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 16,
+  "listed": 12,
   "in_niche": 0,
-  "not_recommended": 16,
+  "not_recommended": 12,
   "new_since_prev": 0,
-  "removed_replied": 1,
-  "removed_old": 1
+  "removed_replied": 0,
+  "removed_old": 4
  },
  "posts": [
   {
@@ -21,8 +21,8 @@
    "url": "https://x.com/Daisy5Aurora/status/2115453412464869602",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 4505,
-    "like_count": 211,
+    "impression_count": 4906,
+    "like_count": 222,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 1
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "5 h, ~838 vistas/h, autor 783 seguidores, replies: 1"
+    "reason": "7 h, ~654 vistas/h, autor 784 seguidores, replies: 1"
    }
   },
   {
@@ -46,11 +46,11 @@
    "url": "https://x.com/chart_junkies/status/2115448821824328058",
    "m": {
     "bookmark_count": 13,
-    "impression_count": 4369,
-    "like_count": 41,
+    "impression_count": 4780,
+    "like_count": 42,
     "quote_count": 0,
     "reply_count": 9,
-    "repost_count": 1
+    "repost_count": 3
    },
    "reply_en": "",
    "in_niche": false,
@@ -58,7 +58,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "6 h, ~769 vistas/h, autor 5.6K seguidores, replies: 9"
+    "reason": "8 h, ~612 vistas/h, autor 5.6K seguidores, replies: 9"
    }
   },
   {
@@ -71,7 +71,7 @@
    "url": "https://x.com/Yxnh8023/status/2115438991252332871",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1061,
+    "impression_count": 1090,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 10,
@@ -81,9 +81,9 @@
    "in_niche": false,
    "skip_reason": "En chino y sobre acciones cripto; fuera de tu nicho.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "6 h, ~167 vistas/h, autor 4.5K seguidores, replies: 10"
+    "level": "bajo",
+    "score": 0,
+    "reason": "8 h, ~128 vistas/h, autor 4.5K seguidores, replies: 10"
    }
   },
   {
@@ -96,7 +96,7 @@
    "url": "https://x.com/AGratefulApe/status/2115421722090577952",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 47,
+    "impression_count": 52,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -106,9 +106,9 @@
    "in_niche": false,
    "skip_reason": "Pregunta de trading dentro de otro hilo; poco alcance.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "7 h, ~6 vistas/h, autor 572 seguidores, replies: 0"
+    "level": "bajo",
+    "score": 0,
+    "reason": "10 h, ~5 vistas/h, autor 572 seguidores, replies: 0"
    }
   },
   {
@@ -120,20 +120,20 @@
    "lang": "en",
    "url": "https://x.com/BitcoinMagazine/status/2115420708339614116",
    "m": {
-    "bookmark_count": 17,
-    "impression_count": 64541,
-    "like_count": 706,
-    "quote_count": 12,
-    "reply_count": 85,
-    "repost_count": 89
+    "bookmark_count": 20,
+    "impression_count": 70127,
+    "like_count": 769,
+    "quote_count": 14,
+    "reply_count": 86,
+    "repost_count": 100
    },
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Tema de política y regulación; fuera de tu nicho de estrategias spot.",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "8 h, ~8.6K vistas/h, autor 4508.2K seguidores, replies: 85"
+    "level": "medio",
+    "score": 2,
+    "reason": "10 h, ~7.3K vistas/h, autor 4508.2K seguidores, replies: 86"
    }
   },
   {
@@ -145,9 +145,9 @@
    "lang": "en",
    "url": "https://x.com/duje_matic/status/2115387105363042571",
    "m": {
-    "bookmark_count": 10,
-    "impression_count": 6493,
-    "like_count": 67,
+    "bookmark_count": 11,
+    "impression_count": 6649,
+    "like_count": 69,
     "quote_count": 0,
     "reply_count": 5,
     "repost_count": 2
@@ -158,7 +158,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10 h, ~664 vistas/h, autor 53.6K seguidores, replies: 5"
+    "reason": "12 h, ~559 vistas/h, autor 53.6K seguidores, replies: 5"
    }
   },
   {
@@ -171,7 +171,7 @@
    "url": "https://x.com/FinCompassKr/status/2115375276121309406",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 158,
+    "impression_count": 163,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -183,7 +183,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "11 h, ~14 vistas/h, autor 701 seguidores, replies: 1"
+    "reason": "13 h, ~12 vistas/h, autor 701 seguidores, replies: 1"
    }
   },
   {
@@ -196,8 +196,8 @@
    "url": "https://x.com/wick_btc/status/2115374183307776221",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 3278,
-    "like_count": 53,
+    "impression_count": 3391,
+    "like_count": 54,
     "quote_count": 0,
     "reply_count": 5,
     "repost_count": 3
@@ -207,8 +207,8 @@
    "skip_reason": "Análisis de corto plazo con targets de trading; fuera de tu enfoque spot.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "11 h, ~308 vistas/h, autor 7.3K seguidores, replies: 5"
+    "score": 1,
+    "reason": "13 h, ~266 vistas/h, autor 7.3K seguidores, replies: 5"
    }
   },
   {
@@ -221,7 +221,7 @@
    "url": "https://x.com/VandelayBTC/status/2115284540205801802",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 669,
+    "impression_count": 675,
     "like_count": 27,
     "quote_count": 0,
     "reply_count": 4,
@@ -232,8 +232,8 @@
    "skip_reason": "Frase motivacional con imagen; difícil aportar valor.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~40 vistas/h, autor 12.7K seguidores, replies: 4"
+    "score": -1,
+    "reason": "19 h, ~36 vistas/h, autor 12.7K seguidores, replies: 4"
    }
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://x.com/Yxnh8023/status/2115283003194892745",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 8876,
+    "impression_count": 8925,
     "like_count": 29,
     "quote_count": 0,
     "reply_count": 19,
@@ -256,9 +256,9 @@
    "in_niche": false,
    "skip_reason": "Gira en torno a abrir un short y está en chino; fuera de tu enfoque spot sin apalancamiento.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "17 h, ~532 vistas/h, autor 4.5K seguidores, replies: 19"
+    "level": "bajo",
+    "score": 0,
+    "reason": "19 h, ~475 vistas/h, autor 4.5K seguidores, replies: 19"
    }
   },
   {
@@ -271,7 +271,7 @@
    "url": "https://x.com/robw00ds/status/2115248414942515235",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 11630,
+    "impression_count": 11751,
     "like_count": 67,
     "quote_count": 0,
     "reply_count": 1,
@@ -283,7 +283,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "19 h, ~613 vistas/h, autor 97.3K seguidores, replies: 1"
+    "reason": "21 h, ~557 vistas/h, autor 97.3K seguidores, replies: 1"
    }
   },
   {
@@ -295,9 +295,9 @@
    "lang": "pt",
    "url": "https://x.com/fabinhocr80/status/2115204363904053659",
    "m": {
-    "bookmark_count": 11,
-    "impression_count": 11146,
-    "like_count": 34,
+    "bookmark_count": 12,
+    "impression_count": 12406,
+    "like_count": 35,
     "quote_count": 0,
     "reply_count": 4,
     "repost_count": 1
@@ -308,107 +308,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~509 vistas/h, autor 2.5K seguidores, replies: 4"
-   }
-  },
-  {
-   "id": "2115203479551590522",
-   "author": "Soldat",
-   "username": "soldatxbt",
-   "text": "$BTC slammed into short POI during super illiquid hours \nnow the short POI has moved up a few hundred $, and awaiting liquid hours to execunt https://t.co/sejzR35nD0 https://t.co/Kh5MbOIXF8",
-   "created_at": "2026-10-27T22:06:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/soldatxbt/status/2115203479551590522",
-   "m": {
-    "bookmark_count": 6,
-    "impression_count": 3748,
-    "like_count": 36,
-    "quote_count": 1,
-    "reply_count": 4,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Plan de short; fuera de tu enfoque (nunca short).",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "22 h, ~170 vistas/h, autor 5.5K seguidores, replies: 4"
-   }
-  },
-  {
-   "id": "2115199154045825307",
-   "author": "Andreea Tomoiaga - astroandreea.eth",
-   "username": "AndreeaTomoiag3",
-   "text": "🚨 bitcoin:native Update — bullish energy is already kicking in\n\nThe bullish energy from just after midnight UTC tomorrow October 28 is already active, and volume has picked up — although it’s still below the 30-day average.\n\nDuring AM hours tomorrow, bullish astro could support https://t.co/YXmTJUfOSb",
-   "created_at": "2026-10-27T21:49:11.000Z",
-   "lang": "en",
-   "url": "https://x.com/AndreeaTomoiag3/status/2115199154045825307",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1275,
-    "like_count": 16,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 1
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Basado en astrología; sin valor verificable.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~57 vistas/h, autor 5.0K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2115197060592853026",
-   "author": "🧙‍♂️ GranMago© 🔮",
-   "username": "GranMag0",
-   "text": "$BTC 4H \n\nLlegó a la caja gris, zona principal de liquidez 🎯\n\nEsta es una zona de resistencia, toma los máximos anteriores y la probabilidad más alta es un rechazo de nuevo. \n\n☝️ Sigo sin entrar a operativa.\n\nTengo dos escenarios para operar long 📈 \n\n- Manipular 79,2k aprox \n\n- https://t.co/HshqzffkBn",
-   "created_at": "2026-10-27T21:40:52.000Z",
-   "lang": "es",
-   "url": "https://x.com/GranMag0/status/2115197060592853026",
-   "m": {
-    "bookmark_count": 10,
-    "impression_count": 25655,
-    "like_count": 253,
-    "quote_count": 1,
-    "reply_count": 24,
-    "repost_count": 10
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Plan de operativa long en 4H; fuera de tu enfoque spot.",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "22 h, ~1.1K vistas/h, autor 94.3K seguidores, replies: 24"
-   }
-  },
-  {
-   "id": "2115173283469619314",
-   "author": "CryptoLegend⭐",
-   "username": "CryptoLegend_ET",
-   "text": "$BTC Bull Map 🐂\n\nEl roadmap lleva meses trazado.\n\nAtt. Legend🧢 https://t.co/fHeEgzzeof https://t.co/R4VBk6jtwK",
-   "created_at": "2026-10-27T20:06:23.000Z",
-   "lang": "es",
-   "url": "https://x.com/CryptoLegend_ET/status/2115173283469619314",
-   "m": {
-    "bookmark_count": 10,
-    "impression_count": 5421,
-    "like_count": 62,
-    "quote_count": 0,
-    "reply_count": 8,
-    "repost_count": 7
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo un mapa en imagen sin explicación; difícil aportar valor.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "24 h, ~226 vistas/h, autor 13.4K seguidores, replies: 8"
+    "reason": "24 h, ~517 vistas/h, autor 2.5K seguidores, replies: 4"
    }
   }
  ]
