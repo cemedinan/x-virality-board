@@ -34,6 +34,9 @@ main{max-width:860px;margin:0 auto;padding:14px 18px 60px}
 .reply .lbl,.skip .lbl{color:var(--acc);font-size:13px}
 .reply pre{margin:4px 0;white-space:pre-wrap;font:inherit;color:var(--fg)}
 .skip{color:var(--fg2);margin:8px 0}
+.mo{font-size:12px;color:var(--fg2)}.mo b{font-weight:500;color:var(--acc)}.mo.alto b{color:var(--fg)}
+.vis{font-size:12px;color:var(--fg2);margin:4px 0}
+.post.nr .text{color:var(--fg2)}
 .acts{display:flex;gap:18px;font-size:13px}
 .acts button,.acts a{color:var(--acc)}
 .acts button.copied{color:var(--fg)}
@@ -65,11 +68,14 @@ async function copyDraft(btn,text){try{await navigator.clipboard.writeText(text)
 const tz={timeZone:'America/Santiago'};
 let D,F='niche';
 function render(){const cut=Date.now()-864e5;const ps=D.posts.filter(p=>Date.parse(p.created_at)>=cut).slice().sort((a,b)=>Date.parse(b.created_at)-Date.parse(a.created_at)).filter(p=>F==='all'||(F==='niche'?p.in_niche:!p.in_niche));
+if(F==='niche'){const L={alto:3,medio:2,bajo:1};ps.sort((a,b)=>((L[(b.momentum||{}).level]||0)-(L[(a.momentum||{}).level]||0))||(((b.momentum||{}).score||0)-((a.momentum||{}).score||0))||(Date.parse(b.created_at)-Date.parse(a.created_at)));}
 const el=document.getElementById('likes');
 el.innerHTML=ps.length?ps.map(p=>{const m=p.m||{};const d=new Date(p.created_at).toLocaleString('es-CL',{...tz,dateStyle:'medium',timeStyle:'short'});
 const rep=p.in_niche?`<div class="reply"><div class="lbl">reply/en</div><pre id="r-${p.id}">${esc(p.reply_en)}</pre></div>`:`<div class="skip"><span class="lbl">no recomendado responder:</span> ${esc(p.skip_reason)}</div>`;
+const mo=p.momentum?`<div class="mo ${esc(p.momentum.level)}">[momentum <b>${esc(p.momentum.level)}</b>] ${esc(p.momentum.reason)}</div>`:'';
+const vis=(p.in_niche&&p.visual)?`<div class="vis">Visual sugerido: ${esc(p.visual)}</div>`:'';
 const cp=p.in_niche?`<button type="button" class="cp" data-draft-id="r-${p.id}">[COPY DRAFT]</button>`:'';
-return`<article class="post"><div class="meta"><span class="who">${esc(p.author)}</span> <span class="who"><span class="h">@${esc(p.username)}</span></span> · ${esc(d)}</div><div class="meta">${fmt(m.impression_count)} views · ♥ ${fmt(m.like_count)} · ↻ ${fmt(m.repost_count)} · ↩ ${fmt(m.reply_count)}</div><div class="text">${esc(p.text)}</div>${rep}<div class="acts">${cp}<a href="${esc(p.url)}" target="_blank" rel="noopener">[abrir post ↗]</a></div></article>`}).join(''):(D.posts.some(p=>Date.parse(p.created_at)>=cut)?'<p class="sys">* nada en este filtro *</p>':'<p class="sys">* no hay posts pendientes por ahora · se actualiza a las 07:00, 11:00, 16:00 y 20:00 (Chile) *</p>');
+return`<article class="post${p.in_niche?'':' nr'}"><div class="meta"><span class="who">${esc(p.author)}</span> <span class="who"><span class="h">@${esc(p.username)}</span></span> · ${esc(d)}</div><div class="meta">${fmt(m.impression_count)} views · ♥ ${fmt(m.like_count)} · ↻ ${fmt(m.repost_count)} · ↩ ${fmt(m.reply_count)}</div>${mo}<div class="text">${esc(p.text)}</div>${rep}${vis}<div class="acts">${cp}<a href="${esc(p.url)}" target="_blank" rel="noopener">[abrir post ↗]</a></div></article>`}).join(''):(D.posts.some(p=>Date.parse(p.created_at)>=cut)?'<p class="sys">* nada en este filtro *</p>':'<p class="sys">* no hay posts pendientes por ahora · se actualiza a las 07:00, 11:00, 16:00 y 20:00 (Chile) *</p>');
 document.querySelectorAll('.cp').forEach(b=>b.addEventListener('click',()=>copyDraft(b,document.getElementById(b.dataset.draftId).textContent)));
 document.querySelectorAll('[data-f]').forEach(b=>b.classList.toggle('on',b.dataset.f===F));}
 (async()=>{const r=await fetch('./likes.json?ts='+Date.now());D=await r.json();const M=D.meta;const up=new Date(M.generated_at).toLocaleString('es-CL',tz);
