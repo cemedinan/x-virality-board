@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T13:41:00-03:00"
+    "updated_at": "2026-10-28T15:12:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2115503384979718508",
+      "date": "2026-10-28T14:58:05-03:00",
+      "handle": "GMartin_0",
+      "post_url": "https://x.com/GMartin_0/status/2115503384979718508",
+      "user_post": "@GMartin_0 Waiting for a lower low only works if you actually buy when it comes, and most people freeze. Has anyone compared DCA from here vs waiting for a break below the September low?",
+      "reply": "@ForecastQuant Yep, waiting for the perfect entry is the recipe for staying sidelined imo",
+      "draft": "Agreed. And the wait has a cost too: miss a +20% move to save a -6% dip and you need a much deeper drop just to break even. Do you split it, part DCA now and part reserved for a September-low retest?",
+      "draft_alt": "The perfect entry only exists in hindsight. A fixed DCA plan removes the decision on the day you'd freeze. Do you keep any dry powder for a break below the September low, or go all in on the schedule?",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
