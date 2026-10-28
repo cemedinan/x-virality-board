@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-28T11:16:26-03:00",
+  "generated_at": "2026-10-28T12:14:02-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 14,
+  "listed": 11,
   "in_niche": 1,
-  "not_recommended": 13,
+  "not_recommended": 10,
   "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 1
+  "removed_old": 3
  },
  "posts": [
   {
@@ -21,10 +21,10 @@
    "url": "https://x.com/Yxnh8023/status/2115283003194892745",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 8215,
-    "like_count": 28,
+    "impression_count": 8395,
+    "like_count": 29,
     "quote_count": 0,
-    "reply_count": 18,
+    "reply_count": 19,
     "repost_count": 2
    },
    "reply_en": "",
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "11 h, ~753 vistas/h, autor 4.5K seguidores, replies: 18"
+    "reason": "12 h, ~707 vistas/h, autor 4.5K seguidores, replies: 19"
    }
   },
   {
@@ -46,8 +46,8 @@
    "url": "https://x.com/robw00ds/status/2115248414942515235",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 10829,
-    "like_count": 66,
+    "impression_count": 10995,
+    "like_count": 67,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 0
@@ -58,7 +58,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "13 h, ~820 vistas/h, autor 97.3K seguidores, replies: 1"
+    "reason": "14 h, ~776 vistas/h, autor 97.3K seguidores, replies: 1"
    }
   },
   {
@@ -71,7 +71,7 @@
    "url": "https://x.com/fabinhocr80/status/2115204363904053659",
    "m": {
     "bookmark_count": 11,
-    "impression_count": 8075,
+    "impression_count": 8713,
     "like_count": 29,
     "quote_count": 0,
     "reply_count": 4,
@@ -83,7 +83,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~501 vistas/h, autor 2.5K seguidores, replies: 4"
+    "reason": "17 h, ~510 vistas/h, autor 2.5K seguidores, replies: 4"
    }
   },
   {
@@ -96,7 +96,7 @@
    "url": "https://x.com/soldatxbt/status/2115203479551590522",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 3268,
+    "impression_count": 3402,
     "like_count": 36,
     "quote_count": 1,
     "reply_count": 4,
@@ -108,7 +108,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~202 vistas/h, autor 5.5K seguidores, replies: 4"
+    "reason": "17 h, ~198 vistas/h, autor 5.5K seguidores, replies: 4"
    }
   },
   {
@@ -121,7 +121,7 @@
    "url": "https://x.com/GranMag0/status/2115197060592853026",
    "m": {
     "bookmark_count": 10,
-    "impression_count": 23786,
+    "impression_count": 24248,
     "like_count": 249,
     "quote_count": 0,
     "reply_count": 24,
@@ -133,7 +133,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "17 h, ~1.4K vistas/h, autor 94.3K seguidores, replies: 24"
+    "reason": "18 h, ~1.4K vistas/h, autor 94.3K seguidores, replies: 24"
    }
   },
   {
@@ -146,11 +146,11 @@
    "url": "https://x.com/CryptoLegend_ET/status/2115173283469619314",
    "m": {
     "bookmark_count": 10,
-    "impression_count": 5215,
-    "like_count": 59,
+    "impression_count": 5273,
+    "like_count": 60,
     "quote_count": 0,
     "reply_count": 8,
-    "repost_count": 6
+    "repost_count": 7
    },
    "reply_en": "",
    "in_niche": false,
@@ -158,7 +158,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "18 h, ~287 vistas/h, autor 13.4K seguidores, replies: 8"
+    "reason": "19 h, ~275 vistas/h, autor 13.4K seguidores, replies: 8"
    }
   },
   {
@@ -171,7 +171,7 @@
    "url": "https://x.com/thewooofwallst/status/2115164873516785961",
    "m": {
     "bookmark_count": 15,
-    "impression_count": 3557,
+    "impression_count": 3592,
     "like_count": 92,
     "quote_count": 1,
     "reply_count": 0,
@@ -183,7 +183,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "19 h, ~189 vistas/h, autor 7.9K seguidores, replies: 0"
+    "reason": "20 h, ~182 vistas/h, autor 7.9K seguidores, replies: 0"
    }
   },
   {
@@ -196,7 +196,7 @@
    "url": "https://x.com/solo_mining/status/2115142764371296619",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1352,
+    "impression_count": 1380,
     "like_count": 49,
     "quote_count": 2,
     "reply_count": 4,
@@ -208,7 +208,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~66 vistas/h, autor 6.9K seguidores, replies: 4"
+    "reason": "21 h, ~65 vistas/h, autor 6.9K seguidores, replies: 4"
    }
   },
   {
@@ -221,7 +221,7 @@
    "url": "https://x.com/SamuelGann_/status/2115138861382672656",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 7529,
+    "impression_count": 7532,
     "like_count": 68,
     "quote_count": 0,
     "reply_count": 2,
@@ -233,7 +233,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "20 h, ~368 vistas/h, autor 7.7K seguidores, replies: 2"
+    "reason": "21 h, ~351 vistas/h, autor 7.7K seguidores, replies: 2"
    }
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://x.com/TraderJqrit/status/2115120412120264785",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 5293,
+    "impression_count": 5610,
     "like_count": 63,
     "quote_count": 0,
     "reply_count": 5,
@@ -258,7 +258,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~244 vistas/h, autor 10.5K seguidores, replies: 5"
+    "reason": "23 h, ~247 vistas/h, autor 10.5K seguidores, replies: 5"
    }
   },
   {
@@ -271,7 +271,7 @@
    "url": "https://x.com/Anarchoeconomy/status/2115117572765225014",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1208,
+    "impression_count": 1232,
     "like_count": 23,
     "quote_count": 0,
     "reply_count": 3,
@@ -283,82 +283,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~55 vistas/h, autor 4.4K seguidores, replies: 3"
-   }
-  },
-  {
-   "id": "2115098695419285881",
-   "author": "Ali Faisal Trades",
-   "username": "alifaisaltrades",
-   "text": "$BTC Trade Updates:\n \nI will close this trade at breakeven.\n\nRunning Trades:\n\n- Swing BTC long from 80.5k, 79k limit will remain active.\n- Swing ETH from $2350.\n- Swing SOL from $101, $95 limit will remain active.\n- Swing TAO from $263, $240 limit will remain active.\n\nCLEAR. https://t.co/JsQfEEYaut https://t.co/sDfyygdFWt",
-   "created_at": "2026-10-27T15:10:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/alifaisaltrades/status/2115098695419285881",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1511,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 1
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Actualización de trades long apalancados y altcoins; fuera de tu enfoque spot.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~65 vistas/h, autor 1.4K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115094352057753950",
-   "author": "Matofij",
-   "username": "MikolajMatofij",
-   "text": "#BTC:\nNastępny plan na kolejne dni.\nDlaczego?\n\nMamy konsolidację i raczej nic się nie będzie działo do końca miesiąca lub do jutrzejszego dnia (FOMC).\n\nMamy dużą ilość płynności do 82400 więc to aż się prosi aby zebrać \n\nNatomiast...\n\nTrzeba będzie uważać na reakcję przy tym FVG, https://t.co/y5hIu1IHpg",
-   "created_at": "2026-10-27T14:52:44.000Z",
-   "lang": "pl",
-   "m": {
-    "bookmark_count": 2,
-    "impression_count": 5972,
-    "like_count": 37,
-    "quote_count": 1,
-    "reply_count": 4,
-    "repost_count": 1
-   },
-   "url": "https://x.com/MikolajMatofij/status/2115094352057753950",
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "En polaco y centrado en liquidez para trading de corto plazo; poco espacio para aportar valor desde spot.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "23 h, ~255 vistas/h, autor 1.4K seguidores, replies: 4"
-   }
-  },
-  {
-   "id": "2115090610130464914",
-   "author": "Crypto.Vitali",
-   "username": "CryptoVitali_",
-   "text": "$BTC another long here https://t.co/S4bGrEwbBL",
-   "created_at": "2026-10-27T14:37:52.000Z",
-   "lang": "en",
-   "url": "https://x.com/CryptoVitali_/status/2115090610130464914",
-   "m": {
-    "bookmark_count": 5,
-    "impression_count": 2386,
-    "like_count": 24,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 1
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Entrada long de trading con solo un gráfico; fuera de tu enfoque spot.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "24 h, ~100 vistas/h, autor 911 seguidores, replies: 3"
+    "reason": "23 h, ~53 vistas/h, autor 4.4K seguidores, replies: 3"
    }
   }
  ]
