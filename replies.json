@@ -1,6 +1,20 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T12:17:00-03:00"
+    "updated_at": "2026-10-28T12:44:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2115462923032395997",
+      "date": "2026-10-28T12:17:18-03:00",
+      "handle": "AndreeaTomoiag3",
+      "post_url": "https://x.com/AndreeaTomoiag3/status/2115462923032395997",
+      "user_post": "@AndreeaTomoiag3 Makes sense in sports, the odds give you the realistic probability for free. But a model saying there's an edge isn't the same as the edge showing up in results. What would convince you more: the model's read, or profit over a few hundred picks?",
+      "reply": "(1) \"You can track results from the past to have statistical relevance.\" (2) \"Rathe thousands.\"",
+      "draft": "Agree, thousands is where the noise starts to wash out. But past results only count if the picks were logged before the game, not rebuilt after. Do you track yours against closing odds or just win rate?",
+      "draft_alt": "Fair. Over a few hundred picks, a small edge can still look like luck. Thousands logged in advance is the real test. Do you check your results against the closing line?",
+      "status": "Esperando tu ok",
+      "new": true,
+      "note": "Dos respuestas seguidas en el mismo hilo (la otra: https://x.com/AndreeaTomoiag3/status/2115462803612213376). Cuenta de ~5K seguidores, alcance bajo por ahora."
+    }
+  ]
 }
