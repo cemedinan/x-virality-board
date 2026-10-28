@@ -1,20 +1,33 @@
 {
   "meta": {
-    "updated_at": "2026-10-27T23:18:00-03:00"
+    "updated_at": "2026-10-28T06:16:00-03:00"
   },
   "replies": [
     {
-      "id": "2115254897956319464",
-      "date": "2026-10-27T22:30:41-03:00",
-      "handle": "ilesanpepsi",
-      "post_url": "https://x.com/ilesanpepsi/status/2115254897956319464",
-      "user_post": "@ilesanpepsi Clear levels. For spot, would you see 76.9K as a buy zone or as a sign to wait for more confirmation?",
-      "reply": "@ForecastQuant For spot, I would wait for a more discount price to come since the current price action is a correction/pullback.",
-      "draft": "Got it, so the pullback alone isn't a buy signal for you. Where would you start adding spot, at 76.9K or lower?",
-      "draft_alt": "Makes sense. Waiting for a deeper discount works as long as you don't end up chasing if it bounces from here.",
+      "id": "2115327663963603363",
+      "date": "2026-10-28T03:19:50-03:00",
+      "handle": "AndreeaTomoiag3",
+      "post_url": "https://x.com/AndreeaTomoiag3/status/2115327663963603363",
+      "user_post": "@AndreeaTomoiag3 A 79K-80.6K range is something you can check by end of day. What would you count as a miss?",
+      "reply": "@ForecastQuant I was referring to intraday targets.",
+      "draft": "Got it, intraday only. So a miss would be any print outside 79K-80.6K during the session, or do wicks not count?",
+      "draft_alt": "Makes sense. Intraday targets are easy to check, which is what makes them useful. Do you track your hit rate on these?",
       "status": "Esperando tu ok",
       "new": true,
-      "note": "Responde a tu pregunta en su post del gráfico 4H de #Bitcoin (soporte en $82.2k / $76.9k)."
+      "note": "Responde a tu pregunta en su update de #Bitcoin (rango intradía $79K-$80.6K). Cuenta de ~5K seguidores."
+    },
+    {
+      "id": "2115281345715056672",
+      "date": "2026-10-28T00:15:47-03:00",
+      "handle": "CacheTrading",
+      "post_url": "https://x.com/CacheTrading/status/2115281345715056672",
+      "user_post": "@CacheTrading Spot leading while OI builds is better than the reverse. What would make you call it distribution instead of hidden strength?",
+      "reply": "@ForecastQuant Multiple confirming factors like liquidation, spot volume and reclaiming the LTF descending trendline.",
+      "draft": "So it's confluence, not one signal. If spot volume fades but the trendline reclaim holds, which one do you trust more?",
+      "draft_alt": "Liquidations plus a trendline reclaim makes sense. Which timeframe do you use for the reclaim, 1H or 4H?",
+      "status": "Esperando tu ok",
+      "new": true,
+      "note": "Responde a tu pregunta en su post de spot vs perps y OI en $BTC. Cuenta de ~8K seguidores."
     }
   ]
 }
