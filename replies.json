@@ -1,20 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T11:42:00-03:00"
+    "updated_at": "2026-10-28T12:17:00-03:00"
   },
-  "replies": [
-    {
-      "id": "2115451559597232513",
-      "date": "2026-10-28T11:32:09-03:00",
-      "handle": "AndreeaTomoiag3",
-      "post_url": "https://x.com/AndreeaTomoiag3/status/2115451559597232513",
-      "user_post": "@AndreeaTomoiag3 Fair point, a self-reported tracker proves little. What's hard to fake is the public record: target posted before the move, timestamped, misses included. X already gives you that for free. How would you tell an astro edge apart from normal volatility hitting the target?",
-      "reply": "@ForecastQuant I do not know how this is distinguished in crypto with grok but in sports astrology Claude is capable to tell if you have an edge with astro on top of the realistic probabilities.",
-      "draft": "Sports has a clean baseline: the betting odds. Beat them over enough bets, after the bookmaker's margin, and that's an edge. Crypto has no market-implied target to compare against. The closest thing I know is a random entry with the same stop and target. How many picks did it take before the model called it an edge?",
-      "draft_alt": "Makes sense in sports, the odds give you the realistic probability for free. But a model saying there's an edge isn't the same as the edge showing up in results. What would convince you more: the model's read, or profit over a few hundred picks?",
-      "status": "Esperando tu ok",
-      "new": true,
-      "note": "Cuenta de ~5K seguidores (astrología aplicada a mercados); tercer intercambio en el hilo, alcance bajo."
-    }
-  ]
+  "replies": []
 }
