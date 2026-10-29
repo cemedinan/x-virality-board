@@ -2,7 +2,7 @@
  "title": "Daily X narrative digest \u2014 2026-10-29",
  "date": "2026-10-29",
  "timezone": "America/Santiago",
- "updated": "2026-10-29T04:04:56-03:00",
+ "updated": "2026-10-29T06:06:33-03:00",
  "brand_title": "POSTER",
  "brand_handle": "@ForecastQuant",
  "hits": [
@@ -22,32 +22,19 @@
    "reply_angle": "Bring a base rate: check $BTC's return in the 1-4 weeks after hawkish Fed holds vs. after cuts, instead of reading the quote as bullish or bearish.",
    "why_chosen": "Half a million views on a single quote; room for a data question on how $BTC reacts to hawkish holds.",
    "visual_suggestion": "Visual sugerido: [chart] $BTC return 1-4 weeks after each recent FOMC decision, grouped by hold/cut/hike (data to pull from price history and FOMC dates, verify). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 592662,
-   "views_label": "592,662 views",
+   "views": 617511,
+   "views_label": "617,511 views",
    "highlight": true,
-   "likes": 6244,
-   "is_new": false
-  },
-  {
-   "handle": "@saylor",
-   "display_name": "Michael Saylor",
-   "name": "Michael Saylor",
-   "text": "$MSTR shareholders have approved the Daily Dividends amendment. Preliminary results show 99.3% of votes cast were in favor. The amendment enables $STRF, $STRC, $STRK and $STRD to accrue dividends every calendar day. Thank you to all who voted. https://t.co/w1Cp4GKUy5",
-   "hook": "$MSTR shareholders have approved the Daily Dividends amendment. Preliminary results show 99.3% of votes cast were in favor. The amendment enables $STRF, $STRC, $STRK and $STRD to accrue dividends ever",
-   "url": "https://x.com/saylor/status/2115451822915928244",
-   "status_url": "https://x.com/saylor/status/2115451822915928244",
-   "created_at": "2026-10-28T14:33:12.000Z",
-   "story": "Strategy preferreds get daily dividends",
-   "draft_en": "Strategy's preferred stocks will now accrue dividends every day, after a 99.3% shareholder vote (preliminary).\n\nWorth being clear on what that is:\n- a claim on a company that holds $BTC\n- paid in dollars, by that company\n- not bitcoin, and not your keys\n\nYield always comes from somewhere.\nHere it's the issuer's ability to keep paying.\n\nWould you hold the preferred or the coin?\nSave this before someone calls it 'Bitcoin yield'.",
-   "draft_quote_en": "Daily accrual changes the payment schedule, not the source of the payment.\n\nHonest question: what happens to these dividends in a long $BTC drawdown? Has anyone modeled the coverage?",
-   "video_tip": "Split screen: a coin in a hardware wallet vs. a share certificate, caption 'which one is bitcoin?'; 10s.",
-   "reply_angle": "Separate the instrument from the asset: a preferred is a company's dollar obligation; ask how coverage holds up in a deep $BTC drawdown (check the filings).",
-   "why_chosen": "Huge reach with a product most readers confuse with holding BTC; room for a clear custody/risk distinction.",
-   "views": 440685,
-   "views_label": "440,685 views",
-   "highlight": true,
-   "likes": 6115,
-   "is_new": false
+   "likes": 6533,
+   "is_new": false,
+   "also": [
+    {
+     "handle": "@coinbureau",
+     "views": 59571,
+     "views_label": "59,571 views",
+     "url": "https://x.com/coinbureau/status/2115534172194591158"
+    }
+   ]
   },
   {
    "handle": "@BitcoinMagazine",
@@ -68,37 +55,15 @@
    "also": [
     {
      "handle": "@bitcoinlfgo",
-     "views": 12243,
-     "views_label": "12,243 views",
+     "views": 13395,
+     "views_label": "13,395 views",
      "url": "https://x.com/bitcoinlfgo/status/2115471697914835285"
     }
    ],
-   "views": 100008,
-   "views_label": "100,008 views",
+   "views": 104549,
+   "views_label": "104,549 views",
    "highlight": true,
-   "likes": 1056,
-   "is_new": false
-  },
-  {
-   "handle": "@coinbureau",
-   "display_name": "Coin Bureau",
-   "name": "Coin Bureau",
-   "text": "MASSIVE: \ud83c\udde6\ud83c\uddf7 Argentinas's PESO has plunged to a NEW ALL-TIME LOW against the U.S. dollar this week.\n\nThe Argentine peso LOST about 99% of its value over the past 10 YEARS.\n\nIn 2016, $1 bought roughly 15 pesos. Today, it buys around 1,538 pesos.\n\nJust $650 is now enough to become a https://t.co/eF1zRTjyhz",
-   "hook": "MASSIVE: \ud83c\udde6\ud83c\uddf7 Argentinas's PESO has plunged to a NEW ALL-TIME LOW against the U.S. dollar this week.",
-   "url": "https://x.com/coinbureau/status/2115441840493346901",
-   "status_url": "https://x.com/coinbureau/status/2115441840493346901",
-   "created_at": "2026-10-28T13:53:32.000Z",
-   "story": "Argentine peso at a new low",
-   "draft_en": "Argentine peso at a new low against the dollar, per Coin Bureau.\nIn 2016, $1 bought about 15 pesos. Today, about 1,538.\n\nThat's the real case for saving in something you can't print.\n\nBut be honest about the trade-off:\n- the dollar was the escape hatch for most Argentines\n- $BTC adds volatility on top (check 2022)\n\nIf you live in a weak-currency country, what did you actually do?\nRepost if someone in LatAm needs this framing.",
-   "draft_quote_en": "The numbers are worth checking against official and parallel rates, they differ a lot in Argentina.\n\nThe real question for a saver there: dollars, $BTC, or both, and in what mix?",
-   "video_tip": "Peso stack shrinking year by year from 2016 to today, end on a dollar bill and a $BTC logo side by side; 12s, 9:16.",
-   "reply_angle": "Verify the official vs. parallel rate behind the 99% figure and compare the peso's loss with $BTC's past drawdowns measured in pesos.",
-   "visual_suggestion": "Visual sugerido: [chart] + USD/ARS since 2016 (official and parallel rates) next to $BTC priced in ARS; data from official sources and price history, to be checked. Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "why_chosen": "LatAm currency story close to his audience; numbers to verify and a real savings trade-off.",
-   "views": 55531,
-   "views_label": "55,531 views",
-   "highlight": true,
-   "likes": 438,
+   "likes": 1118,
    "is_new": false
   },
   {
@@ -116,16 +81,16 @@
    "video_tip": "Terminal screen: version check, update, signature verification, done; 10s.",
    "reply_angle": "Point people to the official Bitcoin Core disclosure: affected versions, fixed release, and verifying signatures before updating (check the release notes).",
    "why_chosen": "Security news with a concrete action for node runners; fits his autonomy and verification angle.",
-   "views": 53865,
-   "views_label": "53,865 views",
+   "views": 57725,
+   "views_label": "57,725 views",
    "highlight": true,
-   "likes": 463,
+   "likes": 480,
    "is_new": false,
    "also": [
     {
      "handle": "@DefiantNews",
-     "views": 2748,
-     "views_label": "2,748 views",
+     "views": 2929,
+     "views_label": "2,929 views",
      "url": "https://x.com/DefiantNews/status/2115612582275084546"
     }
    ]
@@ -145,10 +110,10 @@
    "video_tip": "Gold mine output rising vs. a flat 21M line, then a price line swinging; 12s.",
    "reply_angle": "Add the missing half: inelastic supply means demand shocks go straight to price; point to past $BTC drawdowns as the cost of scarcity.",
    "why_chosen": "Clean scarcity claim with good saves; room to add the volatility side.",
-   "views": 49840,
-   "views_label": "49,840 views",
+   "views": 52375,
+   "views_label": "52,375 views",
    "highlight": true,
-   "likes": 1255,
+   "likes": 1329,
    "is_new": false
   },
   {
@@ -171,28 +136,6 @@
    "views_label": "39,559 views",
    "highlight": true,
    "likes": 343,
-   "is_new": true
-  },
-  {
-   "handle": "@natbrunell",
-   "display_name": "Natalie Brunell \u26a1\ufe0f",
-   "name": "Natalie Brunell \u26a1\ufe0f",
-   "text": "\u201cBitcoin would be thrown into total disarray...\u201d\n\n@nic_carter shares his take on the possibility of AI breaking public key encryption vs quantum risk. This is his honest read. \n\nShare your thoughts below. https://t.co/JhRxTWpgOh https://t.co/mkuJLseN8h",
-   "hook": "\u201cBitcoin would be thrown into total disarray...\u201d",
-   "url": "https://x.com/natbrunell/status/2115454826246979798",
-   "status_url": "https://x.com/natbrunell/status/2115454826246979798",
-   "created_at": "2026-10-28T14:45:08.000Z",
-   "story": "AI vs. quantum risk to public keys",
-   "draft_en": "AI breaking public key encryption vs. quantum risk: nic_carter's take is getting shared today.\n\nBefore panicking, separate the questions:\n- what is actually broken today?\n- which coins have exposed public keys?\n- what would an upgrade path look like?\n\nThe practical part: reused or old addresses carry more exposure.\n\nWhich of these do you think is underrated?\nWant me to go deeper on any part?",
-   "draft_quote_en": "Worth separating 'possible someday' from 'broken today'.\n\nWhat is the concrete attack he's describing, and how many coins sit in addresses with exposed public keys?",
-   "video_tip": "Padlock with two shadows labeled AI and quantum, caption 'which one is real?'; 10s.",
-   "reply_angle": "Ask for specifics: which attack, which coins (exposed public keys, reused addresses), and what timeline; avoid fear without evidence.",
-   "content_unreadable": true,
-   "why_chosen": "Open debate with many replies and saves; room for a clarifying, evidence-first reply.",
-   "views": 37806,
-   "views_label": "37,806 views",
-   "highlight": true,
-   "likes": 152,
    "is_new": false
   },
   {
@@ -232,10 +175,10 @@
    "video_tip": "Three-question checklist appearing over an office meeting scene; 10s, 9:16.",
    "reply_angle": "Reframe the test: what matters is whether the advisor explains sizing, past drawdowns and custody, not whether they say 'buy'.",
    "why_chosen": "Provocative one-liner with lots of replies; easy to add a practical checklist.",
-   "views": 33980,
-   "views_label": "33,980 views",
+   "views": 35737,
+   "views_label": "35,737 views",
    "highlight": true,
-   "likes": 750,
+   "likes": 799,
    "is_new": false
   },
   {
@@ -254,10 +197,10 @@
    "video_tip": "Bar chart placeholder: polling error by cycle, alternating direction, label 'check the data'; 10s.",
    "reply_angle": "Stay non-partisan: one cycle of polling misses isn't a base rate; ask for the direction of polling error across several cycles (check historical averages) and compare with prediction market odds.",
    "why_chosen": "Fresh, testable base-rate claim from an account he already engages; bridges to sample size and markets vs polls.",
-   "views": 26820,
-   "views_label": "26,820 views",
+   "views": 29739,
+   "views_label": "29,739 views",
    "highlight": true,
-   "likes": 379,
+   "likes": 426,
    "is_new": false
   },
   {
@@ -276,11 +219,11 @@
    "reply_angle": "Ask for the base rate: list every past period with BTC realized vol at similar lows after a first rally, and check the 90-day returns that followed (glassnode or own price data).",
    "why_chosen": "Fresh analog claim (summer 2023) with 44 replies and 35 bookmarks; easy to test with a base-rate check.",
    "visual_suggestion": "Visual sugerido: [chart] BTC 30-day realized volatility, 2023 vs. 2026 overlaid, marking each low-vol period and the 90-day return after it; data to be pulled and checked. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 20027,
-   "views_label": "20,027 views",
+   "views": 21782,
+   "views_label": "21,782 views",
    "highlight": true,
-   "likes": 235,
-   "is_new": true
+   "likes": 254,
+   "is_new": false
   },
   {
    "handle": "@pete_rizzo_",
@@ -298,32 +241,19 @@
    "reply_angle": "Add that supply is verifiable (check with a node via gettxoutsetinfo) and push to the better question: how much of the mined supply is liquid vs dormant (check on-chain dormancy data).",
    "visual_suggestion": "Visual sugerido: [chart] + $BTC issuance curve by halving era up to 2140, mined vs left to mine (20.1M / <900K from the post). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Verifiable number to complement; invites a supply vs liquid-supply debate.",
-   "views": 17941,
-   "views_label": "17,941 views",
+   "views": 18592,
+   "views_label": "18,592 views",
    "highlight": true,
-   "likes": 442,
-   "is_new": false
-  },
-  {
-   "handle": "@BitcoinNews",
-   "display_name": "Bitcoin.com News",
-   "name": "Bitcoin.com News",
-   "text": "NEW: \ud83d\udfe0 Public companies holding #Bitcoin grew 10% over the past year, per River.\n\nCorporate accumulation now totals 19,000 $BTC/month, potentially reaching 13% of total supply in five years. \ud83d\udcac https://t.co/obrfyBM0Fc",
-   "hook": "NEW: \ud83d\udfe0 Public companies holding #Bitcoin grew 10% over the past year, per River.",
-   "url": "https://x.com/BitcoinNews/status/2115461371718504865",
-   "status_url": "https://x.com/BitcoinNews/status/2115461371718504865",
-   "created_at": "2026-10-28T15:11:09.000Z",
-   "story": "River: public companies hold 10% more BTC; 19,000 BTC/month corporate buying",
-   "draft_en": "Public companies holding $BTC grew 10% in a year, per River.\nCorporate buying around 19,000 BTC a month.\nProjection: 13% of supply in five years.\n\nThe first two are data. The last one is a straight line.\n\nStraight lines assume the buyers keep buying.\nOne company does most of the work.\n\nWhat happens to that projection if the biggest buyer slows down?\nSave this / follow for more checks like this.",
-   "draft_quote_en": "How much of the 19,000 BTC a month is one buyer?\n\nIf it's mostly Strategy, the 13% projection is really a bet on one balance sheet.",
-   "video_tip": "Stacked bar of corporate buying with one dominant slice, then a dotted projection line that bends; 10s.",
-   "reply_angle": "Separate data from projection: ask how concentrated the 19,000 BTC/month is (check CryptoQuant/River on Strategy's share) and what the 13% path assumes.",
-   "why_chosen": "Data plus an extrapolation; perfect to split fact from assumption.",
-   "views": 15752,
-   "views_label": "15,752 views",
-   "highlight": true,
-   "likes": 27,
-   "is_new": false
+   "likes": 468,
+   "is_new": false,
+   "also": [
+    {
+     "handle": "@TheBitcoinConf",
+     "views": 4973,
+     "views_label": "4,973 views",
+     "url": "https://x.com/TheBitcoinConf/status/2115522449248866426"
+    }
+   ]
   },
   {
    "handle": "@_Checkmatey_",
@@ -340,10 +270,53 @@
    "video_tip": "Split screen: emotion faces on one side, matching on-chain charts on the other; 10s.",
    "reply_angle": "Ask how much of 'cycle psychology' on-chain data really captures vs liquidity (check LTH supply and spent output profit ratio), and whether it works in real time or only in hindsight.",
    "why_chosen": "Fresh post from an on-chain analyst; natural spot for a sharp data question.",
-   "views": 15620,
-   "views_label": "15,620 views",
+   "views": 17581,
+   "views_label": "17,581 views",
    "highlight": true,
-   "likes": 137,
+   "likes": 153,
+   "is_new": false
+  },
+  {
+   "handle": "@natbrunell",
+   "display_name": "Natalie Brunell \u26a1\ufe0f",
+   "name": "Natalie Brunell \u26a1\ufe0f",
+   "text": "My latest explainer video premieres at 7 pm ET! \n\nWe've been paying into Social Security for decades. Now the retirement fund is on track to run dry in 2032, and benefits could be cut by 22% if nothing changes. \n\nSo where did all that money go, and why hasn't Washington fixed",
+   "hook": "My latest explainer video premieres at 7 pm ET! ",
+   "url": "https://x.com/natbrunell/status/2115532985088831637",
+   "status_url": "https://x.com/natbrunell/status/2115532985088831637",
+   "created_at": "2026-10-28T19:55:43.000Z",
+   "story": "Nat Brunell: Social Security fund projected to run dry in 2032",
+   "off_niche": true,
+   "draft_en": "\"Benefits could be cut 22% by 2032.\"\n\nThat's the official projection quoted for Social Security.\nWhatever you think about the politics, the lesson for savers is simple:\n- a promise is not an asset you control\n- the terms can change after you've paid in\n- inflation quietly changes them too\n\nThat's why I prefer savings I can verify and hold myself.\nFor me that's spot $BTC, no leverage. Not a pension replacement, a hedge against promises.\n\nWhat's your plan B?\nFollow if you want more plain-numbers takes like this / save it for later.",
+   "draft_quote_en": "The 2032 date and the 22% cut come from the trustees' projections, worth reading in full.\n\nThe bigger point: a retirement promise can be rewritten after you've paid for it. What part of your savings depends on nobody changing the rules?",
+   "video_tip": "Counter ticking toward 2032 with a 22% slice falling off a benefits bar; end on \"Who controls your savings?\"; 8s, 9:16.",
+   "reply_angle": "Bridge without partisanship: check the trustees' report for the 2032 depletion date and the cut size, then ask how much of a saver's plan depends on promises vs. assets they hold.",
+   "why_chosen": "Retirement-savings topic with a concrete date and percentage; bridges to self-held savings without partisanship. Replaced an older card that left the 18h window.",
+   "views": 17413,
+   "views_label": "17,413 views",
+   "highlight": true,
+   "likes": 56,
+   "is_new": true
+  },
+  {
+   "handle": "@BitcoinNews",
+   "display_name": "Bitcoin.com News",
+   "name": "Bitcoin.com News",
+   "text": "NEW: \ud83d\udfe0 Public companies holding #Bitcoin grew 10% over the past year, per River.\n\nCorporate accumulation now totals 19,000 $BTC/month, potentially reaching 13% of total supply in five years. \ud83d\udcac https://t.co/obrfyBM0Fc",
+   "hook": "NEW: \ud83d\udfe0 Public companies holding #Bitcoin grew 10% over the past year, per River.",
+   "url": "https://x.com/BitcoinNews/status/2115461371718504865",
+   "status_url": "https://x.com/BitcoinNews/status/2115461371718504865",
+   "created_at": "2026-10-28T15:11:09.000Z",
+   "story": "River: public companies hold 10% more BTC; 19,000 BTC/month corporate buying",
+   "draft_en": "Public companies holding $BTC grew 10% in a year, per River.\nCorporate buying around 19,000 BTC a month.\nProjection: 13% of supply in five years.\n\nThe first two are data. The last one is a straight line.\n\nStraight lines assume the buyers keep buying.\nOne company does most of the work.\n\nWhat happens to that projection if the biggest buyer slows down?\nSave this / follow for more checks like this.",
+   "draft_quote_en": "How much of the 19,000 BTC a month is one buyer?\n\nIf it's mostly Strategy, the 13% projection is really a bet on one balance sheet.",
+   "video_tip": "Stacked bar of corporate buying with one dominant slice, then a dotted projection line that bends; 10s.",
+   "reply_angle": "Separate data from projection: ask how concentrated the 19,000 BTC/month is (check CryptoQuant/River on Strategy's share) and what the 13% path assumes.",
+   "why_chosen": "Data plus an extrapolation; perfect to split fact from assumption.",
+   "views": 15940,
+   "views_label": "15,940 views",
+   "highlight": true,
+   "likes": 28,
    "is_new": false
   },
   {
@@ -363,32 +336,33 @@
    "reply_angle": "Ask which concept self-custody users get wrong most often, and add the practical link: what a seed backup protects and what it doesn't.",
    "visual_suggestion": "Visual sugerido: [explanatory image] + simple diagram private key, public key, address and seed with one line each, no figures. Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Educational post, easy to complement with a custody angle (content is a video link, not read).",
-   "views": 13392,
-   "views_label": "13,392 views",
+   "views": 13761,
+   "views_label": "13,761 views",
    "highlight": true,
-   "likes": 128,
+   "likes": 131,
    "is_new": false
   },
   {
-   "handle": "@juanbiter",
-   "display_name": "Juan Rodr\u00edguez",
-   "name": "Juan Rodr\u00edguez",
-   "text": "La Fed mantuvo las tasas sin cambios en 3.75% a 4.00%\n\n\ud83c\udfaf La votaci\u00f3n fue 10\u20132. Solo 2 funcionarios quer\u00edan un aumento de 25 pb.\n\nDicen: La inflaci\u00f3n sigue elevada, la econom\u00eda se est\u00e1 expandiendo a un ritmo fuerte y el gasto se ha mantenido.\n\nLa contrataci\u00f3n laboral se mantiene https://t.co/shnzOKbIMG",
-   "hook": "La Fed mantuvo las tasas sin cambios en 3.75% a 4.00%",
-   "url": "https://x.com/juanbiter/status/2115507106128228823",
-   "status_url": "https://x.com/juanbiter/status/2115507106128228823",
-   "created_at": "2026-10-28T18:12:52.000Z",
-   "story": "Fed holds rates, 10-2 vote",
-   "draft_en": "The Fed held rates at 3.75%-4.00%. Two dissents wanted a hike.\n\nThe headline is 'no change'.\nThe signal might be the dissents.\n\nFor $BTC spot holders, the useful question:\n- does a hold move price a week later?\n- or is it noise around a trend?\n\nI'd check the base rate before reacting.\n\nWhat are you watching after today's decision?\nIf it was useful, a repost helps more people see it.",
-   "draft_quote_en": "Dos votos por subir tasas dicen m\u00e1s que la pausa misma.\n\n\u00bf$BTC se ha comportado distinto despu\u00e9s de reuniones con disidencias duras? Vale la pena revisarlo antes de leerlo como alcista o bajista.",
-   "video_tip": "'Hold' stamp on screen, then zoom to '10-2' and two hawkish dissents; 8s.",
-   "reply_angle": "Apunta a los dos votos disidentes y propone revisar la tasa base: retorno de $BTC una semana despu\u00e9s de pausas con disidencias duras vs. otras pausas (dato por calcular).",
-   "why_chosen": "Fed decision in Spanish for his LatAm audience; dissents give a concrete angle to test.",
-   "views": 10169,
-   "views_label": "10,169 views",
+   "handle": "@adam3us",
+   "display_name": "Adam Back",
+   "name": "Adam Back",
+   "text": "#bitcoin passes $67k 200wma https://t.co/NyNTsWv9E0 https://t.co/ZZnuvieoE6",
+   "hook": "#bitcoin passes $67k 200wma https://t.co/NyNTsWv9E0 https://t.co/ZZnuvieoE6",
+   "url": "https://x.com/adam3us/status/2115703114624065780",
+   "status_url": "https://x.com/adam3us/status/2115703114624065780",
+   "created_at": "2026-10-29T07:11:45.000Z",
+   "story": "Adam Back: the 200-week MA passes $67K",
+   "draft_en": "The 200-week moving average just moved above $67K (per Adam Back's chart).\n\nWhy spot buyers watch it:\n- it's roughly 4 years of average price\n- past cycle lows sat near or under it\n- price far above it = you're paying a premium to the long-run trend\n\nIt's a reference line, not a floor.\nCheck how far $BTC sits above it today, and how that gap looked at past tops and bottoms.\n\nDo you use it in your buying plan?\nSave this for the next time someone says \"it can't go lower.\"",
+   "draft_quote_en": "The 200WMA rising is the slow part of the story.\n\nThe useful part for spot buyers: how far is price above it right now, and what was that gap at past cycle lows vs. past tops? Distance matters more than the level.",
+   "video_tip": "$BTC weekly chart with the 200WMA in lime; shade the gap between price and the line, flash past lows touching it; 10s, 9:16.",
+   "reply_angle": "Add the distance angle: check the % gap between BTC price and the 200WMA now vs. at past cycle lows and tops (TradingView or own data), no forecast.",
+   "why_chosen": "Freshest post on the watchlist (under 2h) with a concrete quant level; 27 replies already and easy to complement with a chart.",
+   "visual_suggestion": "Visual sugerido: [chart] BTC weekly price vs. 200-week moving average, with the % gap shaded and past cycle lows marked; all values to be pulled and checked. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "views": 12532,
+   "views_label": "12,532 views",
    "highlight": true,
-   "likes": 145,
-   "is_new": false
+   "likes": 215,
+   "is_new": true
   },
   {
    "handle": "@jameslavish",
@@ -406,54 +380,31 @@
    "reply_angle": "Turn the vibe into a rule: ask how he defines a buying opportunity, and suggest checking a backtest of fixed DCA vs. drawdown-triggered spot buys over the last cycle.",
    "why_chosen": "Freshest hit on the board (under 2h old) with an open claim that invites a DCA vs. rules-based buying discussion.",
    "visual_suggestion": "Visual sugerido: [backtest chart] $BTC price with fixed weekly DCA buys vs. drawdown-triggered buys marked, and resulting cost basis for each (data from price history, to be computed and verified). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 9730,
-   "views_label": "9,730 views",
-   "highlight": false,
-   "likes": 459,
+   "views": 11385,
+   "views_label": "11,385 views",
+   "highlight": true,
+   "likes": 561,
    "is_new": false
   },
   {
-   "handle": "@TheBlockCo",
-   "display_name": "The Block",
-   "name": "The Block",
-   "text": "THE BLOCK: Bitwise has raised its bitcoin bitcoin:native price target to $1.6 million by 2036, up from its previous $1.3 million forecast for 2035.\n\nThe crypto asset manager projects annualized returns of 34.3% over the next decade, driven by institutional adoption and limited https://t.co/P8cXFJ32iu",
-   "hook": "THE BLOCK: Bitwise has raised its bitcoin bitcoin:native price target to $1.6 million by 2036, up from its previous $1.3 million forecast for 2035.",
-   "url": "https://x.com/TheBlockCo/status/2115448152035635310",
-   "status_url": "https://x.com/TheBlockCo/status/2115448152035635310",
-   "created_at": "2026-10-28T14:18:37.000Z",
-   "story": "Bitwise $1.6M BTC target by 2036",
-   "draft_en": "Bitwise raised its $BTC target to $1.6M by 2036, per The Block.\n\nA 10-year price target is a model, not a forecast you can check soon.\n\nWhat matters is the inputs:\n- how much institutions allocate\n- how fast that happens\n- what supply is actually liquid\n\nChange one input and the number moves a lot.\n\nWhich assumption do you trust least?\nIf this helps you read the next target, a repost spreads it.",
-   "draft_quote_en": "The interesting part isn't $1.6M, it's the allocation assumption behind it.\n\nWhat does the model give if institutions allocate half of what Bitwise assumes? Is that scenario published?",
-   "video_tip": "Slider animation: change the allocation assumption and watch the 2036 target swing; 10s.",
-   "reply_angle": "Ask for the sensitivity: which allocation and adoption inputs drive the $1.6M, and what the target is if they come in at half (check the Bitwise report).",
-   "visual_suggestion": "Visual sugerido: [chart] + scenario bars for the 2036 target under different institutional allocation assumptions, taken only from the Bitwise report (to be checked). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "why_chosen": "Big round target with hidden assumptions; room for a model-inputs question rather than hype.",
-   "views": 7884,
-   "views_label": "7,884 views",
-   "highlight": false,
-   "likes": 35,
-   "is_new": false
-  },
-  {
-   "handle": "@TheBitcoinConf",
-   "display_name": "The Bitcoin Conference",
-   "name": "The Bitcoin Conference",
-   "text": "#BITCOIN GOOGLE SEARCHES JUST HIT A 5-YEAR LOW WHILE BTC SITS AT $80,600 \ud83e\udd2b\n\nWE'RE STILL EARLY! \ud83d\ude4c https://t.co/JG85XkzSMl",
-   "hook": "#BITCOIN GOOGLE SEARCHES JUST HIT A 5-YEAR LOW WHILE BTC SITS AT $80,600 \ud83e\udd2b",
-   "url": "https://x.com/TheBitcoinConf/status/2115438342301184308",
-   "status_url": "https://x.com/TheBitcoinConf/status/2115438342301184308",
-   "created_at": "2026-10-28T13:39:38.000Z",
-   "story": "Google searches for Bitcoin at 5-year low",
-   "draft_en": "Google searches for Bitcoin at a 5-year low while $BTC sits near $80K, per a post going around today.\n\n'Still early' is one read.\nAnother: retail attention lags price, and low interest can last.\n\nSearch interest is a sentiment gauge, not a timing tool.\n\nWhat I'd check:\n- past lows in search interest\n- $BTC 6 and 12 months later\n- how often low interest stayed low\n\nSave this for the next time someone says 'still early'.",
-   "draft_quote_en": "5-year low in searches, per the post. Does low search interest have a track record as a buy signal, or does it just mean retail isn't watching?\n\nWould like to see the past lows and what $BTC did 6 and 12 months after.",
-   "video_tip": "Search-interest line falling while price stays flat, caption 'early or ignored?'; 10s.",
-   "reply_angle": "Ask for the base rate: check past Google Trends lows and $BTC returns 6-12 months later before calling it 'early'.",
-   "visual_suggestion": "Visual sugerido: [chart] + 5-year Google Trends interest for 'Bitcoin' overlaid on $BTC price, marking past search lows; data from Google Trends and price history, to be checked. Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "why_chosen": "Debatable 'still early' claim on a sentiment metric; a data check fits his lane.",
-   "views": 6623,
-   "views_label": "6,623 views",
-   "highlight": false,
-   "likes": 142,
+   "handle": "@juanbiter",
+   "display_name": "Juan Rodr\u00edguez",
+   "name": "Juan Rodr\u00edguez",
+   "text": "La Fed mantuvo las tasas sin cambios en 3.75% a 4.00%\n\n\ud83c\udfaf La votaci\u00f3n fue 10\u20132. Solo 2 funcionarios quer\u00edan un aumento de 25 pb.\n\nDicen: La inflaci\u00f3n sigue elevada, la econom\u00eda se est\u00e1 expandiendo a un ritmo fuerte y el gasto se ha mantenido.\n\nLa contrataci\u00f3n laboral se mantiene https://t.co/shnzOKbIMG",
+   "hook": "La Fed mantuvo las tasas sin cambios en 3.75% a 4.00%",
+   "url": "https://x.com/juanbiter/status/2115507106128228823",
+   "status_url": "https://x.com/juanbiter/status/2115507106128228823",
+   "created_at": "2026-10-28T18:12:52.000Z",
+   "story": "Fed holds rates, 10-2 vote",
+   "draft_en": "The Fed held rates at 3.75%-4.00%. Two dissents wanted a hike.\n\nThe headline is 'no change'.\nThe signal might be the dissents.\n\nFor $BTC spot holders, the useful question:\n- does a hold move price a week later?\n- or is it noise around a trend?\n\nI'd check the base rate before reacting.\n\nWhat are you watching after today's decision?\nIf it was useful, a repost helps more people see it.",
+   "draft_quote_en": "Dos votos por subir tasas dicen m\u00e1s que la pausa misma.\n\n\u00bf$BTC se ha comportado distinto despu\u00e9s de reuniones con disidencias duras? Vale la pena revisarlo antes de leerlo como alcista o bajista.",
+   "video_tip": "'Hold' stamp on screen, then zoom to '10-2' and two hawkish dissents; 8s.",
+   "reply_angle": "Apunta a los dos votos disidentes y propone revisar la tasa base: retorno de $BTC una semana despu\u00e9s de pausas con disidencias duras vs. otras pausas (dato por calcular).",
+   "why_chosen": "Fed decision in Spanish for his LatAm audience; dissents give a concrete angle to test.",
+   "views": 10306,
+   "views_label": "10,306 views",
+   "highlight": true,
+   "likes": 146,
    "is_new": false
   },
   {
@@ -472,10 +423,10 @@
    "reply_angle": "Add the next step: test whether transaction count has ever led $BTC price (lagged correlation check to run), so the debate moves from vibes to evidence.",
    "visual_suggestion": "Visual sugerido: [chart] + weekday $BTC transaction count, Oct 14-27 vs. July-September average, as reported by Santiment (to be checked). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Data post that tests a popular narrative; perfect for a quant follow-up question.",
-   "views": 6481,
-   "views_label": "6,481 views",
+   "views": 6623,
+   "views_label": "6,623 views",
    "highlight": false,
-   "likes": 7,
+   "likes": 8,
    "is_new": false
   },
   {
@@ -493,11 +444,11 @@
    "video_tip": "Three locks closing one by one: print, freeze, censor; the last two only lock with your own keys; 9s, 9:16.",
    "reply_angle": "Add the custody caveat: the protocol separates supply from the state, but holders on exchanges or ETFs keep counterparty and freeze risk; self-custody is what makes it personal.",
    "why_chosen": "Fresh one-line thesis with strong likes/repost ratio; replaced the older card that left the 18h window.",
-   "views": 5920,
-   "views_label": "5,920 views",
+   "views": 6347,
+   "views_label": "6,347 views",
    "highlight": false,
-   "likes": 278,
-   "is_new": true
+   "likes": 298,
+   "is_new": false
   },
   {
    "handle": "@ecoinometrics",
@@ -515,21 +466,22 @@
    "reply_angle": "Build on it: ask whether the tails and volatility after decisions also match, not just the median; a check he can run on the same 81 meetings.",
    "visual_suggestion": "Visual sugerido: [chart] + distribution of $BTC 7-day returns after Fed cuts, holds and hikes (81 meetings, source ecoinometrics, to be checked). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "FOMC day plus a real base rate; perfect fit for a data-minded reply.",
-   "views": 5469,
-   "views_label": "5,469 views",
+   "views": 5584,
+   "views_label": "5,584 views",
    "highlight": false,
-   "likes": 23,
+   "likes": 24,
    "is_new": false
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Fed follow-through: hold at 3.75%-4.00%, Warsh says inflation is too high (WatcherGuru, coinbureau, BitcoinNews)",
-  "Analogs and bets: Glassnode sees summer 2023 again, Cardone and others bet Calacanis $1M on a new ATH (glassnode, Cointelegraph, SantimentData)",
-  "Projections as straight lines: Bitwise $1.6M by 2036, Strategic Bitcoin Reserve 'buying soon' (BitcoinArchive, TheBlockCo)",
-  "Yield wrappers around $BTC: Strategy preferreds now accrue daily dividends (saylor, BitcoinMagazine, pete_rizzo_)",
-  "Off-niche reach: Google earnings miss, midterm polling claims, AI vs. Bitcoin scarcity"
+  "Fed follow-through: hold at 3.75%-4.00%, Warsh says inflation is too high (WatcherGuru, coinbureau, juanbiter, ecoinometrics)",
+  "Long-run trend lines: 200-week MA passes $67K, 50-week MA dip compared to 2023 (adam3us, BitcoinArchive, glassnode)",
+  "Bets instead of data: Calacanis vs. $1M ATH bets, escrow contract and debate calls (Cointelegraph, dotkrueger, pete_rizzo_, SantimentData)",
+  "Supply and scarcity framing: under 900K BTC left, 'no AI can make coin 21,000,001' (pete_rizzo_, TheBitcoinConf, danheld, jackmallers)",
+  "Custody and node security: Bitcoin Core patches, tampered wallet losses, Google's bank custody framework (BitcoinNewsCom, DefiantNews, BitcoinMagazine)",
+  "Off-niche reach: Google earnings miss, wealth-tax moves, Social Security 2032, midterm polling"
  ],
  "no_hits": [
   {
@@ -543,19 +495,24 @@
    "max_views": 0
   },
   {
+   "handle": "@saylor",
+   "reason": "No original posts in the last 18h.",
+   "max_views": 0
+  },
+  {
    "handle": "@lopp",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 12529
+   "max_views": 13394
   },
   {
    "handle": "@APompliano",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 48756
+   "max_views": 51815
   },
   {
    "handle": "@CaitlinLong_",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 5857
+   "max_views": 6002
   },
   {
    "handle": "@BitcoinPierre",
@@ -564,13 +521,13 @@
   },
   {
    "handle": "@Pledditor",
-   "reason": "No original posts in the last 18h.",
-   "max_views": 0
+   "reason": "Originals below 2,000 views floor.",
+   "max_views": 459
   },
   {
    "handle": "@Bitcoin",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 51990
+   "max_views": 57904
   },
   {
    "handle": "@100trillionUSD",
@@ -578,29 +535,19 @@
    "max_views": 0
   },
   {
-   "handle": "@adam3us",
+   "handle": "@nic_carter",
+   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
+   "max_views": 475261
+  },
+  {
+   "handle": "@maxkeiser",
    "reason": "No original posts in the last 18h.",
    "max_views": 0
   },
   {
-   "handle": "@nic_carter",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 419985
-  },
-  {
-   "handle": "@maxkeiser",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 9560
-  },
-  {
    "handle": "@dotkrueger",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 21100
-  },
-  {
-   "handle": "@bitcoinlfgo",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 12243
+   "max_views": 21709
   },
   {
    "handle": "@therationalroot",
@@ -635,17 +582,17 @@
   {
    "handle": "@coinbase",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 127851
+   "max_views": 149003
   },
   {
    "handle": "@CoinMarketCap",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 37458
+   "max_views": 38361
   },
   {
    "handle": "@CoinDesk",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 85552
+   "max_views": 90315
   },
   {
    "handle": "@tier10k",
@@ -654,13 +601,13 @@
   },
   {
    "handle": "@BlockworksData",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 18870
+   "reason": "No original posts in the last 18h.",
+   "max_views": 0
   },
   {
-   "handle": "@DefiantNews",
+   "handle": "@TheBlockCo",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 4827
+   "max_views": 13294
   },
   {
    "handle": "@Coinvo",
@@ -668,11 +615,11 @@
    "max_views": 23592
   }
  ],
- "virals_narrative": "Watchlist scan done (341 originals in 18h, 50 accounts). One card per account.",
- "narrative_synthesis": "Overnight after the FOMC: the Fed hold and Warsh's 'inflation is too high' still lead reach, with Google's earnings miss behind. Custody and analogs split the feed: Google pitches a custody framework for banks, Glassnode compares the low-vol setup to summer 2023, and Calacanis gets $1M bets on a new ATH. On $BTC: price around $81K, under 900K left to mine, Strategy's daily preferred dividends, and Bitwise's $1.6M-by-2036 target. Best angle for @ForecastQuant: base rates after Fed holds, custodian vs. self-custody, analogs vs. base rates, $BTC spot only.",
+ "virals_narrative": "Watchlist scan done (287 originals in 18h, 50 accounts). One card per account.",
+ "narrative_synthesis": "Early Thursday: the Fed hold and Warsh's 'inflation is too high' still lead reach, Google's earnings miss and wealth-tax moves fill the off-niche feed. The Calacanis no-new-ATH debate keeps running (a smart-contract escrow proposal, a Saylor debate ask). On $BTC: Adam Back flags the 200-week MA passing $67K, under 900K BTC left to mine, Bitcoin Core patched three bugs, and Singapore police report tampered hardware-wallet losses. Best angle for @ForecastQuant: distance from long-run averages, base rates vs. bets, custody hygiene, $BTC spot only.",
  "virals_window": "last 24h",
  "virals_target": 20,
- "hits_count": 23,
+ "hits_count": 20,
  "outsiders_count": 0,
  "previous_day": {
   "date": "2026-10-27",
@@ -1037,11 +984,11 @@
  "you_rank": {
   "handle": "@ForecastQuant",
   "best_views": 97,
-  "total_views": 142,
+  "total_views": 143,
   "best_url": "https://x.com/ForecastQuant/status/2115611965057806611",
   "posts_counted": 9,
-  "rank_among_watchlist": 38,
-  "total_accounts": 38,
+  "rank_among_watchlist": 37,
+  "total_accounts": 37,
   "vs_5k": "pending",
   "vs_10k": "pending",
   "note": "Originals + quotes, last 18h; replies excluded."
