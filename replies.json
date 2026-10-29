@@ -1,31 +1,20 @@
 {
   "meta": {
-    "updated_at": "2026-10-29T11:45:00-03:00"
+    "updated_at": "2026-10-29T12:15:00-03:00"
   },
   "replies": [
     {
-      "id": "2115815570553942425",
-      "date": "2026-10-29T11:38:36-03:00",
-      "handle": "BTC21Academy",
-      "post_url": "https://x.com/BTC21Academy/status/2115815570553942425",
-      "user_post": "@BTC21Academy @PROTOCOLNULL Got it. So the seed restores the coins, but the labels only come back if I kept the file and the new wallet reads it. That file is basically a privacy backup of its own. Which wallets handle the import cleanly today?",
-      "reply": "@ForecastQuant @PROTOCOLNULL Support is still patchy and changes with updates, so test before you trust it: export your labels, import them into the new wallet, and check they show up. If they do, keep that file backed up and private.",
-      "draft": "Fair point: a test restore beats any compatibility list. I'd do it with a small wallet first, before moving anything real. Have you seen labels survive a full round trip, export and back?",
-      "draft_alt": "So the routine is export, import, verify, then back up the file privately. Simple, but almost nobody tests it until they need it.",
+      "id": "2115822695820771578",
+      "date": "2026-10-29T12:06:55-03:00",
+      "handle": "LeonWgmii",
+      "post_url": "https://x.com/LeonWgmii/status/2115822695820771578",
+      "user_post": "\"May start buying very soon, once market rules are settled\" has two conditions and no date.\n\nWhere does the $200K come from? Nothing in the quote says that. Worth keeping the statement and the price target apart.",
+      "reply": "@ForecastQuant Yeah, those got mixed together fast. The quote sounds conditional, not like a clean price call.",
+      "draft": "Exactly. Two conditions, no date, no amount.\n\nIf the reserve does buy, size and funding source matter more than any headline number. Which would you watch first: the bill or the budget line?",
+      "draft_alt": "Right. A conditional \"may buy\" turned into \"$200K incoming\" in one repost. I'd wait for the bill text before pricing anything in.",
       "status": "Esperando tu ok",
-      "new": true
-    },
-    {
-      "id": "2115788666610024483",
-      "date": "2026-10-29T09:51:42-03:00",
-      "handle": "ERJimenez",
-      "post_url": "https://x.com/ERJimenez/status/2115788666610024483",
-      "user_post": "@ERJimenez Las liquidaciones son ventas forzadas de posiciones apalancadas, no holders vendiendo por convicción. ¿Ves los $80.000 como zona para comprar spot de a poco o esperas más abajo?",
-      "reply": "@ForecastQuant Me parece una buena zona para acumular",
-      "draft": "Tiene sentido. Yo lo pensaría en tramos: compras spot escalonadas y sin apalancamiento, así una caída extra no te obliga a vender. ¿Tú divides la entrada o entras de una?",
-      "draft_alt": "Acumular de a poco en spot baja el riesgo de equivocarse con el momento exacto. ¿Hay algún nivel donde aumentarías la compra?",
-      "status": "Esperando tu ok",
-      "new": true
+      "new": true,
+      "note": "Responder rápido: cuenta grande, 22K seguidores."
     }
   ]
 }
