@@ -1,13 +1,13 @@
 {
  "meta": {
-  "generated_at": "2026-10-29T13:08:20-03:00",
+  "generated_at": "2026-10-29T14:05:42-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
   "listed": 33,
   "in_niche": 0,
   "not_recommended": 33,
   "new_since_prev": 0,
-  "removed_replied": 8,
+  "removed_replied": 0,
   "removed_old": 0
  },
  "posts": [
@@ -96,7 +96,7 @@
    "url": "https://x.com/CryptoLord100x/status/2115633990107611231",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1151,
+    "impression_count": 1158,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -108,7 +108,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~85 vistas/h, autor 17.6K seguidores, replies: 1"
+    "reason": "14 h, ~79 vistas/h, autor 17.6K seguidores, replies: 1"
    }
   },
   {
@@ -133,7 +133,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~14 vistas/h, autor 1.3K seguidores, replies: 1"
+    "reason": "14 h, ~13 vistas/h, autor 1.3K seguidores, replies: 1"
    }
   },
   {
@@ -146,7 +146,7 @@
    "url": "https://x.com/Heliumdeploy/status/2115633920637276348",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 747,
+    "impression_count": 757,
     "like_count": 12,
     "quote_count": 0,
     "reply_count": 4,
@@ -158,7 +158,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~55 vistas/h, autor 11.3K seguidores, replies: 4"
+    "reason": "14 h, ~52 vistas/h, autor 11.3K seguidores, replies: 4"
    }
   },
   {
@@ -196,7 +196,7 @@
    "url": "https://x.com/MacroAlphaHQ/status/2115633810909835275",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 569,
+    "impression_count": 571,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 2,
@@ -208,7 +208,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~42 vistas/h, autor 7.2K seguidores, replies: 2"
+    "reason": "14 h, ~39 vistas/h, autor 7.2K seguidores, replies: 2"
    }
   },
   {
@@ -221,8 +221,8 @@
    "url": "https://x.com/Jason/status/2115633770367689061",
    "m": {
     "bookmark_count": 18,
-    "impression_count": 42735,
-    "like_count": 138,
+    "impression_count": 44628,
+    "like_count": 140,
     "quote_count": 7,
     "reply_count": 12,
     "repost_count": 3
@@ -233,7 +233,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14 h, ~3.2K vistas/h, autor 1816.7K seguidores, replies: 12"
+    "reason": "14 h, ~3.1K vistas/h, autor 1816.8K seguidores, replies: 12"
    }
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://x.com/kangbedahhh/status/2115633732724076900",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 782,
+    "impression_count": 829,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -271,7 +271,7 @@
    "url": "https://x.com/SneakyAlgo/status/2115633723454701945",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 274,
+    "impression_count": 275,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
@@ -283,7 +283,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~20 vistas/h, autor 1.6K seguidores, replies: 1"
+    "reason": "14 h, ~18 vistas/h, autor 1.6K seguidores, replies: 1"
    }
   },
   {
@@ -296,7 +296,7 @@
    "url": "https://x.com/JesseOlson/status/2115633715309367384",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3605,
+    "impression_count": 3612,
     "like_count": 22,
     "quote_count": 0,
     "reply_count": 0,
@@ -308,7 +308,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~266 vistas/h, autor 83.7K seguidores, replies: 0"
+    "reason": "14 h, ~249 vistas/h, autor 83.7K seguidores, replies: 0"
    }
   },
   {
@@ -346,7 +346,7 @@
    "url": "https://x.com/Ex54yumD72/status/2115633678038741413",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 77,
+    "impression_count": 78,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -371,7 +371,7 @@
    "url": "https://x.com/BitcoinFeniks/status/2115633650653884778",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 342,
+    "impression_count": 348,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -383,7 +383,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~25 vistas/h, autor 12.4K seguidores, replies: 0"
+    "reason": "14 h, ~24 vistas/h, autor 12.4K seguidores, replies: 0"
    }
   },
   {
@@ -396,7 +396,7 @@
    "url": "https://x.com/KnightOw7/status/2115633521850982642",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 93,
+    "impression_count": 95,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -408,7 +408,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~6 vistas/h, autor 2.0K seguidores, replies: 0"
+    "reason": "15 h, ~6 vistas/h, autor 2.0K seguidores, replies: 0"
    }
   },
   {
@@ -421,7 +421,7 @@
    "url": "https://x.com/urielslutpop/status/2115633483309629689",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 221,
+    "impression_count": 223,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 3,
@@ -433,7 +433,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~16 vistas/h, autor 752 seguidores, replies: 3"
+    "reason": "15 h, ~15 vistas/h, autor 752 seguidores, replies: 3"
    }
   },
   {
@@ -458,7 +458,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~2 vistas/h, autor 8 seguidores, replies: 0"
+    "reason": "15 h, ~2 vistas/h, autor 8 seguidores, replies: 0"
    }
   },
   {
@@ -471,7 +471,7 @@
    "url": "https://x.com/Jase147819796/status/2115633365760238053",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 132,
+    "impression_count": 143,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -483,7 +483,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~9 vistas/h, autor 706 seguidores, replies: 0"
+    "reason": "15 h, ~9 vistas/h, autor 706 seguidores, replies: 0"
    }
   },
   {
@@ -496,7 +496,7 @@
    "url": "https://x.com/richjamesdobbs/status/2115633327155691897",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 24,
+    "impression_count": 25,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -508,7 +508,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~1 vistas/h, autor 5.9K seguidores, replies: 0"
+    "reason": "15 h, ~1 vistas/h, autor 5.9K seguidores, replies: 0"
    }
   },
   {
@@ -521,8 +521,8 @@
    "url": "https://x.com/StockWizardsHQ/status/2115633305181892909",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 39,
-    "like_count": 5,
+    "impression_count": 45,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -533,7 +533,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~2 vistas/h, autor 1.0K seguidores, replies: 0"
+    "reason": "15 h, ~3 vistas/h, autor 1.0K seguidores, replies: 0"
    }
   },
   {
@@ -546,8 +546,8 @@
    "url": "https://x.com/GrindeOptions/status/2115633294822056156",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 3935,
-    "like_count": 44,
+    "impression_count": 4063,
+    "like_count": 45,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 1
@@ -558,7 +558,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~290 vistas/h, autor 58.7K seguidores, replies: 2"
+    "reason": "15 h, ~279 vistas/h, autor 58.7K seguidores, replies: 2"
    }
   },
   {
@@ -583,7 +583,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~5 vistas/h, autor 29 seguidores, replies: 0"
+    "reason": "15 h, ~4 vistas/h, autor 29 seguidores, replies: 0"
    }
   },
   {
@@ -608,7 +608,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~3 vistas/h, autor 720 seguidores, replies: 5"
+    "reason": "15 h, ~2 vistas/h, autor 720 seguidores, replies: 5"
    }
   },
   {
@@ -621,7 +621,7 @@
    "url": "https://x.com/hongshidu/status/2115633111736467665",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 40,
+    "impression_count": 41,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -633,7 +633,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~2 vistas/h, autor 144 seguidores, replies: 0"
+    "reason": "15 h, ~2 vistas/h, autor 144 seguidores, replies: 0"
    }
   },
   {
@@ -646,7 +646,7 @@
    "url": "https://x.com/AaronTolentinoT/status/2115633103595298900",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 21,
+    "impression_count": 22,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -658,7 +658,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~1 vistas/h, autor 1.0K seguidores, replies: 0"
+    "reason": "15 h, ~1 vistas/h, autor 1.0K seguidores, replies: 0"
    }
   },
   {
@@ -671,7 +671,7 @@
    "url": "https://x.com/theDEGENtleman/status/2115633104463294943",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 140,
+    "impression_count": 142,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 2,
@@ -683,7 +683,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~10 vistas/h, autor 3.9K seguidores, replies: 2"
+    "reason": "15 h, ~9 vistas/h, autor 3.9K seguidores, replies: 2"
    }
   },
   {
@@ -696,7 +696,7 @@
    "url": "https://x.com/PredictionsScan/status/2115633029867553245",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 225,
+    "impression_count": 226,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -708,7 +708,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~16 vistas/h, autor 245 seguidores, replies: 0"
+    "reason": "15 h, ~15 vistas/h, autor 245 seguidores, replies: 0"
    }
   },
   {
@@ -721,8 +721,8 @@
    "url": "https://x.com/hodlxhold/status/2115549344950821112",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1123,
-    "like_count": 89,
+    "impression_count": 1133,
+    "like_count": 90,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 6
@@ -733,7 +733,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "19 h, ~58 vistas/h, autor 14.5K seguidores, replies: 2"
+    "reason": "20 h, ~56 vistas/h, autor 14.5K seguidores, replies: 2"
    }
   },
   {
@@ -746,9 +746,9 @@
    "url": "https://x.com/CastilloTrading/status/2115539332979163148",
    "m": {
     "bookmark_count": 11,
-    "impression_count": 13517,
+    "impression_count": 13596,
     "like_count": 115,
-    "quote_count": 0,
+    "quote_count": 1,
     "reply_count": 7,
     "repost_count": 10
    },
@@ -758,7 +758,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "20 h, ~683 vistas/h, autor 105.5K seguidores, replies: 7"
+    "reason": "21 h, ~655 vistas/h, autor 105.5K seguidores, replies: 7"
    }
   },
   {
@@ -771,8 +771,8 @@
    "url": "https://x.com/astronomer_zero/status/2115537347546935674",
    "m": {
     "bookmark_count": 16,
-    "impression_count": 44336,
-    "like_count": 194,
+    "impression_count": 44669,
+    "like_count": 197,
     "quote_count": 2,
     "reply_count": 33,
     "repost_count": 4
@@ -783,7 +783,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "20 h, ~2.2K vistas/h, autor 65.8K seguidores, replies: 33"
+    "reason": "21 h, ~2.1K vistas/h, autor 65.8K seguidores, replies: 33"
    }
   },
   {
@@ -796,7 +796,7 @@
    "url": "https://x.com/Crypto_zerro/status/2115507814529683765",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 783,
+    "impression_count": 786,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 2,
@@ -808,7 +808,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~35 vistas/h, autor 1.3K seguidores, replies: 2"
+    "reason": "23 h, ~34 vistas/h, autor 1.3K seguidores, replies: 2"
    }
   },
   {
@@ -821,7 +821,7 @@
    "url": "https://x.com/kriptoani/status/2115495435590570080",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 3055,
+    "impression_count": 3101,
     "like_count": 27,
     "quote_count": 0,
     "reply_count": 20,
@@ -833,7 +833,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~134 vistas/h, autor 2.6K seguidores, replies: 20"
+    "reason": "24 h, ~131 vistas/h, autor 2.6K seguidores, replies: 20"
    }
   }
  ]
