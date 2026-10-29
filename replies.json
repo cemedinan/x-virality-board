@@ -1,31 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-29T15:16:00-03:00"
+    "updated_at": "2026-10-29T15:25:00-03:00"
   },
-  "replies": [
-    {
-      "id": "2115869075239026849",
-      "date": "2026-10-29T15:11:13-03:00",
-      "handle": "polyscripts",
-      "post_url": "https://x.com/polyscripts/status/2115869075239026849",
-      "user_post": "Fidelity says $BTC holders' unrealized profit (NUPL) went from 0.09 to 0.36 last quarter. They add that readings around 0.36 historically came with a median 1-year return of 93%. Before you lean on that: how many independent episodes is that median built from? ...",
-      "reply": "@ForecastQuant I would want the sample size and worst 1-year return first. The median looks great, but the outliers tell you how much risk you're actually taking.",
-      "draft": "Same order for me. With NUPL near 0.36 you get maybe 4-5 real cycles, so one bad episode moves the median a lot. Worst case tells you whether you can actually sit through it.",
-      "draft_alt": "Agreed. A 93% median from a handful of cycles is a story, not a stat. Would you size differently if the worst 1-year return was negative?",
-      "status": "Esperando tu ok",
-      "new": true
-    },
-    {
-      "id": "2115868068283052077",
-      "date": "2026-10-29T15:07:13-03:00",
-      "handle": "polyscripts",
-      "post_url": "https://x.com/polyscripts/status/2115868068283052077",
-      "user_post": "US spot $BTC ETFs: first 30-day net outflow since late July, about -$292M (per Glassnode). Context matters more than the sign. ... Flows describe who bought.",
-      "reply": "@ForecastQuant ETF flows are useful context, but they make more sense alongside price action and liquidity. Outflows alone don't tell you whether BTC is about to drop or if buyers are just taking a break.",
-      "draft": "Exactly. Outflows while price holds range usually read as a pause, not distribution. Which liquidity signal do you pair with flows, spot depth or funding?",
-      "draft_alt": "Right, flows are the who, price and liquidity are the how much it matters. -$292M with price flat is a very different signal than with price breaking down.",
-      "status": "Esperando tu ok",
-      "new": true
-    }
-  ]
+  "replies": []
 }
