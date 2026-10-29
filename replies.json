@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-10-29T15:25:00-03:00"
+    "updated_at": "2026-10-29T20:24:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2115943220219990352",
+      "date": "2026-10-29T20:05:50-03:00",
+      "handle": "Hydra_Xrpl",
+      "post_url": "https://x.com/Hydra_Xrpl/status/2115943220219990352",
+      "user_post": "@Hydra_Xrpl Makes sense. Flattening CVD while price still drifts lower is the tell for me too. Do you wait for a reclaim of the level before acting, or scale in on the flattening itself?",
+      "reply": "@ForecastQuant depends ngl. small starter on the flattening, size up if it reclaims",
+      "draft": "Starter on the flattening, size up on the reclaim is a clean split. Where do you put invalidation for the starter: below the prior low, or a fixed %?",
+      "draft_alt": "Makes sense. Scaling in keeps you in the move without betting everything on the first signal.",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
