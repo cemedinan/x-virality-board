@@ -58,16 +58,17 @@ main{max-width:860px;padding:14px 18px 60px}
 function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
 async function copyDraft(btn,text){try{await navigator.clipboard.writeText(text)}catch(e){const ta=document.createElement('textarea');ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove()}const p=btn.textContent;btn.textContent='[¡copiado!]';setTimeout(()=>{btn.textContent=p},1400)}
 let D,O='new';const H=3600e3;function isNew(p){return p.new===true||Date.now()-new Date(p.date)<=6*H}
-function blk(lbl,id,t){return`<div class="draft"><div class="lbl">${lbl} <button type="button" class="cp" data-draft-id="${id}">[copiar borrador]</button></div><pre id="${id}">${esc(t)}</pre></div>`}
+function tid(p){const m=String(p.post_url||'').match(/status\/(\d+)/);return m?m[1]:String(p.id)}
+function xurl(p,t){return'https://x.com/intent/post?text='+encodeURIComponent(t)+'&in_reply_to='+tid(p)}
+function blk(lbl,id,t,p){return`<div class="draft"><div class="lbl">${lbl} <a class="cp" href="${esc(xurl(p,t))}" target="_blank" rel="noopener">[responder en X ↗]</a></div><pre id="${id}">${esc(t)}</pre></div>`}
 function render(){const rs=D.replies.filter(p=>Date.now()-new Date(p.date)<=24*H).sort((a,b)=>(new Date(b.date)-new Date(a.date))*(O==='new'?1:-1));
 document.getElementById('replies').innerHTML=rs.map(p=>{const d=new Date(p.date).toLocaleString('es-CL',{timeZone:'America/Santiago',dateStyle:'medium',timeStyle:'short'});
 return`<article class="msg"><div><span class="who"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">@${esc(p.handle)}</a></span><span class="time">${esc(d)} (Chile)</span><span class="tag">#${esc(String(p.status).toLowerCase().replace(/\s+/g,'-'))}</span>${isNew(p)?'<span class="tag new">* NUEVA *</span>':''}</div>
 <div class="lbl">tu post</div><div class="txt">${esc(p.user_post)}</div>
 <div class="lbl">su respuesta</div><div class="txt">${esc(p.reply)}</div>
 ${p.note?`<div class="note">* ${esc(p.note)} *</div>`:''}
-${p.visual?`<div class="draft"><div class="lbl">visual sugerido</div><pre>${esc(p.visual)}</pre></div>`:''}${blk('borrador','d-'+p.id,p.draft)}${p.draft_alt?blk('alternativa corta','a-'+p.id,p.draft_alt):''}
+${p.visual?`<div class="draft"><div class="lbl">visual sugerido</div><pre>${esc(p.visual)}</pre></div>`:''}${blk('borrador','d-'+p.id,p.draft,p)}${p.draft_alt?blk('alternativa corta','a-'+p.id,p.draft_alt,p):''}
 <div style="margin-top:8px"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">[abrir respuesta ↗]</a></div></article>`}).join('')||'<div class="sys" style="margin-top:22px">* sin respuestas por ahora *</div>';
-document.querySelectorAll('.cp').forEach(b=>b.addEventListener('click',()=>copyDraft(b,document.getElementById(b.dataset.draftId).textContent)));
 document.querySelectorAll('[data-o]').forEach(b=>{b.style.fontWeight=b.dataset.o===O?'700':'400'});}
 (async()=>{const r=await fetch('./replies.json?ts='+Date.now());D=await r.json();
 document.getElementById('meta').textContent='* actualizado: '+new Date(D.meta.updated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (Chile) *';
