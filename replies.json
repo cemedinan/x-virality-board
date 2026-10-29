@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T15:40:00-03:00"
+    "updated_at": "2026-10-28T22:38:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2115614166765781429",
+      "date": "2026-10-28T22:18:18-03:00",
+      "handle": "chrono_crypto",
+      "post_url": "https://x.com/chrono_crypto/status/2115614166765781429",
+      "user_post": "33 big US companies now object to tokenized versions of their stock on the OKX/ICE venue. IBM, Microsoft, JPMorgan, Alphabet and more. [...] $BTC doesn't have an issuer that can object. So what are you actually buying with a tokenized share, the stock or a promise about it?",
+      "reply": "33 issuers objecting at once is the whole risk in one number. A token that needs the company's permission is a promise, and promises get pulled.",
+      "draft": "Agreed. And the objection shows who holds the off switch: the issuer, the venue and the regulator.\n\nHonest question: would you hold a tokenized share if it came with a clear legal right to redeem the real stock?",
+      "draft_alt": "Put differently, the token is only as good as the permission behind it.\n\nWith $BTC there's nobody to ask. Have you seen any tokenized stock model that actually solves that?",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
