@@ -2,7 +2,7 @@
  "title": "Daily X narrative digest \u2014 2026-10-29",
  "date": "2026-10-29",
  "timezone": "America/Santiago",
- "updated": "2026-10-29T18:03:59-03:00",
+ "updated": "2026-10-29T19:08:32-03:00",
  "brand_title": "POSTER",
  "brand_handle": "@ForecastQuant",
  "hits": [
@@ -58,11 +58,11 @@
    "why_chosen": "Fresh, huge-reach earnings post with concrete numbers; room for a fair-value accounting and BTC-per-share data reply.",
    "visual_suggestion": "Visual sugerido: [chart] Strategy quarterly operating income next to BTC quarterly price change, showing how they move together (source: company filings and price data to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "off_niche": false,
-   "views": 124591,
-   "views_label": "124,591 views",
+   "views": 172931,
+   "views_label": "172,931 views",
    "highlight": true,
-   "likes": 2224,
-   "is_new": true
+   "likes": 3060,
+   "is_new": false
   },
   {
    "handle": "@coinbureau",
@@ -90,43 +90,43 @@
    "handle": "@Cointelegraph",
    "display_name": "Cointelegraph",
    "name": "Cointelegraph",
-   "text": "\ud83d\udea8 REKT: Over $356M in crypto positions were liquidated in the past 24 hours as bitcoin:native fell below $80,000, with longs taking $207.7M of the hit. https://t.co/tKCOIGMxI3",
-   "hook": "\ud83d\udea8 REKT: Over $356M in crypto positions were liquidated in the past 24 hours as bitcoin:native fell below $80,000, with longs taking $207.7M of the hit. https://t.co/tKCOIGMxI3",
-   "url": "https://x.com/Cointelegraph/status/2115651372108636332",
-   "status_url": "https://x.com/Cointelegraph/status/2115651372108636332",
-   "created_at": "2026-10-29T03:46:08.000Z",
-   "draft_en": "$356M in crypto positions liquidated in 24h as $BTC dipped under $80K, per the report.\n\nLongs took most of it.\n\nSpot holders took zero liquidations.\n- no margin call\n- no forced sale at the low\n- the only risk is the one you can see: price\n\nVolatility hurts. Leverage turns it into a deadline.\n\nHave you ever been forced out of a position you still believed in?\nSave this for the next red day.",
-   "draft_quote_en": "Same dip, two outcomes.\n\nLeveraged longs got closed at the low. Spot holders just saw a lower number on the screen. The price move wasn't the problem, the deadline was.",
-   "video_tip": "Split screen: 'LIQUIDATED' stamp on a leveraged position vs. a calm spot wallet balance; 8s, 9:16.",
-   "reply_angle": "Spot vs. leverage caveat: point out that spot holders face no forced selling; suggest checking how much of the dip came from liquidations (open interest data).",
-   "why_chosen": "Liquidation post with 71 replies; perfect for the spot-only, no-leverage lane.",
-   "off_niche": false,
-   "views": 47623,
-   "views_label": "47,623 views",
+   "text": "\ud83d\udea8 ALERT: Binance allegedly suffered a $2.77 billion hack. https://t.co/3WRpp3vwvd",
+   "hook": "\ud83d\udea8 ALERT: Binance allegedly suffered a $2.77 billion hack. https://t.co/3WRpp3vwvd",
+   "url": "https://x.com/Cointelegraph/status/2115914944696689147",
+   "status_url": "https://x.com/Cointelegraph/status/2115914944696689147",
+   "created_at": "2026-10-29T21:13:29.000Z",
+   "story": "Binance hot wallets: alleged ~$2.8B hack, Tether freeze, no official word yet",
+   "also": [
+    {
+     "handle": "@TheBlockCo",
+     "url": "https://x.com/TheBlockCo/status/2115912915224006898",
+     "views": 38510,
+     "views_label": "38,510 views"
+    },
+    {
+     "handle": "@danheld",
+     "url": "https://x.com/danheld/status/2115914723984044051",
+     "views": 27718,
+     "views_label": "27,718 views"
+    },
+    {
+     "handle": "@caprioleio",
+     "url": "https://x.com/caprioleio/status/2115915577055494501",
+     "views": 9097,
+     "views_label": "9,097 views"
+    }
+   ],
+   "draft_en": "Binance hot wallets look drained. ~$2.8B reported.\n\nWhat's reported so far, not confirmed:\n- big outflows to unlabeled wallets (Arkham data)\n- Tether says it froze $971M in USDT\n- no official statement from Binance yet\n\nWhat's not in question:\nCoins on an exchange are a claim, not coins.\n\nIf you buy spot and hold, the boring step is the one that matters: withdraw to a wallet you control.\n\nWhen was the last time you checked where your $BTC actually sits?\nSave this for the next 'exchange halted withdrawals' headline.",
+   "draft_quote_en": "\"Allegedly\" is doing a lot of work here. Binance hasn't said anything yet.\n\nTwo things to watch before anyone calls it: does Binance confirm the amount, and are user balances covered (SAFU)? Until then, the only thing you control is whether your coins are on the exchange at all.",
+   "video_tip": "Exchange logo, then a wallet icon draining into unlabeled addresses; text 'not your keys' then a hand moving coins to a hardware wallet; 8s, 9:16.",
+   "reply_angle": "Keep it to what's verified (Arkham flows, Tether's freeze, no Binance statement yet) and turn it into a custody check: what share of BTC sits on exchanges (check Glassnode exchange balances).",
+   "why_chosen": "Breaking story with the biggest reach in the last hour; unconfirmed figures leave room for a careful, custody-focused reply.",
+   "visual_suggestion": "Visual sugerido: [chart] BTC held on exchanges over time vs. self-custody, highlighting past exchange failures (Mt. Gox, FTX) as markers; exchange balance data from Glassnode or CryptoQuant, to be checked. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "views": 66174,
+   "views_label": "66,174 views",
    "highlight": true,
-   "likes": 357,
-   "is_new": false
-  },
-  {
-   "handle": "@dotkrueger",
-   "display_name": "Fred Krueger",
-   "name": "Fred Krueger",
-   "text": "TIME TO PUT UP OR SHUT UP.\n\nI've instructed AI to write a Solidity smart contract to settle the $1 MILLION Bitcoin bet between Grant Cardone and Jason.\n\nNo more talk. No more excuses.\n\nHere's the deal:\n\nGrant and Jason each deposit $1M USDC into an Ethereum smart contract.",
-   "hook": "TIME TO PUT UP OR SHUT UP.",
-   "url": "https://x.com/dotkrueger/status/2115700499651432894",
-   "status_url": "https://x.com/dotkrueger/status/2115700499651432894",
-   "created_at": "2026-10-29T07:01:21.000Z",
-   "draft_en": "A smart contract to settle the $1M Cardone vs. Calacanis $BTC bet.\n\nNice idea. The code is the easy part.\n- who reports the price on the deadline?\n- which exchange, which minute, which index?\n- what if the oracle fails or gets gamed?\n\nTrustless settlement still trusts its data source.\n\nWhich price feed would you accept if your money was on it?\nFollow if you like these breakdowns.",
-   "draft_quote_en": "The contract is the easy part. The oracle is the bet.\n\nWhich price feed settles it, at what exact time, and what happens if it's wrong? Trustless code still depends on trusted data.",
-   "video_tip": "Code scrolling, then zoom on one line 'price = oracle()' with a lime question mark; 7s, 9:16.",
-   "reply_angle": "Raise the oracle problem: ask which price feed, timestamp and fallback settle the bet; code can't verify reality on its own.",
-   "why_chosen": "Viral bet story (77 replies) with an open technical question: who supplies the price.",
-   "off_niche": false,
-   "views": 43643,
-   "views_label": "43,643 views",
-   "highlight": true,
-   "likes": 871,
-   "is_new": false
+   "likes": 1035,
+   "is_new": true
   },
   {
    "handle": "@coinbase",
@@ -144,11 +144,32 @@
    "why_chosen": "Concrete stablecoin number on earnings day; room for a data reply on what it does and doesn't say for BTC demand.",
    "visual_suggestion": "Visual sugerido: [chart] stablecoin balances on exchanges vs. BTC exchange balance over the last 12 months (source: on-chain data to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "off_niche": false,
-   "views": 37682,
-   "views_label": "37,682 views",
+   "views": 47715,
+   "views_label": "47,715 views",
    "highlight": true,
-   "likes": 149,
-   "is_new": true
+   "likes": 198,
+   "is_new": false
+  },
+  {
+   "handle": "@dotkrueger",
+   "display_name": "Fred Krueger",
+   "name": "Fred Krueger",
+   "text": "TIME TO PUT UP OR SHUT UP.\n\nI've instructed AI to write a Solidity smart contract to settle the $1 MILLION Bitcoin bet between Grant Cardone and Jason.\n\nNo more talk. No more excuses.\n\nHere's the deal:\n\nGrant and Jason each deposit $1M USDC into an Ethereum smart contract.",
+   "hook": "TIME TO PUT UP OR SHUT UP.",
+   "url": "https://x.com/dotkrueger/status/2115700499651432894",
+   "status_url": "https://x.com/dotkrueger/status/2115700499651432894",
+   "created_at": "2026-10-29T07:01:21.000Z",
+   "draft_en": "A smart contract to settle the $1M Cardone vs. Calacanis $BTC bet.\n\nNice idea. The code is the easy part.\n- who reports the price on the deadline?\n- which exchange, which minute, which index?\n- what if the oracle fails or gets gamed?\n\nTrustless settlement still trusts its data source.\n\nWhich price feed would you accept if your money was on it?\nFollow if you like these breakdowns.",
+   "draft_quote_en": "The contract is the easy part. The oracle is the bet.\n\nWhich price feed settles it, at what exact time, and what happens if it's wrong? Trustless code still depends on trusted data.",
+   "video_tip": "Code scrolling, then zoom on one line 'price = oracle()' with a lime question mark; 7s, 9:16.",
+   "reply_angle": "Raise the oracle problem: ask which price feed, timestamp and fallback settle the bet; code can't verify reality on its own.",
+   "why_chosen": "Viral bet story (77 replies) with an open technical question: who supplies the price.",
+   "off_niche": false,
+   "views": 44736,
+   "views_label": "44,736 views",
+   "highlight": true,
+   "likes": 884,
+   "is_new": false
   },
   {
    "handle": "@BitcoinMagazine",
@@ -166,10 +187,10 @@
    "why_chosen": "Concrete number with a cherry-pickable start date; perfect for a rolling-window data reply.",
    "visual_suggestion": "Visual sugerido: [chart] rolling 8-month return of BTC minus gold over several years, zero line marked, Feb 28 start highlighted (source: price data to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "off_niche": false,
-   "views": 31644,
-   "views_label": "31,644 views",
+   "views": 41193,
+   "views_label": "41,193 views",
    "highlight": true,
-   "likes": 333,
+   "likes": 365,
    "is_new": false
   },
   {
@@ -187,32 +208,10 @@
    "reply_angle": "Separate legal debt from unfunded promises and ask which path closes the gap (cuts, taxes, inflation); suggest checking the trustees' report for the 2032 date.",
    "why_chosen": "Big fiscal number with 28 replies; room to separate contract from promise and tie it to $BTC without hype.",
    "off_niche": false,
-   "views": 29380,
-   "views_label": "29,380 views",
+   "views": 30440,
+   "views_label": "30,440 views",
    "highlight": true,
-   "likes": 266,
-   "is_new": false
-  },
-  {
-   "handle": "@CoinMarketCap",
-   "display_name": "CoinMarketCap",
-   "name": "CoinMarketCap",
-   "text": "CMC Asset Watch: Miners Bounced Harder Than Bitcoin\n\n\ud83d\udd39 RIOT, CLSK and MARA rose together on October 27 and 28. BTC's rise on the 27th was only about 1%.\n\n\ud83d\udd39 The pattern fits relief after a sharp sector selloff, with AI-infrastructure stocks recovering after Anthropic's IPO https://t.co/SDTyTTAW7x",
-   "hook": "CMC Asset Watch: Miners Bounced Harder Than Bitcoin",
-   "url": "https://x.com/CoinMarketCap/status/2115873841696182486",
-   "status_url": "https://x.com/CoinMarketCap/status/2115873841696182486",
-   "created_at": "2026-10-29T18:30:09.000Z",
-   "draft_en": "Miners bounced harder than $BTC this week (per CoinMarketCap: RIOT, CLSK, MARA up together while BTC rose about 1% on the 27th).\n\nThat's normal behavior, not a signal.\n- miners are leveraged to BTC price\n- they also trade with AI/data-center stocks now\n- higher beta works both ways\n\nIf you want BTC exposure, the miner adds equity and operating risk on top.\n\nDo you hold miners, spot, or both?\nSave this before buying a miner for 'cheap BTC exposure'.",
-   "draft_quote_en": "Miners outrunning BTC on a bounce is what higher beta looks like.\n\nThe useful check: their drawdowns vs. BTC over the same selloff. Upside beta usually comes with the downside version.",
-   "video_tip": "Split screen: BTC line vs. a miner basket line, both bouncing, the miner swinging wider in both directions; 8s, 9:16.",
-   "reply_angle": "Frame it as beta: suggest comparing miners' drawdown vs. BTC's in the preceding selloff, and mention the AI/data-center link as a non-BTC driver (check price data).",
-   "why_chosen": "Data-driven comparison that a spot-vs-equity beta reply can complement.",
-   "visual_suggestion": "Visual sugerido: [chart] BTC vs. equal-weight RIOT/CLSK/MARA basket indexed to 100 over the last 30 days (source: price data to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "off_niche": false,
-   "views": 26308,
-   "views_label": "26,308 views",
-   "highlight": true,
-   "likes": 21,
+   "likes": 272,
    "is_new": false
   },
   {
@@ -230,11 +229,11 @@
    "reply_angle": "Frame it as Parkinson's law and ask whether output rose or only activity did; bridge to overtrading vs. simple rules in BTC.",
    "why_chosen": "Debatable one-line claim with 51 replies; bridges to activity vs. results in investing.",
    "off_niche": true,
-   "views": 21275,
-   "views_label": "21,275 views",
+   "views": 24586,
+   "views_label": "24,586 views",
    "highlight": true,
-   "likes": 147,
-   "is_new": true
+   "likes": 170,
+   "is_new": false
   },
   {
    "handle": "@BitcoinNews",
@@ -251,10 +250,32 @@
    "reply_angle": "Ask whether the 30K are logical or physical qubits and how that compares to current hardware; point to the share of BTC in addresses with exposed public keys as the real exposure check.",
    "why_chosen": "Scary-number headline with no context; room for a clarifying question and a calm, data-minded caveat.",
    "off_niche": false,
-   "views": 21210,
-   "views_label": "21,210 views",
+   "views": 22965,
+   "views_label": "22,965 views",
    "highlight": true,
-   "likes": 18,
+   "likes": 19,
+   "is_new": false
+  },
+  {
+   "handle": "@CryptoCon_",
+   "display_name": "CryptoCon",
+   "name": "CryptoCon",
+   "text": "Ah, November of bear market year...\n\nIt typically kickstarts the final leg down.\n\nPrice is balancing on level 2 of the Magic Bands at 80k, but I would expect at least 71k with a higher low. And in the full cycle on track scenario, a return to level 1 (yellow) at 52k. https://t.co/FsjTgNhMZ2",
+   "hook": "Ah, November of bear market year...",
+   "url": "https://x.com/CryptoCon_/status/2115873263553556837",
+   "status_url": "https://x.com/CryptoCon_/status/2115873263553556837",
+   "created_at": "2026-10-29T18:27:51.000Z",
+   "draft_en": "\"November of a bear market year typically kickstarts the final leg down.\"\n\nTypically, out of how many?\n- $BTC has had very few bear-market Novembers\n- 'final leg' is only labeled after the fact\n- bands and levels fit the past by design\n\nUseful as a scenario. Weak as a forecast.\n\nFor a spot buyer the question is simpler: does it change your DCA plan?\nSave this for the next 'final leg down' post.",
+   "draft_quote_en": "How many bear-market Novembers are in the sample? Two or three?\n\nGood scenario to plan for, but 'typically' needs more data points. What would invalidate the 71k call?",
+   "video_tip": "Past cycle charts with only the few bear-year Novembers highlighted, then a big '?' over 'typically'; 8s, 9:16.",
+   "reply_angle": "Ask for the sample size behind 'typically' and the invalidation level for the 71k call; suggest checking BTC returns in past bear-year Novembers.",
+   "why_chosen": "Specific price targets and a seasonal claim with a tiny sample; prime for a base-rate question.",
+   "visual_suggestion": "Visual sugerido: [chart] BTC November returns by year, bear-market years highlighted, sample size labeled (source: price history to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "off_niche": false,
+   "views": 22648,
+   "views_label": "22,648 views",
+   "highlight": true,
+   "likes": 218,
    "is_new": false
   },
   {
@@ -280,50 +301,6 @@
    "is_new": false
   },
   {
-   "handle": "@jameslavish",
-   "display_name": "James Lavish",
-   "name": "James Lavish",
-   "text": "Good evening. \n\nRemember. As Bitcoin recovers from this cycle low and heads back to the all-time high and onto new ones, there will be buying opportunities along the way. \n\nHave a great night.",
-   "hook": "Good evening. ",
-   "url": "https://x.com/jameslavish/status/2115645437411778956",
-   "status_url": "https://x.com/jameslavish/status/2115645437411778956",
-   "created_at": "2026-10-29T03:22:33.000Z",
-   "story": "Lavish: buying opportunities on the way back to the ATH",
-   "draft_en": "\"There will be buying opportunities along the way.\"\n\nTrue in every past recovery.\nThe hard part is that you only know which dip was the opportunity afterwards.\n\nTwo ways spot buyers handle that:\n- fixed schedule (DCA): no timing, no regret math\n- rules-based buys: e.g. add more when price drops X% from a recent high, written down before it happens\n\nBoth beat buying on emotion.\nNeither needs leverage.\n\nWhich one do you actually stick to?\nIf it was useful, a repost helps more people see it.",
-   "draft_quote_en": "Agree there will be dips to buy. The useful question is how you define one before it happens.\n\nA fixed DCA vs. a rule like 'buy more after an X% drawdown': has anyone backtested which did better for $BTC spot holders last cycle?",
-   "video_tip": "$BTC line with dots for weekly DCA buys vs. bigger dots on drawdown-rule buys; 9s, 9:16.",
-   "reply_angle": "Turn the vibe into a rule: ask how he defines a buying opportunity, and suggest checking a backtest of fixed DCA vs. drawdown-triggered spot buys over the last cycle.",
-   "why_chosen": "Freshest hit on the board (under 2h old) with an open claim that invites a DCA vs. rules-based buying discussion.",
-   "visual_suggestion": "Visual sugerido: [backtest chart] $BTC price with fixed weekly DCA buys vs. drawdown-triggered buys marked, and resulting cost basis for each (data from price history, to be computed and verified). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 18843,
-   "views_label": "18,843 views",
-   "highlight": true,
-   "likes": 881,
-   "is_new": false
-  },
-  {
-   "handle": "@CryptoCon_",
-   "display_name": "CryptoCon",
-   "name": "CryptoCon",
-   "text": "Ah, November of bear market year...\n\nIt typically kickstarts the final leg down.\n\nPrice is balancing on level 2 of the Magic Bands at 80k, but I would expect at least 71k with a higher low. And in the full cycle on track scenario, a return to level 1 (yellow) at 52k. https://t.co/FsjTgNhMZ2",
-   "hook": "Ah, November of bear market year...",
-   "url": "https://x.com/CryptoCon_/status/2115873263553556837",
-   "status_url": "https://x.com/CryptoCon_/status/2115873263553556837",
-   "created_at": "2026-10-29T18:27:51.000Z",
-   "draft_en": "\"November of a bear market year typically kickstarts the final leg down.\"\n\nTypically, out of how many?\n- $BTC has had very few bear-market Novembers\n- 'final leg' is only labeled after the fact\n- bands and levels fit the past by design\n\nUseful as a scenario. Weak as a forecast.\n\nFor a spot buyer the question is simpler: does it change your DCA plan?\nSave this for the next 'final leg down' post.",
-   "draft_quote_en": "How many bear-market Novembers are in the sample? Two or three?\n\nGood scenario to plan for, but 'typically' needs more data points. What would invalidate the 71k call?",
-   "video_tip": "Past cycle charts with only the few bear-year Novembers highlighted, then a big '?' over 'typically'; 8s, 9:16.",
-   "reply_angle": "Ask for the sample size behind 'typically' and the invalidation level for the 71k call; suggest checking BTC returns in past bear-year Novembers.",
-   "why_chosen": "Specific price targets and a seasonal claim with a tiny sample; prime for a base-rate question.",
-   "visual_suggestion": "Visual sugerido: [chart] BTC November returns by year, bear-market years highlighted, sample size labeled (source: price history to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "off_niche": false,
-   "views": 17391,
-   "views_label": "17,391 views",
-   "highlight": true,
-   "likes": 190,
-   "is_new": false
-  },
-  {
    "handle": "@glassnode",
    "display_name": "glassnode",
    "name": "glassnode",
@@ -339,10 +316,10 @@
    "why_chosen": "Fresh on-chain/flow data point with a clear number; room to add scale and a base-rate question.",
    "visual_suggestion": "Visual sugerido: [chart] rolling 30-day US spot BTC ETF net flows since launch, zero line highlighted, latest reading marked (source: Glassnode or Farside, to be checked). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "off_niche": false,
-   "views": 17356,
-   "views_label": "17,356 views",
+   "views": 18051,
+   "views_label": "18,051 views",
    "highlight": true,
-   "likes": 165,
+   "likes": 168,
    "is_new": false
   },
   {
@@ -361,32 +338,10 @@
    "reply_angle": "Ask for the denominator: which adjustment (M2, realized price, DXY) makes $82K equal $63K, and check it before sharing.",
    "why_chosen": "Comparison claim with a chart; clear room for a clarifying data question.",
    "content_unreadable": false,
-   "views": 15469,
-   "views_label": "15,469 views",
+   "views": 15840,
+   "views_label": "15,840 views",
    "highlight": true,
-   "likes": 333,
-   "is_new": false
-  },
-  {
-   "handle": "@danheld",
-   "display_name": "Dan Held",
-   "name": "Dan Held",
-   "text": "Bitcoin ETF company Bitwise Asset Management just updated its Bitcoin forecast for 2036:\n\nBear case: $130,686\nBase case: $1,599,766\nBull case: $3,667,911\n\nHonestly, I think this is conservative. $1.6M price target 10 years from now is my default assumption. https://t.co/fhCU5tuCVu",
-   "hook": "Bitcoin ETF company Bitwise Asset Management just updated its Bitcoin forecast for 2036:",
-   "url": "https://x.com/danheld/status/2115803233956385128",
-   "status_url": "https://x.com/danheld/status/2115803233956385128",
-   "created_at": "2026-10-29T13:49:35.000Z",
-   "draft_en": "Bitwise's 2036 $BTC scenarios, per the post:\n- bear: about $130K\n- base: about $1.6M\n- bull: about $3.7M\n\nThe spread is the story. Bull is roughly 28x the bear case.\n\nThat's not a forecast, it's a range of assumptions.\nThe bear case is still above today's price, which says more about the model than the market.\n\nWhich input would you stress-test first?\nSave this before the next price target goes viral.",
-   "draft_quote_en": "The interesting number isn't $1.6M, it's the range: bear vs. bull is roughly 28x.\n\nWhen the scenarios are that far apart, the target says more about the assumptions than about $BTC. Which assumption drives the base case?",
-   "video_tip": "Three bars rising (bear, base, bull) with a lime bracket showing the gap; caption 'range, not target'; 8s, 9:16.",
-   "reply_angle": "Point to the spread between bear and bull cases and ask which input (store-of-value market size, adoption) drives the base case; verify figures in Bitwise's report.",
-   "why_chosen": "Concrete bear/base/bull numbers plus a 'conservative' claim; room to question the range and assumptions.",
-   "visual_suggestion": "Visual sugerido: [bar chart] Bitwise 2036 bear/base/bull on a log scale, with today's price as a line. Navy blue background, Bitcoin in white, lime accents, logo watermark. Use the report's figures.",
-   "off_niche": false,
-   "views": 15116,
-   "views_label": "15,116 views",
-   "highlight": true,
-   "likes": 189,
+   "likes": 339,
    "is_new": false
   },
   {
@@ -405,31 +360,10 @@
    "why_chosen": "Provocative one-line claim with 14 replies; open question the operator can ground with on-chain data.",
    "visual_suggestion": "Visual sugerido: [chart] BTC supply split by time since last moved (1y, 3y, 5y, 10y+), source to be checked (Glassnode or similar). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "off_niche": false,
-   "views": 13461,
-   "views_label": "13,461 views",
+   "views": 14822,
+   "views_label": "14,822 views",
    "highlight": true,
-   "likes": 144,
-   "is_new": false
-  },
-  {
-   "handle": "@TheBlockCo",
-   "display_name": "The Block",
-   "name": "The Block",
-   "text": "THE BLOCK: Utah AG Derek Brown has filed criminal charges against Kalshi and executives Tarek Mansour and Luana Lopes Lara for allegedly promoting illegal online gambling.\n\nThe move follows a lawsuit Brown filed a week earlier over bets on sports, elections, and politics, and https://t.co/m2kVhkzqj4",
-   "hook": "THE BLOCK: Utah AG Derek Brown has filed criminal charges against Kalshi and executives Tarek Mansour and Luana Lopes Lara for allegedly promoting illegal online gambling.",
-   "url": "https://x.com/TheBlockCo/status/2115652030048227545",
-   "status_url": "https://x.com/TheBlockCo/status/2115652030048227545",
-   "created_at": "2026-10-29T03:48:45.000Z",
-   "story": "Utah files criminal charges against Kalshi executives",
-   "draft_en": "Utah filed criminal charges against Kalshi and two executives over \"illegal online gambling\" (per The Block).\n\nWhatever the outcome, it matters for anyone who uses prediction markets as data:\n- if access shrinks, liquidity drops\n- thin markets give noisier odds\n- the signal is only as good as the market behind it\n\nI use odds as one input, never as the answer.\n\nAre prediction markets data or gambling to you?\nFollow along if you want the data side of this story.",
-   "draft_quote_en": "Legal fights aside, this is a data question too.\n\nIf state actions push users out, liquidity drops and the odds get noisier. Worth watching volume on these markets, not just the court filings.",
-   "video_tip": "Gavel hits, an odds chart gets noisier and thinner behind it, text 'less liquidity, noisier odds'; 8s, 9:16.",
-   "reply_angle": "Data angle on prediction markets: legal pressure can cut liquidity and make odds noisier; suggest watching volume and open interest, no side on the legal case.",
-   "why_chosen": "Fresh (about 7h) prediction-market story, the operator's forecasting lane; room for a neutral data take.",
-   "views": 12996,
-   "views_label": "12,996 views",
-   "highlight": true,
-   "likes": 31,
+   "likes": 160,
    "is_new": false
   },
   {
@@ -447,11 +381,33 @@
    "reply_angle": "Shift from yes/no to sizing and custody, and ask for evidence behind 'companies will only accept BTC' instead of accepting the quote.",
    "why_chosen": "Bold claims with no data; room for a skeptical sizing and evidence reply.",
    "off_niche": false,
-   "views": 10221,
-   "views_label": "10,221 views",
+   "views": 10945,
+   "views_label": "10,945 views",
    "highlight": true,
-   "likes": 174,
+   "likes": 186,
    "is_new": false
+  },
+  {
+   "handle": "@jameslavish",
+   "display_name": "James Lavish",
+   "name": "James Lavish",
+   "text": "As more and more of these schemes are uncovered, it makes one wonder just how much of the US government's $2 trillion deficit can be attributed to fraud. https://t.co/aNEndEZHN8",
+   "hook": "As more and more of these schemes are uncovered, it makes one wonder just how much of the US government's $2 trillion deficit can be attributed to fraud. https://t.co/aNEndEZHN8",
+   "url": "https://x.com/jameslavish/status/2115902933955125256",
+   "status_url": "https://x.com/jameslavish/status/2115902933955125256",
+   "created_at": "2026-10-29T20:25:45.000Z",
+   "off_niche": true,
+   "draft_en": "A $2T deficit.\n\nPeople love to blame it on fraud.\nSome of it is. Most of it isn't.\n\nThe bigger driver is boring:\n- interest on existing debt\n- entitlements that grow on autopilot\n- spending neither party cuts\n\nWhy I care as a $BTC holder:\nDeficits don't get repaid. They get financed. That pressure shows up in the currency.\n\nFraud or structure: which one do you think moves the number more?\nIf this was useful, a repost helps more people see it.",
+   "draft_quote_en": "Fraud is real, and it's easy outrage. But how much of $2T is it, really?\n\nInterest on the debt alone is now one of the biggest lines in the budget (check CBO). Even if every scheme got caught, the structural gap stays.",
+   "video_tip": "A $2T bar split into slices (interest, entitlements, defense, other) with a tiny sliver labeled 'fraud?'; source on screen; 8s, 9:16.",
+   "reply_angle": "Ask for the split: compare known improper-payment estimates (check GAO) with net interest and entitlements in CBO's deficit breakdown; structure, not scandal, drives the number.",
+   "why_chosen": "Macro/fiscal post with active replies; room to ground the fraud narrative in budget data and bridge to currency debasement.",
+   "visual_suggestion": "Visual sugerido: [chart] Breakdown of the US federal deficit by category (net interest, entitlements, defense, other) next to GAO improper-payment estimates; CBO and GAO data, to be checked. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "views": 9406,
+   "views_label": "9,406 views",
+   "highlight": false,
+   "likes": 197,
+   "is_new": true
   },
   {
    "handle": "@Dennis_Porter_",
@@ -468,10 +424,32 @@
    "reply_angle": "Non-partisan: ask what probability he'd assign and compare polls vs. prediction-market odds for the race (check both; no invented numbers).",
    "why_chosen": "Confident election call; bridges to odds, base rates and prediction markets without taking a side.",
    "off_niche": true,
-   "views": 8187,
-   "views_label": "8,187 views",
+   "views": 8921,
+   "views_label": "8,921 views",
    "highlight": false,
-   "likes": 347,
+   "likes": 392,
+   "is_new": false
+  },
+  {
+   "handle": "@lopp",
+   "display_name": "Jameson Lopp",
+   "name": "Jameson Lopp",
+   "text": "New flavor of Google phishing that abuses Google's own infrastructure to send you this email. If you click the https://t.co/H9sDdmX0PF link you end up at a phishing login page. https://t.co/dfkvfibo33",
+   "hook": "New flavor of Google phishing that abuses Google's own infrastructure to send you this email. If you click the https://t.co/H9sDdmX0PF link you end up at a phishing login page. https://t.co/dfkvfibo33",
+   "url": "https://x.com/lopp/status/2115903001382551675",
+   "status_url": "https://x.com/lopp/status/2115903001382551675",
+   "created_at": "2026-10-29T20:26:01.000Z",
+   "draft_en": "New phishing trick: emails that come from Google's own infrastructure.\n\nSo 'it came from Google' is no longer a safety check.\n\nBasic rules for anyone holding $BTC:\n- never log in from an email link\n- type the address yourself\n- seed words never go into a browser, ever\n- hardware wallet? verify the address on the device screen\n\nBoring rules beat clever attackers.\n\nWhat's your one non-negotiable security rule?\nSave this and send it to the person in your family who clicks links.",
+   "draft_quote_en": "Good reminder that sender reputation isn't a security check anymore.\n\nFor anyone with BTC in a hot wallet or on an exchange: don't log in from email links, type the URL yourself, and use a hardware key for 2FA where you can.",
+   "video_tip": "Fake 'Google' email on screen, finger hovers the link, big red X, then the three rules appear one by one; 8s, 9:16.",
+   "reply_angle": "Turn it into a practical checklist for BTC holders (no logins from email links, typed URLs, hardware-key 2FA) and ask what the phishing page targets.",
+   "why_chosen": "Fresh security alert from a respected voice; easy to add a useful custody-hygiene checklist people bookmark.",
+   "visual_suggestion": "Visual sugerido: [explanatory image] 4-rule security checklist card for BTC holders (email links, typed URLs, seed words, verify on device). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "off_niche": false,
+   "views": 8914,
+   "views_label": "8,914 views",
+   "highlight": false,
+   "likes": 51,
    "is_new": false
   },
   {
@@ -489,10 +467,10 @@
    "reply_angle": "Pregunta clave: \u00bfla PCE subyacente sube tambi\u00e9n sin energ\u00eda? Revisar la tendencia de varios meses en los datos del BEA antes de sacar conclusiones.",
    "why_chosen": "Spanish macro post on today's PCE with a clear claim (problem extends beyond energy) to test with the core series.",
    "off_niche": false,
-   "views": 6227,
-   "views_label": "6,227 views",
+   "views": 6586,
+   "views_label": "6,586 views",
    "highlight": false,
-   "likes": 76,
+   "likes": 79,
    "is_new": false
   },
   {
@@ -508,8 +486,8 @@
    "also": [
     {
      "handle": "@bitcoinlfgo",
-     "views": 9886,
-     "views_label": "9,886 views",
+     "views": 10236,
+     "views_label": "10,236 views",
      "url": "https://x.com/bitcoinlfgo/status/2115783698213990707"
     }
    ],
@@ -547,28 +525,6 @@
    "is_new": false
   },
   {
-   "handle": "@lopp",
-   "display_name": "Jameson Lopp",
-   "name": "Jameson Lopp",
-   "text": "New flavor of Google phishing that abuses Google's own infrastructure to send you this email. If you click the https://t.co/H9sDdmX0PF link you end up at a phishing login page. https://t.co/dfkvfibo33",
-   "hook": "New flavor of Google phishing that abuses Google's own infrastructure to send you this email. If you click the https://t.co/H9sDdmX0PF link you end up at a phishing login page. https://t.co/dfkvfibo33",
-   "url": "https://x.com/lopp/status/2115903001382551675",
-   "status_url": "https://x.com/lopp/status/2115903001382551675",
-   "created_at": "2026-10-29T20:26:01.000Z",
-   "draft_en": "New phishing trick: emails that come from Google's own infrastructure.\n\nSo 'it came from Google' is no longer a safety check.\n\nBasic rules for anyone holding $BTC:\n- never log in from an email link\n- type the address yourself\n- seed words never go into a browser, ever\n- hardware wallet? verify the address on the device screen\n\nBoring rules beat clever attackers.\n\nWhat's your one non-negotiable security rule?\nSave this and send it to the person in your family who clicks links.",
-   "draft_quote_en": "Good reminder that sender reputation isn't a security check anymore.\n\nFor anyone with BTC in a hot wallet or on an exchange: don't log in from email links, type the URL yourself, and use a hardware key for 2FA where you can.",
-   "video_tip": "Fake 'Google' email on screen, finger hovers the link, big red X, then the three rules appear one by one; 8s, 9:16.",
-   "reply_angle": "Turn it into a practical checklist for BTC holders (no logins from email links, typed URLs, hardware-key 2FA) and ask what the phishing page targets.",
-   "why_chosen": "Fresh security alert from a respected voice; easy to add a useful custody-hygiene checklist people bookmark.",
-   "visual_suggestion": "Visual sugerido: [explanatory image] 4-rule security checklist card for BTC holders (email links, typed URLs, seed words, verify on device). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "off_niche": false,
-   "views": 4809,
-   "views_label": "4,809 views",
-   "highlight": false,
-   "likes": 26,
-   "is_new": true
-  },
-  {
    "handle": "@BTC_for_Freedom",
    "display_name": "Bitcoin for Freedom",
    "name": "Bitcoin for Freedom",
@@ -584,45 +540,43 @@
    "why_chosen": "High engagement rate (about 5%) on a core sound-money narrative; easy to add a data check.",
    "visual_suggestion": "Visual sugerido: [chart] M2 vs. median wages indexed to 100 over 10 years, from FRED. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "off_niche": false,
-   "views": 4588,
-   "views_label": "4,588 views",
+   "views": 4653,
+   "views_label": "4,653 views",
    "highlight": false,
-   "likes": 221,
+   "likes": 223,
    "is_new": false
   },
   {
    "handle": "@DefiantNews",
    "display_name": "The Defiant",
    "name": "The Defiant",
-   "text": "SINGAPORE POLICE: ~$2.7M IN TAMPERED @Ledger WALLET LOSSES; CAMPAIGN TOTAL UNCONFIRMED\n\nAt least two cases were reported since Sept. 10. Police say implants could capture recovery phrases or private keys.\n\nRead more here:\nhttps://t.co/tZeiow9VVu",
-   "hook": "SINGAPORE POLICE: ~$2.7M IN TAMPERED @Ledger WALLET LOSSES; CAMPAIGN TOTAL UNCONFIRMED",
-   "url": "https://x.com/DefiantNews/status/2115651085700604217",
-   "status_url": "https://x.com/DefiantNews/status/2115651085700604217",
-   "created_at": "2026-10-29T03:45:00.000Z",
-   "story": "Singapore police: tampered Ledger wallets led to ~$2.7M in losses",
-   "draft_en": "Singapore police report losses tied to tampered hardware wallets (per The Defiant: about $2.7M, campaign total unconfirmed).\n\nSelf-custody is only as safe as your supply chain:\n- buy from the maker, not a reseller\n- never use a seed phrase that came in the box\n- check the device's integrity before loading funds\n- test a small recovery first\n\nHolding your own keys is the goal. Doing it carelessly is the risk.\n\nWhich step do most people skip?\nSave this checklist before your next wallet purchase.",
-   "draft_quote_en": "The lesson isn't 'don't self-custody'.\n\nIt's: buy from the maker, generate your own seed, never trust a pre-filled one, and test a recovery with a small amount first.",
-   "video_tip": "Hardware wallet box opening, red flag on a pre-printed seed card, lime checklist appears; 10s, 9:16.",
-   "reply_angle": "Add a practical checklist: buy direct from the maker, never use a pre-filled seed, verify device integrity, test a small recovery; no fear, just hygiene.",
-   "why_chosen": "Custody-hygiene story, core to the operator's spot-and-self-custody lane; low views but clear utility for a bookmarkable reply.",
-   "visual_suggestion": "Visual sugerido: [image] 4-step hardware wallet safety checklist (buy direct, own seed, verify device, test recovery). Navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 4338,
-   "views_label": "4,338 views",
+   "text": "WAGYU CONFIRMS DATA LEAK LINKING DEPOSITS TO MONERO ADDRESSES\n\nHudson Rock found 4,580 orders marked completed linking deposits, Monero addresses and IPs. Its findings do not show a breach of Monero's cryptography.\n\nRead more here:\nhttps://t.co/AzMpzyXqC2",
+   "hook": "WAGYU CONFIRMS DATA LEAK LINKING DEPOSITS TO MONERO ADDRESSES",
+   "url": "https://x.com/DefiantNews/status/2115698397613334785",
+   "status_url": "https://x.com/DefiantNews/status/2115698397613334785",
+   "created_at": "2026-10-29T06:53:00.000Z",
+   "draft_en": "A 'no-KYC' swap service just leaked user data.\n\n4,580 orders linking deposits, Monero addresses and IPs, per Hudson Rock.\nMonero's cryptography wasn't broken.\nThe service around it was.\n\nThe lesson isn't the coin.\nIt's the middleman.\n\nEvery service you route coins through keeps logs you can't see.\n\nWhat's your rule for using third-party services with your $BTC?\nWant me to go deeper on the privacy tradeoffs?",
+   "draft_quote_en": "Important line: no breach of Monero's cryptography. The leak was the service's own logs.\n\nPrivacy tools are only as private as the weakest middleman. How many users were actually affected beyond the 4,580 orders?",
+   "video_tip": "Locked Monero logo stays intact while a server icon next to it spills 'IP, address, deposit' tags; text 'the coin held, the middleman didn't'; 7s, 9:16.",
+   "reply_angle": "Separate the protocol from the service: the crypto held, the operator's logs leaked; ask what data was retained and for how long (check Hudson Rock's report).",
+   "why_chosen": "Concrete number and a clear lesson about third-party risk; fits the operator's autonomy and custody theme.",
+   "views": 4290,
+   "views_label": "4,290 views",
    "highlight": false,
    "likes": 4,
-   "is_new": false
+   "is_new": true
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Earnings driven by BTC price marks: Strategy $21B operating income, Coinbase Q3 (saylor, coinbase, coinbureau, TheBlockCo)",
-  "Flows with a sign but no scale: 30-day ETF outflow -$292M vs. daily inflows (glassnode, BitcoinNewsCom)",
+  "Exchange risk: alleged Binance hot-wallet drain, Tether freeze, unconfirmed figures (Cointelegraph, TheBlockCo, danheld, caprioleio, lopp, juanbiter)",
+  "Earnings driven by BTC price marks: Strategy $21B operating income, Coinbase Q3 (saylor, coinbase, TheBitcoinConf)",
+  "Flows with a sign but no scale: 30-day ETF outflow vs. daily inflows (glassnode, BitcoinNewsCom)",
   "Start-date and seasonal claims that need a sample size: BTC vs gold since Feb 28, bear-year November, 13 months after the top (BitcoinMagazine, CryptoCon_, BitcoinArchive)",
-  "Security and custody: Google-infrastructure phishing, tampered Ledgers, Polymarket third-party compromise (lopp, DefiantNews, coinbureau)",
-  "Liquidations on the drop under $80K, the spot-only angle (Cointelegraph, WatcherGuru)",
+  "Security and privacy middlemen: Wagyu data leak, Google-infrastructure phishing, tampered Ledgers (DefiantNews, lopp, BitcoinArchive)",
   "Bold conviction quotes with no data (pete_rizzo_, TheBitcoinConf)",
-  "Off-lane reach: Lagarde exit, China selloff, Kalshi charges, Kansas midterm call, AI and work (WatcherGuru, coinbureau, TheBlockCo, Dennis_Porter_, APompliano)"
+  "Off-lane reach: Lagarde exit, China selloff, deficit and fraud, Kansas midterm call, AI and work (WatcherGuru, coinbureau, jameslavish, Dennis_Porter_, APompliano)"
  ],
  "no_hits": [
   {
@@ -633,7 +587,7 @@
   {
    "handle": "@LynAldenContact",
    "reason": "Originals below 2,000 views floor.",
-   "max_views": 14584
+   "max_views": 28896
   },
   {
    "handle": "@_Checkmatey_",
@@ -648,7 +602,7 @@
   {
    "handle": "@CaitlinLong_",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 8836
+   "max_views": 9171
   },
   {
    "handle": "@BitcoinPierre",
@@ -658,7 +612,7 @@
   {
    "handle": "@Pledditor",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 3703
+   "max_views": 3782
   },
   {
    "handle": "@Bitcoin",
@@ -673,7 +627,7 @@
   {
    "handle": "@adam3us",
    "reason": "Only qualifying post already answered.",
-   "max_views": 43105
+   "max_views": 44699
   },
   {
    "handle": "@nic_carter",
@@ -688,7 +642,7 @@
   {
    "handle": "@maxkeiser",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 7554
+   "max_views": 8057
   },
   {
    "handle": "@therationalroot",
@@ -701,14 +655,14 @@
    "max_views": 0
   },
   {
-   "handle": "@caprioleio",
-   "reason": "No original posts in the last 18h.",
-   "max_views": 0
-  },
-  {
    "handle": "@cluborange",
    "reason": "Originals below 2,000 views floor.",
-   "max_views": 547
+   "max_views": 577
+  },
+  {
+   "handle": "@CoinMarketCap",
+   "reason": "Only qualifying post already answered.",
+   "max_views": 84022
   },
   {
    "handle": "@tier10k",
@@ -723,14 +677,14 @@
   {
    "handle": "@SantimentData",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 5537
+   "max_views": 5787
   }
  ],
- "virals_narrative": "Watchlist scan done (353 originals in 18h, 50 accounts). One card per account.",
- "narrative_synthesis": "Thursday 18:00: Strategy's Q3 ($21B operating income, mostly the gain on its BTC) and Coinbase earnings lead the evening; BTC slipped back under $80K and long liquidations spiked. Still on the board: Lagarde's early exit, China's selloff, Glassnode's first 30-day ETF net outflow since July, Fidelity's BTC vs. gold since Feb 28. Security keeps showing up (Google-infrastructure phishing, tampered Ledgers, Polymarket provider compromise). Best reply angles: fair-value accounting vs. operating results, BTC per share, stablecoin balances as dry powder or parked cash, start-date and sample-size checks, practical custody hygiene.",
+ "virals_narrative": "Watchlist scan done (406 originals in 18h, 50 accounts). One card per account.",
+ "narrative_synthesis": "Thursday 19:00: the alleged Binance hot-wallet drain (~$2.8B reported, Tether froze $971M, no official Binance statement yet) dominates the last hour. Still on the board: Strategy's Q3 ($21B operating income, mostly the BTC mark), Coinbase earnings, Lagarde's early exit, China's selloff, Glassnode's first 30-day ETF net outflow since July, Fidelity's BTC vs. gold since Feb 28. Security keeps showing up (Binance, Wagyu data leak, Google-infrastructure phishing, tampered Ledgers). Best reply angles: verified vs. reported facts, exchange balances and self-custody, fair-value accounting vs. operating results, start-date and sample-size checks.",
  "virals_window": "last 24h",
  "virals_target": 20,
- "hits_count": 27,
+ "hits_count": 24,
  "outsiders_count": 0,
  "previous_day": {
   "date": "2026-10-27",
@@ -1094,12 +1048,12 @@
  ],
  "you_rank": {
   "handle": "@ForecastQuant",
-  "best_views": 13,
-  "total_views": 85,
-  "best_url": "https://x.com/ForecastQuant/status/2115802265143386315",
-  "posts_counted": 18,
-  "rank_among_watchlist": 38,
-  "total_accounts": 38,
+  "best_views": 12,
+  "total_views": 47,
+  "best_url": "https://x.com/ForecastQuant/status/2115864179571651021",
+  "posts_counted": 16,
+  "rank_among_watchlist": 39,
+  "total_accounts": 39,
   "vs_5k": "pending",
   "vs_10k": "pending",
   "note": "Originals + quotes, last 18h; replies excluded."
