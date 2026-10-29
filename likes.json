@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-29T12:11:47-03:00",
+  "generated_at": "2026-10-29T13:08:20-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
-  "listed": 41,
-  "in_niche": 8,
+  "listed": 33,
+  "in_niche": 0,
   "not_recommended": 33,
   "new_since_prev": 0,
-  "removed_replied": 0,
-  "removed_old": 2
+  "removed_replied": 8,
+  "removed_old": 0
  },
  "posts": [
   {
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~3 vistas/h, autor 230 seguidores, replies: 1"
+    "reason": "14 h, ~2 vistas/h, autor 230 seguidores, replies: 1"
    }
   },
   {
@@ -58,7 +58,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~4 vistas/h, autor 132 seguidores, replies: 1"
+    "reason": "14 h, ~3 vistas/h, autor 132 seguidores, replies: 1"
    }
   },
   {
@@ -71,7 +71,7 @@
    "url": "https://x.com/ni_celeb/status/2115634059045208400",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 15,
+    "impression_count": 16,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -83,7 +83,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~1 vistas/h, autor 46.3K seguidores, replies: 0"
+    "reason": "14 h, ~1 vistas/h, autor 46.3K seguidores, replies: 0"
    }
   },
   {
@@ -96,7 +96,7 @@
    "url": "https://x.com/CryptoLord100x/status/2115633990107611231",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1139,
+    "impression_count": 1151,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -108,59 +108,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~90 vistas/h, autor 17.6K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2115633991462289858",
-   "author": "不贰生.btc",
-   "username": "btcoutbit",
-   "text": "The best upgrade I made this year was combining daily AI productivity with a strict Bitcoin savings plan.",
-   "created_at": "2026-10-29T02:37:04.000Z",
-   "lang": "en",
-   "url": "https://x.com/btcoutbit/status/2115633991462289858",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 122,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "A fixed schedule takes most of the timing stress out. Do you buy on a set day, or add extra when price drops below a level?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~9 vistas/h, autor 7.7K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115633974072520929",
-   "author": "bullTattoo ⓗ",
-   "username": "bullTat2",
-   "text": "$BTC #Bitcoin biggest mistake ppl will make in this BEAR MARKET is thinking the 70k / 60k areas will hold after this dump. Many longs will get smoked",
-   "created_at": "2026-10-29T02:37:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/bullTat2/status/2115633974072520929",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 241,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "Nobody knows which level holds, which is why spot buyers often split entries between 70K and 60K instead of betting on one. Where would you start scaling in?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~19 vistas/h, autor 552 seguidores, replies: 0"
+    "reason": "14 h, ~85 vistas/h, autor 17.6K seguidores, replies: 1"
    }
   },
   {
@@ -173,7 +121,7 @@
    "url": "https://x.com/WallyWowzers/status/2115633953209991456",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 189,
+    "impression_count": 192,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
@@ -185,7 +133,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~15 vistas/h, autor 1.3K seguidores, replies: 1"
+    "reason": "14 h, ~14 vistas/h, autor 1.3K seguidores, replies: 1"
    }
   },
   {
@@ -198,7 +146,7 @@
    "url": "https://x.com/Heliumdeploy/status/2115633920637276348",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 741,
+    "impression_count": 747,
     "like_count": 12,
     "quote_count": 0,
     "reply_count": 4,
@@ -210,33 +158,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~58 vistas/h, autor 11.3K seguidores, replies: 4"
-   }
-  },
-  {
-   "id": "2115633920959991996",
-   "author": "Hydra",
-   "username": "Hydra_Xrpl",
-   "text": "BTC lost the prior day low and is sitting right on the hourly .75 at 79.87K. Spot CVD is down about 275M, so this was real selling.\n\nHolding here keeps it a normal pullback. If it breaks, 79.1K is next.$BTC \n\n#Bitcoin #BTC #Crypto #FOMC #LiqCheck https://t.co/x0zoPe3j2G",
-   "created_at": "2026-10-29T02:36:47.000Z",
-   "lang": "en",
-   "url": "https://x.com/Hydra_Xrpl/status/2115633920959991996",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 181,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 0
-   },
-   "reply_en": "If 79.1K breaks, spot buyers just get a lower level to scale into. In your data, does spot CVD usually turn before price at these levels?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~14 vistas/h, autor 1.1K seguidores, replies: 3"
+    "reason": "14 h, ~55 vistas/h, autor 11.3K seguidores, replies: 4"
    }
   },
   {
@@ -249,7 +171,7 @@
    "url": "https://x.com/TeejTheBookie/status/2115633904904179956",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 117,
+    "impression_count": 118,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -261,7 +183,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "13 h, ~9 vistas/h, autor 98.6K seguidores, replies: 0"
+    "reason": "14 h, ~8 vistas/h, autor 98.6K seguidores, replies: 0"
    }
   },
   {
@@ -274,7 +196,7 @@
    "url": "https://x.com/MacroAlphaHQ/status/2115633810909835275",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 563,
+    "impression_count": 569,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 2,
@@ -286,7 +208,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~44 vistas/h, autor 7.2K seguidores, replies: 2"
+    "reason": "14 h, ~42 vistas/h, autor 7.2K seguidores, replies: 2"
    }
   },
   {
@@ -298,9 +220,9 @@
    "lang": "en",
    "url": "https://x.com/Jason/status/2115633770367689061",
    "m": {
-    "bookmark_count": 16,
-    "impression_count": 41626,
-    "like_count": 135,
+    "bookmark_count": 18,
+    "impression_count": 42735,
+    "like_count": 138,
     "quote_count": 7,
     "reply_count": 12,
     "repost_count": 3
@@ -311,7 +233,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "13 h, ~3.3K vistas/h, autor 1816.7K seguidores, replies: 12"
+    "reason": "14 h, ~3.2K vistas/h, autor 1816.7K seguidores, replies: 12"
    }
   },
   {
@@ -324,7 +246,7 @@
    "url": "https://x.com/kangbedahhh/status/2115633732724076900",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 729,
+    "impression_count": 782,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -336,7 +258,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~57 vistas/h, autor 38.4K seguidores, replies: 0"
+    "reason": "14 h, ~57 vistas/h, autor 38.4K seguidores, replies: 0"
    }
   },
   {
@@ -349,7 +271,7 @@
    "url": "https://x.com/SneakyAlgo/status/2115633723454701945",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 272,
+    "impression_count": 274,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
@@ -361,7 +283,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~21 vistas/h, autor 1.6K seguidores, replies: 1"
+    "reason": "14 h, ~20 vistas/h, autor 1.6K seguidores, replies: 1"
    }
   },
   {
@@ -374,8 +296,8 @@
    "url": "https://x.com/JesseOlson/status/2115633715309367384",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3574,
-    "like_count": 21,
+    "impression_count": 3605,
+    "like_count": 22,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 1
@@ -386,7 +308,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "13 h, ~283 vistas/h, autor 83.7K seguidores, replies: 0"
+    "reason": "14 h, ~266 vistas/h, autor 83.7K seguidores, replies: 0"
    }
   },
   {
@@ -399,7 +321,7 @@
    "url": "https://x.com/dayua06/status/2115633698486075546",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 29,
+    "impression_count": 31,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -411,7 +333,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~2 vistas/h, autor 31 seguidores, replies: 0"
+    "reason": "14 h, ~2 vistas/h, autor 31 seguidores, replies: 0"
    }
   },
   {
@@ -436,7 +358,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~6 vistas/h, autor 42 seguidores, replies: 0"
+    "reason": "14 h, ~5 vistas/h, autor 42 seguidores, replies: 0"
    }
   },
   {
@@ -449,11 +371,11 @@
    "url": "https://x.com/BitcoinFeniks/status/2115633650653884778",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 335,
+    "impression_count": 342,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
-    "repost_count": 1
+    "repost_count": 2
    },
    "reply_en": "",
    "in_niche": false,
@@ -461,33 +383,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~26 vistas/h, autor 12.4K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115633628197831045",
-   "author": "Ploutos",
-   "username": "Ploutos97",
-   "text": "Crypto Market Check ✅ \n\nBTC is relatively resilient near $80k (–1.3%) with high dominance (~59%). Most alts are down harder (ETH, XRP, SOL etc.), so this looks like a mild risk off day with capital still favoring Bitcoin over the broader market. https://t.co/7Isww9EYAD",
-   "created_at": "2026-10-29T02:35:38.000Z",
-   "lang": "en",
-   "url": "https://x.com/Ploutos97/status/2115633628197831045",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 228,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 2
-   },
-   "reply_en": "Dominance rising on a red day mostly says alts are being sold harder, not that BTC is being bought. Are you watching ETF flows to confirm real spot demand?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~18 vistas/h, autor 4.2K seguidores, replies: 3"
+    "reason": "14 h, ~25 vistas/h, autor 12.4K seguidores, replies: 0"
    }
   },
   {
@@ -500,7 +396,7 @@
    "url": "https://x.com/KnightOw7/status/2115633521850982642",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 89,
+    "impression_count": 93,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -512,7 +408,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~7 vistas/h, autor 2.0K seguidores, replies: 0"
+    "reason": "14 h, ~6 vistas/h, autor 2.0K seguidores, replies: 0"
    }
   },
   {
@@ -525,7 +421,7 @@
    "url": "https://x.com/urielslutpop/status/2115633483309629689",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 220,
+    "impression_count": 221,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 3,
@@ -537,33 +433,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~17 vistas/h, autor 752 seguidores, replies: 3"
-   }
-  },
-  {
-   "id": "2115633469317370077",
-   "author": "Wadi Crypto X",
-   "username": "WadiCryptoX",
-   "text": "ONE FED DAY DOESN'T DEFINE A CRYPTO CYCLE\n\nAfter today's policy announcement, I'm watching three things: whether Bitcoin holds its move, whether spot buyers follow through, and whether leverage gets overheated.\n\nWhich signal matters most to you?\n\n#Bitcoin #CryptoMarket",
-   "created_at": "2026-10-29T02:35:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/WadiCryptoX/status/2115633469317370077",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 242,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "For spot, I'd watch whether ETF net flows turn positive over the next few sessions, since one Fed day rarely sets the trend. Do you weight ETF flows or spot CVD more?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~19 vistas/h, autor 11.6K seguidores, replies: 0"
+    "reason": "14 h, ~16 vistas/h, autor 752 seguidores, replies: 3"
    }
   },
   {
@@ -588,7 +458,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~2 vistas/h, autor 8 seguidores, replies: 0"
+    "reason": "14 h, ~2 vistas/h, autor 8 seguidores, replies: 0"
    }
   },
   {
@@ -601,7 +471,7 @@
    "url": "https://x.com/Jase147819796/status/2115633365760238053",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 129,
+    "impression_count": 132,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -613,33 +483,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~10 vistas/h, autor 706 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115633340808339662",
-   "author": "GOJIPOWER",
-   "username": "GOJIPOWER",
-   "text": "Bitcoin spot $79,942, down 1.24% on the day. The flow picture and the price picture disagree in one specific place, and it is worth being precise about where.\n\nETF flows. The prior session netted $1.3M, roughly 16 BTC — effectively zero. The sequence matters more than the print:",
-   "created_at": "2026-10-29T02:34:29.000Z",
-   "lang": "en",
-   "url": "https://x.com/GOJIPOWER/status/2115633340808339662",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 90,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "A net $1.3M day is basically flat, so one session says little about direction. Do you track the 5-day sum of ETF flows to filter the noise?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~7 vistas/h, autor 857 seguidores, replies: 1"
+    "reason": "14 h, ~9 vistas/h, autor 706 seguidores, replies: 0"
    }
   },
   {
@@ -664,7 +508,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~1 vistas/h, autor 5.9K seguidores, replies: 0"
+    "reason": "14 h, ~1 vistas/h, autor 5.9K seguidores, replies: 0"
    }
   },
   {
@@ -677,8 +521,8 @@
    "url": "https://x.com/StockWizardsHQ/status/2115633305181892909",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 37,
-    "like_count": 4,
+    "impression_count": 39,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -689,7 +533,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~2 vistas/h, autor 1.0K seguidores, replies: 0"
+    "reason": "14 h, ~2 vistas/h, autor 1.0K seguidores, replies: 0"
    }
   },
   {
@@ -702,8 +546,8 @@
    "url": "https://x.com/GrindeOptions/status/2115633294822056156",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 3757,
-    "like_count": 42,
+    "impression_count": 3935,
+    "like_count": 44,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 1
@@ -714,7 +558,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "13 h, ~297 vistas/h, autor 58.7K seguidores, replies: 2"
+    "reason": "14 h, ~290 vistas/h, autor 58.7K seguidores, replies: 2"
    }
   },
   {
@@ -739,7 +583,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~5 vistas/h, autor 29 seguidores, replies: 0"
+    "reason": "14 h, ~5 vistas/h, autor 29 seguidores, replies: 0"
    }
   },
   {
@@ -764,7 +608,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~3 vistas/h, autor 720 seguidores, replies: 5"
+    "reason": "14 h, ~3 vistas/h, autor 720 seguidores, replies: 5"
    }
   },
   {
@@ -789,7 +633,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~3 vistas/h, autor 143 seguidores, replies: 0"
+    "reason": "14 h, ~2 vistas/h, autor 144 seguidores, replies: 0"
    }
   },
   {
@@ -814,7 +658,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~1 vistas/h, autor 1.0K seguidores, replies: 0"
+    "reason": "14 h, ~1 vistas/h, autor 1.0K seguidores, replies: 0"
    }
   },
   {
@@ -839,34 +683,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~11 vistas/h, autor 3.9K seguidores, replies: 2"
-   }
-  },
-  {
-   "id": "2115633058166817123",
-   "author": "Farhad | Crypto News",
-   "username": "CryptoNews_op",
-   "text": "Half a bitcoin treasury company vanished in a day — and its bitcoin never left the exchange.\nDatavault AI fell ~50% after saying it couldn't withdraw BTC from Biconomy since June.\nA $92M restatement followed.\nTreasury bitcoin you can't move isn't really yours.",
-   "created_at": "2026-10-29T02:33:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/CryptoNews_op/status/2115633058166817123",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 83,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "Coins sitting on an exchange are a claim, not bitcoin you control, and this is what that looks like. Should treasury companies have to disclose how much they hold in self-custody?",
-   "in_niche": true,
-   "skip_reason": "",
-   "visual": "Visual sugerido: imagen explicativa + dos columnas, 'BTC en un exchange' (un saldo, una promesa de pago) versus 'BTC en autocustodia' (llaves propias, se puede mover cuando quieras), con el caso de la tesorería que no pudo retirar como ejemplo; navy blue background, Bitcoin in white, lime accents, ForecastQuant logo as watermark.",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "13 h, ~6 vistas/h, autor 5.4K seguidores, replies: 0"
+    "reason": "14 h, ~10 vistas/h, autor 3.9K seguidores, replies: 2"
    }
   },
   {
@@ -891,7 +708,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~17 vistas/h, autor 243 seguidores, replies: 0"
+    "reason": "14 h, ~16 vistas/h, autor 245 seguidores, replies: 0"
    }
   },
   {
@@ -904,10 +721,10 @@
    "url": "https://x.com/hodlxhold/status/2115549344950821112",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1112,
+    "impression_count": 1123,
     "like_count": 89,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 2,
     "repost_count": 6
    },
    "reply_en": "",
@@ -916,7 +733,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "18 h, ~61 vistas/h, autor 14.5K seguidores, replies: 1"
+    "reason": "19 h, ~58 vistas/h, autor 14.5K seguidores, replies: 2"
    }
   },
   {
@@ -928,9 +745,9 @@
    "lang": "en",
    "url": "https://x.com/CastilloTrading/status/2115539332979163148",
    "m": {
-    "bookmark_count": 10,
-    "impression_count": 13413,
-    "like_count": 113,
+    "bookmark_count": 11,
+    "impression_count": 13517,
+    "like_count": 115,
     "quote_count": 0,
     "reply_count": 7,
     "repost_count": 10
@@ -941,7 +758,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "19 h, ~711 vistas/h, autor 105.5K seguidores, replies: 7"
+    "reason": "20 h, ~683 vistas/h, autor 105.5K seguidores, replies: 7"
    }
   },
   {
@@ -954,10 +771,10 @@
    "url": "https://x.com/astronomer_zero/status/2115537347546935674",
    "m": {
     "bookmark_count": 16,
-    "impression_count": 43873,
+    "impression_count": 44336,
     "like_count": 194,
     "quote_count": 2,
-    "reply_count": 34,
+    "reply_count": 33,
     "repost_count": 4
    },
    "reply_en": "",
@@ -966,7 +783,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "19 h, ~2.3K vistas/h, autor 65.8K seguidores, replies: 34"
+    "reason": "20 h, ~2.2K vistas/h, autor 65.8K seguidores, replies: 33"
    }
   },
   {
@@ -979,7 +796,7 @@
    "url": "https://x.com/Crypto_zerro/status/2115507814529683765",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 772,
+    "impression_count": 783,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 2,
@@ -991,7 +808,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~36 vistas/h, autor 1.3K seguidores, replies: 2"
+    "reason": "22 h, ~35 vistas/h, autor 1.3K seguidores, replies: 2"
    }
   },
   {
@@ -1004,11 +821,11 @@
    "url": "https://x.com/kriptoani/status/2115495435590570080",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 3027,
-    "like_count": 26,
+    "impression_count": 3055,
+    "like_count": 27,
     "quote_count": 0,
     "reply_count": 20,
-    "repost_count": 7
+    "repost_count": 8
    },
    "reply_en": "",
    "in_niche": false,
@@ -1016,34 +833,8 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~139 vistas/h, autor 2.6K seguidores, replies: 20"
+    "reason": "23 h, ~134 vistas/h, autor 2.6K seguidores, replies: 20"
    }
-  },
-  {
-   "id": "2115493388430794812",
-   "author": "Ardi",
-   "username": "ArdiNSC",
-   "text": "Going to be interesting to see what games the market makers are about to pull around FOMC.\n\n$BTC has a clear cluster of long liquidation levels sitting below the range, around $78K.\n\nWith the meeting coming up, I wouldn’t get too comfortable assuming the $79.5–80K support zone https://t.co/YVRsf0GtgY",
-   "created_at": "2026-10-28T17:18:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/ArdiNSC/status/2115493388430794812",
-   "m": {
-    "bookmark_count": 10,
-    "impression_count": 11655,
-    "like_count": 196,
-    "quote_count": 1,
-    "reply_count": 45,
-    "repost_count": 32
-   },
-   "reply_en": "A liquidation cluster shows where forced selling could hit, not where price has to go. For spot, a sweep into 78K reads more like a zone to have bids ready than a reason to panic. Did the last few FOMC days actually tag those clusters?",
-   "in_niche": true,
-   "skip_reason": "",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~532 vistas/h, autor 34.4K seguidores, replies: 45"
-   },
-   "reply_lang": "en"
   }
  ]
 }
