@@ -1,19 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-29T13:26:00-03:00"
+    "updated_at": "2026-10-29T13:44:00-03:00"
   },
-  "replies": [
-    {
-      "id": "2115838623312490982",
-      "date": "2026-10-29T13:10:12-03:00",
-      "handle": "Hydra_Xrpl",
-      "post_url": "https://x.com/Hydra_Xrpl/status/2115838623312490982",
-      "user_post": "@Hydra_Xrpl If 79.1K breaks, spot buyers just get a lower level to scale into. In your data, does spot CVD usually turn before price at these levels?",
-      "reply": "@ForecastQuant lowkey yeah, i watch for spot cvd flattening first. not every time tho",
-      "draft": "Makes sense. Flattening CVD while price still drifts lower is the tell for me too. Do you wait for a reclaim of the level before acting, or scale in on the flattening itself?",
-      "draft_alt": "Flattening before the turn, good filter. When it fails, is it usually because perps keep pushing price lower?",
-      "status": "Esperando tu ok",
-      "new": true
-    }
-  ]
+  "replies": []
 }
