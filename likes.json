@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-29T17:04:08-03:00",
+  "generated_at": "2026-10-29T18:07:51-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
-  "listed": 32,
+  "listed": 29,
   "in_niche": 0,
-  "not_recommended": 32,
+  "not_recommended": 29,
   "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 0
+  "removed_old": 3
  },
  "posts": [
   {
@@ -21,7 +21,7 @@
    "url": "https://x.com/BTC21000m/status/2115849829767319721",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 796,
+    "impression_count": 817,
     "like_count": 155,
     "quote_count": 0,
     "reply_count": 1,
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "3 h, ~252 vistas/h, autor 466 seguidores, replies: 1"
+    "reason": "4 h, ~193 vistas/h, autor 466 seguidores, replies: 1"
    }
   },
   {
@@ -57,8 +57,8 @@
    "skip_reason": "Instrumentos financieros de Strategy (STRC), fuera de tu enfoque spot.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~2 vistas/h, autor 229 seguidores, replies: 1"
+    "score": -1,
+    "reason": "18 h, ~2 vistas/h, autor 229 seguidores, replies: 1"
    }
   },
   {
@@ -82,8 +82,8 @@
    "skip_reason": "Altcoins y noticias genéricas, fuera de tu nicho.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~3 vistas/h, autor 132 seguidores, replies: 1"
+    "score": -1,
+    "reason": "18 h, ~2 vistas/h, autor 132 seguidores, replies: 1"
    }
   },
   {
@@ -107,8 +107,8 @@
    "skip_reason": "Comentario suelto dentro de otro hilo.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~0 vistas/h, autor 46.3K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~0 vistas/h, autor 46.3K seguidores, replies: 0"
    }
   },
   {
@@ -121,7 +121,7 @@
    "url": "https://x.com/CryptoLord100x/status/2115633990107611231",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1173,
+    "impression_count": 1180,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -132,8 +132,8 @@
    "skip_reason": "Promoción de una memecoin.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~67 vistas/h, autor 17.6K seguidores, replies: 1"
+    "score": -1,
+    "reason": "19 h, ~63 vistas/h, autor 17.6K seguidores, replies: 1"
    }
   },
   {
@@ -157,8 +157,8 @@
    "skip_reason": "Promoción de su propio proyecto.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~11 vistas/h, autor 1.3K seguidores, replies: 1"
+    "score": -1,
+    "reason": "19 h, ~10 vistas/h, autor 1.3K seguidores, replies: 1"
    }
   },
   {
@@ -171,8 +171,8 @@
    "url": "https://x.com/Heliumdeploy/status/2115633920637276348",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 798,
-    "like_count": 12,
+    "impression_count": 809,
+    "like_count": 13,
     "quote_count": 0,
     "reply_count": 4,
     "repost_count": 2
@@ -182,8 +182,8 @@
    "skip_reason": "Promoción de un juego de minería con premios.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~45 vistas/h, autor 11.3K seguidores, replies: 4"
+    "score": -1,
+    "reason": "19 h, ~43 vistas/h, autor 11.3K seguidores, replies: 4"
    }
   },
   {
@@ -196,7 +196,7 @@
    "url": "https://x.com/TeejTheBookie/status/2115633904904179956",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 122,
+    "impression_count": 123,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -207,8 +207,8 @@
    "skip_reason": "Comentario suelto dentro de otro hilo.",
    "momentum": {
     "level": "bajo",
-    "score": 1,
-    "reason": "17 h, ~6 vistas/h, autor 98.6K seguidores, replies: 0"
+    "score": 0,
+    "reason": "19 h, ~6 vistas/h, autor 98.6K seguidores, replies: 0"
    }
   },
   {
@@ -221,7 +221,7 @@
    "url": "https://x.com/MacroAlphaHQ/status/2115633810909835275",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 576,
+    "impression_count": 580,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 2,
@@ -232,8 +232,8 @@
    "skip_reason": "Titular repetido de liquidaciones; mejor responder al de Btcexpertindia, con más alcance.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~32 vistas/h, autor 7.2K seguidores, replies: 2"
+    "score": -1,
+    "reason": "19 h, ~31 vistas/h, autor 7.2K seguidores, replies: 2"
    }
   },
   {
@@ -246,8 +246,8 @@
    "url": "https://x.com/Jason/status/2115633770367689061",
    "m": {
     "bookmark_count": 18,
-    "impression_count": 48472,
-    "like_count": 149,
+    "impression_count": 49604,
+    "like_count": 151,
     "quote_count": 7,
     "reply_count": 12,
     "repost_count": 3
@@ -256,9 +256,9 @@
    "in_niche": false,
    "skip_reason": "Broma con imagen, fuera de tu enfoque.",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "17 h, ~2.8K vistas/h, autor 1816.7K seguidores, replies: 12"
+    "level": "medio",
+    "score": 2,
+    "reason": "19 h, ~2.7K vistas/h, autor 1816.8K seguidores, replies: 12"
    }
   },
   {
@@ -271,7 +271,7 @@
    "url": "https://x.com/kangbedahhh/status/2115633732724076900",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 948,
+    "impression_count": 968,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -282,8 +282,8 @@
    "skip_reason": "Estilo de vida en indonesio, fuera de tu nicho.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~54 vistas/h, autor 38.4K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~52 vistas/h, autor 38.4K seguidores, replies: 0"
    }
   },
   {
@@ -296,7 +296,7 @@
    "url": "https://x.com/SneakyAlgo/status/2115633723454701945",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 276,
+    "impression_count": 277,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
@@ -307,8 +307,8 @@
    "skip_reason": "Saludo con imagen, nada que aportar.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~15 vistas/h, autor 1.6K seguidores, replies: 1"
+    "score": -1,
+    "reason": "19 h, ~14 vistas/h, autor 1.6K seguidores, replies: 1"
    }
   },
   {
@@ -321,7 +321,7 @@
    "url": "https://x.com/JesseOlson/status/2115633715309367384",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3647,
+    "impression_count": 3660,
     "like_count": 23,
     "quote_count": 0,
     "reply_count": 0,
@@ -332,8 +332,8 @@
    "skip_reason": "Llamada de precio sin argumento, dentro de otro hilo.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "17 h, ~208 vistas/h, autor 83.7K seguidores, replies: 0"
+    "score": 1,
+    "reason": "19 h, ~197 vistas/h, autor 83.7K seguidores, replies: 0"
    }
   },
   {
@@ -357,8 +357,8 @@
    "skip_reason": "Promoción de una colección NFT.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~1 vistas/h, autor 31 seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~1 vistas/h, autor 31 seguidores, replies: 0"
    }
   },
   {
@@ -382,8 +382,8 @@
    "skip_reason": "Solo hashtags e imagen.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~4 vistas/h, autor 42 seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~4 vistas/h, autor 42 seguidores, replies: 0"
    }
   },
   {
@@ -396,7 +396,7 @@
    "url": "https://x.com/BitcoinFeniks/status/2115633650653884778",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 366,
+    "impression_count": 372,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -407,8 +407,8 @@
    "skip_reason": "Contenido político en polaco, fuera de tu nicho.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~20 vistas/h, autor 12.4K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~20 vistas/h, autor 12.4K seguidores, replies: 0"
    }
   },
   {
@@ -421,7 +421,7 @@
    "url": "https://x.com/KnightOw7/status/2115633521850982642",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 99,
+    "impression_count": 101,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -432,8 +432,8 @@
    "skip_reason": "Broma sobre el FOMC, solo imagen.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~5 vistas/h, autor 2.0K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~5 vistas/h, autor 2.0K seguidores, replies: 0"
    }
   },
   {
@@ -446,7 +446,7 @@
    "url": "https://x.com/urielslutpop/status/2115633483309629689",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 236,
+    "impression_count": 243,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 3,
@@ -457,8 +457,8 @@
    "skip_reason": "Pregunta de soporte personal sobre Cash App, poco valor público.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~13 vistas/h, autor 750 seguidores, replies: 3"
+    "score": -1,
+    "reason": "19 h, ~13 vistas/h, autor 750 seguidores, replies: 3"
    }
   },
   {
@@ -482,8 +482,8 @@
    "skip_reason": "Titular repetido de liquidaciones; mejor responder al de Btcexpertindia, con más alcance.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~1 vistas/h, autor 8 seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~1 vistas/h, autor 8 seguidores, replies: 0"
    }
   },
   {
@@ -496,7 +496,7 @@
    "url": "https://x.com/Jase147819796/status/2115633365760238053",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 152,
+    "impression_count": 153,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -507,8 +507,8 @@
    "skip_reason": "Comentario fuera de tema, con tinte político.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~8 vistas/h, autor 705 seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~8 vistas/h, autor 705 seguidores, replies: 0"
    }
   },
   {
@@ -532,8 +532,8 @@
    "skip_reason": "Comentario conspirativo sin valor.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~1 vistas/h, autor 5.9K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~1 vistas/h, autor 5.9K seguidores, replies: 0"
    }
   },
   {
@@ -557,8 +557,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con muy poco alcance.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~2 vistas/h, autor 1.0K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~2 vistas/h, autor 1.0K seguidores, replies: 0"
    }
   },
   {
@@ -571,7 +571,7 @@
    "url": "https://x.com/GrindeOptions/status/2115633294822056156",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 4318,
+    "impression_count": 4447,
     "like_count": 50,
     "quote_count": 0,
     "reply_count": 2,
@@ -582,8 +582,8 @@
    "skip_reason": "Solo imagen y frase vaga; nada concreto que aportar.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "17 h, ~246 vistas/h, autor 58.7K seguidores, replies: 2"
+    "score": 1,
+    "reason": "19 h, ~239 vistas/h, autor 58.7K seguidores, replies: 2"
    }
   },
   {
@@ -607,8 +607,8 @@
    "skip_reason": "Autopromoción de sus llamadas de precio.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~3 vistas/h, autor 29 seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~3 vistas/h, autor 29 seguidores, replies: 0"
    }
   },
   {
@@ -632,8 +632,8 @@
    "skip_reason": "Noticia de Ripple/XRP, fuera de tu nicho.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~2 vistas/h, autor 719 seguidores, replies: 5"
+    "score": -1,
+    "reason": "19 h, ~2 vistas/h, autor 719 seguidores, replies: 5"
    }
   },
   {
@@ -657,8 +657,8 @@
    "skip_reason": "Texto genérico tipo resumen, sin un dato concreto que discutir.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~2 vistas/h, autor 143 seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~2 vistas/h, autor 143 seguidores, replies: 0"
    }
   },
   {
@@ -682,8 +682,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con muy poco alcance.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~1 vistas/h, autor 1.0K seguidores, replies: 0"
+    "score": -1,
+    "reason": "19 h, ~1 vistas/h, autor 1.0K seguidores, replies: 0"
    }
   },
   {
@@ -707,8 +707,8 @@
    "skip_reason": "Respuesta dentro de otro hilo sobre la acción de Strategy, poco alcance.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~8 vistas/h, autor 3.9K seguidores, replies: 2"
+    "score": -1,
+    "reason": "19 h, ~7 vistas/h, autor 3.9K seguidores, replies: 2"
    }
   },
   {
@@ -732,83 +732,8 @@
    "skip_reason": "Bot de cuotas de Polymarket, mayormente fuera de tema.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~12 vistas/h, autor 244 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115549344950821112",
-   "author": "xxxBTCxxx ☣️⚡️DS₿#1123⚡️",
-   "username": "hodlxhold",
-   "text": "BITCOIN💥💥⚡️ https://t.co/ozeggkcEyI",
-   "created_at": "2026-10-28T21:00:43.000Z",
-   "lang": "en",
-   "url": "https://x.com/hodlxhold/status/2115549344950821112",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1161,
-    "like_count": 91,
-    "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 6
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo emojis e imagen; nada concreto que aportar.",
-   "momentum": {
-    "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~50 vistas/h, autor 14.5K seguidores, replies: 2"
-   }
-  },
-  {
-   "id": "2115539332979163148",
-   "author": "Castillo Trading",
-   "username": "CastilloTrading",
-   "text": "Just a reminder that we helped many people capture the lows on $BTC after sweeping Lower Limit in July.\n\nSince then, we've seen about a +50% increase while a lot of people continued to call for lower and even into $40k ranges. Still holding partial longs open from down there as https://t.co/uPWV99884s",
-   "created_at": "2026-10-28T20:20:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/CastilloTrading/status/2115539332979163148",
-   "m": {
-    "bookmark_count": 11,
-    "impression_count": 13755,
-    "like_count": 117,
-    "quote_count": 1,
-    "reply_count": 7,
-    "repost_count": 10
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Autopromoción de sus llamadas y longs abiertos; poco espacio para un aporte útil.",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "24 h, ~579 vistas/h, autor 105.5K seguidores, replies: 7"
-   }
-  },
-  {
-   "id": "2115537347546935674",
-   "author": "Astronomer",
-   "username": "astronomer_zero",
-   "text": "$btc\n\nHigh is starting to liquidate a good amount of shorts here. Going short again here slowly.\n\nWith more clarity of fomc now behind us, i'm more confident to short again.\n\nSame sizing plan, targeting plan, but better entry than before, better plan to manage more tightly and https://t.co/IlEOE0Xdq8",
-   "created_at": "2026-10-28T20:13:03.000Z",
-   "lang": "en",
-   "url": "https://x.com/astronomer_zero/status/2115537347546935674",
-   "m": {
-    "bookmark_count": 16,
-    "impression_count": 45327,
-    "like_count": 197,
-    "quote_count": 2,
-    "reply_count": 33,
-    "repost_count": 4
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Gira en torno a abrir shorts; fuera de tu enfoque spot sin apalancamiento.",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "24 h, ~1.9K vistas/h, autor 65.8K seguidores, replies: 33"
+    "reason": "19 h, ~12 vistas/h, autor 245 seguidores, replies: 0"
    }
   }
  ]
