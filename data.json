@@ -2,7 +2,7 @@
  "title": "Daily X narrative digest \u2014 2026-10-29",
  "date": "2026-10-29",
  "timezone": "America/Santiago",
- "updated": "2026-10-29T02:02:39-03:00",
+ "updated": "2026-10-29T04:04:56-03:00",
  "brand_title": "POSTER",
  "brand_handle": "@ForecastQuant",
  "hits": [
@@ -22,10 +22,10 @@
    "reply_angle": "Bring a base rate: check $BTC's return in the 1-4 weeks after hawkish Fed holds vs. after cuts, instead of reading the quote as bullish or bearish.",
    "why_chosen": "Half a million views on a single quote; room for a data question on how $BTC reacts to hawkish holds.",
    "visual_suggestion": "Visual sugerido: [chart] $BTC return 1-4 weeks after each recent FOMC decision, grouped by hold/cut/hike (data to pull from price history and FOMC dates, verify). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 565093,
-   "views_label": "565,093 views",
+   "views": 592662,
+   "views_label": "592,662 views",
    "highlight": true,
-   "likes": 5949,
+   "likes": 6244,
    "is_new": false
   },
   {
@@ -43,10 +43,10 @@
    "video_tip": "Split screen: a coin in a hardware wallet vs. a share certificate, caption 'which one is bitcoin?'; 10s.",
    "reply_angle": "Separate the instrument from the asset: a preferred is a company's dollar obligation; ask how coverage holds up in a deep $BTC drawdown (check the filings).",
    "why_chosen": "Huge reach with a product most readers confuse with holding BTC; room for a clear custody/risk distinction.",
-   "views": 428599,
-   "views_label": "428,599 views",
+   "views": 440685,
+   "views_label": "440,685 views",
    "highlight": true,
-   "likes": 6038,
+   "likes": 6115,
    "is_new": false
   },
   {
@@ -68,44 +68,15 @@
    "also": [
     {
      "handle": "@bitcoinlfgo",
-     "views": 11383,
-     "views_label": "11,383 views",
+     "views": 12243,
+     "views_label": "12,243 views",
      "url": "https://x.com/bitcoinlfgo/status/2115471697914835285"
     }
    ],
-   "views": 94720,
-   "views_label": "94,720 views",
+   "views": 100008,
+   "views_label": "100,008 views",
    "highlight": true,
-   "likes": 1014,
-   "is_new": true
-  },
-  {
-   "handle": "@Cointelegraph",
-   "display_name": "Cointelegraph",
-   "name": "Cointelegraph",
-   "text": "\ud83d\udd25 JUST IN: $114T+ custodian DTCC launches its tokenization service with 34 securities available at launch, initially supporting Canton Network and Besu. https://t.co/9C5rSklA6e",
-   "hook": "\ud83d\udd25 JUST IN: $114T+ custodian DTCC launches its tokenization service with 34 securities available at launch, initially supporting Canton Network and Besu. https://t.co/9C5rSklA6e",
-   "url": "https://x.com/Cointelegraph/status/2115417824554271034",
-   "status_url": "https://x.com/Cointelegraph/status/2115417824554271034",
-   "created_at": "2026-10-28T12:18:06.000Z",
-   "story": "DTCC launches its tokenization service (34 securities at launch)",
-   "draft_en": "DTCC, the plumbing behind US securities settlement, now runs a tokenization service.\n\n34 securities at launch, per the announcement.\n\nWorth separating the two ideas:\n- tokenized stocks = same asset, new rails, same custodians\n- $BTC = no issuer, no custodian needed if you hold your keys\n\nOne upgrades the old system.\nThe other is an exit option from it.\n\nWhich one do you think people confuse more?\nIf it was useful, a repost helps more people see the difference.",
-   "draft_quote_en": "Tokenization at the clearinghouse is a rails upgrade, not a new asset.\n\nWho holds the keys here, and can a token holder settle without DTCC in the middle? That answer tells you how 'on-chain' it really is.",
-   "video_tip": "Two lanes on screen: 'stock on new rails' vs '$BTC, your keys'; 10s, 9:16.",
-   "reply_angle": "Ask who controls the keys and whether holders can settle without DTCC as intermediary; contrast rails upgrade vs. bearer asset ($BTC self-custody).",
-   "why_chosen": "Big tokenization headline with 90 replies already; clear angle on custody and intermediaries.",
-   "also": [
-    {
-     "handle": "@DefiantNews",
-     "views": 19251,
-     "views_label": "19,251 views",
-     "url": "https://x.com/DefiantNews/status/2115422773518504286"
-    }
-   ],
-   "views": 55652,
-   "views_label": "55,652 views",
-   "highlight": true,
-   "likes": 746,
+   "likes": 1056,
    "is_new": false
   },
   {
@@ -145,32 +116,19 @@
    "video_tip": "Terminal screen: version check, update, signature verification, done; 10s.",
    "reply_angle": "Point people to the official Bitcoin Core disclosure: affected versions, fixed release, and verifying signatures before updating (check the release notes).",
    "why_chosen": "Security news with a concrete action for node runners; fits his autonomy and verification angle.",
-   "views": 49598,
-   "views_label": "49,598 views",
+   "views": 53865,
+   "views_label": "53,865 views",
    "highlight": true,
-   "likes": 451,
-   "is_new": false
-  },
-  {
-   "handle": "@glassnode",
-   "display_name": "glassnode",
-   "name": "glassnode",
-   "text": "$85K keeps turning $BTC back.  Since January, Bitcoin has closed above it on only five days, never more than three in a row. It's a truly tough level to break. More in depth analysis in our latest Week on Chain report https://t.co/xy8lE3ilt3",
-   "hook": "$85K keeps turning $BTC back.  Since January, Bitcoin has closed above it on only five days, never more than three in a row. It's a truly tough level to break. More in depth analysis in our latest Wee",
-   "url": "https://x.com/glassnode/status/2115427475635196352",
-   "status_url": "https://x.com/glassnode/status/2115427475635196352",
-   "created_at": "2026-10-28T12:56:27.000Z",
-   "draft_en": "$85K keeps rejecting $BTC.\n\nglassnode: since January, only five daily closes above it, never more than three in a row.\n\nThat's a fact about the past. Not a forecast.\n\nWhat would change my read:\n- a weekly close above it\n- holding it on a retest\n\nBuying spot below it, or waiting for the break?\nBookmark this and check it next time $85K gets tested.",
-   "draft_quote_en": "Five closes above $85K since January is a clean stat. Next question: how many false breaks came before past multi-month $BTC ceilings finally gave way?\n\nResistance tells you where. Not when.",
-   "video_tip": "Daily chart with the $85K line, five dots on the closes above it, then 'day 4?'. 8s.",
-   "reply_angle": "Base-rate check: ask how many false breaks preceded past multi-month $BTC ceilings and whether a weekly close is better confirmation than a daily one.",
-   "visual_suggestion": "Visual sugerido: [chart] + BTC daily closes since January with the $85K line and the five closes above it marked; real price data only. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "why_chosen": "Concrete level stat from an on-chain source, very fresh; invites a spot plan and a false-break question.",
-   "views": 47933,
-   "views_label": "47,933 views",
-   "highlight": true,
-   "likes": 154,
-   "is_new": false
+   "likes": 463,
+   "is_new": false,
+   "also": [
+    {
+     "handle": "@DefiantNews",
+     "views": 2748,
+     "views_label": "2,748 views",
+     "url": "https://x.com/DefiantNews/status/2115612582275084546"
+    }
+   ]
   },
   {
    "handle": "@jackmallers",
@@ -187,10 +145,54 @@
    "video_tip": "Gold mine output rising vs. a flat 21M line, then a price line swinging; 12s.",
    "reply_angle": "Add the missing half: inelastic supply means demand shocks go straight to price; point to past $BTC drawdowns as the cost of scarcity.",
    "why_chosen": "Clean scarcity claim with good saves; room to add the volatility side.",
-   "views": 47282,
-   "views_label": "47,282 views",
+   "views": 49840,
+   "views_label": "49,840 views",
    "highlight": true,
-   "likes": 1159,
+   "likes": 1255,
+   "is_new": false
+  },
+  {
+   "handle": "@Cointelegraph",
+   "display_name": "Cointelegraph",
+   "name": "Cointelegraph",
+   "text": "\ud83d\udd25 BULLISH: Grant Cardone offers Jason Calacanis a $1 million bet that $BTC will reach or exceed $126,210.50 by October 28, 2028. https://t.co/zFTJIIxxee",
+   "hook": "\ud83d\udd25 BULLISH: Grant Cardone offers Jason Calacanis a $1 million bet that $BTC will reach or exceed $126,210.50 by October 28, 2028. https://t.co/zFTJIIxxee",
+   "url": "https://x.com/Cointelegraph/status/2115549260183703872",
+   "status_url": "https://x.com/Cointelegraph/status/2115549260183703872",
+   "created_at": "2026-10-28T21:00:23.000Z",
+   "story": "Grant Cardone offers Calacanis a $1M bet on a new BTC ATH by 2028",
+   "draft_en": "A $1M bet on a new $BTC all-time high by 2028.\n\nThe interesting part isn't the bet.\nIt's the base rate:\n- after each past cycle top, how long until a new ATH?\n- did any cycle take longer than ~3 years?\n\nCheck the history before you take either side.\nSmall sample, so treat it as a range, not a promise.\n\nWhat's your guess: months or years?\nIf this was useful, a repost helps more people see it.",
+   "draft_quote_en": "Before anyone takes this bet: how long did $BTC take to reclaim its prior ATH after each past cycle top?\n\nThat history is the closest thing to fair odds here. Small sample, but better than vibes.",
+   "video_tip": "Timeline of each BTC cycle top to the next ATH, bar length = months; end on a question mark at Oct 2028; 10s, 9:16.",
+   "reply_angle": "Bring the base rate: months from each prior BTC cycle top to the next new ATH (check price history), and note the sample is only a handful of cycles.",
+   "why_chosen": "Most-replied fresh Cointelegraph post with a concrete, checkable date and price; room for a base-rate reply.",
+   "visual_suggestion": "Visual sugerido: [chart] Horizontal bars: months from each past BTC cycle top to the next new all-time high, with the Oct 2028 deadline marked; dates and prices to be checked. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "views": 39559,
+   "views_label": "39,559 views",
+   "highlight": true,
+   "likes": 343,
+   "is_new": true
+  },
+  {
+   "handle": "@natbrunell",
+   "display_name": "Natalie Brunell \u26a1\ufe0f",
+   "name": "Natalie Brunell \u26a1\ufe0f",
+   "text": "\u201cBitcoin would be thrown into total disarray...\u201d\n\n@nic_carter shares his take on the possibility of AI breaking public key encryption vs quantum risk. This is his honest read. \n\nShare your thoughts below. https://t.co/JhRxTWpgOh https://t.co/mkuJLseN8h",
+   "hook": "\u201cBitcoin would be thrown into total disarray...\u201d",
+   "url": "https://x.com/natbrunell/status/2115454826246979798",
+   "status_url": "https://x.com/natbrunell/status/2115454826246979798",
+   "created_at": "2026-10-28T14:45:08.000Z",
+   "story": "AI vs. quantum risk to public keys",
+   "draft_en": "AI breaking public key encryption vs. quantum risk: nic_carter's take is getting shared today.\n\nBefore panicking, separate the questions:\n- what is actually broken today?\n- which coins have exposed public keys?\n- what would an upgrade path look like?\n\nThe practical part: reused or old addresses carry more exposure.\n\nWhich of these do you think is underrated?\nWant me to go deeper on any part?",
+   "draft_quote_en": "Worth separating 'possible someday' from 'broken today'.\n\nWhat is the concrete attack he's describing, and how many coins sit in addresses with exposed public keys?",
+   "video_tip": "Padlock with two shadows labeled AI and quantum, caption 'which one is real?'; 10s.",
+   "reply_angle": "Ask for specifics: which attack, which coins (exposed public keys, reused addresses), and what timeline; avoid fear without evidence.",
+   "content_unreadable": true,
+   "why_chosen": "Open debate with many replies and saves; room for a clarifying, evidence-first reply.",
+   "views": 37806,
+   "views_label": "37,806 views",
+   "highlight": true,
+   "likes": 152,
    "is_new": false
   },
   {
@@ -209,32 +211,10 @@
    "reply_angle": "Turn the n=1 claim into a base rate: list every $BTC close below the 50-week MA after a rally and check the median 30-day return (backtest to run, don't quote a figure).",
    "visual_suggestion": "Visual sugerido: [chart] + every weekly $BTC close below the 50-week MA after a rally, with the following 30-day return for each case (median marked); price history to be checked. Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Single-example pattern claim with big reach; ideal for a base-rate check he can actually run.",
-   "views": 36287,
-   "views_label": "36,287 views",
+   "views": 37689,
+   "views_label": "37,689 views",
    "highlight": true,
-   "likes": 284,
-   "is_new": false
-  },
-  {
-   "handle": "@natbrunell",
-   "display_name": "Natalie Brunell \u26a1\ufe0f",
-   "name": "Natalie Brunell \u26a1\ufe0f",
-   "text": "\u201cBitcoin would be thrown into total disarray...\u201d\n\n@nic_carter shares his take on the possibility of AI breaking public key encryption vs quantum risk. This is his honest read. \n\nShare your thoughts below. https://t.co/JhRxTWpgOh https://t.co/mkuJLseN8h",
-   "hook": "\u201cBitcoin would be thrown into total disarray...\u201d",
-   "url": "https://x.com/natbrunell/status/2115454826246979798",
-   "status_url": "https://x.com/natbrunell/status/2115454826246979798",
-   "created_at": "2026-10-28T14:45:08.000Z",
-   "story": "AI vs. quantum risk to public keys",
-   "draft_en": "AI breaking public key encryption vs. quantum risk: nic_carter's take is getting shared today.\n\nBefore panicking, separate the questions:\n- what is actually broken today?\n- which coins have exposed public keys?\n- what would an upgrade path look like?\n\nThe practical part: reused or old addresses carry more exposure.\n\nWhich of these do you think is underrated?\nWant me to go deeper on any part?",
-   "draft_quote_en": "Worth separating 'possible someday' from 'broken today'.\n\nWhat is the concrete attack he's describing, and how many coins sit in addresses with exposed public keys?",
-   "video_tip": "Padlock with two shadows labeled AI and quantum, caption 'which one is real?'; 10s.",
-   "reply_angle": "Ask for specifics: which attack, which coins (exposed public keys, reused addresses), and what timeline; avoid fear without evidence.",
-   "content_unreadable": true,
-   "why_chosen": "Open debate with many replies and saves; room for a clarifying, evidence-first reply.",
-   "views": 36054,
-   "views_label": "36,054 views",
-   "highlight": true,
-   "likes": 141,
+   "likes": 312,
    "is_new": false
   },
   {
@@ -252,10 +232,10 @@
    "video_tip": "Three-question checklist appearing over an office meeting scene; 10s, 9:16.",
    "reply_angle": "Reframe the test: what matters is whether the advisor explains sizing, past drawdowns and custody, not whether they say 'buy'.",
    "why_chosen": "Provocative one-liner with lots of replies; easy to add a practical checklist.",
-   "views": 31513,
-   "views_label": "31,513 views",
+   "views": 33980,
+   "views_label": "33,980 views",
    "highlight": true,
-   "likes": 698,
+   "likes": 750,
    "is_new": false
   },
   {
@@ -274,11 +254,33 @@
    "video_tip": "Bar chart placeholder: polling error by cycle, alternating direction, label 'check the data'; 10s.",
    "reply_angle": "Stay non-partisan: one cycle of polling misses isn't a base rate; ask for the direction of polling error across several cycles (check historical averages) and compare with prediction market odds.",
    "why_chosen": "Fresh, testable base-rate claim from an account he already engages; bridges to sample size and markets vs polls.",
-   "views": 21839,
-   "views_label": "21,839 views",
+   "views": 26820,
+   "views_label": "26,820 views",
    "highlight": true,
-   "likes": 299,
+   "likes": 379,
    "is_new": false
+  },
+  {
+   "handle": "@glassnode",
+   "display_name": "glassnode",
+   "name": "glassnode",
+   "text": "This market looks a lot like summer 2023.\n\nIn 2023, bitcoin:native's first big move off the bottom ran into a meme and altcoin frenzy. Volatility then sank. This year has followed the same order, with volatility now at the lows.\n\nMore on these parallels in this week's Week https://t.co/UIwwhxP2aD https://t.co/KLZj67YTDv",
+   "hook": "This market looks a lot like summer 2023.",
+   "url": "https://x.com/glassnode/status/2115577599913066705",
+   "status_url": "https://x.com/glassnode/status/2115577599913066705",
+   "created_at": "2026-10-28T22:53:00.000Z",
+   "story": "Glassnode: this market looks like summer 2023",
+   "draft_en": "\"This looks like 2023\" is a testable claim.\n\nAn analog is a hypothesis, not a forecast.\nTo check it you need:\n- the same setup (vol at lows after a first move off the bottom)\n- every past case, not just the one that worked\n- what $BTC did 30/90/180 days later in each\n\nOne match is a story.\nTen matches with a spread of outcomes is a base rate.\n\nWhich would you trade on?\nSave this for the next time someone posts a fractal.",
+   "draft_quote_en": "Low vol after a first move off the bottom happened in 2023.\n\nHow many other times did $BTC set up like this, and what came next in each? One analog is a story. The full sample is the signal.",
+   "video_tip": "Split screen: 2023 vol curve vs. 2026 vol curve, then zoom out to show every low-vol period; 12s, 9:16.",
+   "reply_angle": "Ask for the base rate: list every past period with BTC realized vol at similar lows after a first rally, and check the 90-day returns that followed (glassnode or own price data).",
+   "why_chosen": "Fresh analog claim (summer 2023) with 44 replies and 35 bookmarks; easy to test with a base-rate check.",
+   "visual_suggestion": "Visual sugerido: [chart] BTC 30-day realized volatility, 2023 vs. 2026 overlaid, marking each low-vol period and the 90-day return after it; data to be pulled and checked. Navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "views": 20027,
+   "views_label": "20,027 views",
+   "highlight": true,
+   "likes": 235,
+   "is_new": true
   },
   {
    "handle": "@pete_rizzo_",
@@ -296,10 +298,10 @@
    "reply_angle": "Add that supply is verifiable (check with a node via gettxoutsetinfo) and push to the better question: how much of the mined supply is liquid vs dormant (check on-chain dormancy data).",
    "visual_suggestion": "Visual sugerido: [chart] + $BTC issuance curve by halving era up to 2140, mined vs left to mine (20.1M / <900K from the post). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Verifiable number to complement; invites a supply vs liquid-supply debate.",
-   "views": 16685,
-   "views_label": "16,685 views",
+   "views": 17941,
+   "views_label": "17,941 views",
    "highlight": true,
-   "likes": 402,
+   "likes": 442,
    "is_new": false
   },
   {
@@ -317,10 +319,31 @@
    "video_tip": "Stacked bar of corporate buying with one dominant slice, then a dotted projection line that bends; 10s.",
    "reply_angle": "Separate data from projection: ask how concentrated the 19,000 BTC/month is (check CryptoQuant/River on Strategy's share) and what the 13% path assumes.",
    "why_chosen": "Data plus an extrapolation; perfect to split fact from assumption.",
-   "views": 15513,
-   "views_label": "15,513 views",
+   "views": 15752,
+   "views_label": "15,752 views",
    "highlight": true,
    "likes": 27,
+   "is_new": false
+  },
+  {
+   "handle": "@_Checkmatey_",
+   "display_name": "_Checkmate \ud83d\udfe0\ud83d\udd11\u26a1\u2622\ufe0f\ud83d\udee2\ufe0f",
+   "name": "_Checkmate \ud83d\udfe0\ud83d\udd11\u26a1\u2622\ufe0f\ud83d\udee2\ufe0f",
+   "text": "I was just on the @honestmoneyshow with @BitcoinAnja discussing the psychology of Bitcoiners throughout the cycle.\n\nThis is one of my favourite topics, as getting a good read on investor behaviour is imho the secret to navigating cycles with confidence.\n\nhttps://t.co/qGMMKgerls",
+   "hook": "I was just on the @honestmoneyshow with @BitcoinAnja discussing the psychology of Bitcoiners throughout the cycle.",
+   "url": "https://x.com/_Checkmatey_/status/2115595562385088586",
+   "status_url": "https://x.com/_Checkmatey_/status/2115595562385088586",
+   "created_at": "2026-10-29T00:04:22.000Z",
+   "story": "Checkmate on Bitcoiner psychology across the cycle",
+   "draft_en": "Investor behaviour through the cycle sounds soft.\nIt's actually measurable.\n\nCoins held by long-term holders, profit taking, dormant coins waking up.\nIt's all on-chain.\n\nFeelings are the story. On-chain data is the receipt.\n\nWhich signal do you trust most to tell you where we are in the cycle?\nSave this / repost it for the next 'is this the top?' debate.",
+   "draft_quote_en": "Good topic. How do you separate psychology from plain liquidity?\n\nOn-chain shows what holders did. Does it tell us why, or are we fitting a story after the fact?",
+   "video_tip": "Split screen: emotion faces on one side, matching on-chain charts on the other; 10s.",
+   "reply_angle": "Ask how much of 'cycle psychology' on-chain data really captures vs liquidity (check LTH supply and spent output profit ratio), and whether it works in real time or only in hindsight.",
+   "why_chosen": "Fresh post from an on-chain analyst; natural spot for a sharp data question.",
+   "views": 15620,
+   "views_label": "15,620 views",
+   "highlight": true,
+   "likes": 137,
    "is_new": false
   },
   {
@@ -340,31 +363,10 @@
    "reply_angle": "Ask which concept self-custody users get wrong most often, and add the practical link: what a seed backup protects and what it doesn't.",
    "visual_suggestion": "Visual sugerido: [explanatory image] + simple diagram private key, public key, address and seed with one line each, no figures. Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Educational post, easy to complement with a custody angle (content is a video link, not read).",
-   "views": 12970,
-   "views_label": "12,970 views",
+   "views": 13392,
+   "views_label": "13,392 views",
    "highlight": true,
-   "likes": 127,
-   "is_new": false
-  },
-  {
-   "handle": "@_Checkmatey_",
-   "display_name": "_Checkmate \ud83d\udfe0\ud83d\udd11\u26a1\u2622\ufe0f\ud83d\udee2\ufe0f",
-   "name": "_Checkmate \ud83d\udfe0\ud83d\udd11\u26a1\u2622\ufe0f\ud83d\udee2\ufe0f",
-   "text": "I was just on the @honestmoneyshow with @BitcoinAnja discussing the psychology of Bitcoiners throughout the cycle.\n\nThis is one of my favourite topics, as getting a good read on investor behaviour is imho the secret to navigating cycles with confidence.\n\nhttps://t.co/qGMMKgerls",
-   "hook": "I was just on the @honestmoneyshow with @BitcoinAnja discussing the psychology of Bitcoiners throughout the cycle.",
-   "url": "https://x.com/_Checkmatey_/status/2115595562385088586",
-   "status_url": "https://x.com/_Checkmatey_/status/2115595562385088586",
-   "created_at": "2026-10-29T00:04:22.000Z",
-   "story": "Checkmate on Bitcoiner psychology across the cycle",
-   "draft_en": "Investor behaviour through the cycle sounds soft.\nIt's actually measurable.\n\nCoins held by long-term holders, profit taking, dormant coins waking up.\nIt's all on-chain.\n\nFeelings are the story. On-chain data is the receipt.\n\nWhich signal do you trust most to tell you where we are in the cycle?\nSave this / repost it for the next 'is this the top?' debate.",
-   "draft_quote_en": "Good topic. How do you separate psychology from plain liquidity?\n\nOn-chain shows what holders did. Does it tell us why, or are we fitting a story after the fact?",
-   "video_tip": "Split screen: emotion faces on one side, matching on-chain charts on the other; 10s.",
-   "reply_angle": "Ask how much of 'cycle psychology' on-chain data really captures vs liquidity (check LTH supply and spent output profit ratio), and whether it works in real time or only in hindsight.",
-   "why_chosen": "Fresh post from an on-chain analyst; natural spot for a sharp data question.",
-   "views": 12141,
-   "views_label": "12,141 views",
-   "highlight": true,
-   "likes": 115,
+   "likes": 128,
    "is_new": false
   },
   {
@@ -382,10 +384,32 @@
    "video_tip": "'Hold' stamp on screen, then zoom to '10-2' and two hawkish dissents; 8s.",
    "reply_angle": "Apunta a los dos votos disidentes y propone revisar la tasa base: retorno de $BTC una semana despu\u00e9s de pausas con disidencias duras vs. otras pausas (dato por calcular).",
    "why_chosen": "Fed decision in Spanish for his LatAm audience; dissents give a concrete angle to test.",
-   "views": 10008,
-   "views_label": "10,008 views",
+   "views": 10169,
+   "views_label": "10,169 views",
    "highlight": true,
-   "likes": 138,
+   "likes": 145,
+   "is_new": false
+  },
+  {
+   "handle": "@jameslavish",
+   "display_name": "James Lavish",
+   "name": "James Lavish",
+   "text": "Good evening. \n\nRemember. As Bitcoin recovers from this cycle low and heads back to the all-time high and onto new ones, there will be buying opportunities along the way. \n\nHave a great night.",
+   "hook": "Good evening. ",
+   "url": "https://x.com/jameslavish/status/2115645437411778956",
+   "status_url": "https://x.com/jameslavish/status/2115645437411778956",
+   "created_at": "2026-10-29T03:22:33.000Z",
+   "story": "Lavish: buying opportunities on the way back to the ATH",
+   "draft_en": "\"There will be buying opportunities along the way.\"\n\nTrue in every past recovery.\nThe hard part is that you only know which dip was the opportunity afterwards.\n\nTwo ways spot buyers handle that:\n- fixed schedule (DCA): no timing, no regret math\n- rules-based buys: e.g. add more when price drops X% from a recent high, written down before it happens\n\nBoth beat buying on emotion.\nNeither needs leverage.\n\nWhich one do you actually stick to?\nIf it was useful, a repost helps more people see it.",
+   "draft_quote_en": "Agree there will be dips to buy. The useful question is how you define one before it happens.\n\nA fixed DCA vs. a rule like 'buy more after an X% drawdown': has anyone backtested which did better for $BTC spot holders last cycle?",
+   "video_tip": "$BTC line with dots for weekly DCA buys vs. bigger dots on drawdown-rule buys; 9s, 9:16.",
+   "reply_angle": "Turn the vibe into a rule: ask how he defines a buying opportunity, and suggest checking a backtest of fixed DCA vs. drawdown-triggered spot buys over the last cycle.",
+   "why_chosen": "Freshest hit on the board (under 2h old) with an open claim that invites a DCA vs. rules-based buying discussion.",
+   "visual_suggestion": "Visual sugerido: [backtest chart] $BTC price with fixed weekly DCA buys vs. drawdown-triggered buys marked, and resulting cost basis for each (data from price history, to be computed and verified). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
+   "views": 9730,
+   "views_label": "9,730 views",
+   "highlight": false,
+   "likes": 459,
    "is_new": false
   },
   {
@@ -411,28 +435,6 @@
    "is_new": false
   },
   {
-   "handle": "@jameslavish",
-   "display_name": "James Lavish",
-   "name": "James Lavish",
-   "text": "Good evening. \n\nRemember. As Bitcoin recovers from this cycle low and heads back to the all-time high and onto new ones, there will be buying opportunities along the way. \n\nHave a great night.",
-   "hook": "Good evening. ",
-   "url": "https://x.com/jameslavish/status/2115645437411778956",
-   "status_url": "https://x.com/jameslavish/status/2115645437411778956",
-   "created_at": "2026-10-29T03:22:33.000Z",
-   "story": "Lavish: buying opportunities on the way back to the ATH",
-   "draft_en": "\"There will be buying opportunities along the way.\"\n\nTrue in every past recovery.\nThe hard part is that you only know which dip was the opportunity afterwards.\n\nTwo ways spot buyers handle that:\n- fixed schedule (DCA): no timing, no regret math\n- rules-based buys: e.g. add more when price drops X% from a recent high, written down before it happens\n\nBoth beat buying on emotion.\nNeither needs leverage.\n\nWhich one do you actually stick to?\nIf it was useful, a repost helps more people see it.",
-   "draft_quote_en": "Agree there will be dips to buy. The useful question is how you define one before it happens.\n\nA fixed DCA vs. a rule like 'buy more after an X% drawdown': has anyone backtested which did better for $BTC spot holders last cycle?",
-   "video_tip": "$BTC line with dots for weekly DCA buys vs. bigger dots on drawdown-rule buys; 9s, 9:16.",
-   "reply_angle": "Turn the vibe into a rule: ask how he defines a buying opportunity, and suggest checking a backtest of fixed DCA vs. drawdown-triggered spot buys over the last cycle.",
-   "why_chosen": "Freshest hit on the board (under 2h old) with an open claim that invites a DCA vs. rules-based buying discussion.",
-   "visual_suggestion": "Visual sugerido: [backtest chart] $BTC price with fixed weekly DCA buys vs. drawdown-triggered buys marked, and resulting cost basis for each (data from price history, to be computed and verified). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
-   "views": 7529,
-   "views_label": "7,529 views",
-   "highlight": false,
-   "likes": 343,
-   "is_new": true
-  },
-  {
    "handle": "@TheBitcoinConf",
    "display_name": "The Bitcoin Conference",
    "name": "The Bitcoin Conference",
@@ -448,10 +450,10 @@
    "reply_angle": "Ask for the base rate: check past Google Trends lows and $BTC returns 6-12 months later before calling it 'early'.",
    "visual_suggestion": "Visual sugerido: [chart] + 5-year Google Trends interest for 'Bitcoin' overlaid on $BTC price, marking past search lows; data from Google Trends and price history, to be checked. Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Debatable 'still early' claim on a sentiment metric; a data check fits his lane.",
-   "views": 6469,
-   "views_label": "6,469 views",
+   "views": 6623,
+   "views_label": "6,623 views",
    "highlight": false,
-   "likes": 136,
+   "likes": 142,
    "is_new": false
   },
   {
@@ -470,11 +472,32 @@
    "reply_angle": "Add the next step: test whether transaction count has ever led $BTC price (lagged correlation check to run), so the debate moves from vibes to evidence.",
    "visual_suggestion": "Visual sugerido: [chart] + weekday $BTC transaction count, Oct 14-27 vs. July-September average, as reported by Santiment (to be checked). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "Data post that tests a popular narrative; perfect for a quant follow-up question.",
-   "views": 6339,
-   "views_label": "6,339 views",
+   "views": 6481,
+   "views_label": "6,481 views",
    "highlight": false,
    "likes": 7,
    "is_new": false
+  },
+  {
+   "handle": "@BTC_for_Freedom",
+   "display_name": "Bitcoin for Freedom",
+   "name": "Bitcoin for Freedom",
+   "text": "The most important revolution of our lifetime is separating money from the state.",
+   "hook": "The most important revolution of our lifetime is separating money from the state.",
+   "url": "https://x.com/BTC_for_Freedom/status/2115534037091590654",
+   "status_url": "https://x.com/BTC_for_Freedom/status/2115534037091590654",
+   "created_at": "2026-10-28T19:59:53.000Z",
+   "story": "Separating money from the state",
+   "draft_en": "\"Separate money from the state\" sounds simple.\n\nIn practice it means three things:\n- no one can print more $BTC\n- no one can freeze coins you hold yourself\n- no one can block a valid transaction\n\nThe last two only apply if you hold your own keys.\nOn an exchange you still have a counterparty.\n\nWhich of the three matters most to you?\nWant me to go deeper on any part?",
+   "draft_quote_en": "Agreed on the protocol side: fixed supply, no one can print more.\n\nBut the separation only reaches you if you hold your own keys. Coins on an exchange are still a claim inside the old system.",
+   "video_tip": "Three locks closing one by one: print, freeze, censor; the last two only lock with your own keys; 9s, 9:16.",
+   "reply_angle": "Add the custody caveat: the protocol separates supply from the state, but holders on exchanges or ETFs keep counterparty and freeze risk; self-custody is what makes it personal.",
+   "why_chosen": "Fresh one-line thesis with strong likes/repost ratio; replaced the older card that left the 18h window.",
+   "views": 5920,
+   "views_label": "5,920 views",
+   "highlight": false,
+   "likes": 278,
+   "is_new": true
   },
   {
    "handle": "@ecoinometrics",
@@ -492,31 +515,10 @@
    "reply_angle": "Build on it: ask whether the tails and volatility after decisions also match, not just the median; a check he can run on the same 81 meetings.",
    "visual_suggestion": "Visual sugerido: [chart] + distribution of $BTC 7-day returns after Fed cuts, holds and hikes (81 meetings, source ecoinometrics, to be checked). Account style: navy blue background, Bitcoin in white, lime accents, logo watermark.",
    "why_chosen": "FOMC day plus a real base rate; perfect fit for a data-minded reply.",
-   "views": 5313,
-   "views_label": "5,313 views",
+   "views": 5469,
+   "views_label": "5,469 views",
    "highlight": false,
-   "likes": 22,
-   "is_new": false
-  },
-  {
-   "handle": "@BTC_for_Freedom",
-   "display_name": "Bitcoin for Freedom",
-   "name": "Bitcoin for Freedom",
-   "text": "The greatest trick of the fiat system wasn't convincing people that inflation is good.\n\nIt was convincing people that there is no alternative.\n\nThat money MUST lose value.\n\nThat prices MUST rise forever.\n\nThat saving MUST be punished.\n\nFor the first time in history, we have money",
-   "hook": "The greatest trick of the fiat system wasn't convincing people that inflation is good.",
-   "url": "https://x.com/BTC_for_Freedom/status/2115424495460552925",
-   "status_url": "https://x.com/BTC_for_Freedom/status/2115424495460552925",
-   "created_at": "2026-10-28T12:44:37.000Z",
-   "story": "Fiat's trick: convincing people there is no alternative",
-   "draft_en": "'Money must lose value' gets said like a law of nature.\n\nIt's a policy choice. Central banks target about 2% a year.\nThat still cuts purchasing power in half in roughly 35 years.\n\n$BTC is one alternative.\nIt comes with its own cost: volatility.\n\nWhich risk would you rather manage, slow inflation or fast drawdowns?\nIf it was useful, a repost helps more people see it.",
-   "draft_quote_en": "The point about 'no alternative' is fair. But alternatives come with their own risks.\n\nInflation is slow and predictable-ish. $BTC drawdowns are fast. The honest pitch shows both.",
-   "video_tip": "A dollar bill shrinking slowly next to a $BTC line swinging hard; 8s.",
-   "reply_angle": "Add the trade-off: a 2% target halves purchasing power in about 35 years, while $BTC trades that for volatility; ask which risk people are actually equipped to hold.",
-   "why_chosen": "Strong claim with high like rate; room for an honest trade-off reply instead of an echo.",
-   "views": 3193,
-   "views_label": "3,193 views",
-   "highlight": false,
-   "likes": 100,
+   "likes": 23,
    "is_new": false
   }
  ],
@@ -524,7 +526,7 @@
  "outsiders": [],
  "patterns": [
   "Fed follow-through: hold at 3.75%-4.00%, Warsh says inflation is too high (WatcherGuru, coinbureau, BitcoinNews)",
-  "Tokenization rails vs. bearer assets: DTCC service live (Cointelegraph, DefiantNews) while issuers object on OKX/ICE",
+  "Analogs and bets: Glassnode sees summer 2023 again, Cardone and others bet Calacanis $1M on a new ATH (glassnode, Cointelegraph, SantimentData)",
   "Projections as straight lines: Bitwise $1.6M by 2036, Strategic Bitcoin Reserve 'buying soon' (BitcoinArchive, TheBlockCo)",
   "Yield wrappers around $BTC: Strategy preferreds now accrue daily dividends (saylor, BitcoinMagazine, pete_rizzo_)",
   "Off-niche reach: Google earnings miss, midterm polling claims, AI vs. Bitcoin scarcity"
@@ -543,17 +545,17 @@
   {
    "handle": "@lopp",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 11256
+   "max_views": 12529
   },
   {
    "handle": "@APompliano",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 61130
+   "max_views": 48756
   },
   {
    "handle": "@CaitlinLong_",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 5774
+   "max_views": 5857
   },
   {
    "handle": "@BitcoinPierre",
@@ -568,7 +570,7 @@
   {
    "handle": "@Bitcoin",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 45123
+   "max_views": 51990
   },
   {
    "handle": "@100trillionUSD",
@@ -583,22 +585,22 @@
   {
    "handle": "@nic_carter",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 314706
+   "max_views": 419985
   },
   {
    "handle": "@maxkeiser",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 9362
+   "max_views": 9560
   },
   {
    "handle": "@dotkrueger",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 20378
+   "max_views": 21100
   },
   {
    "handle": "@bitcoinlfgo",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 11383
+   "max_views": 12243
   },
   {
    "handle": "@therationalroot",
@@ -633,17 +635,17 @@
   {
    "handle": "@coinbase",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 115366
+   "max_views": 127851
   },
   {
    "handle": "@CoinMarketCap",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 36560
+   "max_views": 37458
   },
   {
    "handle": "@CoinDesk",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 80447
+   "max_views": 85552
   },
   {
    "handle": "@tier10k",
@@ -653,21 +655,21 @@
   {
    "handle": "@BlockworksData",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 18534
+   "max_views": 18870
   },
   {
    "handle": "@DefiantNews",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 19251
+   "max_views": 4827
   },
   {
    "handle": "@Coinvo",
    "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 23517
+   "max_views": 23592
   }
  ],
- "virals_narrative": "Watchlist scan done (350 originals in 18h, 50 accounts). One card per account.",
- "narrative_synthesis": "Overnight after the FOMC: the Fed hold and Warsh's 'inflation is too high' still lead reach, with Google's earnings miss behind. Custody and tokenization split the feed: Google pitches a custody framework for banks, DTCC launches a tokenization service while 33 US companies object on OKX/ICE. On $BTC: price around $81K, under 900K left to mine, Strategy's daily preferred dividends, and Bitwise's $1.6M-by-2036 target. Best angle for @ForecastQuant: base rates after Fed holds, custodian vs. self-custody, rails vs. bearer assets, $BTC spot only.",
+ "virals_narrative": "Watchlist scan done (341 originals in 18h, 50 accounts). One card per account.",
+ "narrative_synthesis": "Overnight after the FOMC: the Fed hold and Warsh's 'inflation is too high' still lead reach, with Google's earnings miss behind. Custody and analogs split the feed: Google pitches a custody framework for banks, Glassnode compares the low-vol setup to summer 2023, and Calacanis gets $1M bets on a new ATH. On $BTC: price around $81K, under 900K left to mine, Strategy's daily preferred dividends, and Bitwise's $1.6M-by-2036 target. Best angle for @ForecastQuant: base rates after Fed holds, custodian vs. self-custody, analogs vs. base rates, $BTC spot only.",
  "virals_window": "last 24h",
  "virals_target": 20,
  "hits_count": 23,
@@ -1035,7 +1037,7 @@
  "you_rank": {
   "handle": "@ForecastQuant",
   "best_views": 97,
-  "total_views": 141,
+  "total_views": 142,
   "best_url": "https://x.com/ForecastQuant/status/2115611965057806611",
   "posts_counted": 9,
   "rank_among_watchlist": 38,
