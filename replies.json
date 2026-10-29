@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-10-28T23:09:00-03:00"
+    "updated_at": "2026-10-29T10:15:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2115788666610024483",
+      "date": "2026-10-29T09:51:42-03:00",
+      "handle": "ERJimenez",
+      "post_url": "https://x.com/ERJimenez/status/2115788666610024483",
+      "user_post": "@ERJimenez Las liquidaciones son ventas forzadas de posiciones apalancadas, no holders vendiendo por convicción. ¿Ves los $80.000 como zona para comprar spot de a poco o esperas más abajo?",
+      "reply": "@ForecastQuant Me parece una buena zona para acumular",
+      "draft": "Tiene sentido. Yo lo pensaría en tramos: compras spot escalonadas y sin apalancamiento, así una caída extra no te obliga a vender. ¿Tú divides la entrada o entras de una?",
+      "draft_alt": "Acumular de a poco en spot baja el riesgo de equivocarse con el momento exacto. ¿Hay algún nivel donde aumentarías la compra?",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
