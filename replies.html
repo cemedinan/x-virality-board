@@ -1,81 +1,85 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="night">
+<html lang="es">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>bitchat/@ForecastQuant · respuestas</title>
-<meta name="theme-color" content="#0b0d0b" />
-<meta name="color-scheme" content="light dark" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<title>Respuestas en X · @ForecastQuant</title>
+<meta name="theme-color" content="#0B0D26" />
+<script>
+try{var _d=JSON.parse(localStorage.getItem("fq_dismissed_v1")||"[]");if(_d.length&&window.CSS&&CSS.escape)document.write('<style id="predis">'+_d.map(function(x){return '.card[data-id="'+CSS.escape(x)+'"]'}).join(",")+'{display:none!important}</style>')}catch(e){}
+</script>
 <style>
-:root,html[data-theme="day"]{--bg:#fff;--g1:#1B7F1B;--g2:#4C9A4C;--blue:#3b66c4;--line:#d9d9d9;--sel:#eef7ee}
-html[data-theme="night"]{--bg:#0b0d0b;--g1:#4fd34f;--g2:#6fae6f;--blue:#7aa2ff;--line:#2a2f2a;--sel:#142014}
-*{box-sizing:border-box}
-html,body{margin:0;background:var(--bg);color:var(--g1);font-family:ui-monospace,"SF Mono","JetBrains Mono","IBM Plex Mono",Menlo,Consolas,monospace;font-size:15px;line-height:1.55}
-a{color:var(--blue);text-decoration:none}a:hover{text-decoration:underline}
-button{font:inherit;color:var(--blue);background:none;border:0;padding:0;cursor:pointer}
-button:hover{text-decoration:underline}
-header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:20px 18px 14px;border-bottom:1px solid var(--line)}
-.title{font-size:24px;font-weight:600;color:var(--g1)}
-.bar{display:flex;align-items:center;gap:16px}
-.bar svg{width:18px;height:18px;stroke:var(--g2);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;vertical-align:-3px}
-main{max-width:860px;padding:14px 18px 60px}
-.sys{color:var(--g2);margin:6px 0}
-.sys.strong{color:var(--g1)}
-.msg{margin:22px 0 0;padding-top:14px;border-top:1px solid var(--line)}
-.who{color:var(--g1);font-weight:600}
-.who a{color:var(--g1)}
-.time{color:var(--g2);margin-left:6px}
-.tag{color:var(--blue);margin-left:8px}
-.new{color:var(--blue);font-weight:600}
-.lbl{color:var(--g2);margin-top:10px}
-.txt{color:var(--g1);white-space:pre-wrap;word-break:break-word;margin:2px 0 0}
-.draft{margin-top:10px;padding-left:12px;border-left:2px solid var(--g2)}
-.draft pre{margin:2px 0 0;font:inherit;color:var(--g1);white-space:pre-wrap;word-break:break-word}
-.row{display:flex;gap:14px;flex-wrap:wrap;color:var(--g2)}
-.note{color:var(--g2);margin-top:8px}
-@media(max-width:560px){.title{font-size:20px}body{font-size:14px}}
+*{box-sizing:border-box}body{margin:0;background:#0B0D26;color:#fff;font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:#C6E427}
+.top{position:sticky;top:0;z-index:10;background:#0B0D26;border-bottom:1px solid #2a2f5a}.tb{max-width:900px;margin:auto;padding:8px 16px;display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}.tb b{font-size:15px}.tb span{color:#B8BCCB;font-size:12px}#refresh{background:#C6E427;color:#0B0D26;border:0;border-radius:8px;padding:6px 12px;font-weight:700;cursor:pointer;font-size:14px}
+header{max-width:900px;margin:auto;padding:18px 16px}h1{margin:0;font-size:24px}header p{margin:4px 0;color:#B8BCCB;font-size:14px}
+.chips{max-width:900px;margin:0 auto 6px;padding:0 16px;display:flex;gap:8px;flex-wrap:wrap}.chips button{background:transparent;color:#C6E427;border:1px solid #C6E427;border-radius:20px;padding:6px 14px;font-size:14px;cursor:pointer}.chips button.on{background:#C6E427;color:#0B0D26}
+main{max-width:900px;margin:auto;padding:8px 12px 40px}
+.card{position:relative;touch-action:pan-y;will-change:transform;background:#141838;border:1px solid #2a2f5a;border-radius:14px;padding:14px;margin:14px 0}
+.card.dis{display:none!important}
+.ch{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;flex-wrap:wrap}.sm{color:#B8BCCB;font-size:13px}
+.pill{background:#2a2f5a;color:#C6E427;border-radius:10px;padding:1px 8px;font-size:12px;margin-left:4px}.pill.new{background:#C6E427;color:#0B0D26}
+.lbl{color:#C6E427;font-weight:700;font-size:13px;margin-top:12px}.txt{white-space:pre-wrap;word-break:break-word;margin:2px 0 0}
+.note{color:#B8BCCB;font-size:13px;margin-top:8px}
+.blk{border-left:3px solid #C6E427;margin:12px 0 0;padding:0 0 0 10px}.bh{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}.bh span{font-weight:700;color:#C6E427}
+pre{white-space:pre-wrap;word-break:break-word;font:inherit;margin:6px 0;background:#0B0D26;padding:10px;border-radius:8px}
+.xb{background:#0B0D26;color:#C6E427;border:1px solid #C6E427;border-radius:8px;padding:8px 12px;font-weight:700;text-decoration:none;font-size:14px;min-height:40px;display:inline-flex;align-items:center;cursor:pointer}
+.dz{text-align:right;margin-top:10px}.dx{background:transparent;color:#B8BCCB;border:1px solid #444a7a;border-radius:8px;padding:4px 10px;font-size:13px;cursor:pointer}
+.hint{max-width:900px;margin:0 auto 4px;padding:0 16px;color:#B8BCCB;font-size:12px}.hint a{color:#C6E427;cursor:pointer}
+#toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#C6E427;color:#0B0D26;padding:10px 16px;border-radius:10px;font-weight:700;display:none;z-index:20}#toast a{color:#0B0D26;text-decoration:underline;margin-left:8px;cursor:pointer}
+#dl{max-width:900px;margin:0 auto 10px;padding:0 16px;display:none}#dl li{margin:4px 0;color:#B8BCCB;font-size:13px}#dl button{background:transparent;color:#C6E427;border:1px solid #C6E427;border-radius:8px;padding:2px 8px;margin-left:6px;cursor:pointer}
+.empty{color:#B8BCCB;padding:30px 4px}
 </style>
 </head>
 <body>
-<header>
-  <div class="title">bitchat/@ForecastQuant</div>
-  <div class="bar">
-    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6l-1 6 3 3H7l3-3-1-6zM12 12v9"/></svg>
-    <span class="tag" style="margin:0">#respuestas</span>
-    <button type="button" id="refresh" title="actualizar datos">↻ actualizar</button>
-    <button type="button" id="theme-toggle" title="cambiar tema">☾ noche</button>
-  </div>
-</header>
-<main>
-  <div class="sys">* estás en #respuestas — borradores para tus respuestas en X, en el idioma del post original *</div>
-  <div class="sys">* nada se publica desde aquí: copia el borrador y publícalo tú en X *</div>
-  <div class="sys strong" id="meta">* cargando datos… *</div>
-  <div class="sys strong" id="summary"></div>
-  <div class="row"><button type="button" data-o="new">[más recientes]</button><button type="button" data-o="old">[más antiguas]</button><a href="./index.html">[← board principal]</a></div>
-  <section id="replies"></section>
-</main>
+<div class="top"><div class="tb"><b>Respuestas en X · @ForecastQuant</b><span id="meta">cargando…</span><button id="refresh" type="button">&#x21bb; Actualizar</button></div></div>
+<header><h1>Respuestas en X</h1><p id="summary"></p><p>Borradores para revisar, en el idioma del post original. Nada se publica solo: "Responder en X" abre X con el texto listo y tú apretas Enviar.</p></header>
+<div class="chips"><button type="button" class="on" data-o="new">Más recientes</button><button type="button" data-o="old">Más antiguas</button></div>
+<div class="hint">Desliza una tarjeta a la izquierda para descartarla (o usa ✕ Descartar). · <a onclick="tgl()">Descartadas (<span id="dn">0</span>)</a></div>
+<div id="dl"><ul id="dll"></ul><button onclick="resAll()">Restaurar todas</button> <button onclick="cpd()">Copiar lista de descartadas</button> <button onclick="psd()">Pegar lista</button></div>
+<div id="toast">Tarjeta descartada · <a onclick="undo()">Deshacer</a></div>
+<main id="replies"></main>
 <script>
 function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
-async function copyDraft(btn,text){try{await navigator.clipboard.writeText(text)}catch(e){const ta=document.createElement('textarea');ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove()}const p=btn.textContent;btn.textContent='[¡copiado!]';setTimeout(()=>{btn.textContent=p},1400)}
-let D,O='new';const H=3600e3;function isNew(p){return p.new===true||Date.now()-new Date(p.date)<=6*H}
-function tid(p){const m=String(p.post_url||'').match(/status\/(\d+)/);return m?m[1]:String(p.id)}
-function xurl(p,t){return'https://x.com/intent/post?text='+encodeURIComponent(t)+'&in_reply_to='+tid(p)}
-function blk(lbl,id,t,p){return`<div class="draft"><div class="lbl">${lbl} <a class="cp" href="${esc(xurl(p,t))}" target="_blank" rel="noopener">[responder en X ↗]</a></div><pre id="${id}">${esc(t)}</pre></div>`}
-function render(){const rs=D.replies.filter(p=>Date.now()-new Date(p.date)<=24*H).sort((a,b)=>(new Date(b.date)-new Date(a.date))*(O==='new'?1:-1));
-document.getElementById('replies').innerHTML=rs.map(p=>{const d=new Date(p.date).toLocaleString('es-CL',{timeZone:'America/Santiago',dateStyle:'medium',timeStyle:'short'});
-return`<article class="msg"><div><span class="who"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">@${esc(p.handle)}</a></span><span class="time">${esc(d)} (Chile)</span><span class="tag">#${esc(String(p.status).toLowerCase().replace(/\s+/g,'-'))}</span>${isNew(p)?'<span class="tag new">* NUEVA *</span>':''}</div>
-<div class="lbl">tu post</div><div class="txt">${esc(p.user_post)}</div>
-<div class="lbl">su respuesta</div><div class="txt">${esc(p.reply)}</div>
-${p.note?`<div class="note">* ${esc(p.note)} *</div>`:''}
-${p.visual?`<div class="draft"><div class="lbl">visual sugerido</div><pre>${esc(p.visual)}</pre></div>`:''}${blk('borrador','d-'+p.id,p.draft,p)}${p.draft_alt?blk('alternativa corta','a-'+p.id,p.draft_alt,p):''}
-<div style="margin-top:8px"><a href="${esc(p.post_url)}" target="_blank" rel="noopener">[abrir respuesta ↗]</a></div></article>`}).join('')||'<div class="sys" style="margin-top:22px">* sin respuestas por ahora *</div>';
-document.querySelectorAll('[data-o]').forEach(b=>{b.style.fontWeight=b.dataset.o===O?'700':'400'});}
-(async()=>{const r=await fetch('./replies.json?ts='+Date.now());D=await r.json();
-document.getElementById('meta').textContent='* actualizado: '+new Date(D.meta.updated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (Chile) *';
-document.getElementById('summary').textContent=`* ${D.replies.filter(p=>Date.now()-new Date(p.date)<=24*H).length} respuestas (últimas 24 h) · ${D.replies.filter(isNew).length} nuevas *`;
-document.querySelectorAll('[data-o]').forEach(b=>b.addEventListener('click',()=>{O=b.dataset.o;render()}));render();})();
-document.getElementById('theme-toggle').addEventListener('click',function(){const h=document.documentElement;const n=h.dataset.theme==='day';h.dataset.theme=n?'night':'day';this.textContent=n?'☾ noche':'☀ día'});
-document.getElementById('refresh').addEventListener('click',()=>{const u=new URL(location.href);u.searchParams.set('r',Date.now());location.replace(u.toString())});
+var D,O='new';var H=3600e3;function isNew(p){return p.new===true||Date.now()-new Date(p.date)<=6*H}
+function tid(p){var m=String(p.post_url||'').match(/status\/(\d+)/);return m?m[1]:String(p.id)}
+function xurl(p,t){return 'https://x.com/intent/post?text='+encodeURIComponent(t)+'&in_reply_to='+tid(p)}
+function blk(lbl,t,p){return '<div class="blk"><div class="bh"><span>'+lbl+'</span><a class="xb" href="'+esc(xurl(p,t))+'" target="_blank" rel="noopener">Responder en X ↗</a></div><pre>'+esc(t)+'</pre></div>'}
+function render(){var rs=D.replies.filter(function(p){return Date.now()-new Date(p.date)<=24*H}).sort(function(a,b){return (new Date(b.date)-new Date(a.date))*(O==='new'?1:-1)});
+document.getElementById('replies').innerHTML=rs.map(function(p){var d=new Date(p.date).toLocaleString('es-CL',{timeZone:'America/Santiago',dateStyle:'medium',timeStyle:'short'});
+return '<article class="card" data-id="'+esc(p.id)+'"><div class="ch"><div><b><a href="'+esc(p.post_url)+'" target="_blank" rel="noopener">@'+esc(p.handle)+'</a></b>'+(isNew(p)?' <span class="pill new">NUEVA</span>':'')+' <span class="pill">'+esc(p.status)+'</span><div class="sm">'+esc(d)+' (Chile)</div></div><a class="xb" href="'+esc(p.post_url)+'" target="_blank" rel="noopener">Abrir respuesta ↗</a></div>'
++'<div class="lbl">Tu post</div><div class="txt">'+esc(p.user_post)+'</div><div class="lbl">Su respuesta</div><div class="txt">'+esc(p.reply)+'</div>'
++(p.note?'<div class="note">'+esc(p.note)+'</div>':'')
++(p.visual?'<div class="blk"><div class="bh"><span>Visual sugerido</span></div><pre>'+esc(p.visual)+'</pre></div>':'')
++blk('Borrador',p.draft,p)+(p.draft_alt?blk('Alternativa corta',p.draft_alt,p):'')
++'<div class="dz"><button type="button" class="dx" onclick="dis(this.closest(\'.card\'))">✕ Descartar</button></div></article>'}).join('')||'<div class="empty">Sin respuestas por ahora.</div>';
+cards().forEach(sw);apply();var s=document.getElementById('predis');if(s)s.remove();
+document.querySelectorAll('[data-o]').forEach(function(b){b.classList.toggle('on',b.dataset.o===O)})}
+/* iOS: abrir la app de X directamente */
+function xdeep(h){var u=new URL(h);var t=u.searchParams.get("text")||"";var d="twitter://post?message="+encodeURIComponent(t);var r=u.searchParams.get("in_reply_to");if(r)d+="&in_reply_to_status_id="+r;return d}
+document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.xb[href*='intent/post']");if(!a)return;var ios=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform=="MacIntel"&&navigator.maxTouchPoints>1);if(!ios)return;e.preventDefault();var w=a.href,tm;function cl(){if(document.hidden){clearTimeout(tm);document.removeEventListener("visibilitychange",cl)}}document.addEventListener("visibilitychange",cl);tm=setTimeout(function(){document.removeEventListener("visibilitychange",cl);if(!document.hidden)location.href=w},1500);location.href=xdeep(w)});
+/* descartar (igual que la página de Venn) */
+var DK="fq_dismissed_v1";function ld(){try{return JSON.parse(localStorage.getItem(DK)||"[]")}catch(e){return []}}function sv(a){try{localStorage.setItem(DK,JSON.stringify(a))}catch(e){}}
+var lastD=null,tT=null;function cards(){return Array.prototype.slice.call(document.querySelectorAll(".card"))}
+function apply(){var d=ld();cards().forEach(function(c){c.classList.toggle("dis",d.indexOf(c.dataset.id)>=0);c.style.transform="";c.style.opacity=""});var n=document.getElementById("dn");if(n)n.textContent=d.length;rl();sm()}
+function sm(){if(!D)return;var v=cards().filter(function(c){return !c.classList.contains("dis")}).length;document.getElementById('summary').textContent=v+' respuestas visibles (últimas 24 h) · '+D.replies.filter(isNew).length+' nuevas'}
+function rl(){var l=document.getElementById("dll");if(!l)return;var d=ld();l.innerHTML="";d.forEach(function(id){var c=cards().filter(function(x){return x.dataset.id==id})[0];var li=document.createElement("li");var b=c?c.querySelector(".ch b"):null;li.textContent=(b?b.textContent+" — ":"")+id;var r=document.createElement("button");r.textContent="Restaurar";r.onclick=function(){res(id)};li.appendChild(r);l.appendChild(li)})}
+function dis(c){if(!c)return;var d=ld(),id=c.dataset.id;if(d.indexOf(id)<0)d.push(id);sv(d);lastD=id;apply();var t=document.getElementById("toast");if(t){t.style.display="block";clearTimeout(tT);tT=setTimeout(function(){t.style.display="none"},6000)}}
+function undo(){if(lastD)res(lastD);lastD=null;var t=document.getElementById("toast");if(t)t.style.display="none"}
+function res(id){sv(ld().filter(function(x){return x!=id}));apply()}function resAll(){sv([]);apply()}
+function tgl(){var l=document.getElementById("dl");l.style.display=l.style.display=="block"?"none":"block"}
+function cpd(){var t=JSON.stringify(ld());var e=document.createElement("textarea");e.value=t;document.body.appendChild(e);e.select();try{document.execCommand("copy")}catch(x){}document.body.removeChild(e);if(navigator.clipboard&&window.isSecureContext)navigator.clipboard.writeText(t).catch(function(){});alert("Lista copiada ("+ld().length+")")}
+function psd(){var t=prompt("Pega la lista de descartadas (JSON):");if(!t)return;try{var a=JSON.parse(t);if(Array.isArray(a)){var d=ld();a.forEach(function(x){if(typeof x=="string"&&d.indexOf(x)<0)d.push(x)});sv(d);apply()}}catch(e){alert("Lista no válida")}}
+function sw(c){var x0=0,y0=0,dx=0,on=false,lock=0,pid=null;
+c.addEventListener("pointerdown",function(e){if(e.pointerType=="mouse"&&e.button!==0)return;if(e.target.closest("button,pre,textarea,input,a"))return;x0=e.clientX;y0=e.clientY;dx=0;on=true;lock=0;pid=e.pointerId});
+c.addEventListener("pointermove",function(e){if(!on||e.pointerId!==pid)return;var mx=e.clientX-x0,my=e.clientY-y0;if(!lock){if(Math.abs(mx)<8&&Math.abs(my)<8)return;lock=Math.abs(mx)>Math.abs(my)*1.5?1:2;if(lock==1){c._sw=true;try{c.setPointerCapture(pid)}catch(z){}c.style.transition="none"}}if(lock!=1)return;dx=Math.min(0,mx);c.style.transform="translateX("+dx+"px)";c.style.opacity=String(Math.max(.25,1+dx/400));c.style.boxShadow=dx<-90?"inset -6px 0 0 #ff6b6b":"inset -6px 0 0 #C6E427"});
+function end(){if(!on)return;on=false;c.style.transition="transform .2s,opacity .2s";c.style.boxShadow="";if(lock==1)setTimeout(function(){c._sw=false},50);if(lock==1&&dx<-90){c.style.transform="translateX(-120%)";c.style.opacity="0";setTimeout(function(){dis(c);c.style.transition=""},200)}else{c.style.transform="";c.style.opacity=""}lock=0}
+c.addEventListener("click",function(e){if(c._sw){e.preventDefault();e.stopPropagation();c._sw=false}},true);c.addEventListener("dragstart",function(e){if(on)e.preventDefault()});c.addEventListener("pointerup",end);c.addEventListener("pointercancel",end)}
+document.getElementById('refresh').addEventListener('click',function(){this.textContent='Actualizando…';this.disabled=true;setTimeout(function(){location.replace(location.pathname+'?v='+Date.now())},300)});
+(async function(){var r=await fetch('./replies.json?ts='+Date.now());D=await r.json();
+document.getElementById('meta').textContent='Última actualización: '+new Date(D.meta.updated_at).toLocaleString('es-CL',{timeZone:'America/Santiago'})+' (hora Chile)';
+document.querySelectorAll('[data-o]').forEach(function(b){b.addEventListener('click',function(){O=b.dataset.o;render()})});render()})();
 </script>
 </body>
 </html>
