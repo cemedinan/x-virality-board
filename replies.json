@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-10-30T11:25:00-03:00"
+    "updated_at": "2026-10-30T11:45:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2116178917312663990",
+      "date": "2026-10-30T11:42:25-03:00",
+      "handle": "BTC21Academy",
+      "post_url": "https://x.com/BTC21Academy/status/2116178917312663990",
+      "user_post": "@BTC21Academy @PROTOCOLNULL Fair point: a test restore beats any compatibility list. I'd do it with a small wallet first, before moving anything real. Have you seen labels survive a full round trip, export and back?",
+      "reply": "@ForecastQuant @PROTOCOLNULL That's the right way to test it. After the import, don't just check that the file loaded. Open a few coins you know and confirm their labels came across, since some wallets read part of the format and quietly skip the rest.",
+      "draft": "Good tip. Spot-checking a few coins you know tells you more than a \"file loaded\" message.\n\nHave you found a wallet pair that keeps every label through the round trip, or do they all drop something?",
+      "draft_alt": "Agreed: verify coin by coin, not just the import. Which wallet have you seen skip labels silently?",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
