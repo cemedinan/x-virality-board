@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-10-30T10:03:04-03:00",
+  "generated_at": "2026-10-30T11:13:21-03:00",
   "window_hours": 24,
   "likes_scanned": 300,
-  "listed": 115,
-  "in_niche": 13,
-  "not_recommended": 102,
-  "new_since_prev": 24,
-  "removed_replied": 0,
-  "removed_old": 2
+  "listed": 96,
+  "in_niche": 0,
+  "not_recommended": 96,
+  "new_since_prev": 0,
+  "removed_replied": 12,
+  "removed_old": 7
  },
  "posts": [
   {
@@ -21,11 +21,11 @@
    "url": "https://x.com/ninjatoolsio/status/2116133121259082159",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 756,
-    "like_count": 11,
-    "quote_count": 0,
+    "impression_count": 2009,
+    "like_count": 17,
+    "quote_count": 1,
     "reply_count": 0,
-    "repost_count": 0
+    "repost_count": 1
    },
    "reply_en": "",
    "in_niche": false,
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "1 h, ~548 vistas/h, autor 10.6K seguidores, replies: 0"
+    "reason": "3 h, ~788 vistas/h, autor 10.6K seguidores, replies: 0"
    }
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://x.com/Porch971/status/2116112550521622666",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 277,
+    "impression_count": 299,
     "like_count": 14,
     "quote_count": 0,
     "reply_count": 7,
@@ -57,8 +57,8 @@
    "skip_reason": "Promoción de un token; nada que aportar.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "3 h, ~101 vistas/h, autor 85 seguidores, replies: 7"
+    "score": 1,
+    "reason": "4 h, ~76 vistas/h, autor 85 seguidores, replies: 7"
    }
   },
   {
@@ -71,7 +71,7 @@
    "url": "https://x.com/kocabeyhakan/status/2116101082862551462",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 681,
+    "impression_count": 723,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
@@ -83,7 +83,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "3 h, ~194 vistas/h, autor 4.5K seguidores, replies: 1"
+    "reason": "5 h, ~154 vistas/h, autor 4.5K seguidores, replies: 1"
    }
   },
   {
@@ -95,47 +95,20 @@
    "lang": "en",
    "url": "https://x.com/MemeStreetBetz/status/2116094215956627515",
    "m": {
-    "bookmark_count": 13,
-    "impression_count": 5581,
-    "like_count": 101,
+    "bookmark_count": 20,
+    "impression_count": 7850,
+    "like_count": 182,
     "quote_count": 0,
-    "reply_count": 12,
-    "repost_count": 3
+    "reply_count": 16,
+    "repost_count": 7
    },
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Predicción de precio sin argumento que discutir.",
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "4 h, ~1.4K vistas/h, autor 22.3K seguidores, replies: 12"
-   }
-  },
-  {
-   "id": "2116091454829310098",
-   "author": "Marco SD TALK",
-   "username": "Marco_SD_TALK",
-   "text": "@bitcoin2go Was wäre los, wenn jemand beider Deutsche Bank oder Commerzbank 6 Milliarden gestohlen hätte? \n\nBei Kryptowährungen: wir ersetzen jeden Schaden (woher nimmt man das Geld dafür?), Mund abputzen und weiter geht’s.\n\nEigentlich ein klassisches Zeichen für ganz viel heiße Luft",
-   "created_at": "2026-10-30T08:54:52.000Z",
-   "lang": "de",
-   "url": "https://x.com/Marco_SD_TALK/status/2116091454829310098",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 163,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "Genau deshalb trenne ich Börse und Bitcoin: Auf der Börse hast du ein Versprechen, mit eigenen Schlüsseln hast du die Coins. Hältst du deine BTC selbst? Ich habe über Airgapped-Selbstverwahrung geschrieben: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "de",
-   "with_link": true,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "4 h, ~39 vistas/h, autor 1.2K seguidores, replies: 0"
+    "level": "alto",
+    "score": 3,
+    "reason": "5 h, ~1.5K vistas/h, autor 22.3K seguidores, replies: 16"
    }
   },
   {
@@ -148,7 +121,7 @@
    "url": "https://x.com/DonJayAlfonso/status/2116081206483939471",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 154,
+    "impression_count": 164,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -160,33 +133,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "5 h, ~31 vistas/h, autor 423 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2116076069183017342",
-   "author": "Jop",
-   "username": "HablaJop",
-   "text": "@bitcoin2go Wenn bei schlechten Nachrichten der Kurs nicht faellt, ist das meistens ein Zeichen von Bodenbildung.",
-   "created_at": "2026-10-30T07:53:44.000Z",
-   "lang": "de",
-   "url": "https://x.com/HablaJop/status/2116076069183017342",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 284,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "Kann sein, aber ein Tag reicht mir dafür nicht. Hält der Kurs auch die nächsten Wochenschlusskurse, wird es interessanter. Welches Level beobachtest du?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "de",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "5 h, ~55 vistas/h, autor 25 seguidores, replies: 0"
+    "reason": "6 h, ~27 vistas/h, autor 423 seguidores, replies: 0"
    }
   },
   {
@@ -199,8 +146,8 @@
    "url": "https://x.com/JA_Maartun/status/2116074082571604284",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 4278,
-    "like_count": 45,
+    "impression_count": 4585,
+    "like_count": 51,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 2
@@ -211,7 +158,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "5 h, ~809 vistas/h, autor 47.2K seguidores, replies: 1"
+    "reason": "6 h, ~709 vistas/h, autor 47.2K seguidores, replies: 1"
    }
   },
   {
@@ -236,7 +183,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "5 h, ~1 vistas/h, autor 2.5K seguidores, replies: 0"
+    "reason": "7 h, ~1 vistas/h, autor 2.5K seguidores, replies: 0"
    }
   },
   {
@@ -249,7 +196,7 @@
    "url": "https://x.com/Bigxix_/status/2116071727579172891",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 118,
+    "impression_count": 124,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -261,61 +208,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "5 h, ~21 vistas/h, autor 1.1K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2116068103318814730",
-   "author": "COIN das mal jemand erklären? 🪙🎙️",
-   "username": "coin_jemand",
-   "text": "@bitcoin2go Dass es vermutlich wirklich ein einzelner Laptop war, klingt auch für mich total surreal. Beachtlich wie der Markt es wegsteckt - bedenklich wie fragil die Infrastruktur trotzdem zu sein scheint...",
-   "created_at": "2026-10-30T07:22:05.000Z",
-   "lang": "de",
-   "url": "https://x.com/coin_jemand/status/2116068103318814730",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 352,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "Ein Laptop als Einfallstor zeigt, wie viel an einzelnen Geräten hängt. Für eigene Coins heißt das: signieren auf einem Gerät, das nie online ist. Wie verwahrst du deine BTC? Ich habe über Airgapped-Selbstverwahrung geschrieben: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "de",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "6 h, ~61 vistas/h, autor 340 seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2116066559449763928",
-   "author": "Bitcoin2Go",
-   "username": "bitcoin2go",
-   "text": "🚨 Binance Hack: Was wir bisher wissen\n\nRund 6,3 Mrd. $ betroffen. Der größte Hack der Kryptogeschichte.\n\n1.) Einfallstor war der Laptop eines Binance Engineers. Laut Binance wurde kein Private Key geklaut.\n\n2.) Der Trick: EIP-7702. Angreifer schickt 50 Freigaben auf einmal, eine https://t.co/bbk2TJabwO",
-   "created_at": "2026-10-30T07:15:57.000Z",
-   "lang": "de",
-   "url": "https://x.com/bitcoin2go/status/2116066559449763928",
-   "m": {
-    "bookmark_count": 27,
-    "impression_count": 22699,
-    "like_count": 161,
-    "quote_count": 0,
-    "reply_count": 27,
-    "repost_count": 9
-   },
-   "reply_en": "Wenn der Bericht stimmt, kam der Angriff über Freigaben (EIP-7702) und einen Laptop, nicht über Bitcoin selbst. Wie viel eurer BTC liegt nach dieser Woche noch auf Börsen? Ich habe über Airgapped-Selbstverwahrung geschrieben: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "de",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 4,
-    "reason": "6 h, ~3.9K vistas/h, autor 52.8K seguidores, replies: 27"
+    "reason": "7 h, ~18 vistas/h, autor 1.1K seguidores, replies: 1"
    }
   },
   {
@@ -327,9 +220,9 @@
    "lang": "en",
    "url": "https://x.com/__LiqHunter__/status/2116058348906803455",
    "m": {
-    "bookmark_count": 2,
-    "impression_count": 1402,
-    "like_count": 28,
+    "bookmark_count": 1,
+    "impression_count": 1453,
+    "like_count": 30,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 0
@@ -340,7 +233,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "6 h, ~221 vistas/h, autor 2.9K seguidores, replies: 2"
+    "reason": "8 h, ~193 vistas/h, autor 2.9K seguidores, replies: 2"
    }
   },
   {
@@ -353,11 +246,11 @@
    "url": "https://x.com/OmeniSteph93105/status/2116054997167477134",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 811,
-    "like_count": 52,
+    "impression_count": 901,
+    "like_count": 62,
     "quote_count": 1,
-    "reply_count": 14,
-    "repost_count": 14
+    "reply_count": 17,
+    "repost_count": 18
    },
    "reply_en": "",
    "in_niche": false,
@@ -365,7 +258,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "7 h, ~123 vistas/h, autor 5.0K seguidores, replies: 14"
+    "reason": "8 h, ~116 vistas/h, autor 5.0K seguidores, replies: 17"
    }
   },
   {
@@ -378,8 +271,8 @@
    "url": "https://x.com/Axel_bitblaze69/status/2116054480995434763",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 5478,
-    "like_count": 46,
+    "impression_count": 5787,
+    "like_count": 48,
     "quote_count": 0,
     "reply_count": 4,
     "repost_count": 1
@@ -390,7 +283,7 @@
    "momentum": {
     "level": "alto",
     "score": 4,
-    "reason": "7 h, ~831 vistas/h, autor 128.9K seguidores, replies: 4"
+    "reason": "8 h, ~746 vistas/h, autor 128.9K seguidores, replies: 4"
    }
   },
   {
@@ -403,7 +296,7 @@
    "url": "https://x.com/RidaaXBT/status/2116053665152897040",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1701,
+    "impression_count": 1802,
     "like_count": 12,
     "quote_count": 0,
     "reply_count": 2,
@@ -415,7 +308,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "7 h, ~256 vistas/h, autor 1.8K seguidores, replies: 2"
+    "reason": "8 h, ~230 vistas/h, autor 1.8K seguidores, replies: 2"
    }
   },
   {
@@ -428,7 +321,7 @@
    "url": "https://x.com/___BKR____/status/2116053315410931801",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 628,
+    "impression_count": 636,
     "like_count": 11,
     "quote_count": 0,
     "reply_count": 3,
@@ -440,7 +333,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "7 h, ~94 vistas/h, autor 1.2K seguidores, replies: 3"
+    "reason": "8 h, ~81 vistas/h, autor 1.2K seguidores, replies: 3"
    }
   },
   {
@@ -452,11 +345,11 @@
    "lang": "en",
    "url": "https://x.com/moranitrading/status/2116051593196077240",
    "m": {
-    "bookmark_count": 1,
-    "impression_count": 620,
+    "bookmark_count": 2,
+    "impression_count": 641,
     "like_count": 11,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 2,
     "repost_count": 0
    },
    "reply_en": "",
@@ -465,7 +358,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "7 h, ~91 vistas/h, autor 1.2K seguidores, replies: 1"
+    "reason": "8 h, ~80 vistas/h, autor 1.2K seguidores, replies: 2"
    }
   },
   {
@@ -477,9 +370,9 @@
    "lang": "ko",
    "url": "https://x.com/buzysqw/status/2116042948232315282",
    "m": {
-    "bookmark_count": 15,
-    "impression_count": 6228,
-    "like_count": 79,
+    "bookmark_count": 16,
+    "impression_count": 6570,
+    "like_count": 81,
     "quote_count": 0,
     "reply_count": 9,
     "repost_count": 6
@@ -488,9 +381,9 @@
    "in_niche": false,
    "skip_reason": "Predicción o hype sin datos verificables; responder no suma y te asocia a certezas inventadas.",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "7 h, ~847 vistas/h, autor 6.7K seguidores, replies: 9"
+    "level": "medio",
+    "score": 2,
+    "reason": "9 h, ~771 vistas/h, autor 6.7K seguidores, replies: 9"
    }
   },
   {
@@ -502,9 +395,9 @@
    "lang": "en",
    "url": "https://x.com/Sarmad_Crypto/status/2116041469069005176",
    "m": {
-    "bookmark_count": 1,
-    "impression_count": 3428,
-    "like_count": 40,
+    "bookmark_count": 2,
+    "impression_count": 3635,
+    "like_count": 41,
     "quote_count": 0,
     "reply_count": 11,
     "repost_count": 10
@@ -514,8 +407,8 @@
    "skip_reason": "Autopromoción de una predicción propia; responder no suma.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "7 h, ~460 vistas/h, autor 2.3K seguidores, replies: 11"
+    "score": 1,
+    "reason": "9 h, ~421 vistas/h, autor 2.3K seguidores, replies: 11"
    }
   },
   {
@@ -527,20 +420,20 @@
    "lang": "en",
    "url": "https://x.com/elonmusk/status/2116039632743702637",
    "m": {
-    "bookmark_count": 8205,
-    "impression_count": 7273089,
-    "like_count": 152826,
-    "quote_count": 2443,
-    "reply_count": 13927,
-    "repost_count": 26472
+    "bookmark_count": 9863,
+    "impression_count": 9669156,
+    "like_count": 184276,
+    "quote_count": 3147,
+    "reply_count": 17119,
+    "repost_count": 32841
    },
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Tema político; fuera de tu nicho.",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "8 h, ~961.0K vistas/h, autor 241513.4K seguidores, replies: 13927"
+    "level": "medio",
+    "score": 2,
+    "reason": "9 h, ~1106.3K vistas/h, autor 241512.7K seguidores, replies: 17119"
    }
   },
   {
@@ -553,19 +446,19 @@
    "url": "https://x.com/Crypto__Haris/status/2116039569724625230",
    "m": {
     "bookmark_count": 9,
-    "impression_count": 19713,
-    "like_count": 339,
+    "impression_count": 20742,
+    "like_count": 355,
     "quote_count": 6,
-    "reply_count": 108,
-    "repost_count": 47
+    "reply_count": 113,
+    "repost_count": 51
    },
    "reply_en": "",
    "in_niche": false,
    "skip_reason": "Comentario conspirativo sobre el hackeo; no hay dato verificable que aportar.",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "8 h, ~2.6K vistas/h, autor 93.5K seguidores, replies: 108"
+    "level": "medio",
+    "score": 2,
+    "reason": "9 h, ~2.4K vistas/h, autor 93.5K seguidores, replies: 113"
    }
   },
   {
@@ -578,7 +471,7 @@
    "url": "https://x.com/ValCoins/status/2116038884710834355",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1431,
+    "impression_count": 1479,
     "like_count": 15,
     "quote_count": 0,
     "reply_count": 0,
@@ -589,8 +482,8 @@
    "skip_reason": "Saludo con actualización de precio sin idea concreta.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "8 h, ~187 vistas/h, autor 47.2K seguidores, replies: 0"
+    "score": 1,
+    "reason": "9 h, ~168 vistas/h, autor 47.2K seguidores, replies: 0"
    }
   },
   {
@@ -602,8 +495,8 @@
    "lang": "en",
    "url": "https://x.com/RegalXBT/status/2116035110818750639",
    "m": {
-    "bookmark_count": 2,
-    "impression_count": 4452,
+    "bookmark_count": 3,
+    "impression_count": 4657,
     "like_count": 39,
     "quote_count": 0,
     "reply_count": 3,
@@ -613,9 +506,9 @@
    "in_niche": false,
    "skip_reason": "Predicción o hype sin datos verificables; responder no suma y te asocia a certezas inventadas.",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "8 h, ~565 vistas/h, autor 3.6K seguidores, replies: 3"
+    "level": "medio",
+    "score": 2,
+    "reason": "9 h, ~515 vistas/h, autor 3.6K seguidores, replies: 3"
    }
   },
   {
@@ -628,8 +521,8 @@
    "url": "https://x.com/Bitcoin_World20/status/2116029591605432429",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 4731,
-    "like_count": 40,
+    "impression_count": 4842,
+    "like_count": 41,
     "quote_count": 0,
     "reply_count": 6,
     "repost_count": 1
@@ -640,7 +533,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "8 h, ~574 vistas/h, autor 11.9K seguidores, replies: 6"
+    "reason": "9 h, ~514 vistas/h, autor 11.9K seguidores, replies: 6"
    }
   },
   {
@@ -652,11 +545,11 @@
    "lang": "en",
    "url": "https://x.com/Crypto__Haris/status/2116029157280796899",
    "m": {
-    "bookmark_count": 24,
-    "impression_count": 16488,
-    "like_count": 170,
+    "bookmark_count": 26,
+    "impression_count": 16847,
+    "like_count": 172,
     "quote_count": 0,
-    "reply_count": 55,
+    "reply_count": 56,
     "repost_count": 31
    },
    "reply_en": "",
@@ -665,7 +558,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "8 h, ~2.0K vistas/h, autor 93.5K seguidores, replies: 55"
+    "reason": "9 h, ~1.8K vistas/h, autor 93.5K seguidores, replies: 56"
    }
   },
   {
@@ -678,7 +571,7 @@
    "url": "https://x.com/JordiCharts/status/2116026032641749045",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1690,
+    "impression_count": 1732,
     "like_count": 20,
     "quote_count": 0,
     "reply_count": 4,
@@ -690,7 +583,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "8 h, ~199 vistas/h, autor 4.1K seguidores, replies: 4"
+    "reason": "10 h, ~179 vistas/h, autor 4.1K seguidores, replies: 4"
    }
   },
   {
@@ -703,7 +596,7 @@
    "url": "https://x.com/chartseekers/status/2116025472664662489",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 713,
+    "impression_count": 721,
     "like_count": 10,
     "quote_count": 0,
     "reply_count": 1,
@@ -715,7 +608,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "9 h, ~83 vistas/h, autor 1.7K seguidores, replies: 1"
+    "reason": "10 h, ~74 vistas/h, autor 1.7K seguidores, replies: 1"
    }
   },
   {
@@ -727,9 +620,9 @@
    "lang": "en",
    "url": "https://x.com/astronomer_zero/status/2116016068032655843",
    "m": {
-    "bookmark_count": 50,
-    "impression_count": 28686,
-    "like_count": 289,
+    "bookmark_count": 52,
+    "impression_count": 29623,
+    "like_count": 293,
     "quote_count": 0,
     "reply_count": 24,
     "repost_count": 15
@@ -740,7 +633,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "9 h, ~3.1K vistas/h, autor 65.8K seguidores, replies: 24"
+    "reason": "10 h, ~2.9K vistas/h, autor 65.8K seguidores, replies: 24"
    }
   },
   {
@@ -753,7 +646,7 @@
    "url": "https://x.com/Crypto_Scient/status/2116013531858637208",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 11725,
+    "impression_count": 12074,
     "like_count": 77,
     "quote_count": 1,
     "reply_count": 3,
@@ -765,7 +658,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "9 h, ~1.3K vistas/h, autor 54.5K seguidores, replies: 3"
+    "reason": "10 h, ~1.2K vistas/h, autor 54.5K seguidores, replies: 3"
    }
   },
   {
@@ -778,8 +671,8 @@
    "url": "https://x.com/god_candle_in/status/2116013291248222341",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1976,
-    "like_count": 29,
+    "impression_count": 2048,
+    "like_count": 30,
     "quote_count": 0,
     "reply_count": 3,
     "repost_count": 3
@@ -790,34 +683,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "9 h, ~212 vistas/h, autor 2.4K seguidores, replies: 3"
-   }
-  },
-  {
-   "id": "2116012356748619891",
-   "author": "Mo Elgaraihy",
-   "username": "EngMoElgaraihy",
-   "text": "🚨 تحذير أمني مرعب: كيف كشف اختراق Binance عن كارثة تجسس حقيقية داخل جهازه المحمول! 💥\n\nبعد استهداف Binance وسحب مئات الملايين من محافضها، أكد مؤسسها CZ أن اختراقات هذا الحجم لا تبدأ عادة بتعقيدات برمجية في الشبكة، بل بذات الطريقة التي أطاحت بـ Bybit سابقاً: اختراق جهاز محمول https://t.co/7yyUClB5uy",
-   "created_at": "2026-10-30T03:40:34.000Z",
-   "lang": "ar",
-   "url": "https://x.com/EngMoElgaraihy/status/2116012356748619891",
-   "m": {
-    "bookmark_count": 457,
-    "impression_count": 81694,
-    "like_count": 425,
-    "quote_count": 0,
-    "reply_count": 16,
-    "repost_count": 79
-   },
-   "reply_en": "إذا صحّت التقارير، فالدرس واضح: أي جهاز متصل بالإنترنت يمكن اختراقه. لهذا من الأفضل أن يتم توقيع معاملات البيتكوين على جهاز لا يتصل بالشبكة أبدًا. هل تستخدم جهازًا منفصلًا للتوقيع؟ كتبت عن الحفظ الذاتي المعزول عن الإنترنت: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "ar",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "9 h, ~8.7K vistas/h, autor 51.5K seguidores, replies: 16"
+    "reason": "10 h, ~195 vistas/h, autor 2.4K seguidores, replies: 3"
    }
   },
   {
@@ -830,8 +696,8 @@
    "url": "https://x.com/KryptoFynn/status/2116010690528027058",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3112,
-    "like_count": 23,
+    "impression_count": 3255,
+    "like_count": 24,
     "quote_count": 0,
     "reply_count": 18,
     "repost_count": 0
@@ -842,7 +708,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "9 h, ~328 vistas/h, autor 3.6K seguidores, replies: 18"
+    "reason": "11 h, ~305 vistas/h, autor 3.6K seguidores, replies: 18"
    }
   },
   {
@@ -855,8 +721,8 @@
    "url": "https://x.com/roger73005305/status/2116010453017280679",
    "m": {
     "bookmark_count": 11,
-    "impression_count": 22917,
-    "like_count": 52,
+    "impression_count": 23975,
+    "like_count": 53,
     "quote_count": 2,
     "reply_count": 31,
     "repost_count": 3
@@ -867,7 +733,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10 h, ~2.4K vistas/h, autor 68.8K seguidores, replies: 31"
+    "reason": "11 h, ~2.2K vistas/h, autor 68.8K seguidores, replies: 31"
    }
   },
   {
@@ -880,7 +746,7 @@
    "url": "https://x.com/chenzi1000/status/2116008291335872723",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1330,
+    "impression_count": 1353,
     "like_count": 9,
     "quote_count": 0,
     "reply_count": 7,
@@ -892,7 +758,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "10 h, ~137 vistas/h, autor 1.3K seguidores, replies: 7"
+    "reason": "11 h, ~125 vistas/h, autor 1.3K seguidores, replies: 7"
    }
   },
   {
@@ -905,10 +771,10 @@
    "url": "https://x.com/Web3Lea/status/2116003742302826714",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 12603,
-    "like_count": 61,
+    "impression_count": 14727,
+    "like_count": 73,
     "quote_count": 0,
-    "reply_count": 19,
+    "reply_count": 20,
     "repost_count": 1
    },
    "reply_en": "",
@@ -917,7 +783,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "10 h, ~1.3K vistas/h, autor 4.8K seguidores, replies: 19"
+    "reason": "11 h, ~1.3K vistas/h, autor 4.8K seguidores, replies: 20"
    }
   },
   {
@@ -930,10 +796,10 @@
    "url": "https://x.com/Crypto_Twittier/status/2116002127482884205",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 35754,
-    "like_count": 154,
+    "impression_count": 36113,
+    "like_count": 160,
     "quote_count": 1,
-    "reply_count": 29,
+    "reply_count": 31,
     "repost_count": 15
    },
    "reply_en": "",
@@ -942,7 +808,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10 h, ~3.6K vistas/h, autor 94.4K seguidores, replies: 29"
+    "reason": "11 h, ~3.2K vistas/h, autor 94.4K seguidores, replies: 31"
    }
   },
   {
@@ -955,8 +821,8 @@
    "url": "https://x.com/QuantumCGI/status/2116000352634106285",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 4547,
-    "like_count": 31,
+    "impression_count": 4762,
+    "like_count": 32,
     "quote_count": 0,
     "reply_count": 10,
     "repost_count": 0
@@ -967,7 +833,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "10 h, ~447 vistas/h, autor 1.6K seguidores, replies: 10"
+    "reason": "11 h, ~419 vistas/h, autor 1.6K seguidores, replies: 10"
    }
   },
   {
@@ -980,8 +846,8 @@
    "url": "https://x.com/Rick_Barber_/status/2115993179539329033",
    "m": {
     "bookmark_count": 19,
-    "impression_count": 24115,
-    "like_count": 76,
+    "impression_count": 25425,
+    "like_count": 81,
     "quote_count": 1,
     "reply_count": 28,
     "repost_count": 8
@@ -992,7 +858,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "11 h, ~2.3K vistas/h, autor 7.8K seguidores, replies: 28"
+    "reason": "12 h, ~2.2K vistas/h, autor 7.8K seguidores, replies: 28"
    }
   },
   {
@@ -1005,8 +871,8 @@
    "url": "https://x.com/Mingarithm/status/2115992730119926129",
    "m": {
     "bookmark_count": 12,
-    "impression_count": 7940,
-    "like_count": 98,
+    "impression_count": 8262,
+    "like_count": 100,
     "quote_count": 0,
     "reply_count": 6,
     "repost_count": 3
@@ -1017,7 +883,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "11 h, ~743 vistas/h, autor 13.3K seguidores, replies: 6"
+    "reason": "12 h, ~697 vistas/h, autor 13.3K seguidores, replies: 6"
    }
   },
   {
@@ -1030,8 +896,8 @@
    "url": "https://x.com/EtherRawl/status/2115991643186778470",
    "m": {
     "bookmark_count": 18,
-    "impression_count": 3408,
-    "like_count": 62,
+    "impression_count": 3472,
+    "like_count": 63,
     "quote_count": 1,
     "reply_count": 3,
     "repost_count": 3
@@ -1041,8 +907,8 @@
    "skip_reason": "Autopromoción de una predicción propia; responder no suma.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "11 h, ~317 vistas/h, autor 9.7K seguidores, replies: 3"
+    "score": 1,
+    "reason": "12 h, ~291 vistas/h, autor 9.7K seguidores, replies: 3"
    }
   },
   {
@@ -1055,8 +921,8 @@
    "url": "https://x.com/VellaCryptoX/status/2115989981554774423",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 5701,
-    "like_count": 118,
+    "impression_count": 5926,
+    "like_count": 123,
     "quote_count": 0,
     "reply_count": 12,
     "repost_count": 7
@@ -1067,7 +933,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "11 h, ~525 vistas/h, autor 25.5K seguidores, replies: 12"
+    "reason": "12 h, ~492 vistas/h, autor 25.5K seguidores, replies: 12"
    }
   },
   {
@@ -1080,9 +946,9 @@
    "url": "https://x.com/Alphractal/status/2115988352381968674",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 5947,
-    "like_count": 88,
-    "quote_count": 3,
+    "impression_count": 6128,
+    "like_count": 91,
+    "quote_count": 4,
     "reply_count": 2,
     "repost_count": 6
    },
@@ -1092,86 +958,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "11 h, ~542 vistas/h, autor 15.2K seguidores, replies: 2"
-   }
-  },
-  {
-   "id": "2115986336419020813",
-   "author": "Caffe' Satoshi",
-   "username": "CaffeSatoshi",
-   "text": "To whoever hacked BINANCE:\n\nYou may be celebrating. You discovered a vulnerability, executed the exploit, and walked away with $1.45 billion in Bitcoin and $875 million in ETH\n\nBut what you actually acquired isn't just bitcoin. You acquired one of the most heavily monitored UTXO https://t.co/IeFjrXlap5",
-   "created_at": "2026-10-30T01:57:10.000Z",
-   "lang": "en",
-   "url": "https://x.com/CaffeSatoshi/status/2115986336419020813",
-   "m": {
-    "bookmark_count": 626,
-    "impression_count": 418014,
-    "like_count": 2434,
-    "quote_count": 73,
-    "reply_count": 623,
-    "repost_count": 371
-   },
-   "reply_en": "The flip side: those coins are easy to trace because they sat in one custodian's setup. Spread across people's own keys, there's no single billion-dollar target. How long until these UTXOs move? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "11 h, ~37.7K vistas/h, autor 10.6K seguidores, replies: 623"
-   }
-  },
-  {
-   "id": "2115985380747166018",
-   "author": "Freedom By 40",
-   "username": "Freedom_By_40",
-   "text": "$BTC \n\nAll is well when you zoom out. \n\nI am expecting to find support around the .5fib, could get lucky and get away with the .382. \n\nConsider following along, I keep things as realistic as I can over here. https://t.co/yxtE0qWMdb https://t.co/1Y2XK2NFyN",
-   "created_at": "2026-10-30T01:53:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/Freedom_By_40/status/2115985380747166018",
-   "m": {
-    "bookmark_count": 37,
-    "impression_count": 20982,
-    "like_count": 198,
-    "quote_count": 0,
-    "reply_count": 16,
-    "repost_count": 17
-   },
-   "reply_en": "The .5 fib as a spot buy zone makes sense if the weekly close holds. Are you scaling in between the .382 and the .5, or waiting for the .5 only?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "11 h, ~1.9K vistas/h, autor 53.5K seguidores, replies: 16"
-   }
-  },
-  {
-   "id": "2115977998847664313",
-   "author": "レイさん",
-   "username": "kuppizyou",
-   "text": "BTCを詳しく見ていく\n\n現在が上昇相場への転換点だと仮定して\n前回や前々回の転換点の時の日足RSIは23や24\n今は33でまだ売られ過ぎではない\n\nで、現在の77000ドルは一個目のネックラインでもある\nネックラインというのは最終的に一つに絞られるものではあるけど、それは過ぎてからの話 https://t.co/JGQjVxPtOe",
-   "created_at": "2026-10-30T01:24:02.000Z",
-   "lang": "ja",
-   "url": "https://x.com/kuppizyou/status/2115977998847664313",
-   "m": {
-    "bookmark_count": 13,
-    "impression_count": 3852,
-    "like_count": 23,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "日足RSIが前回・前々回の転換点（23〜24）までまだ下がっていない、という比較は参考になります。現物なら77,000ドル付近で一部、RSIが20台に入ったら追加、という分け方もありそうです。どの水準から買い始めますか？",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "ja",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "12 h, ~330 vistas/h, autor 2.1K seguidores, replies: 1"
+    "reason": "12 h, ~504 vistas/h, autor 15.2K seguidores, replies: 2"
    }
   },
   {
@@ -1184,7 +971,7 @@
    "url": "https://x.com/negi8496/status/2115975011752366177",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 6150,
+    "impression_count": 6569,
     "like_count": 32,
     "quote_count": 1,
     "reply_count": 20,
@@ -1196,7 +983,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "12 h, ~519 vistas/h, autor 7.3K seguidores, replies: 20"
+    "reason": "13 h, ~504 vistas/h, autor 7.3K seguidores, replies: 20"
    }
   },
   {
@@ -1209,7 +996,7 @@
    "url": "https://x.com/TradingArgent0/status/2115971573966376988",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 631,
+    "impression_count": 656,
     "like_count": 16,
     "quote_count": 0,
     "reply_count": 7,
@@ -1221,7 +1008,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "12 h, ~52 vistas/h, autor 247 seguidores, replies: 7"
+    "reason": "13 h, ~49 vistas/h, autor 247 seguidores, replies: 7"
    }
   },
   {
@@ -1234,8 +1021,8 @@
    "url": "https://x.com/davthewave/status/2115970176655237452",
    "m": {
     "bookmark_count": 20,
-    "impression_count": 12885,
-    "like_count": 127,
+    "impression_count": 13164,
+    "like_count": 128,
     "quote_count": 0,
     "reply_count": 4,
     "repost_count": 5
@@ -1246,7 +1033,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "12 h, ~1.1K vistas/h, autor 228.5K seguidores, replies: 4"
+    "reason": "13 h, ~986 vistas/h, autor 228.5K seguidores, replies: 4"
    }
   },
   {
@@ -1259,11 +1046,11 @@
    "url": "https://x.com/Micro2Macr0/status/2115970142723055784",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 16085,
-    "like_count": 467,
+    "impression_count": 16493,
+    "like_count": 477,
     "quote_count": 1,
-    "reply_count": 37,
-    "repost_count": 12
+    "reply_count": 38,
+    "repost_count": 13
    },
    "reply_en": "",
    "in_niche": false,
@@ -1271,7 +1058,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "12 h, ~1.3K vistas/h, autor 116.6K seguidores, replies: 37"
+    "reason": "13 h, ~1.2K vistas/h, autor 116.6K seguidores, replies: 38"
    }
   },
   {
@@ -1284,7 +1071,7 @@
    "url": "https://x.com/goatdsalmon/status/2115969309893882089",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 3721,
+    "impression_count": 3782,
     "like_count": 32,
     "quote_count": 0,
     "reply_count": 6,
@@ -1295,8 +1082,8 @@
    "skip_reason": "Lenguaje vulgar; mejor no asociar tu cuenta.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "12 h, ~304 vistas/h, autor 5.4K seguidores, replies: 6"
+    "score": 1,
+    "reason": "13 h, ~282 vistas/h, autor 5.4K seguidores, replies: 6"
    }
   },
   {
@@ -1308,12 +1095,12 @@
    "lang": "en",
    "url": "https://x.com/KillaXBT/status/2115967897126293585",
    "m": {
-    "bookmark_count": 103,
-    "impression_count": 110687,
-    "like_count": 1362,
+    "bookmark_count": 107,
+    "impression_count": 113340,
+    "like_count": 1388,
     "quote_count": 4,
-    "reply_count": 83,
-    "repost_count": 40
+    "reply_count": 84,
+    "repost_count": 42
    },
    "reply_en": "",
    "in_niche": false,
@@ -1321,34 +1108,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "12 h, ~9.0K vistas/h, autor 241.4K seguidores, replies: 83"
-   }
-  },
-  {
-   "id": "2115966540697030840",
-   "author": "Adrian Morris",
-   "username": "_Adrian",
-   "text": "This is market shenanigans due to the @binance hack. $BTC is fine and this will likely be the needed \"capitulation\" event that let's us form a real bottom before the next leg up. Oh, if you are currently playing with leverage, I'll pray for you. Actually I won't, maybe I'll light https://t.co/4lfnB3QojS",
-   "created_at": "2026-10-30T00:38:30.000Z",
-   "lang": "en",
-   "url": "https://x.com/_Adrian/status/2115966540697030840",
-   "m": {
-    "bookmark_count": 2,
-    "impression_count": 6534,
-    "like_count": 148,
-    "quote_count": 0,
-    "reply_count": 15,
-    "repost_count": 2
-   },
-   "reply_en": "If this is the capitulation, it came from exchange risk, not from Bitcoin itself. Did the hack push you to move spot BTC off exchanges, or to buy more? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "12 h, ~526 vistas/h, autor 31.6K seguidores, replies: 15"
+    "reason": "13 h, ~8.4K vistas/h, autor 241.4K seguidores, replies: 84"
    }
   },
   {
@@ -1361,8 +1121,8 @@
    "url": "https://x.com/Elliothan_/status/2115964518316851692",
    "m": {
     "bookmark_count": 10,
-    "impression_count": 3744,
-    "like_count": 36,
+    "impression_count": 3932,
+    "like_count": 38,
     "quote_count": 1,
     "reply_count": 6,
     "repost_count": 6
@@ -1373,7 +1133,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "13 h, ~298 vistas/h, autor 6.3K seguidores, replies: 6"
+    "reason": "14 h, ~286 vistas/h, autor 6.3K seguidores, replies: 6"
    }
   },
   {
@@ -1386,7 +1146,7 @@
    "url": "https://x.com/Axin888btc/status/2115960956367090089",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 5926,
+    "impression_count": 5986,
     "like_count": 17,
     "quote_count": 0,
     "reply_count": 9,
@@ -1398,7 +1158,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "13 h, ~463 vistas/h, autor 5.0K seguidores, replies: 9"
+    "reason": "14 h, ~429 vistas/h, autor 5.0K seguidores, replies: 9"
    }
   },
   {
@@ -1411,7 +1171,7 @@
    "url": "https://x.com/v79454186/status/2115960956886859959",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 131,
+    "impression_count": 136,
     "like_count": 10,
     "quote_count": 0,
     "reply_count": 1,
@@ -1423,7 +1183,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~10 vistas/h, autor 1.6K seguidores, replies: 1"
+    "reason": "14 h, ~9 vistas/h, autor 1.6K seguidores, replies: 1"
    }
   },
   {
@@ -1436,10 +1196,10 @@
    "url": "https://x.com/swisstrader09/status/2115955380140265508",
    "m": {
     "bookmark_count": 10,
-    "impression_count": 6243,
-    "like_count": 56,
+    "impression_count": 6362,
+    "like_count": 57,
     "quote_count": 0,
-    "reply_count": 5,
+    "reply_count": 6,
     "repost_count": 2
    },
    "reply_en": "",
@@ -1448,7 +1208,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "13 h, ~474 vistas/h, autor 16.6K seguidores, replies: 5"
+    "reason": "14 h, ~444 vistas/h, autor 16.6K seguidores, replies: 6"
    }
   },
   {
@@ -1461,7 +1221,7 @@
    "url": "https://x.com/BYD0811/status/2115947983351218367",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 44,
+    "impression_count": 47,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -1473,33 +1233,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~3 vistas/h, autor 12.3K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2115946886767263745",
-   "author": "Mx",
-   "username": "MaxamedCrypto",
-   "text": "if you think this is the bottom, you clearly haven't been in crypto long enough\n\nafter what happened today, don't expect the bottom to form overnight. could take weeks or months of boring price action before we finally send\n\nstudy 10/10\n\ni'll just focus on onchain scalping and",
-   "created_at": "2026-10-29T23:20:24.000Z",
-   "lang": "en",
-   "url": "https://x.com/MaxamedCrypto/status/2115946886767263745",
-   "m": {
-    "bookmark_count": 5,
-    "impression_count": 11607,
-    "like_count": 86,
-    "quote_count": 0,
-    "reply_count": 15,
-    "repost_count": 0
-   },
-   "reply_en": "Agreed, bottoms rarely form overnight after a shock. For spot buyers, spreading buys over those boring weeks beats guessing the exact low. What would make you call it a bottom?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "14 h, ~846 vistas/h, autor 6.5K seguidores, replies: 15"
+    "reason": "15 h, ~3 vistas/h, autor 12.3K seguidores, replies: 1"
    }
   },
   {
@@ -1524,7 +1258,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~7 vistas/h, autor 3.5K seguidores, replies: 0"
+    "reason": "15 h, ~7 vistas/h, autor 3.5K seguidores, replies: 0"
    }
   },
   {
@@ -1537,7 +1271,7 @@
    "url": "https://x.com/Bleeding_Crypto/status/2115943882127229078",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 8270,
+    "impression_count": 8347,
     "like_count": 54,
     "quote_count": 0,
     "reply_count": 5,
@@ -1549,7 +1283,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14 h, ~594 vistas/h, autor 81.4K seguidores, replies: 5"
+    "reason": "15 h, ~553 vistas/h, autor 81.4K seguidores, replies: 5"
    }
   },
   {
@@ -1562,8 +1296,8 @@
    "url": "https://x.com/CrypticTrades_/status/2115941758278500535",
    "m": {
     "bookmark_count": 9,
-    "impression_count": 8901,
-    "like_count": 179,
+    "impression_count": 9113,
+    "like_count": 181,
     "quote_count": 0,
     "reply_count": 7,
     "repost_count": 7
@@ -1574,7 +1308,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~633 vistas/h, autor 44.5K seguidores, replies: 7"
+    "reason": "15 h, ~598 vistas/h, autor 44.5K seguidores, replies: 7"
    }
   },
   {
@@ -1586,12 +1320,12 @@
    "lang": "en",
    "url": "https://x.com/CryptoWizardd/status/2115937174545932594",
    "m": {
-    "bookmark_count": 36,
-    "impression_count": 113985,
-    "like_count": 2046,
+    "bookmark_count": 38,
+    "impression_count": 116684,
+    "like_count": 2086,
     "quote_count": 6,
-    "reply_count": 97,
-    "repost_count": 104
+    "reply_count": 99,
+    "repost_count": 105
    },
    "reply_en": "",
    "in_niche": false,
@@ -1599,7 +1333,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~7.9K vistas/h, autor 811.2K seguidores, replies: 97"
+    "reason": "16 h, ~7.5K vistas/h, autor 811.2K seguidores, replies: 99"
    }
   },
   {
@@ -1612,8 +1346,8 @@
    "url": "https://x.com/EZCharts_/status/2115936101944918390",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 10967,
-    "like_count": 98,
+    "impression_count": 11111,
+    "like_count": 100,
     "quote_count": 0,
     "reply_count": 6,
     "repost_count": 4
@@ -1624,7 +1358,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~760 vistas/h, autor 40.5K seguidores, replies: 6"
+    "reason": "16 h, ~712 vistas/h, autor 40.5K seguidores, replies: 6"
    }
   },
   {
@@ -1637,7 +1371,7 @@
    "url": "https://x.com/Allurlol/status/2115935839104508196",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 114,
+    "impression_count": 116,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 1,
@@ -1649,7 +1383,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~7 vistas/h, autor 451 seguidores, replies: 1"
+    "reason": "16 h, ~7 vistas/h, autor 451 seguidores, replies: 1"
    }
   },
   {
@@ -1661,12 +1395,12 @@
    "lang": "en",
    "url": "https://x.com/AlexesNakamoto/status/2115934514178363861",
    "m": {
-    "bookmark_count": 267,
-    "impression_count": 264708,
-    "like_count": 9688,
-    "quote_count": 234,
-    "reply_count": 528,
-    "repost_count": 1017
+    "bookmark_count": 281,
+    "impression_count": 279571,
+    "like_count": 10189,
+    "quote_count": 243,
+    "reply_count": 543,
+    "repost_count": 1066
    },
    "reply_en": "",
    "in_niche": false,
@@ -1674,7 +1408,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "15 h, ~18.2K vistas/h, autor 16.3K seguidores, replies: 528"
+    "reason": "16 h, ~17.8K vistas/h, autor 16.3K seguidores, replies: 543"
    }
   },
   {
@@ -1687,11 +1421,11 @@
    "url": "https://x.com/Cryptotea/status/2115933859116196244",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 10033,
-    "like_count": 290,
+    "impression_count": 10159,
+    "like_count": 296,
     "quote_count": 2,
     "reply_count": 18,
-    "repost_count": 16
+    "repost_count": 18
    },
    "reply_en": "",
    "in_niche": false,
@@ -1699,7 +1433,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15 h, ~688 vistas/h, autor 190.2K seguidores, replies: 18"
+    "reason": "16 h, ~645 vistas/h, autor 190.2K seguidores, replies: 18"
    }
   },
   {
@@ -1712,8 +1446,8 @@
    "url": "https://x.com/blackwidowbtc/status/2115933209267744849",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 5356,
-    "like_count": 104,
+    "impression_count": 5444,
+    "like_count": 106,
     "quote_count": 1,
     "reply_count": 8,
     "repost_count": 2
@@ -1724,7 +1458,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15 h, ~366 vistas/h, autor 23.3K seguidores, replies: 8"
+    "reason": "16 h, ~344 vistas/h, autor 23.3K seguidores, replies: 8"
    }
   },
   {
@@ -1737,11 +1471,11 @@
    "url": "https://x.com/CryptoGenzo/status/2115926253916004811",
    "m": {
     "bookmark_count": 23,
-    "impression_count": 26898,
-    "like_count": 197,
+    "impression_count": 27345,
+    "like_count": 201,
     "quote_count": 0,
     "reply_count": 15,
-    "repost_count": 11
+    "repost_count": 12
    },
    "reply_en": "",
    "in_niche": false,
@@ -1749,7 +1483,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "15 h, ~1.8K vistas/h, autor 243.7K seguidores, replies: 15"
+    "reason": "16 h, ~1.7K vistas/h, autor 243.7K seguidores, replies: 15"
    }
   },
   {
@@ -1761,12 +1495,12 @@
    "lang": "en",
    "url": "https://x.com/cz_binance/status/2115920822087098401",
    "m": {
-    "bookmark_count": 136,
-    "impression_count": 671346,
-    "like_count": 5763,
+    "bookmark_count": 137,
+    "impression_count": 686022,
+    "like_count": 5813,
     "quote_count": 38,
-    "reply_count": 463,
-    "repost_count": 309
+    "reply_count": 464,
+    "repost_count": 310
    },
    "reply_en": "",
    "in_niche": false,
@@ -1774,7 +1508,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15 h, ~43.5K vistas/h, autor 12973.7K seguidores, replies: 463"
+    "reason": "17 h, ~41.3K vistas/h, autor 12975.5K seguidores, replies: 464"
    }
   },
   {
@@ -1787,7 +1521,7 @@
    "url": "https://x.com/chroe_trades/status/2115917864334942538",
    "m": {
     "bookmark_count": 16,
-    "impression_count": 14242,
+    "impression_count": 14297,
     "like_count": 108,
     "quote_count": 0,
     "reply_count": 11,
@@ -1799,7 +1533,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~911 vistas/h, autor 8.4K seguidores, replies: 11"
+    "reason": "17 h, ~850 vistas/h, autor 8.4K seguidores, replies: 11"
    }
   },
   {
@@ -1812,7 +1546,7 @@
    "url": "https://x.com/AndreeaTomoiag3/status/2115915298549416417",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1034,
+    "impression_count": 1058,
     "like_count": 13,
     "quote_count": 0,
     "reply_count": 1,
@@ -1824,7 +1558,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~65 vistas/h, autor 5.0K seguidores, replies: 1"
+    "reason": "17 h, ~62 vistas/h, autor 5.0K seguidores, replies: 1"
    }
   },
   {
@@ -1837,7 +1571,7 @@
    "url": "https://x.com/rektcapital/status/2115914578995679581",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 25553,
+    "impression_count": 25795,
     "like_count": 134,
     "quote_count": 0,
     "reply_count": 13,
@@ -1849,7 +1583,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "16 h, ~1.6K vistas/h, autor 563.0K seguidores, replies: 13"
+    "reason": "17 h, ~1.5K vistas/h, autor 563.0K seguidores, replies: 13"
    }
   },
   {
@@ -1862,7 +1596,7 @@
    "url": "https://x.com/Mr_LeverageX/status/2115913465340494206",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 674,
+    "impression_count": 675,
     "like_count": 7,
     "quote_count": 0,
     "reply_count": 2,
@@ -1874,7 +1608,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~42 vistas/h, autor 7.6K seguidores, replies: 2"
+    "reason": "17 h, ~39 vistas/h, autor 7.6K seguidores, replies: 2"
    }
   },
   {
@@ -1887,8 +1621,8 @@
    "url": "https://x.com/TraderMorin/status/2115913238567092259",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 7065,
-    "like_count": 37,
+    "impression_count": 7140,
+    "like_count": 38,
     "quote_count": 0,
     "reply_count": 7,
     "repost_count": 0
@@ -1899,7 +1633,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~443 vistas/h, autor 28.2K seguidores, replies: 7"
+    "reason": "17 h, ~417 vistas/h, autor 28.2K seguidores, replies: 7"
    }
   },
   {
@@ -1912,7 +1646,7 @@
    "url": "https://x.com/Whisperer101/status/2115913171831574971",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3133,
+    "impression_count": 3162,
     "like_count": 16,
     "quote_count": 0,
     "reply_count": 1,
@@ -1924,7 +1658,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~196 vistas/h, autor 24.5K seguidores, replies: 1"
+    "reason": "17 h, ~184 vistas/h, autor 24.5K seguidores, replies: 1"
    }
   },
   {
@@ -1937,7 +1671,7 @@
    "url": "https://x.com/kingcobratrader/status/2115911662695743716",
    "m": {
     "bookmark_count": 5,
-    "impression_count": 7253,
+    "impression_count": 7305,
     "like_count": 117,
     "quote_count": 1,
     "reply_count": 16,
@@ -1949,7 +1683,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~452 vistas/h, autor 10.9K seguidores, replies: 16"
+    "reason": "17 h, ~424 vistas/h, autor 10.9K seguidores, replies: 16"
    }
   },
   {
@@ -1962,11 +1696,11 @@
    "url": "https://x.com/coinbureau/status/2115910763718287725",
    "m": {
     "bookmark_count": 58,
-    "impression_count": 80413,
-    "like_count": 835,
+    "impression_count": 80926,
+    "like_count": 839,
     "quote_count": 18,
     "reply_count": 83,
-    "repost_count": 152
+    "repost_count": 153
    },
    "reply_en": "",
    "in_niche": false,
@@ -1974,7 +1708,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~5.0K vistas/h, autor 1130.1K seguidores, replies: 83"
+    "reason": "17 h, ~4.7K vistas/h, autor 1130.1K seguidores, replies: 83"
    }
   },
   {
@@ -1987,11 +1721,11 @@
    "url": "https://x.com/Stefan_B_Trades/status/2115910202427850902",
    "m": {
     "bookmark_count": 20,
-    "impression_count": 26026,
-    "like_count": 176,
+    "impression_count": 26292,
+    "like_count": 179,
     "quote_count": 0,
     "reply_count": 9,
-    "repost_count": 11
+    "repost_count": 12
    },
    "reply_en": "",
    "in_niche": false,
@@ -1999,7 +1733,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "16 h, ~1.6K vistas/h, autor 36.6K seguidores, replies: 9"
+    "reason": "17 h, ~1.5K vistas/h, autor 36.6K seguidores, replies: 9"
    }
   },
   {
@@ -2012,7 +1746,7 @@
    "url": "https://x.com/KazTheShadow/status/2115910000577028332",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 10925,
+    "impression_count": 11018,
     "like_count": 65,
     "quote_count": 1,
     "reply_count": 11,
@@ -2024,7 +1758,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~676 vistas/h, autor 17.1K seguidores, replies: 11"
+    "reason": "17 h, ~635 vistas/h, autor 17.1K seguidores, replies: 11"
    }
   },
   {
@@ -2037,7 +1771,7 @@
    "url": "https://x.com/SpringFlowerse/status/2115909886525755537",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 708,
+    "impression_count": 709,
     "like_count": 54,
     "quote_count": 0,
     "reply_count": 1,
@@ -2049,7 +1783,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~43 vistas/h, autor 155 seguidores, replies: 1"
+    "reason": "17 h, ~40 vistas/h, autor 156 seguidores, replies: 1"
    }
   },
   {
@@ -2062,7 +1796,7 @@
    "url": "https://x.com/BigCheds/status/2115909193727386042",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 19731,
+    "impression_count": 19846,
     "like_count": 191,
     "quote_count": 0,
     "reply_count": 16,
@@ -2074,7 +1808,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~1.2K vistas/h, autor 375.6K seguidores, replies: 16"
+    "reason": "17 h, ~1.1K vistas/h, autor 375.6K seguidores, replies: 16"
    }
   },
   {
@@ -2087,8 +1821,8 @@
    "url": "https://x.com/QuintenFrancois/status/2115908639378850248",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 12443,
-    "like_count": 194,
+    "impression_count": 12519,
+    "like_count": 196,
     "quote_count": 1,
     "reply_count": 3,
     "repost_count": 16
@@ -2099,7 +1833,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "16 h, ~765 vistas/h, autor 219.5K seguidores, replies: 3"
+    "reason": "17 h, ~718 vistas/h, autor 219.6K seguidores, replies: 3"
    }
   },
   {
@@ -2112,11 +1846,11 @@
    "url": "https://x.com/Stefan_B_Trades/status/2115908325531349105",
    "m": {
     "bookmark_count": 13,
-    "impression_count": 15623,
+    "impression_count": 15842,
     "like_count": 140,
     "quote_count": 0,
     "reply_count": 9,
-    "repost_count": 5
+    "repost_count": 6
    },
    "reply_en": "",
    "in_niche": false,
@@ -2124,7 +1858,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~960 vistas/h, autor 36.6K seguidores, replies: 9"
+    "reason": "17 h, ~908 vistas/h, autor 36.6K seguidores, replies: 9"
    }
   },
   {
@@ -2137,11 +1871,11 @@
    "url": "https://x.com/BitcoinArchive/status/2115905936632188940",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 33185,
-    "like_count": 227,
-    "quote_count": 1,
+    "impression_count": 33570,
+    "like_count": 230,
+    "quote_count": 2,
     "reply_count": 42,
-    "repost_count": 29
+    "repost_count": 30
    },
    "reply_en": "",
    "in_niche": false,
@@ -2149,7 +1883,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~2.0K vistas/h, autor 1798.7K seguidores, replies: 42"
+    "reason": "18 h, ~1.9K vistas/h, autor 1798.7K seguidores, replies: 42"
    }
   },
   {
@@ -2162,7 +1896,7 @@
    "url": "https://x.com/adrikinez/status/2115901359509979396",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 633,
+    "impression_count": 637,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -2174,7 +1908,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~37 vistas/h, autor 1.5K seguidores, replies: 0"
+    "reason": "18 h, ~35 vistas/h, autor 1.5K seguidores, replies: 0"
    }
   },
   {
@@ -2187,11 +1921,11 @@
    "url": "https://x.com/pete_rizzo_/status/2115899836780495278",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 14668,
-    "like_count": 398,
+    "impression_count": 15105,
+    "like_count": 429,
     "quote_count": 1,
-    "reply_count": 19,
-    "repost_count": 45
+    "reply_count": 20,
+    "repost_count": 46
    },
    "reply_en": "",
    "in_niche": false,
@@ -2199,7 +1933,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "17 h, ~871 vistas/h, autor 223.0K seguidores, replies: 19"
+    "reason": "18 h, ~839 vistas/h, autor 223.1K seguidores, replies: 20"
    }
   },
   {
@@ -2212,7 +1946,7 @@
    "url": "https://x.com/Allurlol/status/2115898753697677795",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 162,
+    "impression_count": 163,
     "like_count": 7,
     "quote_count": 0,
     "reply_count": 1,
@@ -2223,8 +1957,8 @@
    "skip_reason": "Post corto con lenguaje vulgar y sin idea concreta.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~9 vistas/h, autor 451 seguidores, replies: 1"
+    "score": -1,
+    "reason": "18 h, ~9 vistas/h, autor 451 seguidores, replies: 1"
    }
   },
   {
@@ -2237,7 +1971,7 @@
    "url": "https://x.com/ZY724/status/2115886755706720308",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 320,
+    "impression_count": 321,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
@@ -2248,35 +1982,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "18 h, ~18 vistas/h, autor 218 seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2115883687179178479",
-   "author": "Documenting ₿itcoin 📄",
-   "username": "DocumentingBTC",
-   "text": "How Bitcoin can survive with no Internet https://t.co/MzyD5MWduu",
-   "created_at": "2026-10-29T19:09:16.000Z",
-   "lang": "en",
-   "url": "https://x.com/DocumentingBTC/status/2115883687179178479",
-   "m": {
-    "bookmark_count": 739,
-    "impression_count": 58865,
-    "like_count": 1228,
-    "quote_count": 27,
-    "reply_count": 54,
-    "repost_count": 331
-   },
-   "reply_en": "Satellite, mesh and radio links have all carried Bitcoin data, and signing offline was always possible. What would you rely on first if the internet went down? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "18 h, ~3.3K vistas/h, autor 1123.0K seguidores, replies: 54"
+    "score": -1,
+    "reason": "19 h, ~17 vistas/h, autor 218 seguidores, replies: 1"
    }
   },
   {
@@ -2289,10 +1996,10 @@
    "url": "https://x.com/BayardXBT/status/2115877733418840382",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 3060,
+    "impression_count": 3097,
     "like_count": 22,
     "quote_count": 1,
-    "reply_count": 4,
+    "reply_count": 5,
     "repost_count": 1
    },
    "reply_en": "",
@@ -2301,7 +2008,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "18 h, ~167 vistas/h, autor 16.5K seguidores, replies: 4"
+    "reason": "19 h, ~159 vistas/h, autor 16.5K seguidores, replies: 5"
    }
   },
   {
@@ -2314,7 +2021,7 @@
    "url": "https://x.com/Quantview_trade/status/2115877407320109189",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 9,
+    "impression_count": 10,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -2326,7 +2033,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "18 h, ~0 vistas/h, autor 386 seguidores, replies: 0"
+    "reason": "19 h, ~0 vistas/h, autor 388 seguidores, replies: 0"
    }
   },
   {
@@ -2339,7 +2046,7 @@
    "url": "https://x.com/TimeFreedomROB/status/2115876278364782808",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 3679,
+    "impression_count": 3711,
     "like_count": 76,
     "quote_count": 0,
     "reply_count": 5,
@@ -2351,7 +2058,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "18 h, ~200 vistas/h, autor 10.1K seguidores, replies: 5"
+    "reason": "20 h, ~189 vistas/h, autor 10.1K seguidores, replies: 5"
    }
   },
   {
@@ -2364,7 +2071,7 @@
    "url": "https://x.com/Mete74009571011/status/2115872089957601304",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 99,
+    "impression_count": 103,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -2376,7 +2083,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "19 h, ~5 vistas/h, autor 54 seguidores, replies: 1"
+    "reason": "20 h, ~5 vistas/h, autor 55 seguidores, replies: 1"
    }
   },
   {
@@ -2389,11 +2096,11 @@
    "url": "https://x.com/LP_NXT/status/2115866731118023012",
    "m": {
     "bookmark_count": 57,
-    "impression_count": 15825,
-    "like_count": 219,
+    "impression_count": 16049,
+    "like_count": 221,
     "quote_count": 2,
     "reply_count": 15,
-    "repost_count": 18
+    "repost_count": 19
    },
    "reply_en": "",
    "in_niche": false,
@@ -2401,7 +2108,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "19 h, ~832 vistas/h, autor 18.8K seguidores, replies: 15"
+    "reason": "20 h, ~794 vistas/h, autor 18.8K seguidores, replies: 15"
    }
   },
   {
@@ -2414,7 +2121,7 @@
    "url": "https://x.com/mooncakexbt/status/2115852579897020918",
    "m": {
     "bookmark_count": 12,
-    "impression_count": 10788,
+    "impression_count": 10861,
     "like_count": 81,
     "quote_count": 1,
     "reply_count": 7,
@@ -2426,7 +2133,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "20 h, ~540 vistas/h, autor 15.0K seguidores, replies: 7"
+    "reason": "21 h, ~514 vistas/h, autor 15.0K seguidores, replies: 7"
    }
   },
   {
@@ -2439,8 +2146,8 @@
    "url": "https://x.com/BTC21000m/status/2115849829767319721",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 899,
-    "like_count": 155,
+    "impression_count": 901,
+    "like_count": 156,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 0
@@ -2451,7 +2158,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~44 vistas/h, autor 480 seguidores, replies: 1"
+    "reason": "21 h, ~42 vistas/h, autor 482 seguidores, replies: 1"
    }
   },
   {
@@ -2464,8 +2171,8 @@
    "url": "https://x.com/AresOnCrypto/status/2115846119976472813",
    "m": {
     "bookmark_count": 9,
-    "impression_count": 15119,
-    "like_count": 178,
+    "impression_count": 15701,
+    "like_count": 180,
     "quote_count": 1,
     "reply_count": 2,
     "repost_count": 7
@@ -2476,7 +2183,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "20 h, ~741 vistas/h, autor 16.6K seguidores, replies: 2"
+    "reason": "22 h, ~728 vistas/h, autor 16.6K seguidores, replies: 2"
    }
   },
   {
@@ -2489,7 +2196,7 @@
    "url": "https://x.com/BitcoinIsaiah/status/2115845107132059816",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 788,
+    "impression_count": 794,
     "like_count": 39,
     "quote_count": 0,
     "reply_count": 2,
@@ -2501,7 +2208,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~38 vistas/h, autor 10.0K seguidores, replies: 2"
+    "reason": "22 h, ~36 vistas/h, autor 10.0K seguidores, replies: 2"
    }
   },
   {
@@ -2514,8 +2221,8 @@
    "url": "https://x.com/fiction_finance/status/2115837384940241143",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 25346,
-    "like_count": 239,
+    "impression_count": 25479,
+    "like_count": 241,
     "quote_count": 0,
     "reply_count": 26,
     "repost_count": 18
@@ -2526,7 +2233,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "21 h, ~1.2K vistas/h, autor 598.6K seguidores, replies: 26"
+    "reason": "22 h, ~1.2K vistas/h, autor 598.6K seguidores, replies: 26"
    }
   },
   {
@@ -2539,8 +2246,8 @@
    "url": "https://x.com/traderosho/status/2115835449088573939",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 8147,
-    "like_count": 95,
+    "impression_count": 8215,
+    "like_count": 96,
     "quote_count": 0,
     "reply_count": 16,
     "repost_count": 5
@@ -2551,33 +2258,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "21 h, ~386 vistas/h, autor 14.2K seguidores, replies: 16"
-   }
-  },
-  {
-   "id": "2115833715956035972",
-   "author": "Bitcoin Magazine",
-   "username": "BitcoinMagazine",
-   "text": "JUST IN: 🇦🇪 Dubai royal family-backed Standard Asset Company unveils a $1.5 billion Bitcoin and UAE real estate strategy 👀\n\nThe firm has appointed Coinbase Asset Management as its exclusive manager for its Bitcoin holdings. 🚀 https://t.co/zNRDERjZh8",
-   "created_at": "2026-10-29T15:50:42.000Z",
-   "lang": "en",
-   "url": "https://x.com/BitcoinMagazine/status/2115833715956035972",
-   "m": {
-    "bookmark_count": 31,
-    "impression_count": 62693,
-    "like_count": 991,
-    "quote_count": 14,
-    "reply_count": 90,
-    "repost_count": 116
-   },
-   "reply_en": "Interesting that they chose a custodial manager instead of holding keys themselves. For a treasury that size, would you expect multisig they control, or full trust in the custodian?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "21 h, ~3.0K vistas/h, autor 4505.2K seguidores, replies: 90"
+    "reason": "22 h, ~369 vistas/h, autor 14.2K seguidores, replies: 16"
    }
   },
   {
@@ -2590,7 +2271,7 @@
    "url": "https://x.com/theo_crypto99/status/2115827277179347016",
    "m": {
     "bookmark_count": 17,
-    "impression_count": 18195,
+    "impression_count": 18394,
     "like_count": 172,
     "quote_count": 1,
     "reply_count": 22,
@@ -2602,7 +2283,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~841 vistas/h, autor 107.4K seguidores, replies: 22"
+    "reason": "23 h, ~806 vistas/h, autor 107.4K seguidores, replies: 22"
    }
   },
   {
@@ -2615,7 +2296,7 @@
    "url": "https://x.com/kingcobratrader/status/2115824566702571547",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 5279,
+    "impression_count": 5323,
     "like_count": 78,
     "quote_count": 0,
     "reply_count": 8,
@@ -2627,7 +2308,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~242 vistas/h, autor 10.9K seguidores, replies: 8"
+    "reason": "23 h, ~231 vistas/h, autor 10.9K seguidores, replies: 8"
    }
   },
   {
@@ -2639,8 +2320,8 @@
    "lang": "en",
    "url": "https://x.com/WhaleNoName/status/2115820965896851597",
    "m": {
-    "bookmark_count": 6,
-    "impression_count": 9837,
+    "bookmark_count": 7,
+    "impression_count": 10274,
     "like_count": 52,
     "quote_count": 0,
     "reply_count": 8,
@@ -2652,7 +2333,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "22 h, ~446 vistas/h, autor 50.9K seguidores, replies: 8"
+    "reason": "23 h, ~442 vistas/h, autor 50.9K seguidores, replies: 8"
    }
   },
   {
@@ -2665,7 +2346,7 @@
    "url": "https://x.com/Whisperer101/status/2115817940968997134",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 8491,
+    "impression_count": 8583,
     "like_count": 60,
     "quote_count": 2,
     "reply_count": 7,
@@ -2677,7 +2358,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~381 vistas/h, autor 24.5K seguidores, replies: 7"
+    "reason": "23 h, ~366 vistas/h, autor 24.5K seguidores, replies: 7"
    }
   },
   {
@@ -2689,12 +2370,12 @@
    "lang": "en",
    "url": "https://x.com/TedPillows/status/2115817430996197668",
    "m": {
-    "bookmark_count": 25,
-    "impression_count": 60127,
-    "like_count": 856,
+    "bookmark_count": 26,
+    "impression_count": 60669,
+    "like_count": 860,
     "quote_count": 4,
-    "reply_count": 114,
-    "repost_count": 45
+    "reply_count": 115,
+    "repost_count": 47
    },
    "reply_en": "",
    "in_niche": false,
@@ -2702,7 +2383,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~2.7K vistas/h, autor 322.4K seguidores, replies: 114"
+    "reason": "23 h, ~2.6K vistas/h, autor 322.4K seguidores, replies: 115"
    }
   },
   {
@@ -2715,8 +2396,8 @@
    "url": "https://x.com/laura33981/status/2115815533815992615",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 26816,
-    "like_count": 204,
+    "impression_count": 29983,
+    "like_count": 210,
     "quote_count": 0,
     "reply_count": 6,
     "repost_count": 6
@@ -2727,184 +2408,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~1.2K vistas/h, autor 600 seguidores, replies: 6"
-   }
-  },
-  {
-   "id": "2115805686885957861",
-   "author": "Cup",
-   "username": "cryptocupra",
-   "text": "$BTC IS SITTING RIGHT ON MAJOR TRENDLINE SUPPORT.\n\nFLIP THE ENTIRE BEAR MARKET STRUCTURE UPSIDE DOWN AND LOOK WHAT HAPPENS.\n\nTHE CHART POINTS TO AN EXPLOSIVE MOVE HIGHER.\n\nI’M CALLING A MASSIVE BITCOIN REVERSAL IN THE NEXT 7-10 DAYS\n\nTHE BEARS ARE ABOUT TO GET DESTROYED. https://t.co/UBHaZzjS2H",
-   "created_at": "2026-10-29T13:59:20.000Z",
-   "lang": "en",
-   "url": "https://x.com/cryptocupra/status/2115805686885957861",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 5679,
-    "like_count": 42,
-    "quote_count": 0,
-    "reply_count": 23,
-    "repost_count": 10
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Predicción o hype sin datos verificables; responder no suma y te asocia a certezas inventadas.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "23 h, ~246 vistas/h, autor 71.7K seguidores, replies: 23"
-   }
-  },
-  {
-   "id": "2115804512715719151",
-   "author": "Pat",
-   "username": "PattaTrades",
-   "text": "Keep selling https://t.co/EYz0Hf8yhG https://t.co/1722XTMpey",
-   "created_at": "2026-10-29T13:54:40.000Z",
-   "lang": "en",
-   "url": "https://x.com/PattaTrades/status/2115804512715719151",
-   "m": {
-    "bookmark_count": 95,
-    "impression_count": 57712,
-    "like_count": 337,
-    "quote_count": 1,
-    "reply_count": 4,
-    "repost_count": 33
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo imagen o meme sin texto con idea concreta que discutir.",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "23 h, ~2.5K vistas/h, autor 21.4K seguidores, replies: 4"
-   }
-  },
-  {
-   "id": "2115803977518665904",
-   "author": "Chenna Kesavan | Web3",
-   "username": "kesavantcm",
-   "text": "@Alejandro_XBT Once 84k breaks things will become beautiful and it will  happen this week",
-   "created_at": "2026-10-29T13:52:32.000Z",
-   "lang": "en",
-   "url": "https://x.com/kesavantcm/status/2115803977518665904",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 39,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~1 vistas/h, autor 5.5K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115803233956385128",
-   "author": "Dan Held",
-   "username": "danheld",
-   "text": "Bitcoin ETF company Bitwise Asset Management just updated its Bitcoin forecast for 2036:\n\nBear case: $130,686\nBase case: $1,599,766\nBull case: $3,667,911\n\nHonestly, I think this is conservative. $1.6M price target 10 years from now is my default assumption. https://t.co/fhCU5tuCVu",
-   "created_at": "2026-10-29T13:49:35.000Z",
-   "lang": "en",
-   "url": "https://x.com/danheld/status/2115803233956385128",
-   "m": {
-    "bookmark_count": 26,
-    "impression_count": 19427,
-    "like_count": 243,
-    "quote_count": 0,
-    "reply_count": 30,
-    "repost_count": 34
-   },
-   "reply_en": "The bull case is about 28x the bear case, which says more about uncertainty than about the target. Does the $130K bear case change how you size spot buys?",
-   "in_niche": true,
-   "skip_reason": "",
-   "visual": "Visual sugerido: gráfico + barras en escala log con los tres escenarios de Bitwise para 2036 (bajista $130.686, base $1.599.766, alcista $3.667.911) y el precio actual como referencia, fondo azul marino, Bitcoin en blanco, acentos lima, logo ForecastQuant como marca de agua",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "23 h, ~836 vistas/h, autor 1335.5K seguidores, replies: 30"
-   }
-  },
-  {
-   "id": "2115798589335040022",
-   "author": "Irina",
-   "username": "sunflower_sun77",
-   "text": "@Alejandro_XBT keep waiting, then watch it get stuck at 80k and go nowhere🤣👍",
-   "created_at": "2026-10-29T13:31:07.000Z",
-   "lang": "en",
-   "url": "https://x.com/sunflower_sun77/status/2115798589335040022",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 45,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~1 vistas/h, autor 1.8K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2115794425859522591",
-   "author": "Bitcoin Analyst",
-   "username": "Bitcoin_World20",
-   "text": "I think we're done with the first LTF bounce. Price should now start pushing down towards the $78k area.\n\nAnother LTF bounce from $78k to around $80k is still possible before price heads towards our main POI.\n\n#BTC #Bitcoin #Crypto https://t.co/MWDpVkMZgl https://t.co/ZF6rHjn2QK",
-   "created_at": "2026-10-29T13:14:35.000Z",
-   "lang": "en",
-   "url": "https://x.com/Bitcoin_World20/status/2115794425859522591",
-   "m": {
-    "bookmark_count": 6,
-    "impression_count": 9555,
-    "like_count": 29,
-    "quote_count": 1,
-    "reply_count": 1,
-    "repost_count": 3
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Lectura de corto plazo sin idea concreta que discutir.",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "24 h, ~401 vistas/h, autor 11.9K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2115794267385757771",
-   "author": "CryptoReviewing",
-   "username": "CryptoReviewing",
-   "text": "Holy sh*t. This manipulation is crazy.\n\nYesterday, $BTC pumped from $79,400 to $81,700 liquidating $240M!\n\nThen today, $BTC immediately dumped back below $79,600 liquidating another $330M!!!\n\nAnd now, $81,500 - $84,000 above has sizable liquidity that could be swept next. https://t.co/Zy5SObNhrI",
-   "created_at": "2026-10-29T13:13:57.000Z",
-   "lang": "en",
-   "url": "https://x.com/CryptoReviewing/status/2115794267385757771",
-   "m": {
-    "bookmark_count": 11,
-    "impression_count": 46809,
-    "like_count": 200,
-    "quote_count": 1,
-    "reply_count": 10,
-    "repost_count": 11
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Gira en torno a shorts, longs apalancados o liquidaciones; fuera de tu enfoque spot sin apalancamiento.",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "24 h, ~2.0K vistas/h, autor 94.8K seguidores, replies: 10"
+    "reason": "24 h, ~1.3K vistas/h, autor 601 seguidores, replies: 6"
    }
   }
  ]
