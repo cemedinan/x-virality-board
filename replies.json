@@ -1,31 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-30T10:52:00-03:00"
+    "updated_at": "2026-10-30T11:25:00-03:00"
   },
-  "replies": [
-    {
-      "id": "2116165834234061153",
-      "date": "2026-10-30T10:50:25-03:00",
-      "handle": "polyscripts",
-      "post_url": "https://x.com/polyscripts/status/2116165834234061153",
-      "user_post": "Binance got hacked.\nBitcoin dipped.\nLeveraged longs: \"this is fine.\"\nThe liquidation engine: \"sure, buddy.\"\nHow many \"this is fine\" accounts are on your timeline? 🔥",
-      "reply": "@ForecastQuant Leverage turns a bad day into a disaster. Risk management matters more than confidence when the market starts moving.",
-      "draft": "Agreed. Confidence doesn't set your liquidation price, leverage does. At 10x, a move of less than 10% against you can wipe the position, and today BTC dropped 6.8% in 10 hours.\n\nDo you size leverage by how far price can move, or by how sure you feel?",
-      "draft_alt": "Confidence doesn't set the liquidation price, leverage does. What's the max leverage you'd call sane in a week like this?",
-      "status": "Esperando tu ok",
-      "new": true
-    },
-    {
-      "id": "2116165128169152967",
-      "date": "2026-10-30T10:47:37-03:00",
-      "handle": "polyscripts",
-      "post_url": "https://x.com/polyscripts/status/2116165128169152967",
-      "user_post": "$BTC today.\n\n• High: $81,879\n• Low: $76,325\n• Drop: −6.8% in 10 hours\n• Last: $77,341\n\nThe trigger: news of the Binance hack.\n\nWhat made it worse: leveraged longs getting force-closed one after another. Every liquidation is a market sell, and each sell pushes the price into the next batch of liquidations.\n\nFor spot holders with no debt, this was noise.\nMy view remains bullish.\n\nWhere were you when it dropped?",
-      "reply": "@ForecastQuant Leverage makes market crashes worse. Staying bullish is one thing, but managing risk during volatility is what really matters.",
-      "draft": "Right. Bullish is a view, risk management is a plan.\n\nSame −6.8% move: noise for spot with no debt, liquidation for a long at 15x.\n\nWhat's your main rule when volatility hits: position size, stops, or no leverage at all?",
-      "draft_alt": "Being bullish doesn't protect you from a liquidation. Position size does. How do you size when the market gets this fast?",
-      "status": "Esperando tu ok",
-      "new": true
-    }
-  ]
+  "replies": []
 }
