@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-10-29T21:25:00-03:00"
+    "updated_at": "2026-10-30T09:47:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2116147817328586850",
+      "date": "2026-10-30T09:38:50-03:00",
+      "handle": "polyscripts",
+      "post_url": "https://x.com/polyscripts/status/2116147817328586850",
+      "user_post": "🚨 Don't bet against $BTC volatility & Self-custody your Bitcoins\n\nHow a chain liquidation works, step by step:\n\n1. A headline hits (today: the Binance hack) and price drops\n2. The most leveraged longs lose their margin\n3. The exchange closes them with market sells, at any price",
+      "reply": "@ForecastQuant Leverage can turn a price drop into a much bigger crash. Holding spot removes liquidation risk, but not market risk.",
+      "draft": "Exactly. And there's a third layer: spot held on an exchange still carries counterparty risk. Today's Binance hack is the reminder.\n\nSpot removes liquidation risk. Self-custody removes custody risk. Market risk is the one you accept on purpose.\n\nWhich one do you think people underestimate most?",
+      "draft_alt": "Agreed. Spot kills liquidation risk, self-custody kills counterparty risk. Market risk is the only one left, and that one you choose.",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
