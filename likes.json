@@ -4,8 +4,8 @@
   "window_hours": 24,
   "likes_scanned": 200,
   "listed": 119,
-  "in_niche": 7,
-  "not_recommended": 112,
+  "in_niche": 22,
+  "not_recommended": 97,
   "new_since_prev": 25,
   "removed_replied": 0,
   "removed_old": 0
@@ -105,14 +105,16 @@
     "reply_count": 55,
     "repost_count": 44
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Comentario conspirativo sobre el hackeo a Binance; no hay dato verificable que aportar.",
+   "reply_en": "Fair to ask questions until there's a full post-mortem. Either way, it's a reminder that coins on an exchange aren't really yours. My notes on self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 3,
     "reason": "3 h, ~19.9K vistas/h, autor 80.0K seguidores, replies: 55"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115947983351218367",
@@ -357,14 +359,16 @@
     "reply_count": 324,
     "repost_count": 491
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Comentario cínico o conspirativo sobre Binance; no hay dato que aportar.",
+   "reply_en": "No proof of that, but the incentive problem is real when your coins sit on their books. Self-custody removes that question. My take: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 3,
     "reason": "4 h, ~46.2K vistas/h, autor 241.3K seguidores, replies: 324"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115929049348309112",
@@ -382,14 +386,16 @@
     "reply_count": 380,
     "repost_count": 991
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Noticia del hackeo a Binance sin ángulo propio que aportar; ya hay muchas respuestas y se repetiría lo mismo.",
+   "reply_en": "If that's accurate, freezes only cover part of the risk. The simpler fix is not leaving coins on exchanges. My notes on self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "medio",
     "score": 2,
     "reason": "4 h, ~262.7K vistas/h, autor 19.5K seguidores, replies: 380"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115920822087098401",
@@ -432,14 +438,16 @@
     "reply_count": 30,
     "repost_count": 12
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Objetivo correctivo de corto plazo sin detalle; poco que aportar.",
+   "reply_en": "Hacks tend to accelerate moves that were already in play. I'd watch whether that second target holds before adding.",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 4,
     "reason": "5 h, ~3.9K vistas/h, autor 110.3K seguidores, replies: 30"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": false
   },
   {
    "id": "2115917864334942538",
@@ -482,14 +490,16 @@
     "reply_count": 30,
     "repost_count": 54
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Noticia del hackeo a Binance sin ángulo propio que aportar; ya hay muchas respuestas y se repetiría lo mismo.",
+   "reply_en": "Until the full details are out, I'd treat 'funds are safe' as a statement, not a guarantee. Self-custody is the only version you control. More here: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 4,
     "reason": "5 h, ~12.5K vistas/h, autor 223.0K seguidores, replies: 30"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115915968077828370",
@@ -507,15 +517,16 @@
     "repost_count": 6
    },
    "url": "https://x.com/LeonWgmii/status/2115915968077828370",
-   "reply_en": "",
-   "reply_lang": null,
-   "in_niche": false,
-   "skip_reason": "Noticia sin confirmar sobre Binance; mejor esperar datos.",
+   "reply_en": "Worth waiting for confirmation, but outflows like this are why I keep spot BTC off exchanges. My notes: https://x.com/forecastquant/status/2116083014815924397",
+   "reply_lang": "en",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "medio",
     "score": 2,
     "reason": "5 h, ~715 vistas/h, autor 22.1K seguidores, replies: 27"
-   }
+   },
+   "with_link": true
   },
   {
    "id": "2115915310456852482",
@@ -533,15 +544,16 @@
     "repost_count": 100
    },
    "url": "https://x.com/cryptorover/status/2115915310456852482",
-   "reply_en": "",
-   "reply_lang": null,
-   "in_niche": false,
-   "skip_reason": "Noticia sin confirmar sobre un posible hack; arriesgado opinar sin datos firmes.",
+   "reply_en": "Still unconfirmed, so I'd wait for details. Either way, a good moment to check where your coins actually sit. My notes on self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "reply_lang": "en",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 3,
     "reason": "5 h, ~16.8K vistas/h, autor 1620.0K seguidores, replies: 96"
-   }
+   },
+   "with_link": true
   },
   {
    "id": "2115915298549416417",
@@ -584,15 +596,16 @@
     "repost_count": 8
    },
    "url": "https://x.com/juanbiter/status/2115915250130464898",
-   "reply_en": "",
-   "reply_lang": null,
-   "in_niche": false,
-   "skip_reason": "Noticia sin confirmar sobre Binance; mejor no comentar hasta que haya comunicado oficial.",
+   "reply_en": "Mientras no haya comunicado oficial, mejor no asumir nada. Pero es buen recordatorio de no dejar BTC en exchanges. Mis notas sobre autocustodia: https://x.com/forecastquant/status/2116083014815924397",
+   "reply_lang": "es",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 4,
     "reason": "5 h, ~1.9K vistas/h, autor 132.8K seguidores, replies: 10"
-   }
+   },
+   "with_link": true
   },
   {
    "id": "2115914578995679581",
@@ -635,14 +648,16 @@
     "reply_count": 12,
     "repost_count": 2
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Noticia del hackeo a Binance sin ángulo propio que aportar; ya hay muchas respuestas y se repetiría lo mismo.",
+   "reply_en": "Hard to know yet what happened. What's clear is exchange risk is real. If you hold spot BTC, this is a good time to review custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 3,
     "reason": "5 h, ~742 vistas/h, autor 223.1K seguidores, replies: 12"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115913858263269404",
@@ -660,15 +675,16 @@
     "repost_count": 19
    },
    "url": "https://x.com/CryptoMichNL/status/2115913858263269404",
-   "reply_en": "",
-   "reply_lang": null,
-   "in_niche": false,
-   "skip_reason": "Tema de seguridad/hack, no de estrategia spot.",
+   "reply_en": "Recoveries help, but they're not guaranteed and stablecoin freezes don't cover BTC. Holding your own keys avoids the question. My notes: https://x.com/forecastquant/status/2116083014815924397",
+   "reply_lang": "en",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 4,
     "reason": "5 h, ~7.2K vistas/h, autor 822.6K seguidores, replies: 14"
-   }
+   },
+   "with_link": true
   },
   {
    "id": "2115913465340494206",
@@ -761,14 +777,16 @@
     "reply_count": 37,
     "repost_count": 23
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Autopromoción de una predicción; responder no suma.",
+   "reply_en": "Charts often lead the headline. Still, the hack angle is a fair reminder to keep spot holdings in self-custody.",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 4,
     "reason": "5 h, ~8.0K vistas/h, autor 127.8K seguidores, replies: 37"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": false
   },
   {
    "id": "2115911662695743716",
@@ -1014,14 +1032,16 @@
     "reply_count": 283,
     "repost_count": 275
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Noticia del hackeo a Binance sin ángulo propio que aportar; ya hay muchas respuestas y se repetiría lo mismo.",
+   "reply_en": "If this is confirmed, it's another reminder that exchange balances carry counterparty risk. My notes on self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 3,
     "reason": "6 h, ~107.0K vistas/h, autor 198.5K seguidores, replies: 283"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115905936632188940",
@@ -1139,14 +1159,16 @@
     "reply_count": 4,
     "repost_count": 7
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Tema de seguridad del código e IA, fuera de tu nicho de compra y venta spot.",
+   "reply_en": "Good to see, though the weakest link is usually the user's setup, not the protocol. Notes on keeping keys safe: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 5,
     "reason": "6 h, ~2.5K vistas/h, autor 1335.6K seguidores, replies: 4"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115886755706720308",
@@ -1215,15 +1237,16 @@
     "repost_count": 262
    },
    "url": "https://x.com/cz_binance/status/2115880474375749834",
-   "reply_en": "",
-   "reply_lang": null,
-   "in_niche": false,
-   "skip_reason": "Tema de seguridad de un exchange, no de estrategia spot.",
+   "reply_en": "Front-end injection is a nasty one. Verifying the address on a hardware wallet screen before signing is the best defense. More here: https://x.com/forecastquant/status/2116083014815924397",
+   "reply_lang": "en",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "alto",
     "score": 3,
     "reason": "7 h, ~121.7K vistas/h, autor 12964.0K seguidores, replies: 530"
-   }
+   },
+   "with_link": true
   },
   {
    "id": "2115877733418840382",
@@ -2070,14 +2093,16 @@
     "reply_count": 330,
     "repost_count": 2709
    },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Noticia de hackeos a bancos con tono alarmista; fuera de tu nicho de BTC spot.",
+   "reply_en": "Hard to say how big this gets, but bank and exchange breaches are a good argument for holding your own keys. My notes: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
    "momentum": {
     "level": "medio",
     "score": 2,
     "reason": "17 h, ~96.6K vistas/h, autor 239.7K seguidores, replies: 330"
-   }
+   },
+   "reply_lang": "en",
+   "with_link": true
   },
   {
    "id": "2115737481798619203",
