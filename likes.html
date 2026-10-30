@@ -42,7 +42,13 @@ main{max-width:860px;margin:0 auto;padding:14px 18px 60px}
 .acts a.xb{color:var(--fg);font-weight:bold;border:1px solid var(--fg);padding:1px 8px}
 .xbw{display:inline-flex;flex-direction:column;gap:2px}.xn{font-size:11px;color:var(--fg2)}
 @media(max-width:560px){body{font-size:14px}.title{font-size:18px}.bar{padding:12px}main{padding:10px 12px 48px}.tools{gap:12px}.hide-sm{display:none}}
+.card{position:relative;touch-action:pan-y;will-change:transform}.card.dis{display:none!important}
+.dbtn{color:var(--fg2)!important}
+#toast{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);background:var(--bg);color:var(--fg);border:1px solid var(--fg2);padding:8px 14px;z-index:20;display:none;font-size:13px;max-width:92vw}
+#toast button{color:var(--acc);margin-left:12px}
+#dislist{margin:18px 0;color:var(--fg2);font-size:13px}#dislist summary{cursor:pointer;color:var(--acc)}#dislist li{margin:4px 0}#dislist button{color:var(--acc);margin-left:8px}
 </style>
+<script>(function(){try{var a=JSON.parse(localStorage.getItem("lk_dismissed_v1")||"[]");if(a.length){var e=function(x){return window.CSS&&CSS.escape?CSS.escape(x):String(x).replace(/["\\]/g,"\\$&")};var st=document.createElement("style");st.id="predis";st.textContent=a.map(function(i){return '.card[data-id="'+e(String(i))+'"]'}).join(",")+"{display:none!important}";document.head.appendChild(st)}}catch(_){}})();</script>
 </head>
 <body>
 <header class="bar">
@@ -59,8 +65,10 @@ main{max-width:860px;margin:0 auto;padding:14px 18px 60px}
   <p class="sys" id="summary"></p>
   <nav class="nav"><button type="button" data-f="niche">#en_tu_nicho</button><button type="button" data-f="all">#todos</button><button type="button" data-f="skip">#no_recomendado</button><a href="./index.html">← board principal</a></nav>
   <section id="likes"></section>
+  <details id="dislist"><summary>descartadas (<span id="dn">0</span>)</summary><ul id="dul"></ul><button type="button" id="dall">[Restaurar todas]</button></details>
   <p class="sys" id="limits" style="margin-top:24px"></p>
   <span id="xvs-refresh-note" hidden></span>
+  <div id="toast"><span id="tmsg">Post descartado</span><button type="button" id="tundo">Deshacer</button></div>
 </main>
 <script>
 function pid(p){const m=/\/status\/(\d+)/.exec(p.url||'');return m?m[1]:String(p.id)}
@@ -68,6 +76,32 @@ function xIntent(p){return 'https://x.com/intent/post?text='+encodeURIComponent(
 function xdeep(h){var u=new URL(h);var t=u.searchParams.get("text")||"";var d="twitter://post?message="+encodeURIComponent(t);var r=u.searchParams.get("in_reply_to");if(r)d+="&in_reply_to_status_id="+r;return d}
 document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.xb");if(!a)return;var ios=/iPhone|iPad|iPod/.test(navigator.userAgent)||(navigator.platform=="MacIntel"&&navigator.maxTouchPoints>1);if(!ios)return;e.preventDefault();var w=a.href,tm;function cl(){if(document.hidden){clearTimeout(tm);document.removeEventListener("visibilitychange",cl)}}document.addEventListener("visibilitychange",cl);tm=setTimeout(function(){document.removeEventListener("visibilitychange",cl);if(!document.hidden)location.href=w},1500);location.href=xdeep(w)});
 
+
+const DK='lk_dismissed_v1';let DIS=[],lastD=null,tT;
+try{DIS=JSON.parse(localStorage.getItem(DK)||'[]').map(String)}catch(e){DIS=[]}
+function dsave(){try{localStorage.setItem(DK,JSON.stringify(DIS))}catch(e){}}
+function dapply(){const set=new Set(DIS);document.querySelectorAll('.card').forEach(c=>{const d=set.has(c.dataset.id);c.classList.toggle('dis',d);if(!d){c.style.transform='';c.style.opacity='';c.style.boxShadow='';c.style.transition=''}});
+document.getElementById('dn').textContent=DIS.length;
+const byId={};(D&&D.posts||[]).forEach(p=>byId[pid(p)]=p);
+document.getElementById('dul').innerHTML=DIS.map(i=>{const p=byId[i];return`<li>${p?'@'+esc(p.username)+' · '+esc([...p.text].slice(0,60).join('')):esc(i)}<button type="button" data-res="${esc(i)}">[Restaurar]</button></li>`}).join('');
+document.getElementById('dall').style.display=DIS.length?'':'none';
+if(D){const cut=Date.now()-864e5;const v=D.posts.filter(p=>Date.parse(p.created_at)>=cut&&!set.has(pid(p)));const n=v.filter(p=>p.in_niche).length;document.getElementById('summary').textContent=`* ${v.length} pendientes · ${n} en tu nicho · ${v.length-n} no recomendado${DIS.length?' · '+DIS.length+' descartadas':''} *`;}}
+function toast(){const t=document.getElementById('toast');t.style.display='block';clearTimeout(tT);tT=setTimeout(()=>t.style.display='none',6000)}
+function dis(c){const id=c.dataset.id;if(!DIS.includes(id))DIS.push(id);dsave();lastD=id;dapply();toast()}
+function restore(id){DIS=DIS.filter(x=>x!==id);dsave();dapply()}
+document.getElementById('tundo').addEventListener('click',()=>{if(lastD)restore(lastD);lastD=null;document.getElementById('toast').style.display='none'});
+document.getElementById('dall').addEventListener('click',()=>{DIS=[];dsave();dapply()});
+document.addEventListener('click',e=>{const r=e.target.closest&&e.target.closest('[data-res]');if(r){restore(r.dataset.res);return}const b=e.target.closest&&e.target.closest('[data-dis]');if(b){const c=b.closest('.card');if(c)dis(c)}});
+function sw(c){if(c._swi)return;c._swi=1;let x0=0,y0=0,on=false,lock=0,dx=0;
+c.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse'&&e.button!==0)return;if(e.target.closest('button,a,pre,textarea,input'))return;x0=e.clientX;y0=e.clientY;on=true;lock=0;dx=0;c._sw=false});
+c.addEventListener('pointermove',e=>{if(!on)return;const mx=e.clientX-x0,my=e.clientY-y0;if(!lock){if(Math.abs(mx)<8&&Math.abs(my)<8)return;lock=Math.abs(mx)>Math.abs(my)*1.5?1:2;if(lock===1){c._sw=true;try{c.setPointerCapture(e.pointerId)}catch(_){}c.style.transition='none'}}
+if(lock!==1)return;e.preventDefault();dx=Math.min(0,mx);c.style.transform=`translateX(${dx}px)`;c.style.opacity=Math.max(.25,1+dx/400);c.style.boxShadow=`inset -6px 0 0 ${dx<-90?'#ff6b6b':'lime'}`});
+const end=()=>{if(!on)return;on=false;c.style.transition='transform .2s,opacity .2s';if(lock===1&&dx<-90){c.style.transform='translateX(-120%)';c.style.opacity='0';setTimeout(()=>dis(c),200)}else{c.style.transform='';c.style.opacity='';c.style.boxShadow=''}if(lock===1)setTimeout(()=>{c._sw=false},0);lock=0};
+c.addEventListener('pointerup',end);c.addEventListener('pointercancel',end);
+c.addEventListener('click',e=>{if(c._sw){e.preventDefault();e.stopPropagation();c._sw=false}},true);
+c.addEventListener('dragstart',e=>{if(on)e.preventDefault()})}
+function afterRender(){document.querySelectorAll('.card').forEach(sw);dapply()}
+document.addEventListener('DOMContentLoaded',()=>{const p=document.getElementById('predis');if(p)p.remove();dapply()});
 function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
 function fmt(n){n=Number(n)||0;return n>=1e6?(n/1e6).toFixed(1)+'M':n>=1e3?(n/1e3).toFixed(1)+'K':String(n)}
 const tz={timeZone:'America/Santiago'};
@@ -80,8 +114,8 @@ const rep=p.in_niche?`<div class="reply"><div class="lbl">reply/en</div><pre id=
 const mo=p.momentum?`<div class="mo ${esc(p.momentum.level)}">[momentum <b>${esc(p.momentum.level)}</b>] ${esc(p.momentum.reason)}</div>`:'';
 const vis=(p.in_niche&&p.visual)?`<div class="vis">Visual sugerido: ${esc(p.visual)}</div>`:'';
 const cp=(p.in_niche&&p.reply_en)?`<span class="xbw"><a class="xb" href="${esc(xIntent(p))}" target="_blank" rel="noopener">Responder en X</a>${[...p.reply_en].length>280?`<span class="xn">más de 280 caracteres (${[...p.reply_en].length})</span>`:''}</span>`:'';
-return`<article class="post${p.in_niche?'':' nr'}"><div class="meta"><span class="who">${esc(p.author)}</span> <span class="who"><span class="h">@${esc(p.username)}</span></span> · ${esc(d)}</div><div class="meta">${fmt(m.impression_count)} views · ♥ ${fmt(m.like_count)} · ↻ ${fmt(m.repost_count)} · ↩ ${fmt(m.reply_count)}</div>${mo}<div class="text">${esc(p.text)}</div>${rep}${vis}<div class="acts">${cp}<a href="${esc(p.url)}" target="_blank" rel="noopener">[abrir post ↗]</a></div></article>`}).join(''):(D.posts.some(p=>Date.parse(p.created_at)>=cut)?'<p class="sys">* nada en este filtro *</p>':'<p class="sys">* no hay posts pendientes por ahora · se actualiza a las 07:00, 11:00, 16:00 y 20:00 (Chile) *</p>');
-document.querySelectorAll('[data-f]').forEach(b=>b.classList.toggle('on',b.dataset.f===F));}
+return`<article class="post card${p.in_niche?'':' nr'}" data-id="${esc(pid(p))}"><div class="meta"><span class="who">${esc(p.author)}</span> <span class="who"><span class="h">@${esc(p.username)}</span></span> · ${esc(d)}</div><div class="meta">${fmt(m.impression_count)} views · ♥ ${fmt(m.like_count)} · ↻ ${fmt(m.repost_count)} · ↩ ${fmt(m.reply_count)}</div>${mo}<div class="text">${esc(p.text)}</div>${rep}${vis}<div class="acts">${cp}<a href="${esc(p.url)}" target="_blank" rel="noopener">[abrir post ↗]</a><button type="button" class="dbtn" data-dis="${esc(pid(p))}">[descartar]</button></div></article>`}).join(''):(D.posts.some(p=>Date.parse(p.created_at)>=cut)?'<p class="sys">* nada en este filtro *</p>':'<p class="sys">* no hay posts pendientes por ahora · se actualiza a las 07:00, 11:00, 16:00 y 20:00 (Chile) *</p>');
+document.querySelectorAll('[data-f]').forEach(b=>b.classList.toggle('on',b.dataset.f===F));afterRender();}
 (async()=>{const r=await fetch('./likes.json?ts='+Date.now());D=await r.json();const M=D.meta;const up=new Date(M.generated_at).toLocaleString('es-CL',tz);
 document.getElementById('meta').textContent=`* última actualización: ${up} (Chile) *`;
 {const cut=Date.now()-864e5;const v=D.posts.filter(p=>Date.parse(p.created_at)>=cut);const n=v.filter(p=>p.in_niche).length;document.getElementById('summary').textContent=`* ${v.length} pendientes · ${n} en tu nicho · ${v.length-n} no recomendado *`;}
