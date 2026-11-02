@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-02T07:10:12-03:00",
+  "generated_at": "2026-11-02T08:08:31-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
   "listed": 0,
@@ -8,7 +8,7 @@
   "not_recommended": 0,
   "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 96
+  "removed_old": 0
  },
  "posts": []
 }
