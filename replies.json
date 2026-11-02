@@ -1,6 +1,19 @@
 {
   "meta": {
-    "updated_at": "2026-11-02T07:38:00-03:00"
+    "updated_at": "2026-11-02T12:27:00-03:00"
   },
-  "replies": []
+  "replies": [
+    {
+      "id": "2117276161583563215",
+      "date": "2026-11-02T12:22:28-03:00",
+      "handle": "Alaretos",
+      "post_url": "https://x.com/Alaretos/status/2117276161583563215",
+      "user_post": "Nobody \"hacks\" your seed phrase. You just get asked for it nicely.\nNo real company needs your 12 or 24 words. Not support, not \"security\".\nWho's the most convincing \"support agent\" that ever DMed you?\n\nSend this to the friend who just bought their first hardware wallet.",
+      "reply": "Simple rule, and worth repeating after this week.\n\nThe \"asking nicely\" now comes by paper mail too. Scammers have mailed letters on Ledger and Trezor letterhead with a QR code for a mandatory \"Transaction Check\" or \"Authentication Check\", and the page behind it asks for your 12 or 24 words, per BleepingComputer. Ledger says it almost never sends physical mail at all, so a letter with a QR code goes straight in the bin.\n\nThe most convincing support agent now comes with a stamp",
+      "draft": "Great add. Paper works because it feels more official than a DM.\nThe rule doesn't change with the channel: DM, email, phone or a letter with a QR code, nobody legit ever needs your 12 or 24 words.\nHas anyone here actually received one?",
+      "draft_alt": "A stamp doesn't make it legit. Anything that asks for your seed words is a scam, whatever the channel.",
+      "status": "Esperando tu ok",
+      "new": true
+    }
+  ]
 }
