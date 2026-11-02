@@ -2,388 +2,790 @@
  "title": "Daily X narrative digest \u2014 2026-11-02",
  "date": "2026-11-02",
  "timezone": "America/Santiago",
- "updated": "2026-11-02T05:45:06-03:00",
+ "updated": "2026-11-02T20:03:20-03:00",
  "brand_title": "POSTER",
  "brand_handle": "@ForecastQuant",
  "hits": [
   {
-   "handle": "@LynAldenContact",
-   "display_name": "LynAldenContact",
-   "name": "LynAldenContact",
-   "text": "Sometimes social trends gain steam, but if you're a serious person you just analyze them individually and swat them down if they're not good.\n\nI invite you to watch this chat on algos and your free will.\n\nThe interviewer was weak but the guest was great.\nhttps://t.co/6wtGMqMwIn",
-   "hook": "Sometimes social trends gain steam, but if you're a serious person you just analyze them individually and swat them down if they're not good.",
-   "url": "https://x.com/LynAldenContact/status/2117058974361026608",
-   "status_url": "https://x.com/LynAldenContact/status/2117058974361026608",
-   "created_at": "2026-11-02T00:59:27.000Z",
+   "handle": "@WatcherGuru",
+   "display_name": "WatcherGuru",
+   "name": "WatcherGuru",
+   "text": "JUST IN: \ud83c\udde7\ud83c\uddf7 Brazil's largest crypto exchange, Mercado Bitcoin, suspends deposits and withdrawals after reportedly being hacked for over $40 million.",
+   "hook": "JUST IN: \ud83c\udde7\ud83c\uddf7 Brazil's largest crypto exchange, Mercado Bitcoin, suspends deposits and withdrawals after reportedly being hacked for over $40 million.",
+   "url": "https://x.com/WatcherGuru/status/2117264941732561061",
+   "status_url": "https://x.com/WatcherGuru/status/2117264941732561061",
+   "created_at": "2026-11-02T14:37:53.000Z",
    "lang": "en",
-   "draft_en": "Narratives gain steam. Data doesn't care.\n\nMy filter for any $BTC narrative:\n- what number would prove it?\n- has it happened before?\n- what's the base rate?\n\nIf it can't answer those, it's a vibe.\n\nSave this / follow for the filter.",
-   "draft_quote_en": "Same applies to markets: every narrative should be judged on its own data, not on how loud it got.",
-   "video_tip": "Trend arrow going up, then a filter funnel with 3 questions; 7s.",
-   "reply_angle": "Bridge to markets: judge each narrative by the data that would prove it, not by its momentum.",
-   "why_chosen": "Off-lane post but its idea (judge trends individually) bridges to evaluating crypto narratives.",
-   "off_niche": true,
-   "content_unreadable": false,
-   "views": 63571,
-   "views_label": "63,571 views",
-   "highlight": true,
-   "likes": 364,
-   "replies": 19,
-   "reposts": 32,
-   "bookmarks": 313,
-   "is_new": true
-  },
-  {
-   "handle": "@DocumentingBTC",
-   "display_name": "DocumentingBTC",
-   "name": "DocumentingBTC",
-   "text": "Why Quantum Computers Can Never Break Bitcoin https://t.co/NEaqnRDMsD",
-   "hook": "Why Quantum Computers Can Never Break Bitcoin https://t.co/NEaqnRDMsD",
-   "url": "https://x.com/DocumentingBTC/status/2117017033149735405",
-   "status_url": "https://x.com/DocumentingBTC/status/2117017033149735405",
-   "created_at": "2026-11-01T22:12:47.000Z",
-   "lang": "en",
-   "draft_en": "\"Quantum can never break Bitcoin\" and \"quantum will kill Bitcoin\" are both too confident.\n\nWhat's real:\n- exposed public keys are the risk surface\n- Bitcoin can upgrade signatures\n- timing is the unknown\n\nI don't price a date nobody knows. I watch for the upgrade path.\n\nSave this / repost for the next quantum panic.",
-   "draft_quote_en": "\"Never\" is a strong word. Exposed public keys are a real surface; the question is whether the upgrade happens before the hardware does.",
-   "video_tip": "'NEVER' in big text, strike-through, replaced by 'upgrade path'; 6s.",
-   "reply_angle": "Push on 'never': exposed-pubkey coins are the real risk; ask what the migration plan and timeline look like.",
-   "why_chosen": "Strong bold title (2.2K engagements) on quantum: room for a nuanced 'never is a strong word' reply.",
+   "draft_en": "Another exchange froze withdrawals today.\n\nMercado Bitcoin, Brazil's largest, paused deposits and withdrawals after a reported $40M+ hack.\n\nSame week as Binance.\n\nThe pattern isn't the hacker. It's the pause button.\n- coins on an exchange = an IOU\n- withdrawals can stop in minutes\n- self-custody removes that risk and adds others (backups, inheritance)\n\nSave this / repost to someone who keeps everything on one exchange.",
+   "draft_quote_en": "Second exchange in a week where 'withdrawals paused' was the headline.\n\nReported loss is $40M+. The number users need: when withdrawals reopen, and whether balances are 1:1.",
+   "video_tip": "Phone screen with a 'Withdrawals suspended' banner, cut to a hardware wallet on a desk; 7s, 9:16.",
+   "reply_angle": "Ask the user-side question: when do withdrawals reopen and are balances 1:1? Check proof of reserves before repeating 'no customer losses'.",
+   "why_chosen": "Biggest reach of the day (1.2M views, 803 replies); second exchange freeze in a week, custody angle he can own.",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 56654,
-   "views_label": "56,654 views",
+   "views": 1246595,
+   "views_label": "1,246,595 views",
    "highlight": true,
-   "likes": 1101,
-   "replies": 68,
-   "reposts": 304,
-   "bookmarks": 766,
+   "likes": 12513,
+   "replies": 803,
+   "reposts": 1780,
+   "bookmarks": 818,
    "is_new": true,
+   "story": "Mercado Bitcoin hack: deposits and withdrawals halted",
+   "also": [
+    {
+     "handle": "@TheBlockCo",
+     "views": 18559,
+     "views_label": "18,559 views",
+     "url": "https://x.com/TheBlockCo/status/2117251614570688643"
+    },
+    {
+     "handle": "@BitcoinNewsCom",
+     "views": 12278,
+     "views_label": "12,278 views",
+     "url": "https://x.com/BitcoinNewsCom/status/2117262511116636331"
+    },
+    {
+     "handle": "@DefiantNews",
+     "views": 2257,
+     "views_label": "2,257 views",
+     "url": "https://x.com/DefiantNews/status/2117290639352369185"
+    }
+   ],
+   "visual_suggestion": "Visual sugerido: l\u00ednea de tiempo + exchanges que pausaron retiros esta semana (Binance, Mercado Bitcoin) con fechas, sin montos no verificados.",
    "viral": {
-    "why_it_worked": "Absolute, reassuring title on a fear topic: identity (holders want reassurance) and video format; strong share psychology.",
+    "why_it_worked": "Breaking 'JUST IN' + flag + concrete $40M figure + fear of losing access; second hack in a week amplifies panic. Share psychology: usefulness (warn friends). 803 replies, 818 bookmarks.",
     "hook_options": [
-     "Quantum won't kill Bitcoin. But 'never' is wrong too.",
-     "The quantum debate has two wrong sides.",
-     "Which coins are actually exposed to quantum? Not all of them.",
-     "Fear says 'soon'. Hype says 'never'. Both skip the upgrade."
+     {
+      "emotion": "fear",
+      "hook": "\ud83d\udea8 Second exchange in a week just froze withdrawals. Is yours next?"
+     },
+     {
+      "emotion": "shock",
+      "hook": "\ud83d\ude33 $40M+ reportedly gone and Brazil's biggest exchange hit pause. Where are your coins?"
+     },
+     {
+      "emotion": "anger",
+      "hook": "\u26a0\ufe0f 'Customers unaffected.' Then why can't they withdraw?"
+     }
     ],
-    "optimized_version": "The quantum debate has two wrong sides.\n\n'Never' ignores coins with exposed public keys.\n'Soon' ignores that Bitcoin can migrate signatures.\n\nWhat I watch instead:\n- share of coins with exposed keys (check on-chain studies)\n- progress on post-quantum proposals\n\nIs your stack in an address that has never spent?\nSave this / follow for updates.",
-    "visual_or_number": "Key number to verify: % of BTC supply in exposed-pubkey addresses (check published on-chain research); no figure until verified.",
-    "reference_url": "https://x.com/DocumentingBTC/status/2117017033149735405"
+    "optimized_version": "\ud83d\udea8 Second exchange in a week just froze withdrawals.\n\nFact: Mercado Bitcoin paused deposits and withdrawals after a reported $40M+ hack. Binance had its own days earlier.\n\nInterpretation: the risk isn't only theft. It's losing access while they sort it out.\n\nMy checklist as a $BTC spot holder:\n- what % sits on exchanges\n- can I withdraw today (tested, not assumed)\n- is my seed backup plan written down\n\nHow much of your stack could you withdraw in the next hour?\nSave this / repost to the friend who keeps it all on one app.",
+    "visual_or_number": "Key number: $40M+ reported (WatcherGuru); verify with Mercado Bitcoin's statement and on-chain tracing (Arkham/Hypernative).",
+    "reference_url": "https://x.com/WatcherGuru/status/2117264941732561061"
    }
   },
   {
-   "handle": "@APompliano",
-   "display_name": "APompliano",
-   "name": "APompliano",
-   "text": "I don't think most people realize how much money the government is going to print in the next decade.",
-   "hook": "I don't think most people realize how much money the government is going to print in the next decade.",
-   "url": "https://x.com/APompliano/status/2117053397602058425",
-   "status_url": "https://x.com/APompliano/status/2117053397602058425",
-   "created_at": "2026-11-02T00:37:17.000Z",
+   "handle": "@saylor",
+   "display_name": "saylor",
+   "name": "saylor",
+   "text": "Strategy has acquired 811 $BTC and repurchased $208M of $STRC. As of 11/1/26, we hold 849,327 BTC and $4.9B of USD Assets. $MSTR https://t.co/uWYzoJJkna",
+   "hook": "Strategy has acquired 811 $BTC and repurchased $208M of $STRC. As of 11/1/26, we hold 849,327 BTC and $4.9B of USD Assets. $MSTR https://t.co/uWYzoJJkna",
+   "url": "https://x.com/saylor/status/2117241559267836333",
+   "status_url": "https://x.com/saylor/status/2117241559267836333",
+   "created_at": "2026-11-02T13:04:58.000Z",
    "lang": "en",
-   "draft_en": "\"The government will print a lot\" is a vibe. M2 is a number.\n\nBefore you size a $BTC position on a debasement thesis:\n- check M2 growth vs. $BTC returns by cycle\n- check how long the lag was\n- check the drawdowns in between\n\nThesis without a timeline is a hope.\n\nSave this / follow for the backtest.",
-   "draft_quote_en": "Probably true. But how much, and over what lag?\n\nIf $BTC is a liquidity trade, the M2 curve should tell us when, not just if. Most people skip that part.",
-   "video_tip": "Printer meme, then M2 line vs $BTC log chart, caption 'if, not when'; 8s, 9:16.",
-   "reply_angle": "Ask for the measurable version: which money supply series, and what lag to $BTC price would confirm it? Check M2 vs BTC by cycle.",
-   "why_chosen": "One-line macro claim, 109 replies, no number: room to add what 'print' means in data.",
+   "draft_en": "Strategy now holds 849,327 $BTC after buying 811 more.\n\nThe part most people skip: they also repurchased $208M of $STRC and hold $4.9B in USD assets.\n\nThat's a balance sheet, not a stack.\n- BTC on one side\n- preferred dividends and USD reserves on the other\n\nSpot holders don't carry the second side. That's the point.\n\nSave this / follow for the treasury tracker.",
+   "draft_quote_en": "811 BTC is about 0.1% of the stack. The bigger move is $208M of STRC repurchased.\n\nHow many months of preferred dividends does $4.9B in USD assets cover? That's the number I'd watch.",
+   "video_tip": "Counter ticking up to 849,327, then split screen BTC vs $4.9B USD; 6s.",
+   "reply_angle": "Ask about the other side: $4.9B in USD assets vs yearly preferred dividends; check Strategy's filings for coverage in months.",
+   "why_chosen": "Official Strategy update with exact numbers, 438K views and 514 replies; he can add the balance-sheet angle (USD reserves vs dividends).",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 53869,
-   "views_label": "53,869 views",
+   "views": 438671,
+   "views_label": "438,671 views",
    "highlight": true,
-   "likes": 1071,
-   "replies": 109,
-   "reposts": 60,
-   "bookmarks": 25,
+   "likes": 8341,
+   "replies": 514,
+   "reposts": 907,
+   "bookmarks": 106,
    "is_new": true,
-   "visual_suggestion": "Visual sugerido: gr\u00e1fico de l\u00edneas + M2 global vs $BTC en escala log por ciclo, sin cifras inventadas (check M2 data source).",
    "viral": {
-    "why_it_worked": "Contrarian 'most people don't realize' hook, one sentence, identity/status share (I'm the one who sees it), invites everyone to agree or argue; no number so replies fill the gap.",
+    "why_it_worked": "Primary-source holder update with exact numbers (811, 849,327, $4.9B); status/identity share for holders, and 514 replies arguing dilution and risk. Format: one dense sentence plus image.",
     "hook_options": [
-     "Everyone says the printer will save $BTC. Nobody says when.",
-     "Debasement is a thesis. Lag is the trade.",
-     "I checked how $BTC behaves after money supply jumps. The timing matters more than the story.",
-     "\"They'll print\" is not a position size."
+     {
+      "emotion": "FOMO",
+      "hook": "\ud83d\udc40 849,327 $BTC in one company. Still think you're early?"
+     },
+     {
+      "emotion": "shock",
+      "hook": "\ud83d\ude33 811 $BTC bought last week. The bigger number was $208M."
+     },
+     {
+      "emotion": "fear",
+      "hook": "\u26a0\ufe0f $4.9B parked in dollars. What is Strategy protecting against?"
+     }
     ],
-    "optimized_version": "Everyone says the printer will save $BTC. Nobody says when.\n\nWhat I'd actually check:\n- global M2 growth by year\n- $BTC return in the 6-12 months after\n- max drawdown while you wait\n\nIf the lag is long, conviction without sizing gets you shaken out first.\n\nWhat lag do you use, if any?\nSave this / repost if you've been told 'just wait'.",
-    "visual_or_number": "Visual sugerido: l\u00ednea M2 global vs $BTC log por ciclo (check M2 source, e.g. central bank data); no figures until verified.",
-    "reference_url": "https://x.com/APompliano/status/2117053397602058425"
+    "optimized_version": "\ud83d\ude33 811 $BTC bought last week. The bigger number was $208M.\n\nFact (Saylor's post): Strategy holds 849,327 BTC, repurchased $208M of $STRC and keeps $4.9B in USD assets.\n\nInterpretation: the USD pile looks like a buffer for preferred dividends, so they aren't forced to sell BTC in a drawdown.\n\nThe spot-holder version of that buffer: position size and cash you won't need.\n\nWhat's your buffer if $BTC drops hard from here?\nSave this / follow for the treasury tracker.",
+    "visual_or_number": "Key numbers: 811 BTC, 849,327 BTC, $208M STRC, $4.9B USD (saylor's post); check yearly dividend obligations in Strategy filings.",
+    "reference_url": "https://x.com/saylor/status/2117241559267836333"
    }
   },
   {
    "handle": "@BitcoinArchive",
    "display_name": "BitcoinArchive",
    "name": "BitcoinArchive",
-   "text": "Binance sees $3.64B in net withdrawals in 9 hours \u2014 roughly 2.1% of total assets.\n\nExchange response: \"Market conditions are stable.\" https://t.co/2OlUnJTD5o",
-   "hook": "Binance sees $3.64B in net withdrawals in 9 hours \u2014 roughly 2.1% of total assets.",
-   "url": "https://x.com/BitcoinArchive/status/2116984412772741391",
-   "status_url": "https://x.com/BitcoinArchive/status/2116984412772741391",
-   "created_at": "2026-11-01T20:03:10.000Z",
+   "text": "Binance has covered 95% of its $3.3B hack losses and restored top-10 withdrawals\n\n\u2022 Remaining 5% consists of less liquid tokens \n\n\u2022 Sourcing final assets requires more time https://t.co/r5ra0DdcCF",
+   "hook": "Binance has covered 95% of its $3.3B hack losses and restored top-10 withdrawals",
+   "url": "https://x.com/BitcoinArchive/status/2117258139888394673",
+   "status_url": "https://x.com/BitcoinArchive/status/2117258139888394673",
+   "created_at": "2026-11-02T14:10:51.000Z",
    "lang": "en",
-   "draft_en": "$3.64B left Binance in 9 hours. Reported later: ~$6.1B net in 24h.\n\nWhat this is: people moving coins.\nWhat it isn't: proof of insolvency.\n\nWhat I'd watch:\n- does the outflow keep going after the first wave\n- do coins land in self-custody or other exchanges\n\nEither way: your keys are the only stable condition.\n\nSave this for the next exchange scare.",
-   "draft_quote_en": "2.1% of assets in 9 hours is a number. \"Market conditions are stable\" is a statement.\n\nThe useful check: did the outflow slow after day one, or keep going? That separates a scare from a run.",
-   "video_tip": "Counter ticking up to $3.64B over 9h, then 'stable?' stamp; 7s, 9:16.",
-   "reply_angle": "Separate fact from claim: outflow is data, 'stable' is a statement; ask whether day-2 flows slowed (check on-chain exchange balance).",
-   "why_chosen": "Hard number (3.64B in 9h, 2.1% of assets) plus an exchange quote: perfect for a fact vs. interpretation reply.",
+   "draft_en": "Binance says 95% of hack losses are covered.\n\nTwo numbers are floating around: $3.3B and $6.3B.\n\nBefore you relax:\n- which figure is the actual loss?\n- is 'covered' a reserve transfer or restored user balances?\n- what sits in the last 5%?\n\nCovered isn't the same as verified.\n\nSave this / repost if you hold on exchanges.",
+   "draft_quote_en": "Which number is it, $3.3B or the $6.3B most outlets report? 95% of one is not 95% of the other.",
+   "video_tip": "Two numbers flashing ($3.3B vs $6.3B) with a big question mark; 5s.",
+   "reply_angle": "Clarify the denominator: $3.3B here vs $6.3B elsewhere; check Binance's official statement before quoting 95%.",
+   "why_chosen": "253K views on a recovery claim with a number mismatch ($3.3B here vs $6.3B elsewhere): clean clarifying-question reply.",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 40820,
-   "views_label": "40,820 views",
+   "views": 253543,
+   "views_label": "253,543 views",
    "highlight": true,
-   "likes": 485,
-   "replies": 73,
-   "reposts": 51,
-   "bookmarks": 4,
+   "likes": 351,
+   "replies": 52,
+   "reposts": 30,
+   "bookmarks": 9,
    "is_new": true,
-   "story": "Binance net outflows after the $6.3B hack",
+   "story": "Binance hack recovery: 95% covered"
+  },
+  {
+   "handle": "@LynAldenContact",
+   "display_name": "LynAldenContact",
+   "name": "LynAldenContact",
+   "text": "Back when I worked in aviation, a lot of the research we did was about understanding why non-commercial pilots frequently fly into bad weather, underestimating its severity and risk, and how updated visuals on displays might signal the risk better and deter them from flying in.",
+   "hook": "Back when I worked in aviation, a lot of the research we did was about understanding why non-commercial pilots frequently fly into bad weather, underestimating its severity and risk, and how updated v",
+   "url": "https://x.com/LynAldenContact/status/2117334613085282693",
+   "status_url": "https://x.com/LynAldenContact/status/2117334613085282693",
+   "created_at": "2026-11-02T19:14:44.000Z",
+   "lang": "en",
+   "draft_en": "Pilots fly into bad weather because they underestimate it.\n\nInvestors do the same with drawdowns.\n\nWhat helps both: a better display of risk.\n- plot max drawdown, not just returns\n- mark how long you'd be under water\n- size so the worst case doesn't ground you\n\nSpot only, no leverage, and deep drawdowns still happen.\n\nSave this / follow for the drawdown charts.",
+   "draft_quote_en": "Same in markets. People look at the return chart, not the drawdown chart. A better display of the worst case probably stops more bad decisions than any warning.",
+   "video_tip": "Cockpit weather radar morphing into a $BTC drawdown chart; 8s.",
+   "reply_angle": "Ask which display change worked best in those studies, then bridge: drawdown charts as the 'weather radar' for investors.",
+   "why_chosen": "161K views; risk-underestimation research bridges directly to drawdown risk and sizing in $BTC.",
+   "off_niche": true,
+   "content_unreadable": false,
+   "views": 161779,
+   "views_label": "161,779 views",
+   "highlight": true,
+   "likes": 1205,
+   "replies": 67,
+   "reposts": 27,
+   "bookmarks": 60,
+   "is_new": true
+  },
+  {
+   "handle": "@coinbureau",
+   "display_name": "coinbureau",
+   "name": "coinbureau",
+   "text": "\ud83d\udea8NEW: Over $106 MILLION reportedly drained from an EU entity\u2019s accounts across multiple crypto exchanges, according to ZachXBT.\n\nThe suspected attacker withdrew USDC and USDT, then swapped funds into ETH, routed them through instant exchanges, converted to Monero and bridged https://t.co/zCx6es3qCp",
+   "hook": "\ud83d\udea8NEW: Over $106 MILLION reportedly drained from an EU entity\u2019s accounts across multiple crypto exchanges, according to ZachXBT.",
+   "url": "https://x.com/coinbureau/status/2117296930045006053",
+   "status_url": "https://x.com/coinbureau/status/2117296930045006053",
+   "created_at": "2026-11-02T16:45:00.000Z",
+   "lang": "en",
+   "draft_en": "$106M reportedly drained from one entity across several exchanges (per ZachXBT).\n\nRoute: stablecoins -> ETH -> instant exchanges -> Monero.\n\nTakeaways for a spot holder:\n- exchange accounts are attack surface\n- 2FA and withdrawal whitelists matter\n- what you don't keep there can't be drained\n\nSave this / repost to someone with big exchange balances.",
+   "draft_quote_en": "Takeover across multiple exchanges at once points to a credential problem, not a protocol one. Were withdrawal whitelists on?",
+   "video_tip": "Animated route arrows USDC -> ETH -> XMR fading out; 7s.",
+   "reply_angle": "Ask how the accounts were compromised (API keys, SIM swap, insider?); check ZachXBT's thread before blaming the exchanges.",
+   "why_chosen": "Security story with a traceable route (ZachXBT) and 60 replies; account-security and custody angle.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 52720,
+   "views_label": "52,720 views",
+   "highlight": true,
+   "likes": 474,
+   "replies": 60,
+   "reposts": 67,
+   "bookmarks": 50,
+   "is_new": true
+  },
+  {
+   "handle": "@BitcoinMagazine",
+   "display_name": "BitcoinMagazine",
+   "name": "BitcoinMagazine",
+   "text": "JUST IN: The Bitcoin Fear &amp; Greed Index falls to \"fear\" for the first time since August following the $6.3B Binance hack \ud83d\udc40\n\nBe greedy when others are fearful \u270a https://t.co/qE6Rb1kAg1",
+   "hook": "JUST IN: The Bitcoin Fear &amp; Greed Index falls to \"fear\" for the first time since August following the $6.3B Binance hack \ud83d\udc40",
+   "url": "https://x.com/BitcoinMagazine/status/2117292532644172071",
+   "status_url": "https://x.com/BitcoinMagazine/status/2117292532644172071",
+   "created_at": "2026-11-02T16:27:31.000Z",
+   "lang": "en",
+   "draft_en": "Fear & Greed just hit 'fear' for the first time since August.\n\n'Be greedy when others are fearful' sounds great. Test it:\n- how often did fear readings mark a low?\n- how often did price keep falling for weeks?\n- what was the 30/90-day return after?\n\nA quote is not a backtest.\n\nSave this / follow for the backtest.",
+   "draft_quote_en": "Before 'be greedy': what's the hit rate? Check $BTC's 30 and 90-day return after every past 'fear' reading. The quote is a mood, the base rate is a plan.",
+   "video_tip": "Gauge needle drops to 'fear', then a backtest table slides in; 6s.",
+   "reply_angle": "Ask for the base rate: $BTC forward 30/90-day returns after past 'fear' readings; check alternative.me history.",
+   "why_chosen": "Sentiment index crossing into 'fear' plus a Buffett line: perfect base-rate reply (what happened after past fear readings?).",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 44031,
+   "views_label": "44,031 views",
+   "highlight": true,
+   "likes": 376,
+   "replies": 81,
+   "reposts": 56,
+   "bookmarks": 11,
+   "is_new": true,
+   "story": "Crypto sentiment drops to fear after the Binance hack",
    "also": [
     {
-     "handle": "@coinbureau",
-     "views": 34317,
-     "views_label": "34,317 views",
-     "url": "https://x.com/coinbureau/status/2117115260469698774"
+     "handle": "@SantimentData",
+     "views": 6863,
+     "views_label": "6,863 views",
+     "url": "https://x.com/SantimentData/status/2117340272119976432"
     }
    ],
-   "visual_suggestion": "Visual sugerido: barras + salidas netas de Binance por d\u00eda tras el hack (check DefiLlama), logo $BTC blanco sobre azul marino.",
+   "visual_suggestion": "Visual sugerido: gr\u00e1fico de barras + retornos de $BTC a 30/90 d\u00edas tras cada lectura 'fear' del \u00edndice (backtest pendiente, sin cifras inventadas).",
    "viral": {
-    "why_it_worked": "Big specific number + short timeframe + an ironic official quote; surprise and usefulness (people share to warn others).",
+    "why_it_worked": "Index crossing a threshold + a famous quote = emotional flip from fear to opportunity; identity share for contrarian holders; 81 replies. Format: news line + slogan.",
     "hook_options": [
-     "$3.64B walked out of Binance in 9 hours.",
-     "An exchange says 'stable'. The flows say something else.",
-     "2.1% of assets in 9 hours. Is that a run or a reflex?",
-     "The one chart to check before trusting any exchange statement."
+     {
+      "emotion": "fear",
+      "hook": "\ud83d\ude31 'Fear' for the first time since August. Are you buying or frozen?"
+     },
+     {
+      "emotion": "FOMO",
+      "hook": "\ud83d\udc40 Everyone quotes Buffett when the index says fear. Who checks the hit rate?"
+     },
+     {
+      "emotion": "panic",
+      "hook": "\ud83d\udcc9 Sentiment flipped to fear after a $6.3B hack. Low, or just the start?"
+     }
     ],
-    "optimized_version": "$3.64B walked out of Binance in 9 hours (reported).\n\nFact: coins moved.\nInterpretation: we don't know yet if it's a run.\n\nThe test is day 2 and day 3:\n- outflows slowing = scare\n- outflows steady = trust problem\n\nWhere did yours go: cold wallet or another exchange?\nSave this / follow for the follow-up data.",
-    "visual_or_number": "Key number: $3.64B in 9h / 2.1% of assets, as reported by BitcoinArchive; verify with DefiLlama daily net flows.",
-    "reference_url": "https://x.com/BitcoinArchive/status/2116984412772741391"
+    "optimized_version": "\ud83d\ude31 'Fear' for the first time since August. Are you buying or frozen?\n\nFact: the Bitcoin Fear & Greed Index dropped to 'fear' after the $6.3B Binance hack (reported by Bitcoin Magazine).\n\nInterpretation: a fear reading is a mood, not a signal, until you test it.\n\nWhat I'm checking:\n- every past 'fear' reading\n- $BTC return 30 and 90 days later\n- worst drawdown before recovery\n\nWould you buy a fear reading without knowing its hit rate?\nSave this / follow for the backtest.",
+    "visual_or_number": "Visual sugerido: tabla + lecturas 'fear' pasadas vs retorno $BTC a 30/90 d\u00edas (check alternative.me history; backtest pendiente).",
+    "reference_url": "https://x.com/BitcoinMagazine/status/2117292532644172071"
    }
-  },
-  {
-   "handle": "@BitcoinNewsCom",
-   "display_name": "BitcoinNewsCom",
-   "name": "BitcoinNewsCom",
-   "text": "\ud83d\udea8 BREAKING: BTCPAY SERVER WARNS OF ACTIVE HOT WALLET ATTACKS\n\nBTCPay Server says it is receiving reports of attackers draining funds from hot wallets.\n\nOperators are urged to immediately shut down their instances using ./btcpay-down.sh while the team investigates the security https://t.co/GWukxziIdL",
-   "hook": "\ud83d\udea8 BREAKING: BTCPAY SERVER WARNS OF ACTIVE HOT WALLET ATTACKS",
-   "url": "https://x.com/BitcoinNewsCom/status/2117023380776083795",
-   "status_url": "https://x.com/BitcoinNewsCom/status/2117023380776083795",
-   "created_at": "2026-11-01T22:38:01.000Z",
-   "lang": "en",
-   "draft_en": "BTCPay warns of hot wallet drains (reported).\n\nIf you run a store:\n- keep the hot wallet small\n- sweep to cold storage on a schedule\n- follow the official advisory, not screenshots\n\nHot wallets are for change, not savings.\n\nSave this / repost to a merchant friend.",
-   "draft_quote_en": "Good reminder that hot wallets are a convenience, not storage. Is there a confirmed root cause yet, or only reports?",
-   "video_tip": "Wallet icon draining, then 'sweep to cold' arrow; 7s.",
-   "reply_angle": "Ask for the confirmed vector and recommend small hot wallets plus scheduled sweeps to cold storage.",
-   "why_chosen": "Active security warning with an operator action: useful reply on hot-wallet risk.",
-   "off_niche": false,
-   "content_unreadable": false,
-   "views": 36449,
-   "views_label": "36,449 views",
-   "highlight": true,
-   "likes": 298,
-   "replies": 22,
-   "reposts": 57,
-   "bookmarks": 36,
-   "is_new": true,
-   "story": "BTCPay Server hot wallet attacks",
-   "also": [
-    {
-     "handle": "@BitcoinNews",
-     "views": 15356,
-     "views_label": "15,356 views",
-     "url": "https://x.com/BitcoinNews/status/2117089870090830104"
-    }
-   ]
-  },
-  {
-   "handle": "@danheld",
-   "display_name": "danheld",
-   "name": "danheld",
-   "text": "\ud83d\udc40 \ud83d\ude80 https://t.co/W5YLjlu48v",
-   "hook": "\ud83d\udc40 \ud83d\ude80 https://t.co/W5YLjlu48v",
-   "url": "https://x.com/danheld/status/2116994808128643511",
-   "status_url": "https://x.com/danheld/status/2116994808128643511",
-   "created_at": "2026-11-01T20:44:28.000Z",
-   "lang": "qme",
-   "draft_en": "When the post is just emojis and a link, the chart is the argument.\n\nBefore reacting I check:\n- timeframe\n- scale (log or linear)\n- source\n\nSave this / follow.",
-   "draft_quote_en": "What's the timeframe and source here? Hard to read without it.",
-   "video_tip": "Emoji pair, then 'source? timeframe?' text; 5s.",
-   "reply_angle": "Neutral: ask for timeframe and data source.",
-   "why_chosen": "Emoji + link only, high reach; neutral question reply.",
-   "off_niche": false,
-   "content_unreadable": true,
-   "views": 28171,
-   "views_label": "28,171 views",
-   "highlight": true,
-   "likes": 372,
-   "replies": 25,
-   "reposts": 10,
-   "bookmarks": 1,
-   "is_new": true
   },
   {
    "handle": "@Cointelegraph",
    "display_name": "Cointelegraph",
    "name": "Cointelegraph",
-   "text": "\ud83c\uddfa\ud83c\uddf8 ETF FLOWS: XRP spot ETFs saw net inflows last week, while BTC, ETH and SOL spot ETFs saw net outflows.\n\nBTC: -$202.59M\nETH: -$431.53M\nSOL: -$71.47M\nXRP: $4.32M https://t.co/9Colftrn9V",
-   "hook": "\ud83c\uddfa\ud83c\uddf8 ETF FLOWS: XRP spot ETFs saw net inflows last week, while BTC, ETH and SOL spot ETFs saw net outflows.",
-   "url": "https://x.com/Cointelegraph/status/2117149913419018506",
-   "status_url": "https://x.com/Cointelegraph/status/2117149913419018506",
-   "created_at": "2026-11-02T07:00:48.000Z",
+   "text": "\ud83d\udea8 BIG: Binance saw $14.1B in net outflows over the past week, including $3.5B in the last 24 hours, following its $6.3B hack, while rival OKX drew $499M in inflows. https://t.co/pJUrB3yN8V",
+   "hook": "\ud83d\udea8 BIG: Binance saw $14.1B in net outflows over the past week, including $3.5B in the last 24 hours, following its $6.3B hack, while rival OKX drew $499M in inflows. https://t.co/pJUrB3yN8V",
+   "url": "https://x.com/Cointelegraph/status/2117351157274206345",
+   "status_url": "https://x.com/Cointelegraph/status/2117351157274206345",
+   "created_at": "2026-11-02T20:20:29.000Z",
    "lang": "en",
-   "draft_en": "BTC spot ETFs: -$202.59M last week (reported).\n\nBig or small? Depends on context:\n- vs total ETF holdings, check the %\n- vs the prior 4 weeks\n- vs price over the same week\n\nOne week of flows is weather, not climate.\n\nSave this / follow for the monthly view.",
-   "draft_quote_en": "-$202M sounds big. Against total BTC ETF assets it's probably a small %.\n\nWorth checking: is it one bad week or the 4th in a row?",
-   "video_tip": "Four bars (BTC, ETH, SOL, XRP), then zoom on BTC vs total AUM; 8s.",
-   "reply_angle": "Add scale: compare -$202M to total BTC ETF AUM and the prior 4 weeks (check Farside/SoSoValue).",
-   "why_chosen": "Clean ETF flow numbers by asset: easy to add context (size vs AUM, week vs trend).",
+   "draft_en": "$14.1B left Binance in a week, $3.5B in the last 24h (reported). OKX took in $499M.\n\nOnly a small slice shows up at the rival.\n\nWhere did the rest go?\n- self-custody wallets\n- other venues not in the data\n- internal reshuffling\n\nCheck the flow source before calling it a run.\n\nSave this / repost if you track exchange flows.",
+   "draft_quote_en": "$14.1B out, $499M into OKX. The interesting number is the gap. Self-custody, other exchanges, or internal wallets? Which data provider is this from?",
+   "video_tip": "Big arrow out of Binance, tiny arrow into OKX, big '?' for the rest; 6s.",
+   "reply_angle": "Ask about the gap: $14.1B out vs $499M into OKX; check exchange-flow data (DefiLlama, CryptoQuant) for where the rest went.",
+   "why_chosen": "Big flow numbers with a rival comparison; the gap ($14.1B out vs $499M into OKX) is a natural data question.",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 28093,
-   "views_label": "28,093 views",
+   "views": 42626,
+   "views_label": "42,626 views",
    "highlight": true,
-   "likes": 160,
-   "replies": 60,
-   "reposts": 28,
-   "bookmarks": 5,
+   "likes": 372,
+   "replies": 55,
+   "reposts": 36,
+   "bookmarks": 17,
    "is_new": true,
-   "visual_suggestion": "Visual sugerido: barras + flujos semanales de ETF de $BTC \u00faltimas 8 semanas (check Farside), BTC en blanco.",
+   "story": "Binance outflows after the hack",
+   "also": [
+    {
+     "handle": "@BitcoinNewsCom",
+     "views": 5753,
+     "views_label": "5,753 views",
+     "url": "https://x.com/BitcoinNewsCom/status/2117369619870630382"
+    }
+   ],
    "viral": {
-    "why_it_worked": "List of numbers by asset with a surprise winner (XRP inflows); tribal identity and scannable data drive reposts.",
+    "why_it_worked": "Huge number + short timeframe + rival comparison = bank-run fear and tribal exchange debate; scannable one-liner with a chart.",
     "hook_options": [
-     "$202M left Bitcoin ETFs last week. Here's the number that actually matters.",
-     "One week of ETF outflows is weather, not climate.",
-     "Everyone posts the flow. Nobody posts the denominator.",
-     "Bitcoin ETFs bled. XRP gained. Read the scale first."
+     {
+      "emotion": "panic",
+      "hook": "\ud83d\udea8 $14.1B walked out of Binance in a week. Is this a bank run?"
+     },
+     {
+      "emotion": "shock",
+      "hook": "\ud83d\ude33 $3.5B left in 24 hours. Only $499M showed up at OKX."
+     },
+     {
+      "emotion": "fear",
+      "hook": "\u26a0\ufe0f $14.1B out after a $6.3B hack. Where did the rest go?"
+     }
     ],
-    "optimized_version": "Everyone posts the flow. Nobody posts the denominator.\n\nBTC spot ETFs: -$202.59M last week (reported).\n\nTo read it:\n- divide by total BTC ETF assets (check)\n- compare with the last 4 weeks\n- see if price moved with it\n\nIf it's under 1% and alone, it's noise.\n\nDo you track flows weekly or monthly?\nSave this / follow for the 8-week chart.",
-    "visual_or_number": "Key number: -$202.59M (Cointelegraph); verify on Farside and divide by total BTC ETF AUM.",
-    "reference_url": "https://x.com/Cointelegraph/status/2117149913419018506"
+    "optimized_version": "\ud83d\udea8 $14.1B walked out of Binance in a week. Is this a bank run?\n\nFact (reported by Cointelegraph): $14.1B net outflows in 7 days, $3.5B in the last 24h. Rival OKX: +$499M.\n\nInterpretation: the gap is the story. Most of that money didn't land at OKX.\n\nWhat I'd check:\n- flows into self-custody vs other exchanges\n- whether outflows slow in the next few days\n- Binance's remaining reserves\n\nWhere did your coins go after the hack?\nSave this / repost if you track flows.",
+    "visual_or_number": "Key numbers: $14.1B 7d, $3.5B 24h, OKX +$499M (Cointelegraph); verify on DefiLlama CEX transparency.",
+    "reference_url": "https://x.com/Cointelegraph/status/2117351157274206345"
    }
   },
   {
-   "handle": "@Dennis_Porter_",
-   "display_name": "Dennis_Porter_",
-   "name": "Dennis_Porter_",
-   "text": "My final 2026 midterm election predictions:\n\n\ud83c\uddfa\ud83c\uddf8 Senate\n\ud83d\udd35 Democrats: 54 (includes 2 independents)\n\ud83d\udd34 Republicans: 46\n\n\ud83c\uddfa\ud83c\uddf8 House\n\ud83d\udd35 Democrats: 240\n\ud83d\udd34 Republicans: 195\n\nBookmark this.",
-   "hook": "My final 2026 midterm election predictions:",
-   "url": "https://x.com/Dennis_Porter_/status/2117063982171484256",
-   "status_url": "https://x.com/Dennis_Porter_/status/2117063982171484256",
-   "created_at": "2026-11-02T01:19:21.000Z",
+   "handle": "@CoinMarketCap",
+   "display_name": "CoinMarketCap",
+   "name": "CoinMarketCap",
+   "text": "\u26a1 Crypto ETFs Lost $671M. Selling Extended Beyond Funds.\n\n\ud83d\udd39 BTC ETFs took in $436.6M from Monday to Thursday, but Friday's $643.2M outflow wiped out all four days of gains.\n\n\ud83d\udd39 ETH ETFs saw outflows every single day, losing $396.6M for the week. Unlike BTC, there was no https://t.co/lFurwfWCOy",
+   "hook": "\u26a1 Crypto ETFs Lost $671M. Selling Extended Beyond Funds.",
+   "url": "https://x.com/CoinMarketCap/status/2117213895597179197",
+   "status_url": "https://x.com/CoinMarketCap/status/2117213895597179197",
+   "created_at": "2026-11-02T11:15:03.000Z",
    "lang": "en",
-   "draft_en": "Midterms are tomorrow. Predictions are everywhere.\n\nFor a $BTC spot holder the question isn't who wins. It's:\n- does my plan change if the result surprises?\n- is my position sized to sit through volatility?\n\nNo plan needs an election forecast.\n\nSave this / follow.",
-   "draft_quote_en": "Bookmarked. For markets the interesting part is how much is already priced in. Do you think a surprise either way moves risk assets?",
-   "video_tip": "Calendar 'Nov 3', then 'plan > prediction'; 6s.",
-   "reply_angle": "Neutral bridge: ask how much of the outcome is already priced in for risk assets; no side.",
-   "why_chosen": "Specific election numbers ('Bookmark this'): bridge to how $BTC traders should treat event risk, no partisan side.",
-   "off_niche": true,
+   "draft_en": "BTC ETFs: +$436.6M Mon-Thu, then -$643.2M on Friday (reported).\n\nOne day erased four.\n\nHow I read flow headlines:\n- net for the week, not the scariest day\n- vs total ETF assets (the denominator)\n- did price lead or follow?\n\nSave this / follow for the weekly flow chart.",
+   "draft_quote_en": "Net week for BTC ETFs: about -$207M on these numbers. Small vs total ETF assets. The Friday print is the headline, the net is the signal.",
+   "video_tip": "Four green bars, then one big red bar wipes them out; 5s.",
+   "reply_angle": "Do the net: +$436.6M minus $643.2M is about -$207M for the week; check it against total BTC ETF AUM on Farside.",
+   "why_chosen": "Weekly ETF flow numbers with a dramatic Friday; he can add the net and the denominator.",
+   "off_niche": false,
    "content_unreadable": false,
-   "views": 23554,
-   "views_label": "23,554 views",
+   "views": 41311,
+   "views_label": "41,311 views",
    "highlight": true,
-   "likes": 365,
-   "replies": 45,
-   "reposts": 37,
-   "bookmarks": 152,
+   "likes": 75,
+   "replies": 51,
+   "reposts": 13,
+   "bookmarks": 4,
+   "is_new": true,
+   "visual_suggestion": "Visual sugerido: barras diarias + flujos de ETF de BTC lunes a viernes con neto semanal, cifras del post (verificar en Farside)."
+  },
+  {
+   "handle": "@CoinDesk",
+   "display_name": "CoinDesk",
+   "name": "CoinDesk",
+   "text": "DATA: North Korea\u2019s Lazarus Group has stolen ~$11.87B in crypto to date, equivalent to 45% of North Korea\u2019s GDP following the $6.3B @Binance hack, per @Darkfost_Coc. https://t.co/lfov4BU9Sg",
+   "hook": "DATA: North Korea\u2019s Lazarus Group has stolen ~$11.87B in crypto to date, equivalent to 45% of North Korea\u2019s GDP following the $6.3B @Binance hack, per @Darkfost_Coc. https://t.co/lfov4BU9Sg",
+   "url": "https://x.com/CoinDesk/status/2117252392852799883",
+   "status_url": "https://x.com/CoinDesk/status/2117252392852799883",
+   "created_at": "2026-11-02T13:48:01.000Z",
+   "lang": "en",
+   "draft_en": "North Korea's Lazarus has reportedly stolen ~$11.87B in crypto, about 45% of the country's GDP.\n\nThat's not a hacker group. It's a state budget line.\n\nWhat it means for you:\n- exchanges are the target, at scale\n- your threat model isn't a kid with a laptop\n- keys you hold aren't in their honeypot\n\nSave this / repost to someone who trusts 'too big to hack'.",
+   "draft_quote_en": "45% of GDP is a wild ratio. Worth checking which GDP estimate it uses, since North Korea's GDP figures are outside estimates.",
+   "video_tip": "Pie chart highlighting '45% of GDP', then exchange logos as targets; 6s.",
+   "reply_angle": "Ask about the denominator: which North Korea GDP estimate is used? Check the source (@Darkfost_Coc) before repeating 45%.",
+   "why_chosen": "Striking ratio (45% of GDP) with 68 replies; clarifying question on the denominator plus a custody takeaway.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 37267,
+   "views_label": "37,267 views",
+   "highlight": true,
+   "likes": 136,
+   "replies": 68,
+   "reposts": 28,
+   "bookmarks": 22,
+   "is_new": true,
+   "story": "North Korea and the Binance hack"
+  },
+  {
+   "handle": "@APompliano",
+   "display_name": "APompliano",
+   "name": "APompliano",
+   "text": "Great investors buy things that are unpopular and wait for them to come back into favor.\n\nThe two most unpopular trades right now are bitcoin/gold and the AI barbell.\n\nI explained this morning in the Pomp Letter: https://t.co/qLCWUhiMTy",
+   "hook": "Great investors buy things that are unpopular and wait for them to come back into favor.",
+   "url": "https://x.com/APompliano/status/2117282698196562122",
+   "status_url": "https://x.com/APompliano/status/2117282698196562122",
+   "created_at": "2026-11-02T15:48:27.000Z",
+   "lang": "en",
+   "draft_en": "'Buy what's unpopular' only works if you can measure unpopular.\n\nFor $BTC I'd check:\n- Fear & Greed readings\n- ETF net flows\n- funding rates\n\nIf all three say unpopular, it's a setup. If only the timeline says it, it's a vibe.\n\nSave this / follow for the sentiment dashboard.",
+   "draft_quote_en": "How are you measuring 'unpopular'? For $BTC, a sentiment index, ETF flows and funding say more than timeline mood.",
+   "video_tip": "Three gauges (sentiment, ETF flows, funding) turning red one by one; 6s.",
+   "reply_angle": "Ask how 'unpopular' is measured; check sentiment index, ETF flows and funding before calling BTC/gold a contrarian trade.",
+   "why_chosen": "Contrarian claim ('most unpopular trades') with no metric: he can add how to measure unpopular.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 34801,
+   "views_label": "34,801 views",
+   "highlight": true,
+   "likes": 151,
+   "replies": 42,
+   "reposts": 6,
+   "bookmarks": 16,
    "is_new": true
   },
   {
-   "handle": "@caprioleio",
-   "display_name": "caprioleio",
-   "name": "caprioleio",
-   "text": "I was wrong. When investing timing is just as important as thesis. The fact we had the biggest heist of all time ($6B hack) and Bitcoin is holding at $77K three days later is nothing short of remarkable. The market is telling us it doesn\u2019t care and the market shouldn\u2019t be ignored",
-   "hook": "I was wrong. When investing timing is just as important as thesis. The fact we had the biggest heist of all time ($6B hack) and Bitcoin is holding at $77K three days later is nothing short of remarkab",
-   "url": "https://x.com/caprioleio/status/2117025026528690664",
-   "status_url": "https://x.com/caprioleio/status/2117025026528690664",
-   "created_at": "2026-11-01T22:44:33.000Z",
+   "handle": "@nic_carter",
+   "display_name": "nic_carter",
+   "name": "nic_carter",
+   "text": "I'll save you 4 minutes.. here are the reasons the video gives for why QC \"can never break Bitcoin\"\n\nReason 1: bank, email, cloud, payments, messaging are also vulnerable to ECDLP/RSA breaks. \u201cthe whole world is upgrading together\u201d \n\nReason 2: Bitcoin can upgrade too. Cites https://t.co/op8gIW1HiJ",
+   "hook": "I'll save you 4 minutes.. here are the reasons the video gives for why QC \"can never break Bitcoin\"",
+   "url": "https://x.com/nic_carter/status/2117273423688720436",
+   "status_url": "https://x.com/nic_carter/status/2117273423688720436",
+   "created_at": "2026-11-02T15:11:35.000Z",
    "lang": "en",
-   "draft_en": "Biggest hack on record. $BTC still around $77K three days later.\n\nStrength? Maybe. Two other readings:\n- the hack was exchange risk, not Bitcoin risk\n- sellers were already exhausted after October\n\nOne data point isn't a regime. A weekly close is better.\n\nSave this / repost if you track it too.",
-   "draft_quote_en": "Respect for saying \"I was wrong\". Holding $77K after a $6B hack is notable.\n\nBut is it strength, or was it never Bitcoin's risk to begin with? The hack hit an exchange, not the protocol.",
-   "video_tip": "Hack headline, then flat price line at $77K, caption 'strength or irrelevance?'; 8s.",
-   "reply_angle": "Question the reading: was the hack ever a $BTC risk, or exchange risk? Suggest checking the weekly close vs. 50-week MA.",
-   "why_chosen": "Analyst admits being wrong and gives a price ($77K) after a $6B hack: debatable 'market is telling us' claim.",
+   "draft_en": "'Quantum can never break Bitcoin' is the wrong claim.\n\nThe right questions:\n- how many coins sit in addresses with exposed public keys?\n- how long would a migration to new signatures take?\n- who moves first: users or attackers?\n\n'Never' is hype. 'Tomorrow' is fear. The answer is a timeline.\n\nSave this / repost to someone who says 'never'.",
+   "draft_quote_en": "'The whole world is upgrading together' doesn't cover coins whose owners never move them. That's the part an upgrade can't fix by itself.",
+   "video_tip": "'NEVER' stamped, crossed out, replaced by a timeline bar; 6s.",
+   "reply_angle": "Point to the unmoved-coin problem: an upgrade only protects coins whose owners migrate; check estimates of exposed-pubkey supply.",
+   "why_chosen": "Quantum 'never' debate with 70 bookmarks; he can add the unmoved-coins caveat without picking hype or fear.",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 21660,
-   "views_label": "21,660 views",
+   "views": 31502,
+   "views_label": "31,502 views",
    "highlight": true,
-   "likes": 355,
-   "replies": 52,
-   "reposts": 11,
-   "bookmarks": 37,
-   "is_new": true,
-   "viral": {
-    "why_it_worked": "Rare admission ('I was wrong') = status/honesty signal, plus a concrete number and a big event contrast; invites agreement and debate.",
-    "hook_options": [
-     "The biggest hack ever and $BTC barely moved. Here's why that might not mean what you think.",
-     "Strength or irrelevance?",
-     "$6B stolen. $77K held. Two readings.",
-     "Price held. The question is why."
-    ],
-    "optimized_version": "$6B stolen. $BTC held around $77K (reported).\n\nTwo readings:\n1. strength: buyers absorbed it\n2. irrelevance: it was exchange risk, not protocol risk\n\nThey imply different plans. #1 says add. #2 says nothing changed.\n\nWhich one are you trading?\nSave this / repost to a friend who panicked.",
-    "visual_or_number": "Visual sugerido: precio $BTC diario con marca del hack y l\u00ednea de 50 semanas (check price data), acentos lima.",
-    "reference_url": "https://x.com/caprioleio/status/2117025026528690664"
-   }
-  },
-  {
-   "handle": "@CaitlinLong_",
-   "display_name": "CaitlinLong_",
-   "name": "CaitlinLong_",
-   "text": "\ud83d\udea8 \"Black October\" isn't slowing down https://t.co/SkFsbl0wC6",
-   "hook": "\ud83d\udea8 \"Black October\" isn't slowing down https://t.co/SkFsbl0wC6",
-   "url": "https://x.com/CaitlinLong_/status/2117029828985868539",
-   "status_url": "https://x.com/CaitlinLong_/status/2117029828985868539",
-   "created_at": "2026-11-01T23:03:38.000Z",
-   "lang": "en",
-   "draft_en": "\"Black October\" is a label. Here's what to check before you agree:\n- $BTC monthly return vs past Octobers\n- exchange outflows\n- ETF flows\n\nLabel last.\n\nSave this / follow.",
-   "draft_quote_en": "What's the clearest metric for it? Price, flows, or exchange incidents?",
-   "video_tip": "Calendar page 'October' going black, then three metrics; 7s.",
-   "reply_angle": "Ask which metric defines 'Black October' and check it vs. past Octobers.",
-   "why_chosen": "Link-only post with strong 'Black October' framing; neutral reply asking for the data.",
-   "off_niche": false,
-   "content_unreadable": true,
-   "views": 17852,
-   "views_label": "17,852 views",
-   "highlight": true,
-   "likes": 119,
-   "replies": 11,
-   "reposts": 7,
-   "bookmarks": 5,
+   "likes": 203,
+   "replies": 42,
+   "reposts": 9,
+   "bookmarks": 70,
    "is_new": true
   },
   {
    "handle": "@BitcoinNews",
    "display_name": "BitcoinNews",
    "name": "BitcoinNews",
-   "text": "NEW: \ud83d\udcc9 Galaxy's Alex Thorn said this week a break below the 50-week moving average without recovery, currently around $76K, would invalidate his viral \"Why Now Is the Time to Add and Hold BTC\" thesis.\n\n\"50w remains key level to watch \ud83d\udc40,\" says Thorn. \ud83d\udcac https://t.co/gubbioJA4k",
-   "hook": "NEW: \ud83d\udcc9 Galaxy's Alex Thorn said this week a break below the 50-week moving average without recovery, currently around $76K, would invalidate his viral \"Why Now Is the Time to Add and Hold BTC\" thesis.",
-   "url": "https://x.com/BitcoinNews/status/2116987392104006118",
-   "status_url": "https://x.com/BitcoinNews/status/2116987392104006118",
-   "created_at": "2026-11-01T20:15:00.000Z",
+   "text": "JUST IN: \ud83c\udf99\ufe0f \"I do think markets are going to exit the year strong,\" says Fundstrat's Tom Lee.\n\nSiting \"the war, AI spending, the debt markets... inflation, midterms,\" Lee says \"if we get some clearing of any of these things, then we can really see money come off the sidelines.\" https://t.co/ob11LGGl3y",
+   "hook": "JUST IN: \ud83c\udf99\ufe0f \"I do think markets are going to exit the year strong,\" says Fundstrat's Tom Lee.",
+   "url": "https://x.com/BitcoinNews/status/2117259181501698208",
+   "status_url": "https://x.com/BitcoinNews/status/2117259181501698208",
+   "created_at": "2026-11-02T14:15:00.000Z",
    "lang": "en",
-   "draft_en": "A thesis with an invalidation level is rare. Alex Thorn's: 50-week MA, ~$76K (reported).\n\nFor spot, that suggests:\n- a level to watch, not a level to panic\n- a plan for 'below without recovery'\n- position size set before, not after\n\nWhat's your invalidation?\nSave this / follow for rules-based $BTC.",
-   "draft_quote_en": "Good that someone names an invalidation level.\n\nOpen question: how many weekly closes below the 50w count as 'without recovery'? One? Three? That definition is the whole trade.",
-   "video_tip": "Price line touching 50w MA, label 'invalidation?'; 7s, 9:16.",
-   "reply_angle": "Ask for the definition: how many weekly closes below the 50w MA invalidate it? Suggest backtesting past 50w breaks.",
-   "why_chosen": "Concrete invalidation level (50-week MA ~ $76K): ideal for a rules-based spot reply.",
+   "draft_en": "'Markets will exit the year strong' if war, AI spending, debt, inflation and midterms clear up.\n\nThat's five ifs.\n\nFor $BTC I'd rather track one number per if:\n- oil for the war\n- credit spreads for debt\n- CPI for inflation\n\nSave this / follow for the macro checklist.",
+   "draft_quote_en": "That's a forecast with five conditions attached. Which one is the trigger, and what would make him wrong?",
+   "video_tip": "Checklist of five 'ifs' ticking one by one; 7s.",
+   "reply_angle": "Ask which of the five conditions is the trigger and what would invalidate the call; no timeline, no test.",
+   "why_chosen": "Bullish year-end forecast with five conditions attached: easy clarifying question on trigger and invalidation.",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 15959,
-   "views_label": "15,959 views",
+   "views": 30522,
+   "views_label": "30,522 views",
    "highlight": true,
-   "likes": 62,
-   "replies": 24,
-   "reposts": 12,
+   "likes": 78,
+   "replies": 4,
+   "reposts": 9,
+   "bookmarks": 5,
+   "is_new": true
+  },
+  {
+   "handle": "@glassnode",
+   "display_name": "glassnode",
+   "name": "glassnode",
+   "text": "bitcoin:native sellers have been taking losses below $80k.\n\nLast week brought the longest run of daily net realized losses since mid-August.\n\nThe August and September loss clusters both formed at the local lows. A hold above $75k would fit that pattern. https://t.co/DCjbNfhoT7",
+   "hook": "bitcoin:native sellers have been taking losses below $80k.",
+   "url": "https://x.com/glassnode/status/2117252467947950109",
+   "status_url": "https://x.com/glassnode/status/2117252467947950109",
+   "created_at": "2026-11-02T13:48:19.000Z",
+   "lang": "en",
+   "draft_en": "$BTC sellers keep realizing losses below $80k (glassnode).\n\nLast week: longest run of daily net realized losses since mid-August.\n\nThe Aug and Sep loss clusters formed at local lows.\n\nThat pattern is n=2. Useful, not proof.\n- watch: does $75k hold?\n- check: how earlier-cycle loss streaks ended\n\nSave this / follow for the update.",
+   "draft_quote_en": "Two prior clusters at local lows is a pattern, not a base rate. How did similar loss streaks resolve in earlier cycles?",
+   "video_tip": "Red loss bars stacking under the $80k line, two past clusters circled; 7s.",
+   "reply_angle": "Ask for the longer base rate: how did similar realized-loss streaks play out in earlier cycles, not just Aug/Sep?",
+   "why_chosen": "On-chain data with a level ($75k) and a historical analog (n=2): ideal for a base-rate reply.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 28812,
+   "views_label": "28,812 views",
+   "highlight": true,
+   "likes": 278,
+   "replies": 42,
+   "reposts": 22,
+   "bookmarks": 23,
+   "is_new": true,
+   "viral": {
+    "why_it_worked": "Capitulation story (holders selling at a loss = fear) + a level ($75k) + a historical analog; useful and bookmarkable for spot buyers. Format: data chart + 3 short lines.",
+    "hook_options": [
+     {
+      "emotion": "fear",
+      "hook": "\ud83d\ude31 Sellers are dumping $BTC at a loss. Longest streak since August."
+     },
+     {
+      "emotion": "relief",
+      "hook": "\ud83d\udd25 The last two loss streaks like this formed local lows. Third time?"
+     },
+     {
+      "emotion": "FOMO",
+      "hook": "\ud83d\udc40 Losses below $80k, and $75k is the line glassnode is watching. What's yours?"
+     }
+    ],
+    "optimized_version": "\ud83d\ude31 Sellers are dumping $BTC at a loss. Longest streak since August.\n\nFact (glassnode): daily net realized losses below $80k, the longest run since mid-August. The Aug and Sep loss clusters formed at local lows.\n\nInterpretation: capitulation can mark lows. But two examples is a small sample.\n\nWhat I'd check before buying spot:\n- does $75k hold?\n- how did earlier loss streaks end in past cycles?\n\nAre you the one selling or the one buying?\nSave this / follow for the update.",
+    "visual_or_number": "Visual sugerido: barras de p\u00e9rdidas realizadas netas diarias + precio $BTC, con clusters de agosto y septiembre marcados (datos glassnode, verificar).",
+    "reference_url": "https://x.com/glassnode/status/2117252467947950109"
+   }
+  },
+  {
+   "handle": "@BitQua",
+   "display_name": "BitQua",
+   "name": "BitQua",
+   "text": "Why did $BTC drop only 7% after the largest crypto exchange hack ever recorded, outperforming non-crypto assets?\nBecause Bitcoin is in a bull market, currently in its \u201cbottoming range\u201d phase. https://t.co/zJDha6WTfv",
+   "hook": "Why did $BTC drop only 7% after the largest crypto exchange hack ever recorded, outperforming non-crypto assets?",
+   "url": "https://x.com/BitQua/status/2117201144938381646",
+   "status_url": "https://x.com/BitQua/status/2117201144938381646",
+   "created_at": "2026-11-02T10:24:23.000Z",
+   "lang": "en",
+   "draft_en": "$BTC fell about 7% after the biggest exchange hack ever (per BitQuant).\n\nTwo readings:\n- strength: buyers absorbed the shock\n- separation: exchange risk isn't protocol risk\n\nBoth can be true. Neither means the bottom is in.\n\nSave this / repost if you hold spot.",
+   "draft_quote_en": "'Only 7%' is data. 'Bull market bottoming range' is the interpretation. What would invalidate it, a weekly close below which level?",
+   "video_tip": "Headline 'biggest hack ever' next to a small -7% candle; 5s.",
+   "reply_angle": "Separate fact from interpretation: -7% is data, 'bottoming range' is a call; ask for the invalidation level.",
+   "why_chosen": "Clear fact (-7%) mixed with a call ('bottoming range'); he can separate the two and ask for invalidation.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 24608,
+   "views_label": "24,608 views",
+   "highlight": true,
+   "likes": 772,
+   "replies": 30,
+   "reposts": 53,
+   "bookmarks": 30,
+   "is_new": true
+  },
+  {
+   "handle": "@DocumentingBTC",
+   "display_name": "DocumentingBTC",
+   "name": "DocumentingBTC",
+   "text": "How a Bitcoin Transaction Works https://t.co/tTjvnyE1s1",
+   "hook": "How a Bitcoin Transaction Works https://t.co/tTjvnyE1s1",
+   "url": "https://x.com/DocumentingBTC/status/2117235828594500014",
+   "status_url": "https://x.com/DocumentingBTC/status/2117235828594500014",
+   "created_at": "2026-11-02T12:42:12.000Z",
+   "lang": "en",
+   "draft_en": "How a $BTC transaction works, in 4 steps:\n1. your wallet signs with your private key\n2. the tx goes to the mempool\n3. a miner includes it in a block\n4. each new block adds a confirmation\n\nWhoever holds the key decides who can sign.\n\nSave this / repost to someone new to $BTC.",
+   "draft_quote_en": "The part people skip: step one only works if you hold the key. On an exchange, they sign, not you.",
+   "video_tip": "4-step animation: key -> mempool -> block -> confirmations; 9s.",
+   "reply_angle": "Add the custody point: whoever holds the private key signs the transaction; on an exchange that's not you.",
+   "why_chosen": "Educational explainer with 162 bookmarks; he can add the custody point in one line.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 19738,
+   "views_label": "19,738 views",
+   "highlight": true,
+   "likes": 321,
+   "replies": 25,
+   "reposts": 78,
+   "bookmarks": 162,
+   "is_new": true
+  },
+  {
+   "handle": "@danheld",
+   "display_name": "danheld",
+   "name": "danheld",
+   "text": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin.",
+   "hook": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin.",
+   "url": "https://x.com/danheld/status/2117298145818186002",
+   "status_url": "https://x.com/danheld/status/2117298145818186002",
+   "created_at": "2026-11-02T16:49:50.000Z",
+   "lang": "en",
+   "draft_en": "'$1M-$10M if everyone understood Bitcoin' is a 10x range.\n\nA range that wide isn't a model, it's a feeling.\n\nWhat I'd want instead:\n- adoption assumption (% of which market?)\n- timeline\n- what breaks it\n\nI hold spot. I still want the math.\n\nSave this / follow for the model breakdown.",
+   "draft_quote_en": "$1M-$10M is a 10x spread. What adoption share gets you to the low end, and over what timeline?",
+   "video_tip": "Slider moving from $1M to $10M with '?' labels on the inputs; 6s.",
+   "reply_angle": "Ask for the inputs: which market share and timeline produce $1M vs $10M? Without them it's a range, not a model.",
+   "why_chosen": "Bold $1M-$10M claim with 66 replies: ask for the model inputs.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 18401,
+   "views_label": "18,401 views",
+   "highlight": true,
+   "likes": 509,
+   "replies": 66,
+   "reposts": 38,
+   "bookmarks": 8,
+   "is_new": true
+  },
+  {
+   "handle": "@pete_rizzo_",
+   "display_name": "pete_rizzo_",
+   "name": "pete_rizzo_",
+   "text": "JUST IN: THE MAN WHO BEGGED PEOPLE TO BUY #BITCOIN AT $1 JUST ADMITTED HIS BIGGEST REGRET IS SELLING AT $200\n\n\"I SOLD 266 BTC AT THE 2015 BOTTOM, AND IT HURT\"\n\n\"THAT\u2019S $21 MILLION TODAY. JUST GONE\"\n\nLET THIS BE A LESSON\n\nDIPS ARE TEMPORARY\n\nNEVER SELL YOUR BTC \ud83d\udd25 https://t.co/t0Bio9nrho",
+   "hook": "JUST IN: THE MAN WHO BEGGED PEOPLE TO BUY #BITCOIN AT $1 JUST ADMITTED HIS BIGGEST REGRET IS SELLING AT $200",
+   "url": "https://x.com/pete_rizzo_/status/2117334928627216425",
+   "status_url": "https://x.com/pete_rizzo_/status/2117334928627216425",
+   "created_at": "2026-11-02T19:15:59.000Z",
+   "lang": "en",
+   "draft_en": "'I sold 266 BTC at the 2015 bottom' is a story about timing, not about never selling.\n\nThe lesson I take:\n- selling at a panic low hurts\n- selling with a plan (rules, levels) is different\n- position size decides whether you're forced to sell\n\n'Never sell' is a slogan. Rules are a strategy.\n\nSave this / follow for rules-based spot strategies.",
+   "draft_quote_en": "The regret is selling at the bottom, not selling. A rule-based exit and a panic exit aren't the same trade.",
+   "video_tip": "2015 price chart with 'sold here' at the low, zoom out to today; 7s.",
+   "reply_angle": "Separate panic selling from rule-based selling; ask what the plan was in 2015, not whether selling is wrong.",
+   "why_chosen": "Regret story with a huge number and a 'never sell' slogan: he can reframe as rules vs panic, his spot buy/sell lane.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 16457,
+   "views_label": "16,457 views",
+   "highlight": true,
+   "likes": 143,
+   "replies": 17,
+   "reposts": 25,
+   "bookmarks": 12,
+   "is_new": true,
+   "viral": {
+    "why_it_worked": "Regret story with a giant number ($21M 'just gone'), a known early advocate and a moral; FOMO + empathy, very shareable. Format: all-caps quotes and a lesson.",
+    "hook_options": [
+     {
+      "emotion": "FOMO",
+      "hook": "\ud83d\udc80 266 BTC sold at the 2015 bottom. About $21M today, he says. Would you have held?"
+     },
+     {
+      "emotion": "fear",
+      "hook": "\ud83d\ude31 The worst $BTC trade isn't buying high. It's selling at the bottom."
+     },
+     {
+      "emotion": "anger",
+      "hook": "\u26a0\ufe0f 'Never sell your BTC' sounds wise. Until you need the money. Then what?"
+     }
+    ],
+    "optimized_version": "\ud83d\udc80 266 BTC sold at the 2015 bottom. About $21M today, he says.\n\nFact: an early Bitcoin advocate says he sold 266 BTC at the 2015 low and regrets it (quoted by Pete Rizzo).\n\nInterpretation: the mistake wasn't selling. It was selling in a panic, at the low, with no plan.\n\nWhat I use instead of 'never sell':\n- a size I can hold through a deep drawdown\n- exit rules written before the panic\n- no leverage, so nothing forces the sale\n\nWhat's your rule for selling, if you have one?\nSave this / follow for rules-based spot strategies.",
+    "visual_or_number": "Key number: 266 BTC, ~$21M today (quote in pete_rizzo_'s post); verify the original interview before using it.",
+    "reference_url": "https://x.com/pete_rizzo_/status/2117334928627216425"
+   }
+  },
+  {
+   "handle": "@lopp",
+   "display_name": "lopp",
+   "name": "lopp",
+   "text": "Announcing the overhaul and re-release of my 2022 project, https://t.co/l0gLT9WMl9\n\nThis is a collection of charts showing the inflation rate of Bitcoin, other currencies, and how they relate to each other. Suggestions welcome for other charts to add!",
+   "hook": "Announcing the overhaul and re-release of my 2022 project, https://t.co/l0gLT9WMl9",
+   "url": "https://x.com/lopp/status/2117233017345449994",
+   "status_url": "https://x.com/lopp/status/2117233017345449994",
+   "created_at": "2026-11-02T12:31:02.000Z",
+   "lang": "en",
+   "draft_en": "Jameson Lopp re-released his charts on Bitcoin's inflation rate vs other currencies.\n\nWhy it's worth a bookmark:\n- the $BTC supply schedule is public and checkable\n- you can compare it with fiat money growth yourself\n- data beats slogans about 'hard money'\n\nSave this / repost for the data-first crowd.",
+   "draft_quote_en": "Useful. Suggestion: each currency's purchasing power over 10 years next to its supply growth, so people can see the link (or the lack of it).",
+   "video_tip": "Scroll through inflation-rate charts, $BTC line flattening; 7s.",
+   "reply_angle": "Suggest a chart: supply growth vs purchasing power per currency over the same window; he asked for ideas.",
+   "why_chosen": "Data project (inflation-rate charts) that explicitly asks for suggestions: open door for a data-minded reply.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 14921,
+   "views_label": "14,921 views",
+   "highlight": true,
+   "likes": 153,
+   "replies": 18,
+   "reposts": 13,
+   "bookmarks": 65,
+   "is_new": true
+  },
+  {
+   "handle": "@CryptoCon_",
+   "display_name": "CryptoCon_",
+   "name": "CryptoCon_",
+   "text": "My thoughts on psychology remain the same. At the latest high, it was \"the bull market is back.\" Almost every projection I've seen is a line drawn straight up to ATHs.\n\nEvery turn this bear market has been met with extreme optimism.\n\nSome people might say the psychology has https://t.co/RQRpc351DW",
+   "hook": "My thoughts on psychology remain the same. At the latest high, it was \"the bull market is back.\" Almost every projection I've seen is a line drawn straight up to ATHs.",
+   "url": "https://x.com/CryptoCon_/status/2117319832035266742",
+   "status_url": "https://x.com/CryptoCon_/status/2117319832035266742",
+   "created_at": "2026-11-02T18:16:00.000Z",
+   "lang": "en",
+   "draft_en": "'Every turn this bear market was met with extreme optimism.'\n\nThat's a testable claim.\n- measure: sentiment index at each local high\n- compare: price 30 days later\n- conclude only after the numbers\n\nSave this / follow if you like claims with data.",
+   "draft_quote_en": "Interesting framing. Which sentiment measure are you using? Readings at each local top on one chart would make the case.",
+   "video_tip": "Smiley faces on each lower high of a chart; 6s.",
+   "reply_angle": "Ask which sentiment metric backs 'extreme optimism' at each turn; check Fear & Greed on those dates.",
+   "why_chosen": "Sentiment claim ('every turn met with extreme optimism') that can be tested with a metric.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 12909,
+   "views_label": "12,909 views",
+   "highlight": true,
+   "likes": 159,
+   "replies": 25,
+   "reposts": 10,
+   "bookmarks": 22,
+   "is_new": true
+  },
+  {
+   "handle": "@juanbiter",
+   "display_name": "juanbiter",
+   "name": "juanbiter",
+   "text": "Finalmente #bitcoin se acerca al precio STH, sum\u00e1ndose a otros indicadores que se\u00f1alan reinicio de tendencia\n\nLa infraestructura en IA sigue mostrando debilidad, presionando mercados a la baja... a\u00fan as\u00ed $BTC con mejor comportamiento que el #Oro \n\ud83d\udc47\ud83c\udfaf\nhttps://t.co/Fxw9grlVaS https://t.co/Qx6P1xoC5t",
+   "hook": "Finalmente #bitcoin se acerca al precio STH, sum\u00e1ndose a otros indicadores que se\u00f1alan reinicio de tendencia",
+   "url": "https://x.com/juanbiter/status/2117356255765512626",
+   "status_url": "https://x.com/juanbiter/status/2117356255765512626",
+   "created_at": "2026-11-02T20:40:44.000Z",
+   "lang": "es",
+   "draft_en": "$BTC is near the short-term holder cost basis (per Juan Rodr\u00edguez).\n\nWhy that level matters:\n- it's roughly the average price recent buyers paid\n- above it they're in profit, below it they're under water\n- reclaiming it is often read as a trend reset\n\nCheck how it behaved in past corrections first.\n\nSave this / follow for the STH chart.",
+   "draft_quote_en": "El precio STH es buen term\u00f3metro. \u00bfCu\u00e1ntas veces en correcciones anteriores el rebote desde ah\u00ed aguant\u00f3 m\u00e1s de un mes? Ese dato le dar\u00eda peso al 'reinicio de tendencia'.",
+   "video_tip": "Price touching the STH cost-basis line, zoom out to past corrections; 6s.",
+   "reply_angle": "Preguntar por la tasa base: \u00bfqu\u00e9 pas\u00f3 en correcciones previas al tocar el precio STH? Revisar el hist\u00f3rico antes de llamarlo reinicio.",
+   "why_chosen": "Spanish on-chain post (STH cost basis) in his lane; a Spanish reply asking for the base rate fits.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 5560,
+   "views_label": "5,560 views",
+   "highlight": false,
+   "likes": 75,
+   "replies": 1,
+   "reposts": 5,
+   "bookmarks": 2,
+   "is_new": true
+  },
+  {
+   "handle": "@BTC_for_Freedom",
+   "display_name": "BTC_for_Freedom",
+   "name": "BTC_for_Freedom",
+   "text": "The system isn't broken. It's working exactly as designed. Just not for you.",
+   "hook": "The system isn't broken. It's working exactly as designed. Just not for you.",
+   "url": "https://x.com/BTC_for_Freedom/status/2117197725561192456",
+   "status_url": "https://x.com/BTC_for_Freedom/status/2117197725561192456",
+   "created_at": "2026-11-02T10:10:48.000Z",
+   "lang": "en",
+   "draft_en": "'The system isn't broken. It's working as designed.'\n\nThen look at the design:\n- $BTC: supply schedule is public\n- fiat: supply decided by committee\n\nYou don't need a slogan. You can compare the two charts.\n\nSave this / repost to someone who likes receipts.",
+   "draft_quote_en": "Strong line. The data version: plot M2 growth next to $BTC's issuance schedule and let people judge 'designed' for themselves.",
+   "video_tip": "Two lines: fiat supply curve rising, $BTC supply curve flattening; 6s.",
+   "reply_angle": "Offer the receipts: compare money-supply growth with $BTC's fixed issuance; check M2 data.",
+   "why_chosen": "High engagement rate (6.5%) one-liner; he can add the data version (supply schedules).",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 4458,
+   "views_label": "4,458 views",
+   "highlight": false,
+   "likes": 238,
+   "replies": 8,
+   "reposts": 30,
+   "bookmarks": 11,
+   "is_new": true
+  },
+  {
+   "handle": "@ecoinometrics",
+   "display_name": "ecoinometrics",
+   "name": "ecoinometrics",
+   "text": "Bitcoin demand in October:\n\u2022 Public companies bought more after a weak summer\n\u2022 Spot ETFs saw net outflows\n\u2022 Corporate buying covered part of the gap, not all of it https://t.co/p2EOQ5Rto4",
+   "hook": "Bitcoin demand in October:",
+   "url": "https://x.com/ecoinometrics/status/2117281546688471301",
+   "status_url": "https://x.com/ecoinometrics/status/2117281546688471301",
+   "created_at": "2026-11-02T15:43:52.000Z",
+   "lang": "en",
+   "draft_en": "October $BTC demand, per ecoinometrics:\n- public companies bought more after a weak summer\n- spot ETFs had net outflows\n- corporate buying covered part of the gap, not all\n\nSo who's the marginal buyer now? Not the ETFs, at least for a month.\n\nSave this / follow for the demand tracker.",
+   "draft_quote_en": "So the gap was filled by someone else or by price. Do you have the net figure, ETF outflows minus corporate buys?",
+   "video_tip": "Stacked bars: corporate buying vs ETF outflows for October; 6s.",
+   "reply_angle": "Ask for the net number: October ETF outflows minus corporate purchases, and who filled the rest.",
+   "why_chosen": "Demand breakdown (corporates vs ETFs) with no net figure: ask for it.",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 4257,
+   "views_label": "4,257 views",
+   "highlight": false,
+   "likes": 8,
+   "replies": 2,
+   "reposts": 1,
+   "bookmarks": 1,
+   "is_new": true
+  },
+  {
+   "handle": "@TheBitcoinConf",
+   "display_name": "TheBitcoinConf",
+   "name": "TheBitcoinConf",
+   "text": "#BITCOIN AVERAGED +53.5% IN THE YEAR AFTER THE LAST THREE U.S. MIDTERMS \ud83c\uddfa\ud83c\uddf8\n\n2014: +23.6%\n2018: +44.9%\n2022: +92.1%\n\nWhat do you make of this pattern? \ud83d\udcad https://t.co/2Rh1XSy2Iw",
+   "hook": "#BITCOIN AVERAGED +53.5% IN THE YEAR AFTER THE LAST THREE U.S. MIDTERMS \ud83c\uddfa\ud83c\uddf8",
+   "url": "https://x.com/TheBitcoinConf/status/2117361284609904679",
+   "status_url": "https://x.com/TheBitcoinConf/status/2117361284609904679",
+   "created_at": "2026-11-02T21:00:43.000Z",
+   "lang": "en",
+   "draft_en": "$BTC after the last 3 US midterms: +23.6%, +44.9%, +92.1% (per The Bitcoin Conference).\n\nAverage: +53.5%.\n\nBut:\n- n = 3\n- 2014, 2018 and 2022 all fell about 2 years after a halving\n- correlation isn't causation\n\nSave this / repost before someone calls it a law.",
+   "draft_quote_en": "Three data points, and all three sit at the same spot in the halving cycle. Midterm effect or cycle effect? Can't separate them with n=3.",
+   "video_tip": "Three bars 2014/2018/2022, then an 'n=3' stamp; 5s.",
+   "reply_angle": "Point out n=3 and the halving-cycle overlap; ask how you'd separate a midterm effect from the 4-year cycle.",
+   "why_chosen": "Explicit question + three numbers + midterms tomorrow: textbook base-rate reply (n=3, halving overlap).",
+   "off_niche": false,
+   "content_unreadable": false,
+   "views": 2563,
+   "views_label": "2,563 views",
+   "highlight": false,
+   "likes": 25,
+   "replies": 4,
+   "reposts": 4,
    "bookmarks": 0,
    "is_new": true,
-   "visual_suggestion": "Visual sugerido: gr\u00e1fico + $BTC semanal con media de 50 semanas y rupturas previas marcadas (check data).",
    "viral": {
-    "why_it_worked": "Specific level and a named analyst's falsifiable claim; usefulness (people save levels) and conversation (agree/disagree).",
+    "why_it_worked": "Year-by-year numbers + an event tomorrow (midterms) + an explicit question; FOMO and usefulness, easy to argue with. Low views but high-reply format.",
     "hook_options": [
-     "Most $BTC theses can't be wrong. This one can.",
-     "One line on the chart decides this thesis.",
-     "What happened the last times $BTC lost the 50-week average?",
-     "Name your invalidation level or you don't have a plan."
+     {
+      "emotion": "FOMO",
+      "hook": "\ud83d\udd25 +23.6%, +44.9%, +92.1%. $BTC after the last 3 midterms. Fourth time?"
+     },
+     {
+      "emotion": "shock",
+      "hook": "\ud83d\ude33 $BTC averaged +53.5% after midterms. Built on just 3 data points."
+     },
+     {
+      "emotion": "fear",
+      "hook": "\u26a0\ufe0f Midterms are tomorrow. The 'pattern' everyone's sharing has n=3. Trust it?"
+     }
     ],
-    "optimized_version": "Most $BTC theses can't be wrong. This one can: the 50-week average, around $76K (reported).\n\nWhat I'd check before reacting:\n- past 50w breaks: how many recovered within weeks?\n- how deep were the ones that didn't?\n\nThat's a base rate, not a feeling.\n\nHow many weekly closes below would make you act?\nSave this / repost if you use rules.",
-    "visual_or_number": "Key check: count past weekly closes below the 50w MA and outcomes (backtest needed); level ~$76K as reported.",
-    "reference_url": "https://x.com/BitcoinNews/status/2116987392104006118"
+    "optimized_version": "\ud83d\ude33 $BTC averaged +53.5% after midterms. Built on just 3 data points.\n\nFact (per The Bitcoin Conference): 2014 +23.6%, 2018 +44.9%, 2022 +92.1% in the year after.\n\nInterpretation: all three midterms fell about 2 years after a halving. So is it the election or the cycle?\n\nWith n=3 you can't tell. I'd treat it as a cycle effect until proven otherwise.\n\nMidterm or halving: which one do you think drives it?\nSave this / repost before someone calls it a law.",
+    "visual_or_number": "Visual sugerido: barras + retorno $BTC a 12 meses tras midterms 2014/2018/2022 (cifras del post, verificar) con fechas de halving marcadas.",
+    "reference_url": "https://x.com/TheBitcoinConf/status/2117361284609904679"
    }
   },
   {
@@ -403,208 +805,174 @@
    "why_chosen": "List-format macro thesis with debatable bullets (AI, debt, socialism): room to separate fact vs opinion.",
    "off_niche": false,
    "content_unreadable": false,
-   "views": 12612,
-   "views_label": "12,612 views",
+   "views": 59073,
+   "views_label": "59,073 views",
    "highlight": true,
-   "likes": 269,
-   "replies": 32,
-   "reposts": 17,
-   "bookmarks": 42,
-   "is_new": true
-  },
-  {
-   "handle": "@lopp",
-   "display_name": "lopp",
-   "name": "lopp",
-   "text": "Every day is a good day to take your funds back from trusted third parties. I can assure you that if you lose your money, the loss doesn't sting less just because it was due to someone else's mistake rather than your own.\nhttps://t.co/GRTpxj8Kj4",
-   "hook": "Every day is a good day to take your funds back from trusted third parties. I can assure you that if you lose your money, the loss doesn't sting less just because it was due to someone else's mistake ",
-   "url": "https://x.com/lopp/status/2116935900362096921",
-   "status_url": "https://x.com/lopp/status/2116935900362096921",
-   "created_at": "2026-11-01T16:50:24.000Z",
-   "lang": "en",
-   "draft_en": "Losing coins to an exchange hurts the same as losing them to your own mistake.\n\nThe difference: you can practice not making mistakes.\n- small test transaction first\n- backup tested, not just written\n- inheritance plan\n\nSave this checklist / follow for more.",
-   "draft_quote_en": "True, and the self-custody risk is mostly operational. A tested backup is worth more than a perfect hardware wallet.",
-   "video_tip": "Exchange logo cracking, then hardware wallet + seed backup checklist; 8s.",
-   "reply_angle": "Add the missing caveat: self-custody risk is operational; suggest a tested backup and a small test send.",
-   "why_chosen": "Self-custody message with timely relevance after the Binance hack.",
-   "off_niche": false,
-   "content_unreadable": false,
-   "views": 12086,
-   "views_label": "12,086 views",
-   "highlight": true,
-   "likes": 74,
-   "replies": 15,
-   "reposts": 5,
-   "bookmarks": 3,
-   "is_new": true
-  },
-  {
-   "handle": "@Coinvo",
-   "display_name": "Coinvo",
-   "name": "Coinvo",
-   "text": "WOW: \ud83c\udde6\ud83c\uddea\ud83c\uddfa\ud83c\uddf8 UAE and OpenAI just signed 4 deals across government, energy, and investment.\n\nADNOC is now the first energy firm to deploy OpenAI Frontier technology. https://t.co/fXXxq9xnHU",
-   "hook": "WOW: \ud83c\udde6\ud83c\uddea\ud83c\uddfa\ud83c\uddf8 UAE and OpenAI just signed 4 deals across government, energy, and investment.",
-   "url": "https://x.com/Coinvo/status/2117129465931403548",
-   "status_url": "https://x.com/Coinvo/status/2117129465931403548",
-   "created_at": "2026-11-02T05:39:33.000Z",
-   "lang": "en",
-   "draft_en": "Governments are signing AI deals that include energy.\n\nWhy a $BTC holder might care:\n- miners and AI compete for cheap power\n- check hashprice and miner pivots to AI hosting\n\nSame energy, two buyers.\n\nSave this / follow.",
-   "draft_quote_en": "Energy is part of the deal. Interesting to watch if AI demand for power raises the bar for Bitcoin miners in the region.",
-   "video_tip": "Power plant splitting into 'AI' and 'BTC' arrows; 7s.",
-   "reply_angle": "Bridge: AI and miners compete for power; check miner revenue and AI hosting pivots.",
-   "why_chosen": "Big AI-state deal; off-lane but bridges to energy and compute demand narratives.",
-   "off_niche": true,
-   "content_unreadable": false,
-   "views": 11595,
-   "views_label": "11,595 views",
-   "highlight": true,
-   "likes": 161,
-   "replies": 20,
-   "reposts": 14,
-   "bookmarks": 9,
-   "is_new": true
-  },
-  {
-   "handle": "@pete_rizzo_",
-   "display_name": "pete_rizzo_",
-   "name": "pete_rizzo_",
-   "text": "JUST IN: HEDGE FUND MANAGER HUGH HENDRY JUST SAID 1 #BITCOIN SHOULD BE WORTH OVER $1,000,000 TODAY\n\nTHE US MUST \"RETREAT\" FROM A DOLLAR STANDARD\n\n\"STABLECOINS ARE NOW FULLY ENDORSED BY PRESIDENT TRUMP'S ADMINISTRATION\" \n\n\"BTC HAD TO BE GIVEN AMERICAN SOVEREIGN BLESSING \u2013\u2013\u00a0AND https://t.co/RcwgLUE6Bd",
-   "hook": "JUST IN: HEDGE FUND MANAGER HUGH HENDRY JUST SAID 1 #BITCOIN SHOULD BE WORTH OVER $1,000,000 TODAY",
-   "url": "https://x.com/pete_rizzo_/status/2117091325447389311",
-   "status_url": "https://x.com/pete_rizzo_/status/2117091325447389311",
-   "created_at": "2026-11-02T03:08:00.000Z",
-   "lang": "en",
-   "draft_en": "\"$BTC should be worth $1M today.\" Should is doing a lot of work.\n\nFair value claims need:\n- a model\n- its inputs\n- what would make it wrong\n\nWithout those it's an opinion with a number.\n\nI'll keep buying spot on rules, not targets.\nSave this / follow for the math.",
-   "draft_quote_en": "Should be worth it according to which model? If it's dollar-debasement, what's the input and the time frame? Interested in the math.",
-   "video_tip": "'$1,000,000' flashing, then 'model?' in lime; 6s.",
-   "reply_angle": "Ask for the model: what inputs make $1M 'fair' today, and what would invalidate it?",
-   "why_chosen": "Bold $1M-per-BTC claim from a known fund manager: debatable, invites a 'based on what model?' reply.",
-   "off_niche": false,
-   "content_unreadable": false,
-   "views": 11374,
-   "views_label": "11,374 views",
-   "highlight": true,
-   "likes": 201,
-   "replies": 16,
-   "reposts": 27,
-   "bookmarks": 23,
-   "is_new": true
-  },
-  {
-   "handle": "@maxkeiser",
-   "display_name": "maxkeiser",
-   "name": "maxkeiser",
-   "text": "\u201cEl Salvador is Bitcoin Country. This is not a coincidence. It was a choice made by those who want to win.\" - Stacy Herbert\n\nChristine Lagarde is NOT AMUSED! \n\n\ud83c\uddf8\ud83c\uddfb\ud83d\ude80 https://t.co/2WZvFnbs8C https://t.co/oQYrhhOhKV",
-   "hook": "\u201cEl Salvador is Bitcoin Country. This is not a coincidence. It was a choice made by those who want to win.\" - Stacy Herbert",
-   "url": "https://x.com/maxkeiser/status/2116987807927304344",
-   "status_url": "https://x.com/maxkeiser/status/2116987807927304344",
-   "created_at": "2026-11-01T20:16:39.000Z",
-   "lang": "en",
-   "draft_en": "\"Bitcoin country\" is a brand. Adoption is a number.\n\nWhat I'd check for El Salvador:\n- share of payments in BTC\n- state BTC holdings over time\n- IMF conditions on the program\n\nStory first, data second, conclusion last.\n\nSave this / follow.",
-   "draft_quote_en": "Strong branding. What does day-to-day usage look like now? Payment data would say more than the slogan.",
-   "video_tip": "Flag of El Salvador, then three data cards with '?'; 7s.",
-   "reply_angle": "Ask for usage data (payments share, state holdings) beyond the slogan.",
-   "why_chosen": "El Salvador 'Bitcoin country' with a Lagarde jab: a reply can ask about actual adoption data.",
-   "off_niche": false,
-   "content_unreadable": false,
-   "views": 10663,
-   "views_label": "10,663 views",
-   "highlight": true,
-   "likes": 154,
-   "replies": 18,
-   "reposts": 27,
-   "bookmarks": 4,
-   "is_new": true
+   "likes": 1228,
+   "replies": 96,
+   "reposts": 85,
+   "bookmarks": 174,
+   "is_new": false
   }
  ],
  "virals": [
   {
-   "handle": "@DocumentingBTC",
-   "why_it_worked": "Absolute, reassuring title on a fear topic: identity (holders want reassurance) and video format; strong share psychology.",
+   "handle": "@WatcherGuru",
+   "why_it_worked": "Breaking 'JUST IN' + flag + concrete $40M figure + fear of losing access; second hack in a week amplifies panic. Share psychology: usefulness (warn friends). 803 replies, 818 bookmarks.",
    "hook_options": [
-    "Quantum won't kill Bitcoin. But 'never' is wrong too.",
-    "The quantum debate has two wrong sides.",
-    "Which coins are actually exposed to quantum? Not all of them.",
-    "Fear says 'soon'. Hype says 'never'. Both skip the upgrade."
+    {
+     "emotion": "fear",
+     "hook": "\ud83d\udea8 Second exchange in a week just froze withdrawals. Is yours next?"
+    },
+    {
+     "emotion": "shock",
+     "hook": "\ud83d\ude33 $40M+ reportedly gone and Brazil's biggest exchange hit pause. Where are your coins?"
+    },
+    {
+     "emotion": "anger",
+     "hook": "\u26a0\ufe0f 'Customers unaffected.' Then why can't they withdraw?"
+    }
    ],
-   "optimized_version": "The quantum debate has two wrong sides.\n\n'Never' ignores coins with exposed public keys.\n'Soon' ignores that Bitcoin can migrate signatures.\n\nWhat I watch instead:\n- share of coins with exposed keys (check on-chain studies)\n- progress on post-quantum proposals\n\nIs your stack in an address that has never spent?\nSave this / follow for updates.",
-   "visual_or_number": "Key number to verify: % of BTC supply in exposed-pubkey addresses (check published on-chain research); no figure until verified.",
-   "reference_url": "https://x.com/DocumentingBTC/status/2117017033149735405"
+   "optimized_version": "\ud83d\udea8 Second exchange in a week just froze withdrawals.\n\nFact: Mercado Bitcoin paused deposits and withdrawals after a reported $40M+ hack. Binance had its own days earlier.\n\nInterpretation: the risk isn't only theft. It's losing access while they sort it out.\n\nMy checklist as a $BTC spot holder:\n- what % sits on exchanges\n- can I withdraw today (tested, not assumed)\n- is my seed backup plan written down\n\nHow much of your stack could you withdraw in the next hour?\nSave this / repost to the friend who keeps it all on one app.",
+   "visual_or_number": "Key number: $40M+ reported (WatcherGuru); verify with Mercado Bitcoin's statement and on-chain tracing (Arkham/Hypernative).",
+   "reference_url": "https://x.com/WatcherGuru/status/2117264941732561061"
   },
   {
-   "handle": "@APompliano",
-   "why_it_worked": "Contrarian 'most people don't realize' hook, one sentence, identity/status share (I'm the one who sees it), invites everyone to agree or argue; no number so replies fill the gap.",
+   "handle": "@saylor",
+   "why_it_worked": "Primary-source holder update with exact numbers (811, 849,327, $4.9B); status/identity share for holders, and 514 replies arguing dilution and risk. Format: one dense sentence plus image.",
    "hook_options": [
-    "Everyone says the printer will save $BTC. Nobody says when.",
-    "Debasement is a thesis. Lag is the trade.",
-    "I checked how $BTC behaves after money supply jumps. The timing matters more than the story.",
-    "\"They'll print\" is not a position size."
+    {
+     "emotion": "FOMO",
+     "hook": "\ud83d\udc40 849,327 $BTC in one company. Still think you're early?"
+    },
+    {
+     "emotion": "shock",
+     "hook": "\ud83d\ude33 811 $BTC bought last week. The bigger number was $208M."
+    },
+    {
+     "emotion": "fear",
+     "hook": "\u26a0\ufe0f $4.9B parked in dollars. What is Strategy protecting against?"
+    }
    ],
-   "optimized_version": "Everyone says the printer will save $BTC. Nobody says when.\n\nWhat I'd actually check:\n- global M2 growth by year\n- $BTC return in the 6-12 months after\n- max drawdown while you wait\n\nIf the lag is long, conviction without sizing gets you shaken out first.\n\nWhat lag do you use, if any?\nSave this / repost if you've been told 'just wait'.",
-   "visual_or_number": "Visual sugerido: l\u00ednea M2 global vs $BTC log por ciclo (check M2 source, e.g. central bank data); no figures until verified.",
-   "reference_url": "https://x.com/APompliano/status/2117053397602058425"
+   "optimized_version": "\ud83d\ude33 811 $BTC bought last week. The bigger number was $208M.\n\nFact (Saylor's post): Strategy holds 849,327 BTC, repurchased $208M of $STRC and keeps $4.9B in USD assets.\n\nInterpretation: the USD pile looks like a buffer for preferred dividends, so they aren't forced to sell BTC in a drawdown.\n\nThe spot-holder version of that buffer: position size and cash you won't need.\n\nWhat's your buffer if $BTC drops hard from here?\nSave this / follow for the treasury tracker.",
+   "visual_or_number": "Key numbers: 811 BTC, 849,327 BTC, $208M STRC, $4.9B USD (saylor's post); check yearly dividend obligations in Strategy filings.",
+   "reference_url": "https://x.com/saylor/status/2117241559267836333"
   },
   {
-   "handle": "@BitcoinArchive",
-   "why_it_worked": "Big specific number + short timeframe + an ironic official quote; surprise and usefulness (people share to warn others).",
+   "handle": "@BitcoinMagazine",
+   "why_it_worked": "Index crossing a threshold + a famous quote = emotional flip from fear to opportunity; identity share for contrarian holders; 81 replies. Format: news line + slogan.",
    "hook_options": [
-    "$3.64B walked out of Binance in 9 hours.",
-    "An exchange says 'stable'. The flows say something else.",
-    "2.1% of assets in 9 hours. Is that a run or a reflex?",
-    "The one chart to check before trusting any exchange statement."
+    {
+     "emotion": "fear",
+     "hook": "\ud83d\ude31 'Fear' for the first time since August. Are you buying or frozen?"
+    },
+    {
+     "emotion": "FOMO",
+     "hook": "\ud83d\udc40 Everyone quotes Buffett when the index says fear. Who checks the hit rate?"
+    },
+    {
+     "emotion": "panic",
+     "hook": "\ud83d\udcc9 Sentiment flipped to fear after a $6.3B hack. Low, or just the start?"
+    }
    ],
-   "optimized_version": "$3.64B walked out of Binance in 9 hours (reported).\n\nFact: coins moved.\nInterpretation: we don't know yet if it's a run.\n\nThe test is day 2 and day 3:\n- outflows slowing = scare\n- outflows steady = trust problem\n\nWhere did yours go: cold wallet or another exchange?\nSave this / follow for the follow-up data.",
-   "visual_or_number": "Key number: $3.64B in 9h / 2.1% of assets, as reported by BitcoinArchive; verify with DefiLlama daily net flows.",
-   "reference_url": "https://x.com/BitcoinArchive/status/2116984412772741391"
+   "optimized_version": "\ud83d\ude31 'Fear' for the first time since August. Are you buying or frozen?\n\nFact: the Bitcoin Fear & Greed Index dropped to 'fear' after the $6.3B Binance hack (reported by Bitcoin Magazine).\n\nInterpretation: a fear reading is a mood, not a signal, until you test it.\n\nWhat I'm checking:\n- every past 'fear' reading\n- $BTC return 30 and 90 days later\n- worst drawdown before recovery\n\nWould you buy a fear reading without knowing its hit rate?\nSave this / follow for the backtest.",
+   "visual_or_number": "Visual sugerido: tabla + lecturas 'fear' pasadas vs retorno $BTC a 30/90 d\u00edas (check alternative.me history; backtest pendiente).",
+   "reference_url": "https://x.com/BitcoinMagazine/status/2117292532644172071"
   },
   {
    "handle": "@Cointelegraph",
-   "why_it_worked": "List of numbers by asset with a surprise winner (XRP inflows); tribal identity and scannable data drive reposts.",
+   "why_it_worked": "Huge number + short timeframe + rival comparison = bank-run fear and tribal exchange debate; scannable one-liner with a chart.",
    "hook_options": [
-    "$202M left Bitcoin ETFs last week. Here's the number that actually matters.",
-    "One week of ETF outflows is weather, not climate.",
-    "Everyone posts the flow. Nobody posts the denominator.",
-    "Bitcoin ETFs bled. XRP gained. Read the scale first."
+    {
+     "emotion": "panic",
+     "hook": "\ud83d\udea8 $14.1B walked out of Binance in a week. Is this a bank run?"
+    },
+    {
+     "emotion": "shock",
+     "hook": "\ud83d\ude33 $3.5B left in 24 hours. Only $499M showed up at OKX."
+    },
+    {
+     "emotion": "fear",
+     "hook": "\u26a0\ufe0f $14.1B out after a $6.3B hack. Where did the rest go?"
+    }
    ],
-   "optimized_version": "Everyone posts the flow. Nobody posts the denominator.\n\nBTC spot ETFs: -$202.59M last week (reported).\n\nTo read it:\n- divide by total BTC ETF assets (check)\n- compare with the last 4 weeks\n- see if price moved with it\n\nIf it's under 1% and alone, it's noise.\n\nDo you track flows weekly or monthly?\nSave this / follow for the 8-week chart.",
-   "visual_or_number": "Key number: -$202.59M (Cointelegraph); verify on Farside and divide by total BTC ETF AUM.",
-   "reference_url": "https://x.com/Cointelegraph/status/2117149913419018506"
+   "optimized_version": "\ud83d\udea8 $14.1B walked out of Binance in a week. Is this a bank run?\n\nFact (reported by Cointelegraph): $14.1B net outflows in 7 days, $3.5B in the last 24h. Rival OKX: +$499M.\n\nInterpretation: the gap is the story. Most of that money didn't land at OKX.\n\nWhat I'd check:\n- flows into self-custody vs other exchanges\n- whether outflows slow in the next few days\n- Binance's remaining reserves\n\nWhere did your coins go after the hack?\nSave this / repost if you track flows.",
+   "visual_or_number": "Key numbers: $14.1B 7d, $3.5B 24h, OKX +$499M (Cointelegraph); verify on DefiLlama CEX transparency.",
+   "reference_url": "https://x.com/Cointelegraph/status/2117351157274206345"
   },
   {
-   "handle": "@caprioleio",
-   "why_it_worked": "Rare admission ('I was wrong') = status/honesty signal, plus a concrete number and a big event contrast; invites agreement and debate.",
+   "handle": "@glassnode",
+   "why_it_worked": "Capitulation story (holders selling at a loss = fear) + a level ($75k) + a historical analog; useful and bookmarkable for spot buyers. Format: data chart + 3 short lines.",
    "hook_options": [
-    "The biggest hack ever and $BTC barely moved. Here's why that might not mean what you think.",
-    "Strength or irrelevance?",
-    "$6B stolen. $77K held. Two readings.",
-    "Price held. The question is why."
+    {
+     "emotion": "fear",
+     "hook": "\ud83d\ude31 Sellers are dumping $BTC at a loss. Longest streak since August."
+    },
+    {
+     "emotion": "relief",
+     "hook": "\ud83d\udd25 The last two loss streaks like this formed local lows. Third time?"
+    },
+    {
+     "emotion": "FOMO",
+     "hook": "\ud83d\udc40 Losses below $80k, and $75k is the line glassnode is watching. What's yours?"
+    }
    ],
-   "optimized_version": "$6B stolen. $BTC held around $77K (reported).\n\nTwo readings:\n1. strength: buyers absorbed it\n2. irrelevance: it was exchange risk, not protocol risk\n\nThey imply different plans. #1 says add. #2 says nothing changed.\n\nWhich one are you trading?\nSave this / repost to a friend who panicked.",
-   "visual_or_number": "Visual sugerido: precio $BTC diario con marca del hack y l\u00ednea de 50 semanas (check price data), acentos lima.",
-   "reference_url": "https://x.com/caprioleio/status/2117025026528690664"
+   "optimized_version": "\ud83d\ude31 Sellers are dumping $BTC at a loss. Longest streak since August.\n\nFact (glassnode): daily net realized losses below $80k, the longest run since mid-August. The Aug and Sep loss clusters formed at local lows.\n\nInterpretation: capitulation can mark lows. But two examples is a small sample.\n\nWhat I'd check before buying spot:\n- does $75k hold?\n- how did earlier loss streaks end in past cycles?\n\nAre you the one selling or the one buying?\nSave this / follow for the update.",
+   "visual_or_number": "Visual sugerido: barras de p\u00e9rdidas realizadas netas diarias + precio $BTC, con clusters de agosto y septiembre marcados (datos glassnode, verificar).",
+   "reference_url": "https://x.com/glassnode/status/2117252467947950109"
   },
   {
-   "handle": "@BitcoinNews",
-   "why_it_worked": "Specific level and a named analyst's falsifiable claim; usefulness (people save levels) and conversation (agree/disagree).",
+   "handle": "@pete_rizzo_",
+   "why_it_worked": "Regret story with a giant number ($21M 'just gone'), a known early advocate and a moral; FOMO + empathy, very shareable. Format: all-caps quotes and a lesson.",
    "hook_options": [
-    "Most $BTC theses can't be wrong. This one can.",
-    "One line on the chart decides this thesis.",
-    "What happened the last times $BTC lost the 50-week average?",
-    "Name your invalidation level or you don't have a plan."
+    {
+     "emotion": "FOMO",
+     "hook": "\ud83d\udc80 266 BTC sold at the 2015 bottom. About $21M today, he says. Would you have held?"
+    },
+    {
+     "emotion": "fear",
+     "hook": "\ud83d\ude31 The worst $BTC trade isn't buying high. It's selling at the bottom."
+    },
+    {
+     "emotion": "anger",
+     "hook": "\u26a0\ufe0f 'Never sell your BTC' sounds wise. Until you need the money. Then what?"
+    }
    ],
-   "optimized_version": "Most $BTC theses can't be wrong. This one can: the 50-week average, around $76K (reported).\n\nWhat I'd check before reacting:\n- past 50w breaks: how many recovered within weeks?\n- how deep were the ones that didn't?\n\nThat's a base rate, not a feeling.\n\nHow many weekly closes below would make you act?\nSave this / repost if you use rules.",
-   "visual_or_number": "Key check: count past weekly closes below the 50w MA and outcomes (backtest needed); level ~$76K as reported.",
-   "reference_url": "https://x.com/BitcoinNews/status/2116987392104006118"
+   "optimized_version": "\ud83d\udc80 266 BTC sold at the 2015 bottom. About $21M today, he says.\n\nFact: an early Bitcoin advocate says he sold 266 BTC at the 2015 low and regrets it (quoted by Pete Rizzo).\n\nInterpretation: the mistake wasn't selling. It was selling in a panic, at the low, with no plan.\n\nWhat I use instead of 'never sell':\n- a size I can hold through a deep drawdown\n- exit rules written before the panic\n- no leverage, so nothing forces the sale\n\nWhat's your rule for selling, if you have one?\nSave this / follow for rules-based spot strategies.",
+   "visual_or_number": "Key number: 266 BTC, ~$21M today (quote in pete_rizzo_'s post); verify the original interview before using it.",
+   "reference_url": "https://x.com/pete_rizzo_/status/2117334928627216425"
+  },
+  {
+   "handle": "@TheBitcoinConf",
+   "why_it_worked": "Year-by-year numbers + an event tomorrow (midterms) + an explicit question; FOMO and usefulness, easy to argue with. Low views but high-reply format.",
+   "hook_options": [
+    {
+     "emotion": "FOMO",
+     "hook": "\ud83d\udd25 +23.6%, +44.9%, +92.1%. $BTC after the last 3 midterms. Fourth time?"
+    },
+    {
+     "emotion": "shock",
+     "hook": "\ud83d\ude33 $BTC averaged +53.5% after midterms. Built on just 3 data points."
+    },
+    {
+     "emotion": "fear",
+     "hook": "\u26a0\ufe0f Midterms are tomorrow. The 'pattern' everyone's sharing has n=3. Trust it?"
+    }
+   ],
+   "optimized_version": "\ud83d\ude33 $BTC averaged +53.5% after midterms. Built on just 3 data points.\n\nFact (per The Bitcoin Conference): 2014 +23.6%, 2018 +44.9%, 2022 +92.1% in the year after.\n\nInterpretation: all three midterms fell about 2 years after a halving. So is it the election or the cycle?\n\nWith n=3 you can't tell. I'd treat it as a cycle effect until proven otherwise.\n\nMidterm or halving: which one do you think drives it?\nSave this / repost before someone calls it a law.",
+   "visual_or_number": "Visual sugerido: barras + retorno $BTC a 12 meses tras midterms 2014/2018/2022 (cifras del post, verificar) con fechas de halving marcadas.",
+   "reference_url": "https://x.com/TheBitcoinConf/status/2117361284609904679"
   }
  ],
  "outsiders": [],
  "patterns": [
-  "Binance $6.3B hack aftermath: net outflows, coverage claims, Gate freezes (BitcoinArchive, coinbureau, Cointelegraph)",
-  "Resilience readings: $BTC holding ~$77K, 50w MA ~$76K as invalidation (caprioleio, BitcoinNews)",
-  "Quantum risk: 'never' vs 'ceiling' framing (DocumentingBTC, Cointelegraph, pete_rizzo_)",
-  "Hot wallet / self-custody warnings (BitcoinNewsCom, lopp)",
-  "Debasement and bold fair-value claims without models (APompliano, pete_rizzo_, dotkrueger)",
-  "Off-lane reach: US midterms, Star Wars debate, UAE-OpenAI (Dennis_Porter_, LynAldenContact, Coinvo)"
+  "Exchange risk week: Binance $6.3B hack aftermath (95% covered claim, $14.1B net outflows), Mercado Bitcoin $40M+ hack and withdrawal halt, $106M EU account drain (BitcoinArchive, Cointelegraph, WatcherGuru, coinbureau)",
+  "North Korea / Lazarus attribution and denial (CoinDesk, WatcherGuru, TheBlockCo)",
+  "Sentiment flips to fear; contrarian 'be greedy' framing (BitcoinMagazine, SantimentData, APompliano, CryptoCon_)",
+  "On-chain capitulation and cost-basis levels: losses below $80k, $75k hold, STH price (glassnode, juanbiter, BitQua)",
+  "Treasury buying vs ETF outflows: Strategy 811 BTC, ETF -$643.2M Friday, October demand gap (saylor, CoinMarketCap, ecoinometrics)",
+  "Base-rate bait: midterm +53.5% average on n=3, $1M-$10M fair value, year-end strength forecast (TheBitcoinConf, danheld, BitcoinNews)",
+  "Education and custody: how a transaction works, inflation-rate charts, quantum 'never' debate (DocumentingBTC, lopp, nic_carter)"
  ],
  "no_hits": [
   {
@@ -613,9 +981,9 @@
    "max_views": 0
   },
   {
-   "handle": "@LynAldenContact",
-   "reason": "Originals below 2,000 views floor.",
-   "max_views": 28896
+   "handle": "@Dennis_Porter_",
+   "reason": "Top post is partisan; skipped (no partisan side).",
+   "max_views": 16290
   },
   {
    "handle": "@_Checkmatey_",
@@ -623,14 +991,14 @@
    "max_views": 0
   },
   {
-   "handle": "@ecoinometrics",
+   "handle": "@jameslavish",
    "reason": "No original posts in the last 18h.",
    "max_views": 0
   },
   {
    "handle": "@CaitlinLong_",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 9171
+   "reason": "No original posts in the last 18h.",
+   "max_views": 0
   },
   {
    "handle": "@BitcoinPierre",
@@ -639,8 +1007,8 @@
   },
   {
    "handle": "@Pledditor",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 3782
+   "reason": "No original posts in the last 18h.",
+   "max_views": 0
   },
   {
    "handle": "@Bitcoin",
@@ -654,13 +1022,8 @@
   },
   {
    "handle": "@adam3us",
-   "reason": "Only qualifying post already answered.",
-   "max_views": 44699
-  },
-  {
-   "handle": "@nic_carter",
-   "reason": "No original posts in the last 18h.",
-   "max_views": 0
+   "reason": "Link-only post (content unreadable).",
+   "max_views": 20485
   },
   {
    "handle": "@jackmallers",
@@ -669,8 +1032,23 @@
   },
   {
    "handle": "@maxkeiser",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 8057
+   "reason": "Promo (conference tickets).",
+   "max_views": 11236
+  },
+  {
+   "handle": "@natbrunell",
+   "reason": "News roundup with low engagement.",
+   "max_views": 10394
+  },
+  {
+   "handle": "@bitcoinlfgo",
+   "reason": "Hype/shill posts (all-caps, token promo).",
+   "max_views": 8761
+  },
+  {
+   "handle": "@BitcoinNewsCom",
+   "reason": "Grouped under Mercado Bitcoin and Binance outflows stories.",
+   "max_views": 12278
   },
   {
    "handle": "@therationalroot",
@@ -683,14 +1061,19 @@
    "max_views": 0
   },
   {
-   "handle": "@cluborange",
-   "reason": "Originals below 2,000 views floor.",
-   "max_views": 577
+   "handle": "@caprioleio",
+   "reason": "No original posts in the last 18h.",
+   "max_views": 0
   },
   {
-   "handle": "@CoinMarketCap",
-   "reason": "Only qualifying post already answered.",
-   "max_views": 84022
+   "handle": "@cluborange",
+   "reason": "Originals below 2,000 views floor.",
+   "max_views": 1007
+  },
+  {
+   "handle": "@coinbase",
+   "reason": "Only brand/promo posts (agents, perps, bonus).",
+   "max_views": 113601
   },
   {
    "handle": "@tier10k",
@@ -699,26 +1082,41 @@
   },
   {
    "handle": "@BlockworksData",
-   "reason": "No original posts in the last 18h.",
-   "max_views": 0
+   "reason": "Event promo.",
+   "max_views": 7296
+  },
+  {
+   "handle": "@DefiantNews",
+   "reason": "Grouped under the Mercado Bitcoin story; low views.",
+   "max_views": 3910
+  },
+  {
+   "handle": "@TheBlockCo",
+   "reason": "Grouped under the Mercado Bitcoin story.",
+   "max_views": 18559
+  },
+  {
+   "handle": "@Coinvo",
+   "reason": "Off-lane tech/politics only; no bridge worth a card today.",
+   "max_views": 41927
   },
   {
    "handle": "@SantimentData",
-   "reason": "Only posts are off-niche/promo, a price ticker, or a story already answered, with little reply potential.",
-   "max_views": 5787
+   "reason": "Grouped under the sentiment-fear story.",
+   "max_views": 6863
   }
  ],
- "virals_narrative": "Watchlist scan done (406 originals in 18h, 50 accounts). One card per account.",
- "narrative_synthesis": "Thursday 19:00: the alleged Binance hot-wallet drain (~$2.8B reported, Tether froze $971M, no official Binance statement yet) dominates the last hour. Still on the board: Strategy's Q3 ($21B operating income, mostly the BTC mark), Coinbase earnings, Lagarde's early exit, China's selloff, Glassnode's first 30-day ETF net outflow since July, Fidelity's BTC vs. gold since Feb 28. Security keeps showing up (Binance, Wagyu data leak, Google-infrastructure phishing, tampered Ledgers). Best reply angles: verified vs. reported facts, exchange balances and self-custody, fair-value accounting vs. operating results, start-date and sample-size checks.",
+ "virals_narrative": "Watchlist scan done (275 originals in 18h, 50 accounts). One card per account; 7 viral breakdowns with 3 emotion hooks each.",
+ "narrative_synthesis": "Monday 20:00: exchange risk dominates. Mercado Bitcoin halted withdrawals after a reported $40M+ hack (1.2M views on WatcherGuru), Binance says 95% of hack losses are covered while $14.1B left it in a week (reported), and North Korea denies the attribution. Sentiment hit 'fear' for the first time since August; glassnode shows the longest net realized-loss streak since mid-August below $80k. Strategy added 811 BTC (849,327 total), ETFs ended the week net negative. Best reply angles: base rates (fear readings, midterms n=3, loss streaks), denominators ($3.3B vs $6.3B, ETF net), and custody (withdrawal freezes).",
  "virals_window": "last 24h",
  "virals_target": 20,
- "hits_count": 16,
+ "hits_count": 24,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-10-27",
-  "hits_count": 58,
-  "total_views": 2769345,
-  "note": "previous scan 2026-10-27T07:27:13-03:00"
+  "date": "2026-11-02",
+  "hits_count": 16,
+  "total_views": 444982,
+  "note": "previous scan 2026-11-02T05:45:06-03:00"
  },
  "leaderboards": {
   "as_of": "2026-10-27",
@@ -966,122 +1364,122 @@
  },
  "day_roster": [
   {
-   "handle": "@saylor",
-   "name": "Michael Saylor",
-   "hits": 2,
-   "best": 365413,
-   "total_views": 623451,
+   "handle": "@WatcherGuru",
+   "name": "WatcherGuru",
+   "hits": 15,
+   "best": 1246595,
+   "total_views": 5772605,
    "position": 1,
-   "views": 365413
+   "views": 1246595
+  },
+  {
+   "handle": "@saylor",
+   "name": "saylor",
+   "hits": 3,
+   "best": 438671,
+   "total_views": 673643,
+   "position": 2,
+   "views": 438671
+  },
+  {
+   "handle": "@CoinDesk",
+   "name": "CoinDesk",
+   "hits": 16,
+   "best": 284830,
+   "total_views": 613933,
+   "position": 3,
+   "views": 284830
   },
   {
    "handle": "@BitcoinArchive",
-   "name": "Bitcoin Archive",
-   "hits": 26,
-   "best": 128861,
-   "total_views": 983896,
-   "position": 2,
-   "views": 128861
-  },
-  {
-   "handle": "@BitcoinMagazine",
-   "name": "Bitcoin Magazine",
-   "hits": 7,
-   "best": 80170,
-   "total_views": 311112,
-   "position": 3,
-   "views": 80170
-  },
-  {
-   "handle": "@APompliano",
-   "name": "Anthony Pompliano \ud83c\udf2a",
-   "hits": 5,
-   "best": 65554,
-   "total_views": 189879,
+   "name": "BitcoinArchive",
+   "hits": 15,
+   "best": 253543,
+   "total_views": 576431,
    "position": 4,
-   "views": 65554
+   "views": 253543
   },
   {
-   "handle": "@Dennis_Porter_",
-   "name": "Dennis Porter",
-   "hits": 11,
-   "best": 54638,
-   "total_views": 204836,
+   "handle": "@coinbureau",
+   "name": "coinbureau",
+   "hits": 15,
+   "best": 205897,
+   "total_views": 545798,
    "position": 5,
-   "views": 54638
+   "views": 205897
   },
   {
    "handle": "@LynAldenContact",
-   "name": "Lyn Alden",
-   "hits": 1,
-   "best": 43115,
-   "total_views": 43115,
+   "name": "LynAldenContact",
+   "hits": 9,
+   "best": 161779,
+   "total_views": 494412,
    "position": 6,
-   "views": 43115
+   "views": 161779
   },
   {
-   "handle": "@danheld",
-   "name": "Dan Held",
-   "hits": 4,
-   "best": 29812,
-   "total_views": 72596,
+   "handle": "@CoinMarketCap",
+   "name": "CoinMarketCap",
+   "hits": 13,
+   "best": 128399,
+   "total_views": 582721,
    "position": 7,
-   "views": 29812
+   "views": 128399
   },
   {
-   "handle": "@glassnode",
-   "name": "glassnode",
-   "hits": 5,
-   "best": 27588,
-   "total_views": 117863,
+   "handle": "@coinbase",
+   "name": "coinbase",
+   "hits": 15,
+   "best": 113601,
+   "total_views": 711251,
    "position": 8,
-   "views": 27588
+   "views": 113601
   },
   {
-   "handle": "@DocumentingBTC",
-   "name": "Documenting \u20bfitcoin \ud83d\udcc4",
-   "hits": 2,
-   "best": 19133,
-   "total_views": 33787,
+   "handle": "@BitcoinMagazine",
+   "name": "BitcoinMagazine",
+   "hits": 15,
+   "best": 87481,
+   "total_views": 452091,
    "position": 9,
-   "views": 19133
+   "views": 87481
   },
   {
-   "handle": "@jameslavish",
-   "name": "James Lavish",
-   "hits": 1,
-   "best": 12332,
-   "total_views": 12332,
-   "position": 10,
-   "views": 12332
-  },
-  {
-   "handle": "@Pledditor",
-   "name": "Pledditor",
+   "handle": "@dotkrueger",
+   "name": "dotkrueger",
    "hits": 2,
-   "best": 8680,
-   "total_views": 15176,
-   "position": 11,
-   "views": 8680
+   "best": 59073,
+   "total_views": 69829,
+   "position": 10,
+   "views": 59073
   },
   {
-   "handle": "@lopp",
-   "name": "Jameson Lopp",
-   "hits": 1,
-   "best": 5027,
-   "total_views": 5027,
+   "handle": "@APompliano",
+   "name": "APompliano",
+   "hits": 7,
+   "best": 52285,
+   "total_views": 263795,
+   "position": 11,
+   "views": 52285
+  },
+  {
+   "handle": "@Cointelegraph",
+   "name": "Cointelegraph",
+   "hits": 15,
+   "best": 42626,
+   "total_views": 350779,
    "position": 12,
-   "views": 5027
+   "views": 42626
   }
  ],
  "you_rank": {
   "handle": "@ForecastQuant",
-  "best_views": 12,
-  "total_views": 47,
-  "best_url": "https://x.com/ForecastQuant/status/2115864179571651021",
-  "posts_counted": 16,
-  "rank_among_watchlist": 39,
-  "total_accounts": 39,
+  "best_views": 22,
+  "total_views": 112,
+  "best_url": "https://x.com/ForecastQuant/status/2117235021933346942",
+  "posts_counted": 15,
+  "rank_among_watchlist": 37,
+  "total_accounts": 37,
   "vs_5k": "pending",
   "vs_10k": "pending",
   "note": "Originals + quotes, last 18h; replies excluded."
