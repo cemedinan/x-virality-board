@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-03T07:11:22-03:00",
+  "generated_at": "2026-11-03T08:09:13-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
-  "listed": 162,
+  "listed": 160,
   "in_niche": 7,
-  "not_recommended": 155,
-  "new_since_prev": 96,
-  "removed_replied": 17,
-  "removed_old": 13
+  "not_recommended": 153,
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 2
  },
  "posts": [
   {
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "9 h, ~1 vistas/h, autor 504 seguidores, replies: 0"
+    "reason": "10 h, ~1 vistas/h, autor 504 seguidores, replies: 0"
    }
   },
   {
@@ -58,7 +58,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "9 h, ~1 vistas/h, autor 9.1K seguidores, replies: 0"
+    "reason": "10 h, ~1 vistas/h, autor 9.1K seguidores, replies: 0"
    }
   },
   {
@@ -83,7 +83,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "9 h, ~0 vistas/h, autor 9.1K seguidores, replies: 0"
+    "reason": "10 h, ~0 vistas/h, autor 9.1K seguidores, replies: 0"
    }
   },
   {
@@ -108,7 +108,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "9 h, ~2 vistas/h, autor 9.1K seguidores, replies: 0"
+    "reason": "10 h, ~2 vistas/h, autor 9.1K seguidores, replies: 0"
    }
   },
   {
@@ -133,7 +133,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "9 h, ~10 vistas/h, autor 3.9K seguidores, replies: 0"
+    "reason": "10 h, ~9 vistas/h, autor 3.9K seguidores, replies: 0"
    }
   },
   {
@@ -158,7 +158,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "10 h, ~83 vistas/h, autor 200 seguidores, replies: 0"
+    "reason": "11 h, ~76 vistas/h, autor 200 seguidores, replies: 0"
    }
   },
   {
@@ -183,7 +183,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "10 h, ~1 vistas/h, autor 6.9K seguidores, replies: 0"
+    "reason": "11 h, ~1 vistas/h, autor 6.9K seguidores, replies: 0"
    }
   },
   {
@@ -208,7 +208,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "10 h, ~155 vistas/h, autor 4.4K seguidores, replies: 3"
+    "reason": "11 h, ~141 vistas/h, autor 4.4K seguidores, replies: 3"
    }
   },
   {
@@ -233,7 +233,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "10 h, ~57 vistas/h, autor 10.0K seguidores, replies: 0"
+    "reason": "11 h, ~52 vistas/h, autor 10.0K seguidores, replies: 0"
    }
   },
   {
@@ -258,7 +258,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "11 h, ~88 vistas/h, autor 10.0K seguidores, replies: 0"
+    "reason": "12 h, ~81 vistas/h, autor 10.0K seguidores, replies: 0"
    }
   },
   {
@@ -283,7 +283,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "11 h, ~0 vistas/h, autor 1.5K seguidores, replies: 0"
+    "reason": "12 h, ~0 vistas/h, autor 1.5K seguidores, replies: 0"
    }
   },
   {
@@ -308,7 +308,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "11 h, ~3 vistas/h, autor 15.8K seguidores, replies: 0"
+    "reason": "12 h, ~3 vistas/h, autor 15.8K seguidores, replies: 0"
    }
   },
   {
@@ -333,7 +333,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "12 h, ~0 vistas/h, autor 1.9K seguidores, replies: 0"
+    "reason": "13 h, ~0 vistas/h, autor 1.9K seguidores, replies: 0"
    }
   },
   {
@@ -358,7 +358,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "12 h, ~10 vistas/h, autor 298 seguidores, replies: 0"
+    "reason": "13 h, ~10 vistas/h, autor 298 seguidores, replies: 0"
    }
   },
   {
@@ -383,7 +383,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "12 h, ~9 vistas/h, autor 9.1K seguidores, replies: 0"
+    "reason": "13 h, ~8 vistas/h, autor 9.1K seguidores, replies: 0"
    }
   },
   {
@@ -408,7 +408,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~5 vistas/h, autor 10.3K seguidores, replies: 0"
+    "reason": "14 h, ~5 vistas/h, autor 10.3K seguidores, replies: 0"
    }
   },
   {
@@ -433,7 +433,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "13 h, ~1.3K vistas/h, autor 157.2K seguidores, replies: 33"
+    "reason": "14 h, ~1.2K vistas/h, autor 157.2K seguidores, replies: 33"
    }
   },
   {
@@ -458,7 +458,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~0 vistas/h, autor 391 seguidores, replies: 0"
+    "reason": "14 h, ~0 vistas/h, autor 391 seguidores, replies: 0"
    }
   },
   {
@@ -483,7 +483,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~2 vistas/h, autor 721 seguidores, replies: 0"
+    "reason": "14 h, ~2 vistas/h, autor 721 seguidores, replies: 0"
    }
   },
   {
@@ -508,7 +508,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~13 vistas/h, autor 4.4K seguidores, replies: 0"
+    "reason": "14 h, ~12 vistas/h, autor 4.4K seguidores, replies: 0"
    }
   },
   {
@@ -533,7 +533,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~13 vistas/h, autor 563 seguidores, replies: 0"
+    "reason": "14 h, ~12 vistas/h, autor 563 seguidores, replies: 0"
    }
   },
   {
@@ -558,7 +558,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~16 vistas/h, autor 284 seguidores, replies: 0"
+    "reason": "14 h, ~15 vistas/h, autor 284 seguidores, replies: 0"
    }
   },
   {
@@ -583,7 +583,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~89 vistas/h, autor 186 seguidores, replies: 1"
+    "reason": "14 h, ~82 vistas/h, autor 186 seguidores, replies: 1"
    }
   },
   {
@@ -608,7 +608,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~13 vistas/h, autor 267 seguidores, replies: 0"
+    "reason": "14 h, ~12 vistas/h, autor 267 seguidores, replies: 0"
    }
   },
   {
@@ -633,7 +633,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "13 h, ~2.5K vistas/h, autor 65.9K seguidores, replies: 27"
+    "reason": "14 h, ~2.3K vistas/h, autor 65.9K seguidores, replies: 27"
    }
   },
   {
@@ -658,7 +658,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~16 vistas/h, autor 9.1K seguidores, replies: 0"
+    "reason": "14 h, ~15 vistas/h, autor 9.1K seguidores, replies: 0"
    }
   },
   {
@@ -683,7 +683,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~14 vistas/h, autor 3.5K seguidores, replies: 0"
+    "reason": "14 h, ~13 vistas/h, autor 3.5K seguidores, replies: 0"
    }
   },
   {
@@ -708,7 +708,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~2 vistas/h, autor 1.1K seguidores, replies: 0"
+    "reason": "14 h, ~2 vistas/h, autor 1.1K seguidores, replies: 0"
    }
   },
   {
@@ -733,7 +733,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "13 h, ~88 vistas/h, autor 157.7K seguidores, replies: 1"
+    "reason": "14 h, ~82 vistas/h, autor 157.7K seguidores, replies: 1"
    }
   },
   {
@@ -758,7 +758,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~95 vistas/h, autor 4.4K seguidores, replies: 5"
+    "reason": "14 h, ~89 vistas/h, autor 4.4K seguidores, replies: 5"
    }
   },
   {
@@ -784,7 +784,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "13 h, ~257 vistas/h, autor 6.4K seguidores, replies: 3"
+    "reason": "14 h, ~239 vistas/h, autor 6.4K seguidores, replies: 3"
    }
   },
   {
@@ -809,7 +809,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~64 vistas/h, autor 45.1K seguidores, replies: 0"
+    "reason": "14 h, ~60 vistas/h, autor 45.1K seguidores, replies: 0"
    }
   },
   {
@@ -834,7 +834,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "13 h, ~3 vistas/h, autor 12.6K seguidores, replies: 0"
+    "reason": "14 h, ~3 vistas/h, autor 12.6K seguidores, replies: 0"
    }
   },
   {
@@ -860,7 +860,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~462 vistas/h, autor 2.3K seguidores, replies: 6"
+    "reason": "15 h, ~431 vistas/h, autor 2.3K seguidores, replies: 6"
    }
   },
   {
@@ -885,7 +885,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "14 h, ~240 vistas/h, autor 7.0K seguidores, replies: 5"
+    "reason": "15 h, ~224 vistas/h, autor 7.0K seguidores, replies: 5"
    }
   },
   {
@@ -910,7 +910,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14 h, ~294 vistas/h, autor 165.5K seguidores, replies: 1"
+    "reason": "15 h, ~275 vistas/h, autor 165.5K seguidores, replies: 1"
    }
   },
   {
@@ -935,7 +935,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~1 vistas/h, autor 863 seguidores, replies: 0"
+    "reason": "15 h, ~1 vistas/h, autor 863 seguidores, replies: 0"
    }
   },
   {
@@ -960,7 +960,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~25 vistas/h, autor 452 seguidores, replies: 0"
+    "reason": "15 h, ~23 vistas/h, autor 452 seguidores, replies: 0"
    }
   },
   {
@@ -986,7 +986,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14 h, ~1.7K vistas/h, autor 73.4K seguidores, replies: 19"
+    "reason": "15 h, ~1.6K vistas/h, autor 73.4K seguidores, replies: 19"
    }
   },
   {
@@ -1011,7 +1011,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~7 vistas/h, autor 1.3K seguidores, replies: 0"
+    "reason": "15 h, ~6 vistas/h, autor 1.3K seguidores, replies: 0"
    }
   },
   {
@@ -1036,7 +1036,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~27 vistas/h, autor 16.8K seguidores, replies: 0"
+    "reason": "15 h, ~26 vistas/h, autor 16.8K seguidores, replies: 0"
    }
   },
   {
@@ -1061,7 +1061,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~45 vistas/h, autor 48.6K seguidores, replies: 1"
+    "reason": "15 h, ~42 vistas/h, autor 48.6K seguidores, replies: 1"
    }
   },
   {
@@ -1086,7 +1086,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~8 vistas/h, autor 2.3K seguidores, replies: 1"
+    "reason": "15 h, ~7 vistas/h, autor 2.3K seguidores, replies: 1"
    }
   },
   {
@@ -1111,7 +1111,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "14 h, ~828 vistas/h, autor 16.8K seguidores, replies: 21"
+    "reason": "15 h, ~775 vistas/h, autor 16.8K seguidores, replies: 21"
    }
   },
   {
@@ -1136,7 +1136,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~8 vistas/h, autor 1.9K seguidores, replies: 0"
+    "reason": "15 h, ~8 vistas/h, autor 1.9K seguidores, replies: 0"
    }
   },
   {
@@ -1161,7 +1161,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~43 vistas/h, autor 121 seguidores, replies: 0"
+    "reason": "15 h, ~40 vistas/h, autor 121 seguidores, replies: 0"
    }
   },
   {
@@ -1186,7 +1186,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~0 vistas/h, autor 202 seguidores, replies: 0"
+    "reason": "15 h, ~0 vistas/h, autor 202 seguidores, replies: 0"
    }
   },
   {
@@ -1211,7 +1211,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14 h, ~3.8K vistas/h, autor 550.5K seguidores, replies: 25"
+    "reason": "15 h, ~3.5K vistas/h, autor 550.5K seguidores, replies: 25"
    }
   },
   {
@@ -1236,7 +1236,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "14 h, ~39 vistas/h, autor 1.2K seguidores, replies: 1"
+    "reason": "15 h, ~37 vistas/h, autor 1.2K seguidores, replies: 1"
    }
   },
   {
@@ -1261,7 +1261,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~9 vistas/h, autor 3.1K seguidores, replies: 1"
+    "reason": "16 h, ~8 vistas/h, autor 3.1K seguidores, replies: 1"
    }
   },
   {
@@ -1286,7 +1286,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "15 h, ~127 vistas/h, autor 182 seguidores, replies: 1"
+    "reason": "16 h, ~119 vistas/h, autor 182 seguidores, replies: 1"
    }
   },
   {
@@ -1311,7 +1311,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15 h, ~107 vistas/h, autor 413.4K seguidores, replies: 1"
+    "reason": "16 h, ~101 vistas/h, autor 413.4K seguidores, replies: 1"
    }
   },
   {
@@ -1336,7 +1336,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~10 vistas/h, autor 8.0K seguidores, replies: 1"
+    "reason": "16 h, ~9 vistas/h, autor 8.0K seguidores, replies: 1"
    }
   },
   {
@@ -1361,7 +1361,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~1 vistas/h, autor 9.1K seguidores, replies: 0"
+    "reason": "16 h, ~1 vistas/h, autor 9.1K seguidores, replies: 0"
    }
   },
   {
@@ -1386,7 +1386,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~16 vistas/h, autor 106 seguidores, replies: 1"
+    "reason": "16 h, ~15 vistas/h, autor 106 seguidores, replies: 1"
    }
   },
   {
@@ -1410,8 +1410,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "15 h, ~310 vistas/h, autor 1.2K seguidores, replies: 8"
+    "score": 1,
+    "reason": "16 h, ~291 vistas/h, autor 1.2K seguidores, replies: 8"
    }
   },
   {
@@ -1436,7 +1436,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~12 vistas/h, autor 2.0K seguidores, replies: 1"
+    "reason": "16 h, ~11 vistas/h, autor 2.0K seguidores, replies: 1"
    }
   },
   {
@@ -1461,7 +1461,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "15 h, ~84 vistas/h, autor 384.3K seguidores, replies: 1"
+    "reason": "16 h, ~79 vistas/h, autor 384.3K seguidores, replies: 1"
    }
   },
   {
@@ -1486,7 +1486,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~15 vistas/h, autor 2.4K seguidores, replies: 1"
+    "reason": "16 h, ~14 vistas/h, autor 2.4K seguidores, replies: 1"
    }
   },
   {
@@ -1511,7 +1511,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "15 h, ~9 vistas/h, autor 2.1K seguidores, replies: 1"
+    "reason": "16 h, ~8 vistas/h, autor 2.1K seguidores, replies: 1"
    }
   },
   {
@@ -1561,7 +1561,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~5 vistas/h, autor 2.8K seguidores, replies: 1"
+    "reason": "17 h, ~5 vistas/h, autor 2.8K seguidores, replies: 1"
    }
   },
   {
@@ -1586,7 +1586,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~414 vistas/h, autor 17.2K seguidores, replies: 10"
+    "reason": "17 h, ~390 vistas/h, autor 17.2K seguidores, replies: 10"
    }
   },
   {
@@ -1611,7 +1611,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16 h, ~5.3K vistas/h, autor 738.8K seguidores, replies: 127"
+    "reason": "17 h, ~5.0K vistas/h, autor 738.8K seguidores, replies: 127"
    }
   },
   {
@@ -1636,7 +1636,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~17 vistas/h, autor 4.4K seguidores, replies: 0"
+    "reason": "17 h, ~16 vistas/h, autor 4.4K seguidores, replies: 0"
    }
   },
   {
@@ -1661,7 +1661,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~67 vistas/h, autor 3.2K seguidores, replies: 1"
+    "reason": "17 h, ~63 vistas/h, autor 3.2K seguidores, replies: 1"
    }
   },
   {
@@ -1686,7 +1686,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~30 vistas/h, autor 571 seguidores, replies: 4"
+    "reason": "17 h, ~28 vistas/h, autor 571 seguidores, replies: 4"
    }
   },
   {
@@ -1711,7 +1711,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~149 vistas/h, autor 1.8K seguidores, replies: 1"
+    "reason": "17 h, ~140 vistas/h, autor 1.8K seguidores, replies: 1"
    }
   },
   {
@@ -1736,7 +1736,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~36 vistas/h, autor 932 seguidores, replies: 2"
+    "reason": "17 h, ~34 vistas/h, autor 932 seguidores, replies: 2"
    }
   },
   {
@@ -1761,7 +1761,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~76 vistas/h, autor 175 seguidores, replies: 1"
+    "reason": "17 h, ~72 vistas/h, autor 175 seguidores, replies: 1"
    }
   },
   {
@@ -1786,7 +1786,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~28 vistas/h, autor 2.3K seguidores, replies: 1"
+    "reason": "17 h, ~27 vistas/h, autor 2.3K seguidores, replies: 1"
    }
   },
   {
@@ -1811,7 +1811,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "16 h, ~2.2K vistas/h, autor 95.4K seguidores, replies: 19"
+    "reason": "17 h, ~2.1K vistas/h, autor 95.4K seguidores, replies: 19"
    }
   },
   {
@@ -1836,7 +1836,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~23 vistas/h, autor 6.5K seguidores, replies: 1"
+    "reason": "17 h, ~21 vistas/h, autor 6.5K seguidores, replies: 1"
    }
   },
   {
@@ -1861,7 +1861,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~26 vistas/h, autor 264 seguidores, replies: 1"
+    "reason": "17 h, ~24 vistas/h, autor 264 seguidores, replies: 1"
    }
   },
   {
@@ -1886,7 +1886,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~107 vistas/h, autor 4.3K seguidores, replies: 1"
+    "reason": "17 h, ~101 vistas/h, autor 4.3K seguidores, replies: 1"
    }
   },
   {
@@ -1911,7 +1911,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~1 vistas/h, autor 3.8K seguidores, replies: 0"
+    "reason": "17 h, ~1 vistas/h, autor 3.8K seguidores, replies: 0"
    }
   },
   {
@@ -1936,7 +1936,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~19 vistas/h, autor 97 seguidores, replies: 1"
+    "reason": "17 h, ~18 vistas/h, autor 97 seguidores, replies: 1"
    }
   },
   {
@@ -1961,7 +1961,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~6 vistas/h, autor 1.1K seguidores, replies: 1"
+    "reason": "17 h, ~5 vistas/h, autor 1.1K seguidores, replies: 1"
    }
   },
   {
@@ -1986,7 +1986,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~7 vistas/h, autor 2.9K seguidores, replies: 1"
+    "reason": "17 h, ~7 vistas/h, autor 2.9K seguidores, replies: 1"
    }
   },
   {
@@ -2011,7 +2011,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~991 vistas/h, autor 93.8K seguidores, replies: 74"
+    "reason": "17 h, ~936 vistas/h, autor 93.8K seguidores, replies: 74"
    }
   },
   {
@@ -2036,7 +2036,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~240 vistas/h, autor 173 seguidores, replies: 3"
+    "reason": "17 h, ~227 vistas/h, autor 173 seguidores, replies: 3"
    }
   },
   {
@@ -2061,7 +2061,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~21 vistas/h, autor 1.8K seguidores, replies: 0"
+    "reason": "17 h, ~20 vistas/h, autor 1.8K seguidores, replies: 0"
    }
   },
   {
@@ -2086,7 +2086,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "16 h, ~858 vistas/h, autor 33.0K seguidores, replies: 11"
+    "reason": "17 h, ~811 vistas/h, autor 33.0K seguidores, replies: 11"
    }
   },
   {
@@ -2111,7 +2111,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~6 vistas/h, autor 1.8K seguidores, replies: 1"
+    "reason": "17 h, ~6 vistas/h, autor 1.8K seguidores, replies: 1"
    }
   },
   {
@@ -2136,7 +2136,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~99 vistas/h, autor 5.7K seguidores, replies: 0"
+    "reason": "17 h, ~93 vistas/h, autor 5.7K seguidores, replies: 0"
    }
   },
   {
@@ -2161,7 +2161,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~12 vistas/h, autor 12.8K seguidores, replies: 0"
+    "reason": "17 h, ~11 vistas/h, autor 12.8K seguidores, replies: 0"
    }
   },
   {
@@ -2186,7 +2186,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "16 h, ~2 vistas/h, autor 6.4K seguidores, replies: 0"
+    "reason": "17 h, ~1 vistas/h, autor 6.4K seguidores, replies: 0"
    }
   },
   {
@@ -2211,7 +2211,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "17 h, ~150 vistas/h, autor 393 seguidores, replies: 2"
+    "reason": "17 h, ~142 vistas/h, autor 393 seguidores, replies: 2"
    }
   },
   {
@@ -2236,7 +2236,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~91 vistas/h, autor 3.3K seguidores, replies: 2"
+    "reason": "18 h, ~86 vistas/h, autor 3.3K seguidores, replies: 2"
    }
   },
   {
@@ -2261,7 +2261,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~1 vistas/h, autor 5.2K seguidores, replies: 0"
+    "reason": "18 h, ~1 vistas/h, autor 5.2K seguidores, replies: 0"
    }
   },
   {
@@ -2287,7 +2287,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "17 h, ~224 vistas/h, autor 1.5K seguidores, replies: 3"
+    "reason": "18 h, ~212 vistas/h, autor 1.5K seguidores, replies: 3"
    }
   },
   {
@@ -2312,7 +2312,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~3 vistas/h, autor 7.6K seguidores, replies: 0"
+    "reason": "18 h, ~2 vistas/h, autor 7.6K seguidores, replies: 0"
    }
   },
   {
@@ -2337,7 +2337,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~27 vistas/h, autor 158 seguidores, replies: 2"
+    "reason": "18 h, ~25 vistas/h, autor 158 seguidores, replies: 2"
    }
   },
   {
@@ -2362,7 +2362,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "17 h, ~140 vistas/h, autor 40.6K seguidores, replies: 1"
+    "reason": "18 h, ~132 vistas/h, autor 40.6K seguidores, replies: 1"
    }
   },
   {
@@ -2387,7 +2387,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "17 h, ~143 vistas/h, autor 7.0K seguidores, replies: 4"
+    "reason": "18 h, ~135 vistas/h, autor 7.0K seguidores, replies: 4"
    }
   },
   {
@@ -2412,7 +2412,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~21 vistas/h, autor 3.0K seguidores, replies: 2"
+    "reason": "18 h, ~20 vistas/h, autor 3.0K seguidores, replies: 2"
    }
   },
   {
@@ -2437,7 +2437,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "17 h, ~326 vistas/h, autor 2.6K seguidores, replies: 4"
+    "reason": "18 h, ~309 vistas/h, autor 2.6K seguidores, replies: 4"
    }
   },
   {
@@ -2462,7 +2462,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~3 vistas/h, autor 10.4K seguidores, replies: 0"
+    "reason": "18 h, ~3 vistas/h, autor 10.4K seguidores, replies: 0"
    }
   },
   {
@@ -2487,7 +2487,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~12 vistas/h, autor 258 seguidores, replies: 2"
+    "reason": "18 h, ~12 vistas/h, autor 258 seguidores, replies: 2"
    }
   },
   {
@@ -2512,7 +2512,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~38 vistas/h, autor 395 seguidores, replies: 2"
+    "reason": "18 h, ~36 vistas/h, autor 395 seguidores, replies: 2"
    }
   },
   {
@@ -2537,7 +2537,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~2 vistas/h, autor 10.4K seguidores, replies: 0"
+    "reason": "18 h, ~1 vistas/h, autor 10.4K seguidores, replies: 0"
    }
   },
   {
@@ -2562,7 +2562,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~1 vistas/h, autor 888 seguidores, replies: 0"
+    "reason": "18 h, ~1 vistas/h, autor 888 seguidores, replies: 0"
    }
   },
   {
@@ -2587,7 +2587,7 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "17 h, ~588 vistas/h, autor 58.2K seguidores, replies: 8"
+    "reason": "18 h, ~556 vistas/h, autor 58.2K seguidores, replies: 8"
    }
   },
   {
@@ -2612,7 +2612,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~2 vistas/h, autor 9.4K seguidores, replies: 0"
+    "reason": "18 h, ~1 vistas/h, autor 9.4K seguidores, replies: 0"
    }
   },
   {
@@ -2637,7 +2637,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "17 h, ~156 vistas/h, autor 5.1K seguidores, replies: 3"
+    "reason": "18 h, ~147 vistas/h, autor 5.1K seguidores, replies: 3"
    }
   },
   {
@@ -2663,7 +2663,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "17 h, ~422 vistas/h, autor 51 seguidores, replies: 3"
+    "reason": "18 h, ~400 vistas/h, autor 51 seguidores, replies: 3"
    }
   },
   {
@@ -2688,7 +2688,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "17 h, ~24 vistas/h, autor 15.0K seguidores, replies: 1"
+    "reason": "18 h, ~23 vistas/h, autor 15.0K seguidores, replies: 1"
    }
   },
   {
@@ -2713,7 +2713,7 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "17 h, ~374 vistas/h, autor 71.7K seguidores, replies: 11"
+    "reason": "18 h, ~354 vistas/h, autor 71.7K seguidores, replies: 11"
    }
   },
   {
@@ -2737,8 +2737,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~29 vistas/h, autor 673 seguidores, replies: 2"
+    "score": -1,
+    "reason": "18 h, ~28 vistas/h, autor 673 seguidores, replies: 2"
    }
   },
   {
@@ -2762,8 +2762,8 @@
    "skip_reason": "Fuera de tu nicho (otro activo, macro general o tema no relacionado con BTC spot ni autocustodia).",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "17 h, ~4.8K vistas/h, autor 241.7K seguidores, replies: 83"
+    "score": 1,
+    "reason": "18 h, ~4.5K vistas/h, autor 241.7K seguidores, replies: 83"
    }
   },
   {
@@ -2787,8 +2787,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~23 vistas/h, autor 55 seguidores, replies: 2"
+    "score": -1,
+    "reason": "18 h, ~22 vistas/h, autor 55 seguidores, replies: 2"
    }
   },
   {
@@ -2811,9 +2811,9 @@
    "in_niche": false,
    "skip_reason": "Gira en torno a shorts, longs apalancados o liquidaciones; fuera de tu enfoque spot sin apalancamiento.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "17 h, ~248 vistas/h, autor 136.1K seguidores, replies: 10"
+    "level": "bajo",
+    "score": 0,
+    "reason": "18 h, ~234 vistas/h, autor 136.1K seguidores, replies: 10"
    }
   },
   {
@@ -2839,8 +2839,8 @@
    "reply_lang": "en",
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "17 h, ~13.0K vistas/h, autor 322.1K seguidores, replies: 291"
+    "score": 1,
+    "reason": "18 h, ~12.3K vistas/h, autor 322.1K seguidores, replies: 291"
    }
   },
   {
@@ -2864,8 +2864,8 @@
    "skip_reason": "Contenido político; fuera de tu nicho.",
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "17 h, ~77 vistas/h, autor 2.7K seguidores, replies: 0"
+    "score": -1,
+    "reason": "18 h, ~73 vistas/h, autor 2.7K seguidores, replies: 0"
    }
   },
   {
@@ -2888,9 +2888,9 @@
    "in_niche": false,
    "skip_reason": "Fuera de tu nicho (otro activo, macro general o tema no relacionado con BTC spot ni autocustodia).",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "17 h, ~676 vistas/h, autor 145.5K seguidores, replies: 5"
+    "level": "medio",
+    "score": 2,
+    "reason": "18 h, ~640 vistas/h, autor 145.5K seguidores, replies: 5"
    }
   },
   {
@@ -2913,9 +2913,9 @@
    "in_niche": false,
    "skip_reason": "Análisis técnico de corto plazo sin ángulo spot ni de seguridad que aportar.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "17 h, ~109 vistas/h, autor 24.5K seguidores, replies: 2"
+    "level": "bajo",
+    "score": 0,
+    "reason": "18 h, ~103 vistas/h, autor 24.5K seguidores, replies: 2"
    }
   },
   {
@@ -2938,9 +2938,9 @@
    "in_niche": false,
    "skip_reason": "Gira en torno a shorts, longs apalancados o liquidaciones; fuera de tu enfoque spot sin apalancamiento.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "17 h, ~363 vistas/h, autor 28.2K seguidores, replies: 11"
+    "level": "bajo",
+    "score": 0,
+    "reason": "18 h, ~344 vistas/h, autor 28.2K seguidores, replies: 11"
    }
   },
   {
@@ -2965,7 +2965,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "18 h, ~999 vistas/h, autor 195.2K seguidores, replies: 19"
+    "reason": "19 h, ~948 vistas/h, autor 195.2K seguidores, replies: 19"
    }
   },
   {
@@ -2990,7 +2990,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "18 h, ~59 vistas/h, autor 1.2K seguidores, replies: 2"
+    "reason": "19 h, ~56 vistas/h, autor 1.2K seguidores, replies: 2"
    }
   },
   {
@@ -3015,7 +3015,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "18 h, ~536 vistas/h, autor 34.7K seguidores, replies: 10"
+    "reason": "19 h, ~509 vistas/h, autor 34.7K seguidores, replies: 10"
    }
   },
   {
@@ -3040,7 +3040,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "19 h, ~14 vistas/h, autor 1.8K seguidores, replies: 0"
+    "reason": "20 h, ~13 vistas/h, autor 1.8K seguidores, replies: 0"
    }
   },
   {
@@ -3065,7 +3065,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "19 h, ~11.1K vistas/h, autor 1774.7K seguidores, replies: 276"
+    "reason": "20 h, ~10.5K vistas/h, autor 1774.7K seguidores, replies: 276"
    }
   },
   {
@@ -3091,7 +3091,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "19 h, ~2.1K vistas/h, autor 322.1K seguidores, replies: 74"
+    "reason": "20 h, ~2.0K vistas/h, autor 322.1K seguidores, replies: 74"
    }
   },
   {
@@ -3116,7 +3116,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~20 vistas/h, autor 96 seguidores, replies: 0"
+    "reason": "21 h, ~19 vistas/h, autor 96 seguidores, replies: 0"
    }
   },
   {
@@ -3141,7 +3141,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 1.6K seguidores, replies: 0"
+    "reason": "21 h, ~0 vistas/h, autor 1.6K seguidores, replies: 0"
    }
   },
   {
@@ -3166,7 +3166,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "20 h, ~567 vistas/h, autor 3.1K seguidores, replies: 10"
+    "reason": "21 h, ~541 vistas/h, autor 3.1K seguidores, replies: 10"
    }
   },
   {
@@ -3191,7 +3191,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "20 h, ~1.1K vistas/h, autor 33.0K seguidores, replies: 11"
+    "reason": "21 h, ~1.0K vistas/h, autor 33.0K seguidores, replies: 11"
    }
   },
   {
@@ -3216,7 +3216,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~263 vistas/h, autor 25.5K seguidores, replies: 11"
+    "reason": "21 h, ~250 vistas/h, autor 25.5K seguidores, replies: 11"
    }
   },
   {
@@ -3241,7 +3241,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~1 vistas/h, autor 11.6K seguidores, replies: 0"
+    "reason": "21 h, ~1 vistas/h, autor 11.6K seguidores, replies: 0"
    }
   },
   {
@@ -3266,7 +3266,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "20 h, ~61 vistas/h, autor 52.5K seguidores, replies: 0"
+    "reason": "21 h, ~58 vistas/h, autor 52.5K seguidores, replies: 0"
    }
   },
   {
@@ -3291,7 +3291,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "20 h, ~363 vistas/h, autor 13.0K seguidores, replies: 15"
+    "reason": "21 h, ~347 vistas/h, autor 13.0K seguidores, replies: 15"
    }
   },
   {
@@ -3316,7 +3316,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~238 vistas/h, autor 34.9K seguidores, replies: 11"
+    "reason": "21 h, ~227 vistas/h, autor 34.9K seguidores, replies: 11"
    }
   },
   {
@@ -3341,7 +3341,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 5.2K seguidores, replies: 0"
+    "reason": "21 h, ~0 vistas/h, autor 5.2K seguidores, replies: 0"
    }
   },
   {
@@ -3366,7 +3366,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 132 seguidores, replies: 0"
+    "reason": "21 h, ~0 vistas/h, autor 132 seguidores, replies: 0"
    }
   },
   {
@@ -3391,7 +3391,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~1 vistas/h, autor 1.4K seguidores, replies: 0"
+    "reason": "22 h, ~1 vistas/h, autor 1.4K seguidores, replies: 0"
    }
   },
   {
@@ -3416,7 +3416,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "21 h, ~841 vistas/h, autor 14.2K seguidores, replies: 19"
+    "reason": "22 h, ~804 vistas/h, autor 14.2K seguidores, replies: 19"
    }
   },
   {
@@ -3441,7 +3441,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~2 vistas/h, autor 3.5K seguidores, replies: 0"
+    "reason": "22 h, ~1 vistas/h, autor 3.5K seguidores, replies: 0"
    }
   },
   {
@@ -3466,7 +3466,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "21 h, ~15.6K vistas/h, autor 1130.9K seguidores, replies: 117"
+    "reason": "22 h, ~14.9K vistas/h, autor 1130.9K seguidores, replies: 117"
    }
   },
   {
@@ -3491,7 +3491,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~1 vistas/h, autor 821 seguidores, replies: 0"
+    "reason": "22 h, ~1 vistas/h, autor 821 seguidores, replies: 0"
    }
   },
   {
@@ -3516,7 +3516,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~0 vistas/h, autor 44.8K seguidores, replies: 0"
+    "reason": "22 h, ~0 vistas/h, autor 44.8K seguidores, replies: 0"
    }
   },
   {
@@ -3541,7 +3541,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "21 h, ~167 vistas/h, autor 122.9K seguidores, replies: 1"
+    "reason": "22 h, ~160 vistas/h, autor 122.9K seguidores, replies: 1"
    }
   },
   {
@@ -3566,7 +3566,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "21 h, ~367 vistas/h, autor 104.1K seguidores, replies: 10"
+    "reason": "22 h, ~351 vistas/h, autor 104.1K seguidores, replies: 10"
    }
   },
   {
@@ -3591,7 +3591,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~3 vistas/h, autor 3.9K seguidores, replies: 0"
+    "reason": "22 h, ~3 vistas/h, autor 3.9K seguidores, replies: 0"
    }
   },
   {
@@ -3616,7 +3616,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~2 vistas/h, autor 9.7K seguidores, replies: 0"
+    "reason": "22 h, ~2 vistas/h, autor 9.7K seguidores, replies: 0"
    }
   },
   {
@@ -3641,7 +3641,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~3 vistas/h, autor 3.9K seguidores, replies: 0"
+    "reason": "22 h, ~3 vistas/h, autor 3.9K seguidores, replies: 0"
    }
   },
   {
@@ -3666,7 +3666,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~0 vistas/h, autor 5.2K seguidores, replies: 0"
+    "reason": "22 h, ~0 vistas/h, autor 5.2K seguidores, replies: 0"
    }
   },
   {
@@ -3691,7 +3691,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "21 h, ~638 vistas/h, autor 558.0K seguidores, replies: 12"
+    "reason": "22 h, ~611 vistas/h, autor 558.0K seguidores, replies: 12"
    }
   },
   {
@@ -3716,7 +3716,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~7 vistas/h, autor 104 seguidores, replies: 1"
+    "reason": "23 h, ~7 vistas/h, autor 104 seguidores, replies: 1"
    }
   },
   {
@@ -3741,7 +3741,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~1 vistas/h, autor 175 seguidores, replies: 0"
+    "reason": "23 h, ~1 vistas/h, autor 175 seguidores, replies: 0"
    }
   },
   {
@@ -3766,7 +3766,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~2 vistas/h, autor 9.4K seguidores, replies: 0"
+    "reason": "23 h, ~2 vistas/h, autor 9.4K seguidores, replies: 0"
    }
   },
   {
@@ -3791,7 +3791,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~319 vistas/h, autor 28.2K seguidores, replies: 11"
+    "reason": "23 h, ~305 vistas/h, autor 28.2K seguidores, replies: 11"
    }
   },
   {
@@ -3816,7 +3816,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~3 vistas/h, autor 3.3K seguidores, replies: 0"
+    "reason": "23 h, ~3 vistas/h, autor 3.3K seguidores, replies: 0"
    }
   },
   {
@@ -3841,7 +3841,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~4 vistas/h, autor 2.2K seguidores, replies: 0"
+    "reason": "23 h, ~4 vistas/h, autor 2.2K seguidores, replies: 0"
    }
   },
   {
@@ -3866,7 +3866,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~3 vistas/h, autor 5.9K seguidores, replies: 0"
+    "reason": "23 h, ~3 vistas/h, autor 5.9K seguidores, replies: 0"
    }
   },
   {
@@ -3891,7 +3891,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~159 vistas/h, autor 122.9K seguidores, replies: 0"
+    "reason": "23 h, ~152 vistas/h, autor 122.9K seguidores, replies: 0"
    }
   },
   {
@@ -3916,7 +3916,7 @@
    "momentum": {
     "level": "medio",
     "score": 1,
-    "reason": "22 h, ~687 vistas/h, autor 54.5K seguidores, replies: 16"
+    "reason": "23 h, ~658 vistas/h, autor 54.5K seguidores, replies: 16"
    }
   },
   {
@@ -3941,7 +3941,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~237 vistas/h, autor 23.2K seguidores, replies: 5"
+    "reason": "23 h, ~228 vistas/h, autor 23.2K seguidores, replies: 5"
    }
   },
   {
@@ -3966,7 +3966,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~2 vistas/h, autor 6.4K seguidores, replies: 0"
+    "reason": "24 h, ~2 vistas/h, autor 6.4K seguidores, replies: 0"
    }
   },
   {
@@ -3991,7 +3991,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~1 vistas/h, autor 994 seguidores, replies: 0"
+    "reason": "24 h, ~1 vistas/h, autor 994 seguidores, replies: 0"
    }
   },
   {
@@ -4016,57 +4016,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~3 vistas/h, autor 3.8K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117211776828027230",
-   "author": "Crypto Lens",
-   "username": "crypto_lens_",
-   "text": "DON'T LONG $BTC YET.\n\nBitcoin is now officially ENTERING its final FVG test.\n\nPlanning to open my biggest LONG position yet.\n\n→ Entry: $67K\n→ Targets: $75K / $87K / $101K\n→ Stop Loss: $57K\n\nMy limit orders are locked in. Now I'm waiting for the perfect entry.\n\nFollow me and https://t.co/kepKyVDU3A",
-   "created_at": "2026-11-02T11:06:38.000Z",
-   "lang": "en",
-   "url": "https://x.com/crypto_lens_/status/2117211776828027230",
-   "m": {
-    "bookmark_count": 10,
-    "impression_count": 8364,
-    "like_count": 70,
-    "quote_count": 1,
-    "reply_count": 15,
-    "repost_count": 5
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Gira en torno a shorts, longs apalancados o liquidaciones; fuera de tu enfoque spot sin apalancamiento.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "23 h, ~362 vistas/h, autor 26.1K seguidores, replies: 15"
-   }
-  },
-  {
-   "id": "2117199833723248864",
-   "author": "PlanD",
-   "username": "planD007",
-   "text": "Bitcoin’de oluşan kafa karışıklığını giderebilmek için Önümüzdeki süreçte fiyatın yönünü belirleyecek iki temel senaryo üzerinde duruyorum.\n\n1. POZİTİF SENARYO \n\nBitcoin’in 75.000–76.000 dolar destek bölgesini koruması hâlinde kısa vadeli bir tepki yükselişi bekliyorum.Bu https://t.co/fyCOgv6KLY",
-   "created_at": "2026-11-02T10:19:10.000Z",
-   "lang": "tr",
-   "url": "https://x.com/planD007/status/2117199833723248864",
-   "m": {
-    "bookmark_count": 44,
-    "impression_count": 36903,
-    "like_count": 261,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 21
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Análisis técnico de corto plazo sin ángulo spot ni de seguridad que aportar.",
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "24 h, ~1.5K vistas/h, autor 134.3K seguidores, replies: 1"
+    "reason": "24 h, ~2 vistas/h, autor 3.8K seguidores, replies: 0"
    }
   }
  ]
