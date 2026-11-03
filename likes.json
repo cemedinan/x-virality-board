@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-03T18:06:40-03:00",
+  "generated_at": "2026-11-03T19:07:47-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
-  "listed": 23,
+  "listed": 8,
   "in_niche": 0,
-  "not_recommended": 23,
+  "not_recommended": 8,
   "new_since_prev": 0,
-  "removed_replied": 2,
-  "removed_old": 16
+  "removed_replied": 0,
+  "removed_old": 15
  },
  "posts": [
   {
@@ -33,7 +33,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 506 seguidores, replies: 0"
+    "reason": "21 h, ~0 vistas/h, autor 506 seguidores, replies: 0"
    }
   },
   {
@@ -58,7 +58,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
+    "reason": "21 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -83,7 +83,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 9.2K seguidores, replies: 0"
+    "reason": "21 h, ~0 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -108,82 +108,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117420704769438132",
-   "author": "Pain",
-   "username": "PainBnb",
-   "text": "@TedPillows Past cycles offer clues, but macro conditions matter more than calendar patterns alone",
-   "created_at": "2026-11-03T00:56:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/PainBnb/status/2117420704769438132",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 129,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "20 h, ~6 vistas/h, autor 3.9K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117412232569217418",
-   "author": "DavidBaisley",
-   "username": "yannickbelley",
-   "text": "@TedPillows The bull will resume after tomorrow in a blue suit. Fuck Trump.",
-   "created_at": "2026-11-03T00:23:10.000Z",
-   "lang": "en",
-   "url": "https://x.com/yannickbelley/status/2117412232569217418",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 1314,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "21 h, ~63 vistas/h, autor 201 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117406102585524255",
-   "author": "KhaiDao",
-   "username": "Khaikhaidao",
-   "text": "@TedPillows The -25% move in 2022 was mostly FTX contagion so expecting that same drop today feels forced.",
-   "created_at": "2026-11-02T23:58:49.000Z",
-   "lang": "en",
-   "url": "https://x.com/Khaikhaidao/status/2117406102585524255",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 24,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "21 h, ~1 vistas/h, autor 6.9K seguidores, replies: 0"
+    "reason": "21 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -196,7 +121,7 @@
    "url": "https://x.com/trade_centurion/status/2117404534926344347",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 1839,
+    "impression_count": 1847,
     "like_count": 34,
     "quote_count": 0,
     "reply_count": 5,
@@ -208,82 +133,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "21 h, ~86 vistas/h, autor 4.4K seguidores, replies: 5"
-   }
-  },
-  {
-   "id": "2117402335450181667",
-   "author": "Currency365",
-   "username": "Currency365",
-   "text": "@TedPillows I wonder why such big drops after midterms 🤔",
-   "created_at": "2026-11-02T23:43:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/Currency365/status/2117402335450181667",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 938,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "21 h, ~43 vistas/h, autor 10.0K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117395985429037299",
-   "author": "Derrick",
-   "username": "thedarkscorpio_",
-   "text": "@TedPillows It’s not going to drop 25% from here, let alone 51%.",
-   "created_at": "2026-11-02T23:18:36.000Z",
-   "lang": "en",
-   "url": "https://x.com/thedarkscorpio_/status/2117395985429037299",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1249,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~57 vistas/h, autor 10.0K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117393011596230894",
-   "author": "Frogman",
-   "username": "johnniechad",
-   "text": "@TedPillows Maybe not not as much",
-   "created_at": "2026-11-02T23:06:47.000Z",
-   "lang": "en",
-   "url": "https://x.com/johnniechad/status/2117393011596230894",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 20,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~0 vistas/h, autor 1.5K seguidores, replies: 0"
+    "reason": "22 h, ~82 vistas/h, autor 4.4K seguidores, replies: 5"
    }
   },
   {
@@ -308,7 +158,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "22 h, ~1 vistas/h, autor 15.8K seguidores, replies: 0"
+    "reason": "23 h, ~1 vistas/h, autor 15.8K seguidores, replies: 0"
    }
   },
   {
@@ -333,7 +183,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~0 vistas/h, autor 1.9K seguidores, replies: 0"
+    "reason": "24 h, ~0 vistas/h, autor 1.9K seguidores, replies: 0"
    }
   },
   {
@@ -358,232 +208,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~5 vistas/h, autor 298 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117373144424206543",
-   "author": "Nghẹo | DOPE",
-   "username": "Quaocchoo",
-   "text": "@Dayyib19 Good luck with that 79K target",
-   "created_at": "2026-11-02T21:47:51.000Z",
-   "lang": "en",
-   "url": "https://x.com/Quaocchoo/status/2117373144424206543",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 120,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~5 vistas/h, autor 9.2K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117370611496595607",
-   "author": "Retard",
-   "username": "0xretard_",
-   "text": "@TedPillows If it drops again, the recovery is gonna be even better",
-   "created_at": "2026-11-02T21:37:47.000Z",
-   "lang": "en",
-   "url": "https://x.com/0xretard_/status/2117370611496595607",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 76,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~3 vistas/h, autor 10.3K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117370147598180734",
-   "author": "Wick 🔥",
-   "username": "ZeroHedge_",
-   "text": "$BTC (4hr) Here is a market update to keep you guys safe. In review we have been risk off on BTC 4hr and staying patient for lower setups. Well that was the right move again. So what are the charts telling us now?\n\nBitcoin is in a stage 4 downtrend on some of the local higher https://t.co/u4FNLsAeoB",
-   "created_at": "2026-11-02T21:35:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/ZeroHedge_/status/2117370147598180734",
-   "m": {
-    "bookmark_count": 16,
-    "impression_count": 19057,
-    "like_count": 264,
-    "quote_count": 2,
-    "reply_count": 35,
-    "repost_count": 18
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Análisis técnico de corto plazo sin ángulo spot ni de seguridad que aportar.",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "24 h, ~810 vistas/h, autor 157.2K seguidores, replies: 35"
-   }
-  },
-  {
-   "id": "2117368880423182450",
-   "author": "Quantview",
-   "username": "Quantview_trade",
-   "text": "@TedPillows Both the 2018 and 2022 drops came during Fed tightening, and in 2022 the FTX collapse landed the same week, so the midterm itself was not the main driver. This time yields are falling, which makes the macro backdrop very different even if positioning is nervous into the vote.",
-   "created_at": "2026-11-02T21:30:54.000Z",
-   "lang": "en",
-   "url": "https://x.com/Quantview_trade/status/2117368880423182450",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 17,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~0 vistas/h, autor 394 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117367614616064500",
-   "author": "💎🙌🏻 Hortie 11:11🚀",
-   "username": "Hortiez",
-   "text": "@TedPillows 35k",
-   "created_at": "2026-11-02T21:25:52.000Z",
-   "lang": "und",
-   "url": "https://x.com/Hortiez/status/2117367614616064500",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 38,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~1 vistas/h, autor 725 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117364257272840592",
-   "author": "Centurion",
-   "username": "trade_centurion",
-   "text": "I want to point out that I still don’t see selling pressure. There’s a difference between genuine selling pressure, where price gets pushed quickly into a lower range, and what we’re seeing now: price has been consolidating within current range for an extended period, holding key",
-   "created_at": "2026-11-02T21:12:32.000Z",
-   "lang": "en",
-   "url": "https://x.com/trade_centurion/status/2117364257272840592",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 182,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~7 vistas/h, autor 4.4K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117364127639445751",
-   "author": "AKA JL",
-   "username": "Livermore_BTC",
-   "text": "@TedPillows ISM PMI just logged a 55.5 today. The macro environment is completely different",
-   "created_at": "2026-11-02T21:12:01.000Z",
-   "lang": "en",
-   "url": "https://x.com/Livermore_BTC/status/2117364127639445751",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 227,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~9 vistas/h, autor 563 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117363898169147444",
-   "author": "Iben Tolyuu",
-   "username": "ibentolyuu",
-   "text": "@MarketswithJ @astronomer_zero i love certainty like this",
-   "created_at": "2026-11-02T21:11:06.000Z",
-   "lang": "en",
-   "url": "https://x.com/ibentolyuu/status/2117363898169147444",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 221,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~9 vistas/h, autor 282 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117363860411924683",
-   "author": "C-E-YO",
-   "username": "cronoskapital",
-   "text": "@TedPillows @grok what about after 2022 midterm elections?",
-   "created_at": "2026-11-02T21:10:57.000Z",
-   "lang": "en",
-   "url": "https://x.com/cronoskapital/status/2117363860411924683",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1361,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~56 vistas/h, autor 188 seguidores, replies: 1"
+    "reason": "24 h, ~5 vistas/h, autor 298 seguidores, replies: 0"
    }
   }
  ]
