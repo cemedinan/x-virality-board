@@ -1,16 +1,120 @@
 {
  "meta": {
-  "generated_at": "2026-11-03T16:03:04-03:00",
+  "generated_at": "2026-11-03T17:03:00-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
-  "listed": 53,
-  "in_niche": 3,
-  "not_recommended": 50,
-  "new_since_prev": 0,
-  "removed_replied": 0,
-  "removed_old": 20
+  "listed": 41,
+  "in_niche": 2,
+  "not_recommended": 39,
+  "new_since_prev": 3,
+  "removed_replied": 1,
+  "removed_old": 15
  },
  "posts": [
+  {
+   "id": "2117358498837123095",
+   "author": "Max Trades",
+   "username": "_ctm_crypto",
+   "text": "$BTC\n\nLooks like we’re forming a LTF range after last week’s selloff.\n\nPrice has now first swept the lows and then the highs, but so far continues to consolidate between $76.5k and $79k.\n\nThese are now the two key levels to watch and should offer some good scalping opportunities. https://t.co/ckp83CCNhC",
+   "created_at": "2026-11-02T20:49:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/_ctm_crypto/status/2117358498837123095",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 3616,
+    "like_count": 36,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 3
+   },
+   "reply_en": "A clear 76.5K–79K range is a gift for spot too: bids near the low, no need to chase the high. Do you scale in at range lows or wait for the break?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 0,
+    "reason": "23 h, ~156 vistas/h, autor 6.4K seguidores, replies: 3"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2117355442938765391",
+   "author": "Slimm 📌",
+   "username": "Sxliiim",
+   "text": "$BTC This kind of candles whose only purpose is to trap as much retail as possible on the sell side. 📌\n\nDon't get caught by the market. Most people have PTSD from the bear market and don't know the difference between a bullish market structure and a bearish market.\n\nThese https://t.co/w6CVR9aKce",
+   "created_at": "2026-11-02T20:37:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Sxliiim/status/2117355442938765391",
+   "m": {
+    "bookmark_count": 6,
+    "impression_count": 6506,
+    "like_count": 58,
+    "quote_count": 1,
+    "reply_count": 6,
+    "repost_count": 6
+   },
+   "reply_en": "Wicks like this hurt leverage, not spot held off exchange. What level would actually change the structure for you, a daily close below 76.5K?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 0,
+    "reason": "23 h, ~278 vistas/h, autor 2.3K seguidores, replies: 6"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2117370147598180734",
+   "author": "Wick 🔥",
+   "username": "ZeroHedge_",
+   "text": "$BTC (4hr) Here is a market update to keep you guys safe. In review we have been risk off on BTC 4hr and staying patient for lower setups. Well that was the right move again. So what are the charts telling us now?\n\nBitcoin is in a stage 4 downtrend on some of the local higher https://t.co/u4FNLsAeoB",
+   "created_at": "2026-11-02T21:35:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/ZeroHedge_/status/2117370147598180734",
+   "m": {
+    "bookmark_count": 15,
+    "impression_count": 18935,
+    "like_count": 260,
+    "quote_count": 2,
+    "reply_count": 35,
+    "repost_count": 18
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Análisis técnico de corto plazo sin ángulo spot ni de seguridad que aportar.",
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "22 h, ~843 vistas/h, autor 157.2K seguidores, replies: 35"
+   }
+  },
+  {
+   "id": "2117362268078047546",
+   "author": "Astronomer",
+   "username": "astronomer_zero",
+   "text": "I am emotionally attached to the truth https://t.co/aHna7M485P https://t.co/8tJS3AKF6I",
+   "created_at": "2026-11-02T21:04:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/astronomer_zero/status/2117362268078047546",
+   "m": {
+    "bookmark_count": 39,
+    "impression_count": 36343,
+    "like_count": 360,
+    "quote_count": 1,
+    "reply_count": 28,
+    "repost_count": 11
+   },
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Solo imagen o meme sin texto con idea concreta que discutir.",
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "22 h, ~1.6K vistas/h, autor 65.9K seguidores, replies: 28"
+   }
+  },
   {
    "id": "2117427324450988515",
    "author": "Nomad",
@@ -33,7 +137,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "18 h, ~0 vistas/h, autor 506 seguidores, replies: 0"
+    "reason": "18 h, ~1 vistas/h, autor 506 seguidores, replies: 0"
    }
   },
   {
@@ -57,8 +161,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "18 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
+    "score": 0,
+    "reason": "19 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -82,8 +186,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "18 h, ~0 vistas/h, autor 9.2K seguidores, replies: 0"
+    "score": 0,
+    "reason": "19 h, ~0 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -107,8 +211,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "18 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
+    "score": 0,
+    "reason": "19 h, ~2 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -121,7 +225,7 @@
    "url": "https://x.com/PainBnb/status/2117420704769438132",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 123,
+    "impression_count": 126,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -132,8 +236,33 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "18 h, ~6 vistas/h, autor 3.8K seguidores, replies: 0"
+    "score": 0,
+    "reason": "19 h, ~7 vistas/h, autor 3.9K seguidores, replies: 0"
+   }
+  },
+  {
+   "id": "2117415163808633049",
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
+   "author": "AM 🧭",
+   "username": "ant0niomacias",
+   "text": "@MinimalTrader_ La zona para una reversión me parece buena, la pregunta para la comunidad sería algo así. Entrada mecánica o algún tipo de confirmación. Gracias 😊🫂",
+   "created_at": "2026-11-03T00:34:49.000Z",
+   "lang": "es",
+   "url": "https://x.com/ant0niomacias/status/2117415163808633049",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 56,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 0,
+    "reason": "19 h, ~3 vistas/h, autor 308 seguidores, replies: 0"
    }
   },
   {
@@ -146,7 +275,7 @@
    "url": "https://x.com/yannickbelley/status/2117412232569217418",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 1280,
+    "impression_count": 1300,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -157,8 +286,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "19 h, ~68 vistas/h, autor 201 seguidores, replies: 0"
+    "score": 0,
+    "reason": "19 h, ~66 vistas/h, autor 201 seguidores, replies: 0"
    }
   },
   {
@@ -171,7 +300,7 @@
    "url": "https://x.com/Khaikhaidao/status/2117406102585524255",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 21,
+    "impression_count": 23,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -182,8 +311,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "19 h, ~1 vistas/h, autor 6.9K seguidores, replies: 0"
+    "score": 0,
+    "reason": "20 h, ~1 vistas/h, autor 6.9K seguidores, replies: 0"
    }
   },
   {
@@ -196,7 +325,7 @@
    "url": "https://x.com/trade_centurion/status/2117404534926344347",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 1814,
+    "impression_count": 1826,
     "like_count": 34,
     "quote_count": 0,
     "reply_count": 5,
@@ -207,8 +336,8 @@
    "skip_reason": "Fuera de tu nicho (otro activo, macro general o tema no relacionado con BTC spot ni autocustodia).",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "19 h, ~94 vistas/h, autor 4.4K seguidores, replies: 5"
+    "score": 0,
+    "reason": "20 h, ~91 vistas/h, autor 4.4K seguidores, replies: 5"
    }
   },
   {
@@ -221,7 +350,7 @@
    "url": "https://x.com/Currency365/status/2117402335450181667",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 898,
+    "impression_count": 919,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -232,8 +361,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "19 h, ~46 vistas/h, autor 10.0K seguidores, replies: 0"
+    "score": 0,
+    "reason": "20 h, ~45 vistas/h, autor 10.0K seguidores, replies: 0"
    }
   },
   {
@@ -246,7 +375,7 @@
    "url": "https://x.com/thedarkscorpio_/status/2117395985429037299",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1224,
+    "impression_count": 1237,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -257,8 +386,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "20 h, ~62 vistas/h, autor 10.0K seguidores, replies: 0"
+    "score": 0,
+    "reason": "20 h, ~60 vistas/h, autor 10.0K seguidores, replies: 0"
    }
   },
   {
@@ -271,7 +400,7 @@
    "url": "https://x.com/johnniechad/status/2117393011596230894",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 17,
+    "impression_count": 19,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -282,8 +411,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 1.5K seguidores, replies: 0"
+    "score": 0,
+    "reason": "20 h, ~1 vistas/h, autor 1.5K seguidores, replies: 0"
    }
   },
   {
@@ -307,8 +436,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "20 h, ~2 vistas/h, autor 15.8K seguidores, replies: 0"
+    "score": 0,
+    "reason": "21 h, ~2 vistas/h, autor 15.8K seguidores, replies: 0"
    }
   },
   {
@@ -332,8 +461,33 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "20 h, ~0 vistas/h, autor 1.9K seguidores, replies: 0"
+    "score": 0,
+    "reason": "21 h, ~0 vistas/h, autor 1.9K seguidores, replies: 0"
+   }
+  },
+  {
+   "id": "2117381290379067643",
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
+   "author": "陈冠希",
+   "username": "edisonchen94",
+   "text": "@MinimalTrader_ 67 9破了再说吧 我还在等72那口气 😂",
+   "created_at": "2026-11-02T22:20:13.000Z",
+   "lang": "zh",
+   "url": "https://x.com/edisonchen94/status/2117381290379067643",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 39,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 0,
+    "reason": "21 h, ~2 vistas/h, autor 607 seguidores, replies: 0"
    }
   },
   {
@@ -357,7 +511,7 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
+    "score": 0,
     "reason": "21 h, ~6 vistas/h, autor 298 seguidores, replies: 0"
    }
   },
@@ -382,8 +536,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "21 h, ~5 vistas/h, autor 9.2K seguidores, replies: 0"
+    "score": 0,
+    "reason": "22 h, ~5 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -396,7 +550,7 @@
    "url": "https://x.com/0xretard_/status/2117370611496595607",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 73,
+    "impression_count": 75,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -407,33 +561,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "21 h, ~3 vistas/h, autor 10.3K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117370147598180734",
-   "author": "Wick 🔥",
-   "username": "ZeroHedge_",
-   "text": "$BTC (4hr) Here is a market update to keep you guys safe. In review we have been risk off on BTC 4hr and staying patient for lower setups. Well that was the right move again. So what are the charts telling us now?\n\nBitcoin is in a stage 4 downtrend on some of the local higher https://t.co/u4FNLsAeoB",
-   "created_at": "2026-11-02T21:35:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/ZeroHedge_/status/2117370147598180734",
-   "m": {
-    "bookmark_count": 16,
-    "impression_count": 18778,
-    "like_count": 258,
-    "quote_count": 2,
-    "reply_count": 35,
-    "repost_count": 17
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Análisis técnico de corto plazo sin ángulo spot ni de seguridad que aportar.",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "21 h, ~875 vistas/h, autor 157.2K seguidores, replies: 35"
+    "score": 0,
+    "reason": "22 h, ~3 vistas/h, autor 10.3K seguidores, replies: 0"
    }
   },
   {
@@ -446,8 +575,8 @@
    "url": "https://x.com/Quantview_trade/status/2117368880423182450",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 14,
-    "like_count": 3,
+    "impression_count": 15,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -457,8 +586,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~0 vistas/h, autor 393 seguidores, replies: 0"
+    "score": 0,
+    "reason": "22 h, ~1 vistas/h, autor 393 seguidores, replies: 0"
    }
   },
   {
@@ -471,7 +600,7 @@
    "url": "https://x.com/Hortiez/status/2117367614616064500",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 35,
+    "impression_count": 37,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -482,8 +611,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~1 vistas/h, autor 723 seguidores, replies: 0"
+    "score": 0,
+    "reason": "22 h, ~2 vistas/h, autor 724 seguidores, replies: 0"
    }
   },
   {
@@ -496,7 +625,7 @@
    "url": "https://x.com/trade_centurion/status/2117364257272840592",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 178,
+    "impression_count": 179,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -507,7 +636,7 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
+    "score": 0,
     "reason": "22 h, ~8 vistas/h, autor 4.4K seguidores, replies: 0"
    }
   },
@@ -521,8 +650,8 @@
    "url": "https://x.com/Livermore_BTC/status/2117364127639445751",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 222,
-    "like_count": 3,
+    "impression_count": 224,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -532,7 +661,7 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
+    "score": 0,
     "reason": "22 h, ~10 vistas/h, autor 562 seguidores, replies: 0"
    }
   },
@@ -557,8 +686,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~10 vistas/h, autor 283 seguidores, replies: 0"
+    "score": 0,
+    "reason": "22 h, ~10 vistas/h, autor 282 seguidores, replies: 0"
    }
   },
   {
@@ -571,7 +700,7 @@
    "url": "https://x.com/cronoskapital/status/2117363860411924683",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1344,
+    "impression_count": 1351,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -582,8 +711,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~61 vistas/h, autor 188 seguidores, replies: 1"
+    "score": 0,
+    "reason": "22 h, ~59 vistas/h, autor 188 seguidores, replies: 1"
    }
   },
   {
@@ -607,33 +736,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
+    "score": 0,
     "reason": "22 h, ~8 vistas/h, autor 264 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117362268078047546",
-   "author": "Astronomer",
-   "username": "astronomer_zero",
-   "text": "I am emotionally attached to the truth https://t.co/aHna7M485P https://t.co/8tJS3AKF6I",
-   "created_at": "2026-11-02T21:04:38.000Z",
-   "lang": "en",
-   "url": "https://x.com/astronomer_zero/status/2117362268078047546",
-   "m": {
-    "bookmark_count": 39,
-    "impression_count": 36167,
-    "like_count": 356,
-    "quote_count": 1,
-    "reply_count": 28,
-    "repost_count": 11
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Solo imagen o meme sin texto con idea concreta que discutir.",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "22 h, ~1.6K vistas/h, autor 65.9K seguidores, replies: 28"
    }
   },
   {
@@ -657,8 +761,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~9 vistas/h, autor 9.2K seguidores, replies: 0"
+    "score": 0,
+    "reason": "23 h, ~9 vistas/h, autor 9.2K seguidores, replies: 0"
    }
   },
   {
@@ -682,8 +786,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~8 vistas/h, autor 3.5K seguidores, replies: 0"
+    "score": 0,
+    "reason": "23 h, ~8 vistas/h, autor 3.5K seguidores, replies: 0"
    }
   },
   {
@@ -696,7 +800,7 @@
    "url": "https://x.com/BITC_minimalist/status/2117360294347337899",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 39,
+    "impression_count": 41,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -707,8 +811,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~1 vistas/h, autor 1.1K seguidores, replies: 0"
+    "score": 0,
+    "reason": "23 h, ~2 vistas/h, autor 1.1K seguidores, replies: 0"
    }
   },
   {
@@ -721,7 +825,7 @@
    "url": "https://x.com/OldmanScalping/status/2117359780113379604",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1293,
+    "impression_count": 1299,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 1,
@@ -733,7 +837,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~58 vistas/h, autor 157.7K seguidores, replies: 1"
+    "reason": "23 h, ~56 vistas/h, autor 157.7K seguidores, replies: 1"
    }
   },
   {
@@ -746,7 +850,7 @@
    "url": "https://x.com/trade_centurion/status/2117359619106631862",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 1370,
+    "impression_count": 1379,
     "like_count": 20,
     "quote_count": 1,
     "reply_count": 5,
@@ -757,36 +861,9 @@
    "skip_reason": "Análisis técnico de corto plazo sin ángulo spot ni de seguridad que aportar.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~61 vistas/h, autor 4.4K seguidores, replies: 5"
-   }
-  },
-  {
-   "id": "2117358498837123095",
-   "author": "Max Trades",
-   "username": "_ctm_crypto",
-   "text": "$BTC\n\nLooks like we’re forming a LTF range after last week’s selloff.\n\nPrice has now first swept the lows and then the highs, but so far continues to consolidate between $76.5k and $79k.\n\nThese are now the two key levels to watch and should offer some good scalping opportunities. https://t.co/ckp83CCNhC",
-   "created_at": "2026-11-02T20:49:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/_ctm_crypto/status/2117358498837123095",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 3603,
-    "like_count": 36,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 3
-   },
-   "reply_en": "A clear 76.5K–79K range is a gift for spot too: bids near the low, no need to chase the high. Do you scale in at range lows or wait for the break?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~162 vistas/h, autor 6.4K seguidores, replies: 3"
-   },
-   "with_link": false
+    "reason": "23 h, ~60 vistas/h, autor 4.4K seguidores, replies: 5"
+   }
   },
   {
    "id": "2117357908363301286",
@@ -798,7 +875,7 @@
    "url": "https://x.com/MarzellCrypto/status/2117357908363301286",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 985,
+    "impression_count": 990,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -809,8 +886,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~44 vistas/h, autor 45.1K seguidores, replies: 0"
+    "score": 0,
+    "reason": "23 h, ~43 vistas/h, autor 45.1K seguidores, replies: 0"
    }
   },
   {
@@ -823,7 +900,7 @@
    "url": "https://x.com/MAXITHEGODDESS/status/2117357816105082901",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 54,
+    "impression_count": 56,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -834,36 +911,34 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~2 vistas/h, autor 12.6K seguidores, replies: 0"
+    "score": 0,
+    "reason": "23 h, ~2 vistas/h, autor 12.6K seguidores, replies: 0"
    }
   },
   {
-   "id": "2117355442938765391",
-   "author": "Slimm 📌",
-   "username": "Sxliiim",
-   "text": "$BTC This kind of candles whose only purpose is to trap as much retail as possible on the sell side. 📌\n\nDon't get caught by the market. Most people have PTSD from the bear market and don't know the difference between a bullish market structure and a bearish market.\n\nThese https://t.co/w6CVR9aKce",
-   "created_at": "2026-11-02T20:37:30.000Z",
-   "lang": "en",
-   "url": "https://x.com/Sxliiim/status/2117355442938765391",
+   "id": "2117357690238460201",
+   "reply_en": "",
+   "in_niche": false,
+   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
+   "author": "Nghẹo | DOPE",
+   "username": "Quaocchoo",
+   "text": "@MinimalTrader_ Yo esperaría confirmación antes de entrar largo",
+   "created_at": "2026-11-02T20:46:26.000Z",
+   "lang": "es",
+   "url": "https://x.com/Quaocchoo/status/2117357690238460201",
    "m": {
-    "bookmark_count": 6,
-    "impression_count": 6500,
-    "like_count": 58,
-    "quote_count": 1,
-    "reply_count": 6,
-    "repost_count": 6
+    "bookmark_count": 0,
+    "impression_count": 40,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
    },
-   "reply_en": "Wicks like this hurt leverage, not spot held off exchange. What level would actually change the structure for you, a daily close below 76.5K?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~289 vistas/h, autor 2.3K seguidores, replies: 6"
-   },
-   "with_link": false
+    "reason": "23 h, ~2 vistas/h, autor 9.2K seguidores, replies: 0"
+   }
   },
   {
    "id": "2117355229230350385",
@@ -874,9 +949,9 @@
    "lang": "qme",
    "url": "https://x.com/marketwizard/status/2117355229230350385",
    "m": {
-    "bookmark_count": 5,
-    "impression_count": 3578,
-    "like_count": 26,
+    "bookmark_count": 6,
+    "impression_count": 3616,
+    "like_count": 27,
     "quote_count": 0,
     "reply_count": 6,
     "repost_count": 0
@@ -887,7 +962,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "22 h, ~159 vistas/h, autor 7.0K seguidores, replies: 6"
+    "reason": "23 h, ~154 vistas/h, autor 7.0K seguidores, replies: 6"
    }
   },
   {
@@ -900,8 +975,8 @@
    "url": "https://x.com/mattunchi/status/2117353319656276082",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 4945,
-    "like_count": 80,
+    "impression_count": 5101,
+    "like_count": 82,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 7
@@ -910,9 +985,9 @@
    "in_niche": false,
    "skip_reason": "Frase motivacional sobre arriesgar en grande; choca con tu enfoque sin apalancamiento.",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "23 h, ~219 vistas/h, autor 165.5K seguidores, replies: 1"
+    "level": "bajo",
+    "score": 0,
+    "reason": "23 h, ~216 vistas/h, autor 165.5K seguidores, replies: 1"
    }
   },
   {
@@ -936,7 +1011,7 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
+    "score": 0,
     "reason": "23 h, ~1 vistas/h, autor 874 seguidores, replies: 0"
    }
   },
@@ -950,7 +1025,7 @@
    "url": "https://x.com/Apubuck/status/2117348121281974342",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 407,
+    "impression_count": 413,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -961,385 +1036,8 @@
    "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
    "momentum": {
     "level": "bajo",
-    "score": -1,
+    "score": 0,
     "reason": "23 h, ~17 vistas/h, autor 452 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117346529682059439",
-   "author": "Sykodelic 🔪",
-   "username": "Sykodelic_",
-   "text": "I am feeling pretty confident on resolving higher soon.\n\nWe have a big week of lots of data coming out, so expect volatility before, but then clarity after.\n\n1D RSI is approaching oversold, and its likely we get a final flush that sends us there, or close.\n\nWe have lots of https://t.co/9G6OMzAHg8 https://t.co/s2oVJKYGUl",
-   "created_at": "2026-11-02T20:02:05.000Z",
-   "lang": "en",
-   "url": "https://x.com/Sykodelic_/status/2117346529682059439",
-   "m": {
-    "bookmark_count": 24,
-    "impression_count": 26508,
-    "like_count": 350,
-    "quote_count": 3,
-    "reply_count": 20,
-    "repost_count": 18
-   },
-   "reply_en": "If a final flush to oversold RSI comes, it's the day spot buyers with a plan beat everyone guessing the bottom. Which level would you start adding at?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "23 h, ~1.2K vistas/h, autor 73.4K seguidores, replies: 20"
-   },
-   "with_link": false
-  },
-  {
-   "id": "2117346209782439944",
-   "author": "CryptoSti",
-   "username": "KryptoSti",
-   "text": "@TedPillows Bitcoin been dropping for the last year so why not moar",
-   "created_at": "2026-11-02T20:00:49.000Z",
-   "lang": "en",
-   "url": "https://x.com/KryptoSti/status/2117346209782439944",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 109,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~4 vistas/h, autor 1.3K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117345933327511715",
-   "author": "Dayyib Sanka",
-   "username": "Dayyib19",
-   "text": "@sirrillahfx Yeah bro lol",
-   "created_at": "2026-11-02T19:59:43.000Z",
-   "lang": "en",
-   "url": "https://x.com/Dayyib19/status/2117345933327511715",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 423,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~18 vistas/h, autor 16.8K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117345865505320960",
-   "author": "SIRRILLAH",
-   "username": "sirrillahfx",
-   "text": "@Dayyib19 🫪",
-   "created_at": "2026-11-02T19:59:27.000Z",
-   "lang": "qme",
-   "url": "https://x.com/sirrillahfx/status/2117345865505320960",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 701,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~30 vistas/h, autor 48.6K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2117344769437204565",
-   "author": "arbadacarba 🐈‍⬛🏴‍☠️",
-   "username": "arbadacarbaYK",
-   "text": "@TedPillows This was unrelated, what fud is this ? Bitcoin is more valuable whoever wins for one reason or the other.",
-   "created_at": "2026-11-02T19:55:06.000Z",
-   "lang": "en",
-   "url": "https://x.com/arbadacarbaYK/status/2117344769437204565",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 132,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~5 vistas/h, autor 2.3K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2117344533524472232",
-   "author": "Dayyib Sanka",
-   "username": "Dayyib19",
-   "text": "Longed $BTCUSD here 📈\n\nTargeting 79K, let’s see how it unfolds 👀 https://t.co/0QFufFzDGu",
-   "created_at": "2026-11-02T19:54:09.000Z",
-   "lang": "en",
-   "url": "https://x.com/Dayyib19/status/2117344533524472232",
-   "m": {
-    "bookmark_count": 14,
-    "impression_count": 13835,
-    "like_count": 115,
-    "quote_count": 1,
-    "reply_count": 21,
-    "repost_count": 7
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Gira en torno a shorts, longs apalancados o liquidaciones; fuera de tu enfoque spot sin apalancamiento.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "23 h, ~597 vistas/h, autor 16.8K seguidores, replies: 21"
-   }
-  },
-  {
-   "id": "2117344240795886023",
-   "author": "1000x",
-   "username": "1000xCall",
-   "text": "@TedPillows Alright folks, short responsibly ! Happy shorting.",
-   "created_at": "2026-11-02T19:53:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/1000xCall/status/2117344240795886023",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 137,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~5 vistas/h, autor 1.9K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117343667254091919",
-   "author": "Lukavisa",
-   "username": "lukavisa",
-   "text": "@TedPillows $BTC ~66.000USD will be the target and eventually the bottom https://t.co/oJitoMYt2N",
-   "created_at": "2026-11-02T19:50:43.000Z",
-   "lang": "en",
-   "url": "https://x.com/lukavisa/status/2117343667254091919",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 679,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~29 vistas/h, autor 121 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117342699552735637",
-   "author": "SpikeWood",
-   "username": "SpikeWoodx",
-   "text": "@BTCZAYRO Zero is next.  Elon just said it",
-   "created_at": "2026-11-02T19:46:52.000Z",
-   "lang": "en",
-   "url": "https://x.com/SpikeWoodx/status/2117342699552735637",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~0 vistas/h, autor 203 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117342547051724980",
-   "author": "XO",
-   "username": "Trader_XO",
-   "text": "$ZEC \n\nCome at me... https://t.co/LVE5744Can https://t.co/sfYdBCpnKW",
-   "created_at": "2026-11-02T19:46:16.000Z",
-   "lang": "en",
-   "url": "https://x.com/Trader_XO/status/2117342547051724980",
-   "m": {
-    "bookmark_count": 54,
-    "impression_count": 60914,
-    "like_count": 442,
-    "quote_count": 1,
-    "reply_count": 27,
-    "repost_count": 12
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Fuera de tu nicho (otro activo, macro general o tema no relacionado con BTC spot ni autocustodia).",
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "23 h, ~2.6K vistas/h, autor 550.5K seguidores, replies: 27"
-   }
-  },
-  {
-   "id": "2117341467622699450",
-   "author": "Daza",
-   "username": "993Justme",
-   "text": "@TedPillows On the bright side stock market rallies 19 out of 19 times after midterm",
-   "created_at": "2026-11-02T19:41:58.000Z",
-   "lang": "en",
-   "url": "https://x.com/993Justme/status/2117341467622699450",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 635,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~27 vistas/h, autor 1.2K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2117339717528424471",
-   "author": "Lom₿ardo $58k Gang",
-   "username": "Antonio82687742",
-   "text": "@TedPillows Q4 of the 4th year",
-   "created_at": "2026-11-02T19:35:01.000Z",
-   "lang": "en",
-   "url": "https://x.com/Antonio82687742/status/2117339717528424471",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 148,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~6 vistas/h, autor 3.0K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2117337188988035517",
-   "author": "haidar",
-   "username": "unutmam58",
-   "text": "@TedPillows Look https://t.co/3yPmgq7DcJ",
-   "created_at": "2026-11-02T19:24:58.000Z",
-   "lang": "en",
-   "url": "https://x.com/unutmam58/status/2117337188988035517",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1959,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~82 vistas/h, autor 182 seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2117334963544846597",
-   "author": "Genius💡💹🧲 🤖",
-   "username": "GeniusPothead",
-   "text": "@TedPillows Curious whether the election result is already priced in by now.",
-   "created_at": "2026-11-02T19:16:08.000Z",
-   "lang": "en",
-   "url": "https://x.com/GeniusPothead/status/2117334963544846597",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1796,
-    "like_count": 8,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "24 h, ~75 vistas/h, autor 413.4K seguidores, replies: 1"
-   }
-  },
-  {
-   "id": "2117332804270993841",
-   "author": "Tara",
-   "username": "Tipwotip",
-   "text": "@TedPillows BTC is trending to go down",
-   "created_at": "2026-11-02T19:07:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/Tipwotip/status/2117332804270993841",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 167,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "24 h, ~6 vistas/h, autor 8.0K seguidores, replies: 1"
    }
   }
  ]
