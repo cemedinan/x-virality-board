@@ -1,14 +1,14 @@
 {
-  "meta": {
-    "generated_at": "2026-11-04T16:07:44-03:00",
-    "window_hours": 24,
-    "likes_scanned": 50,
-    "listed": 0,
-    "in_niche": 0,
-    "not_recommended": 0,
-    "new_since_prev": 0,
-    "removed_replied": 0,
-    "removed_old": 0
-  },
-  "posts": []
+ "meta": {
+  "generated_at": "2026-11-04T20:11:07-03:00",
+  "window_hours": 24,
+  "likes_scanned": 100,
+  "listed": 0,
+  "in_niche": 0,
+  "not_recommended": 0,
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 0
+ },
+ "posts": []
 }
