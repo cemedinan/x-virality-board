@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-03T21:02:42-03:00",
+  "generated_at": "2026-11-03T22:09:58-03:00",
   "window_hours": 24,
   "likes_scanned": 200,
-  "listed": 4,
+  "listed": 1,
   "in_niche": 0,
-  "not_recommended": 4,
+  "not_recommended": 1,
   "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 6
+  "removed_old": 3
  },
  "posts": [
   {
@@ -33,82 +33,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "23 h, ~0 vistas/h, autor 506 seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117421451225833502",
-   "author": "Nghẹo | DOPE",
-   "username": "Quaocchoo",
-   "text": "@Stefan_B_Trades Curious to see how the setup plays out",
-   "created_at": "2026-11-03T00:59:48.000Z",
-   "lang": "en",
-   "url": "https://x.com/Quaocchoo/status/2117421451225833502",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 25,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117420981975416950",
-   "author": "Nghẹo | DOPE",
-   "username": "Quaocchoo",
-   "text": "@trade_centurion Consolidation here makes the next liquidity sweep decisive",
-   "created_at": "2026-11-03T00:57:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/Quaocchoo/status/2117420981975416950",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~0 vistas/h, autor 9.2K seguidores, replies: 0"
-   }
-  },
-  {
-   "id": "2117420842699403610",
-   "author": "Nghẹo | DOPE",
-   "username": "Quaocchoo",
-   "text": "@marketwizard Ảnh này nhìn cuốn thật bác",
-   "created_at": "2026-11-03T00:57:23.000Z",
-   "lang": "vi",
-   "url": "https://x.com/Quaocchoo/status/2117420842699403610",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 32,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "",
-   "in_niche": false,
-   "skip_reason": "Respuesta dentro de otro hilo con poco alcance; difícil que tu reply se vea.",
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "23 h, ~1 vistas/h, autor 9.2K seguidores, replies: 0"
+    "reason": "24 h, ~0 vistas/h, autor 506 seguidores, replies: 0"
    }
   }
  ]
