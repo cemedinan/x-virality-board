@@ -1,15 +1,314 @@
 {
  "meta": {
-  "generated_at": "2026-11-05T16:03:51-03:00",
+  "generated_at": "2026-11-05T20:08:24-03:00",
   "window_hours": 24,
-  "likes_scanned": 40,
-  "listed": 0,
-  "in_niche": 0,
+  "likes_scanned": 200,
+  "listed": 11,
+  "in_niche": 11,
   "not_recommended": 0,
-  "new_since_prev": 0,
+  "new_since_prev": 11,
   "removed_replied": 0,
   "removed_old": 0,
   "note": "Posts de las últimas 24 horas que aún no has respondido"
  },
- "posts": []
+ "posts": [
+  {
+   "id": "2118419309491867770",
+   "author": "Elizaveta",
+   "username": "lizas_mood",
+   "text": "@MMCrypto Pump it higher ! We need to go uppp",
+   "created_at": "2026-11-05T19:04:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/lizas_mood/status/2118419309491867770",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 61,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Everyone wants the pump; fewer want the drawdown math. What % move from here would actually change your size?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": -1,
+    "reason": "4 h, ~15 vistas/h, autor 2.5K seguidores, replies: 0"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118410513021640826",
+   "author": "Cryptobull ( Free Premium Calls )",
+   "username": "Cryptobullmaker",
+   "text": "@MMCrypto Which kind of emergency \nThis looks like radio active chart",
+   "created_at": "2026-11-05T18:29:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/Cryptobullmaker/status/2118410513021640826",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 1125,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "reply_en": "“Radioactive” charts make great screenshots; spot holders care about closing prices. Which level would actually flip your bias here?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "5 h, ~242 vistas/h, autor 116.6K seguidores, replies: 1"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118405037512966284",
+   "author": "vøv △",
+   "username": "vovweb3",
+   "text": "@MMCrypto wedge at $75k, next target $80k",
+   "created_at": "2026-11-05T18:08:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/vovweb3/status/2118405037512966284",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 433,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Wedge from $75k toward $80k is a clean map—spot doesn’t need the exact tip. Do you add nearer $75k or wait for a break confirmation?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 0,
+    "reason": "5 h, ~87 vistas/h, autor 3.5K seguidores, replies: 0"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118394355581112693",
+   "author": "MAGATRON",
+   "username": "jewronimox",
+   "text": "@KingAnt The last normal day was before COVID hit the US.",
+   "created_at": "2026-11-05T17:25:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/jewronimox/status/2118394355581112693",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 409,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 1
+   },
+   "reply_en": "Comparing to pre-COVID hits hard. For Bitcoin, what “normal” are you measuring—the price, or your own custody habits?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 0,
+    "reason": "6 h, ~72 vistas/h, autor 2.3K seguidores, replies: 1"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118389504197169652",
+   "author": "TPB",
+   "username": "PrimerBitcoin",
+   "text": "Me estas diciendo que Bitcoin acaba de aguantar:\n\n -el mayor hackeo de la historía en Binance\n-Midterms (por el momento)\n-Tradi muriendo\n\nY sigue en 76k\nSi esto no es fuerza relativa que alguien me despierte\n\nAun así, 73k pienso que es buena zona para reanudar el DCA y acabar ya",
+   "created_at": "2026-11-05T17:06:30.000Z",
+   "lang": "es",
+   "url": "https://x.com/PrimerBitcoin/status/2118389504197169652",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 2698,
+    "like_count": 25,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Aguantó el hackeo de Binance y sigue cerca de 76k: eso es el protocolo, no el exchange. ¿Cuánto de tu stack ya está fuera del custodio?\nhttps://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "6 h, ~447 vistas/h, autor 8.9K seguidores, replies: 0"
+   },
+   "with_link": true,
+   "visual": "Gráfico simple: BTC ~76k sostenido tras hackeo Binance + midterms; fondo azul marino, $BTC blanco, acento lima, logo watermark."
+  },
+  {
+   "id": "2118384478171091025",
+   "author": "PARSA",
+   "username": "Parsa85_",
+   "text": "@KingAnt Curiosity is high but skepticism stays essential",
+   "created_at": "2026-11-05T16:46:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/Parsa85_/status/2118384478171091025",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 260,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Curiosity without skepticism is how narratives sell. What’s the one claim in that thread you’d demand a primary source for?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": -1,
+    "reason": "6 h, ~41 vistas/h, autor 1.4K seguidores, replies: 0"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118375707726274616",
+   "author": "Gary Cardone",
+   "username": "GaryCardone",
+   "text": "Some of the biggest liars in Bitcoin ain’t selling Bitcoin. They’re selling YOU a story.\n\nThey scream, “Buy Bitcoin at $77K!” but they keep their own money on the sidelines.\n\nThey want YOU taking the risk while THEY collect the rewards.\n\nStop listening to what people preach and https://t.co/KAciM33IuA",
+   "created_at": "2026-11-05T16:11:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/GaryCardone/status/2118375707726274616",
+   "m": {
+    "bookmark_count": 32,
+    "impression_count": 24677,
+    "like_count": 251,
+    "quote_count": 1,
+    "reply_count": 42,
+    "repost_count": 14
+   },
+   "reply_en": "Watch wallets, not war cries: if they scream “buy at $77K” with empty bags, the risk is yours. Who on your list actually shows cold storage?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "7 h, ~3553 vistas/h, autor 116.4K seguidores, replies: 42"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118362328672395620",
+   "author": "Daws",
+   "username": "Dawsmeta",
+   "text": "@Shieldmetax I think there will be a blackout but not the way its being proclaimed. \n\nMass panic isn't in the books, \n\nControl is. \n\nThe way to do it... shut down the grid for 3 days and initiate martial law.",
+   "created_at": "2026-11-05T15:18:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/Dawsmeta/status/2118362328672395620",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 3927,
+    "like_count": 16,
+    "quote_count": 0,
+    "reply_count": 5,
+    "repost_count": 0
+   },
+   "reply_en": "Control narratives travel faster than evidence. What’s the one concrete signal you’d need before treating Nov 17 as more than noise?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "8 h, ~501 vistas/h, autor 3.8K seguidores, replies: 5"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118360877170634759",
+   "author": "Shield",
+   "username": "Shieldmetax",
+   "text": "🚨 Nov 17 Blackout is a DISTRACTION. \n\nBanks wiped to $0. \nInternet dark for 3 months.\n\nThat's the rumor flying around right now. Who started it? And why does a new doomsday date keep showing up right when people are already on edge?\n\nI'm not buying it. This smells like fear and",
+   "created_at": "2026-11-05T15:12:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/Shieldmetax/status/2118360877170634759",
+   "m": {
+    "bookmark_count": 108,
+    "impression_count": 70213,
+    "like_count": 327,
+    "quote_count": 0,
+    "reply_count": 54,
+    "repost_count": 34
+   },
+   "reply_en": "Fear calendars sell clicks; Bitcoin still settles every ~10 minutes either way. Which rumor last year actually moved your stack?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "8 h, ~8857 vistas/h, autor 48K seguidores, replies: 54"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118182637814861950",
+   "author": "NANDO",
+   "username": "Nandocrc",
+   "text": "@KingAnt I’m ready! https://t.co/9oxqb3JPwP",
+   "created_at": "2026-11-05T03:24:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/Nandocrc/status/2118182637814861950",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 548,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Ready for the headline—or for your own checklist? What’s the one rule you refuse to break if “forever” shows up ugly?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": -1,
+    "reason": "20 h, ~28 vistas/h, autor 587 seguidores, replies: 0"
+   },
+   "with_link": false
+  },
+  {
+   "id": "2118180037677687028",
+   "author": "Ant",
+   "username": "KingAnt",
+   "text": "Shut your phone and computer off…\n Don’t go online at all tomorrow.\n Go enjoy one last normal day.\n The world is about to change forever.",
+   "created_at": "2026-11-05T03:14:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/KingAnt/status/2118180037677687028",
+   "m": {
+    "bookmark_count": 18,
+    "impression_count": 9841,
+    "like_count": 219,
+    "quote_count": 1,
+    "reply_count": 55,
+    "repost_count": 22
+   },
+   "reply_en": "Every cycle gets a “last normal day” headline. Bitcoin keeps producing blocks either way. What would actually change your plan tomorrow?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "20 h, ~494 vistas/h, autor 65.4K seguidores, replies: 55"
+   },
+   "with_link": false
+  }
+ ]
 }
