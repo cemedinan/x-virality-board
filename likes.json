@@ -1,14 +1,15 @@
 {
-  "meta": {
-    "generated_at": "2026-11-05T09:10:13-03:00",
-    "window_hours": 24,
-    "likes_scanned": 20,
-    "listed": 0,
-    "in_niche": 0,
-    "not_recommended": 0,
-    "new_since_prev": 0,
-    "removed_replied": 0,
-    "removed_old": 0
-  },
-  "posts": []
+ "meta": {
+  "generated_at": "2026-11-05T13:08:25-03:00",
+  "window_hours": 24,
+  "likes_scanned": 40,
+  "listed": 0,
+  "in_niche": 0,
+  "not_recommended": 0,
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 0,
+  "note": "Posts de las últimas 24 horas que aún no has respondido"
+ },
+ "posts": []
 }
