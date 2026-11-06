@@ -1,35 +1,35 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T16:06:00-03:00",
+    "generated_at": "2026-11-06T20:05:00-03:00",
     "window_hours": 24,
-    "likes_scanned": 100,
+    "likes_scanned": 199,
     "listed": 2,
     "in_niche": 2,
     "not_recommended": 0,
     "new_since_prev": 2,
-    "removed_replied": 5,
+    "removed_replied": 2,
     "removed_old": 0,
     "note": "Posts de las últimas 24 horas que aún no has respondido",
     "reply_check_note": "get_users_posts + search from:ForecastQuant (is:reply OR is:quote) paged ~36h; conversation_id and referenced_tweets matched"
   },
   "posts": [
     {
-      "id": "2118746113863991414",
-      "author": "ₕₐₘₚₜₒₙ",
-      "username": "hamptonism",
-      "text": "Yea, we’re cooked. https://t.co/cCNV22I3Uh",
-      "created_at": "2026-11-06T16:43:32.000Z",
+      "id": "2118713006343463102",
+      "author": "TheBigO99",
+      "username": "TheBigO1999",
+      "text": "@DrClownPhD https://t.co/2CraV1bfp5",
+      "created_at": "2026-11-06T14:31:59.000Z",
       "lang": "en",
-      "url": "https://x.com/hamptonism/status/2118746113863991414",
+      "url": "https://x.com/TheBigO1999/status/2118713006343463102",
       "m": {
-        "bookmark_count": 76,
-        "impression_count": 17146,
-        "like_count": 203,
-        "quote_count": 7,
-        "reply_count": 12,
+        "bookmark_count": 10,
+        "impression_count": 9171,
+        "like_count": 268,
+        "quote_count": 0,
+        "reply_count": 1,
         "repost_count": 18
       },
-      "reply_en": "😳 “We’re cooked” is the whole feed today. What single chart would uncook your bias before the close?",
+      "reply_en": "😂 Media reply on the Texas/data-center meme travels fast. Which single frame in that clip made you hit like?",
       "in_niche": true,
       "skip_reason": "",
       "reply_lang": "en",
@@ -37,36 +37,36 @@
       "momentum": {
         "level": "alto",
         "score": 3,
-        "reason": "2 h, ~7221 vistas/h, autor 225.1K seguidores, replies: 12"
-      },
-      "gif": "This Is Fine dog — search: this is fine"
+        "reason": "8 h, ~1079 vistas/h, autor 1.8K seguidores, replies: 1"
+      }
     },
     {
-      "id": "2118700484298932700",
-      "author": "Pedro M",
-      "username": "doutorcaleb",
-      "text": "O Grok Bot se tornou inutilizável depois do Elon reduzir silenciosamente em 5x os limites.\n\nAlém disso, somos obrigados a usar o Grok 4.7, um modelo muito atrasado e caro para sua performance.\n\nDepender de vendor foi realmente um tiro no pé. Me ajudem: qual é a alternativa?\n\nEu https://t.co/ahzuqiiwvs",
-      "created_at": "2026-11-06T13:42:13.000Z",
-      "lang": "pt",
-      "url": "https://x.com/doutorcaleb/status/2118700484298932700",
+      "id": "2118683181347930120",
+      "author": "Dr. Clown, PhD",
+      "username": "DrClownPhD",
+      "text": "BREAKING: Texas bans data centers. Stocks lose $2 trillion in 40 minutes. 🤠 https://t.co/WN52CcYcs7",
+      "created_at": "2026-11-06T12:33:28.000Z",
+      "lang": "en",
+      "url": "https://x.com/DrClownPhD/status/2118683181347930120",
       "m": {
-        "bookmark_count": 123,
-        "impression_count": 36707,
-        "like_count": 381,
-        "quote_count": 3,
-        "reply_count": 158,
-        "repost_count": 16
+        "bookmark_count": 3094,
+        "impression_count": 1384935,
+        "like_count": 22776,
+        "quote_count": 230,
+        "reply_count": 435,
+        "repost_count": 3675
       },
-      "reply_en": "😳 Limite cortado em 5x e preso a um vendor — tiro no pé mesmo. Qual alternativa você está testando que não dependa de um só provedor?",
+      "reply_en": "🤠 “Texas bans data centers” and $2T gone in 40 minutes—cartoon-speed headline. Are you reading it as satire, or did a real ban story hit your feed?",
       "in_niche": true,
       "skip_reason": "",
-      "reply_lang": "pt",
+      "reply_lang": "en",
       "with_link": false,
       "momentum": {
         "level": "alto",
         "score": 3,
-        "reason": "5 h, ~6802 vistas/h, autor 6909 seguidores, replies: 158"
-      }
+        "reason": "10 h, ~132206 vistas/h, autor 366.9K seguidores, replies: 435"
+      },
+      "gif": "Wait what — search: wait what meme"
     }
   ]
 }
