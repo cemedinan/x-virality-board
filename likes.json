@@ -1,17 +1,153 @@
 {
  "meta": {
-  "generated_at": "2026-11-05T20:08:24-03:00",
+  "generated_at": "2026-11-05T23:20:16-03:00",
   "window_hours": 24,
-  "likes_scanned": 200,
-  "listed": 11,
-  "in_niche": 11,
+  "likes_scanned": 100,
+  "listed": 21,
+  "in_niche": 21,
   "not_recommended": 0,
-  "new_since_prev": 11,
+  "new_since_prev": 10,
   "removed_replied": 0,
   "removed_old": 0,
-  "note": "Posts de las últimas 24 horas que aún no has respondido"
+  "note": "Posts de las últimas 24 horas que aún no has respondido",
+  "reply_check_note": "get_users_posts 503; used O1603 cache + most_recent_tweet_id Layah reply + likes_seen.replied + conversation match"
  },
  "posts": [
+  {
+   "id": "2118468984421208361",
+   "author": "Shield",
+   "username": "Shieldmetax",
+   "text": "@zackmetax This 👏",
+   "created_at": "2026-11-05T22:22:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/Shieldmetax/status/2118468984421208361",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 83,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "One clap. Zero thesis. What single chart on that dump actually changed your spot size?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "4 h, ~20 vistas/h, autor 48.0K seguidores, replies: 0"
+   }
+  },
+  {
+   "id": "2118467990144373189",
+   "author": "Shield",
+   "username": "Shieldmetax",
+   "text": "Crypto &amp; Stocks Dumping…\n\nOn a THURSDAY AFTERNOON.\n\nWe all know what that means… https://t.co/gHnKQTBG73",
+   "created_at": "2026-11-05T22:18:22.000Z",
+   "lang": "en",
+   "url": "https://x.com/Shieldmetax/status/2118467990144373189",
+   "m": {
+    "bookmark_count": 14,
+    "impression_count": 2130,
+    "like_count": 65,
+    "quote_count": 0,
+    "reply_count": 24,
+    "repost_count": 14
+   },
+   "reply_en": "Thursday dumps hit different—spot still settles every ~10 minutes either way. Which level would actually make you buy, not refresh?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "4 h, ~528 vistas/h, autor 48.0K seguidores, replies: 24"
+   }
+  },
+  {
+   "id": "2118444714504634589",
+   "author": "Ant",
+   "username": "KingAnt",
+   "text": "We’re entering a black swan. \n\nPrepare yourself.",
+   "created_at": "2026-11-05T20:45:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/KingAnt/status/2118444714504634589",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 2494,
+    "like_count": 94,
+    "quote_count": 1,
+    "reply_count": 36,
+    "repost_count": 10
+   },
+   "reply_en": "“Black swan” gets said every red week. What’s the one risk you already sized for before the headline hit?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "6 h, ~447 vistas/h, autor 65.4K seguidores, replies: 36"
+   }
+  },
+  {
+   "id": "2118430834495488270",
+   "author": "Honor Y Gloria ❤🔥",
+   "username": "JoviNomas",
+   "text": "Médico sin licencia de conducir, permiso ni SOAP, y mientras el fiscalizador llamaba a la grúa para retirar de circulación el vehículo, Robin Adrián Álvarez Contreras lo atropelló y dió a la fuga en Las Condes. Quedó con arresto domiciliario nocturno. Cuicos culiaos https://t.co/amyFiq3kWN https://t.co/JfpbsRJLRK",
+   "created_at": "2026-11-05T19:50:44.000Z",
+   "lang": "es",
+   "url": "https://x.com/JoviNomas/status/2118430834495488270",
+   "m": {
+    "bookmark_count": 294,
+    "impression_count": 120264,
+    "like_count": 2837,
+    "quote_count": 22,
+    "reply_count": 193,
+    "repost_count": 869
+   },
+   "reply_en": "Arresto domiciliario nocturno tras atropellar a un fiscalizador: el dato duele más que el hilo. ¿Qué reforma concreta pedís primero—licencia, SOAP o sanción real?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "6 h, ~18.5K vistas/h, autor 48.1K seguidores, replies: 193"
+   }
+  },
+  {
+   "id": "2118423262036377946",
+   "author": "💎🙌🏻 Hortie 11:11🚀",
+   "username": "Hortiez",
+   "text": "@henokcrypto Scammers like you should just delete their accounts",
+   "created_at": "2026-11-05T19:20:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/Hortiez/status/2118423262036377946",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 249,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "Scam accounts multiply faster than blocks. What’s the one red flag that stops you before a DM ever opens?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "7 h, ~35 vistas/h, autor 723 seguidores, replies: 0"
+   }
+  },
   {
    "id": "2118419309491867770",
    "author": "Elizaveta",
@@ -22,7 +158,7 @@
    "url": "https://x.com/lizas_mood/status/2118419309491867770",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 61,
+    "impression_count": 73,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -34,8 +170,8 @@
    "reply_lang": "en",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "4 h, ~15 vistas/h, autor 2.5K seguidores, replies: 0"
+    "score": 1,
+    "reason": "7 h, ~10 vistas/h, autor 2.5K seguidores, replies: 0"
    },
    "with_link": false
   },
@@ -49,10 +185,10 @@
    "url": "https://x.com/Cryptobullmaker/status/2118410513021640826",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1125,
-    "like_count": 6,
+    "impression_count": 1300,
+    "like_count": 8,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 2,
     "repost_count": 0
    },
    "reply_en": "“Radioactive” charts make great screenshots; spot holders care about closing prices. Which level would actually flip your bias here?",
@@ -60,9 +196,9 @@
    "skip_reason": "",
    "reply_lang": "en",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "5 h, ~242 vistas/h, autor 116.6K seguidores, replies: 1"
+    "level": "alto",
+    "score": 3,
+    "reason": "8 h, ~165 vistas/h, autor 116.6K seguidores, replies: 2"
    },
    "with_link": false
   },
@@ -76,10 +212,10 @@
    "url": "https://x.com/vovweb3/status/2118405037512966284",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 433,
+    "impression_count": 473,
     "like_count": 5,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "repost_count": 0
    },
    "reply_en": "Wedge from $75k toward $80k is a clean map—spot doesn’t need the exact tip. Do you add nearer $75k or wait for a break confirmation?",
@@ -89,7 +225,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "5 h, ~87 vistas/h, autor 3.5K seguidores, replies: 0"
+    "reason": "8 h, ~57 vistas/h, autor 3.5K seguidores, replies: 1"
    },
    "with_link": false
   },
@@ -103,10 +239,10 @@
    "url": "https://x.com/jewronimox/status/2118394355581112693",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 409,
-    "like_count": 4,
+    "impression_count": 745,
+    "like_count": 10,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 3,
     "repost_count": 1
    },
    "reply_en": "Comparing to pre-COVID hits hard. For Bitcoin, what “normal” are you measuring—the price, or your own custody habits?",
@@ -116,9 +252,36 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "6 h, ~72 vistas/h, autor 2.3K seguidores, replies: 1"
+    "reason": "9 h, ~83 vistas/h, autor 2.3K seguidores, replies: 3"
    },
    "with_link": false
+  },
+  {
+   "id": "2118389515203363219",
+   "author": "borovik",
+   "username": "3orovik",
+   "text": "Democrats win\n\nAI is banned\n\nStocks crash\n\nCrypto crash\n\nAmerica becomes a 3rd world country",
+   "created_at": "2026-11-05T17:06:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/3orovik/status/2118389515203363219",
+   "m": {
+    "bookmark_count": 67,
+    "impression_count": 34216,
+    "like_count": 2600,
+    "quote_count": 11,
+    "reply_count": 152,
+    "repost_count": 229
+   },
+   "reply_en": "Five scare lines, zero on-chain check. Which of those five would actually change how you hold $BTC?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "9 h, ~3.7K vistas/h, autor 223.0K seguidores, replies: 152"
+   }
   },
   {
    "id": "2118389504197169652",
@@ -130,8 +293,8 @@
    "url": "https://x.com/PrimerBitcoin/status/2118389504197169652",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 2698,
-    "like_count": 25,
+    "impression_count": 2923,
+    "like_count": 29,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -142,8 +305,8 @@
    "reply_lang": "es",
    "momentum": {
     "level": "medio",
-    "score": 1,
-    "reason": "6 h, ~447 vistas/h, autor 8.9K seguidores, replies: 0"
+    "score": 2,
+    "reason": "9 h, ~316 vistas/h, autor 8.9K seguidores, replies: 0"
    },
    "with_link": true,
    "visual": "Gráfico simple: BTC ~76k sostenido tras hackeo Binance + midterms; fondo azul marino, $BTC blanco, acento lima, logo watermark."
@@ -158,10 +321,10 @@
    "url": "https://x.com/Parsa85_/status/2118384478171091025",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 260,
-    "like_count": 0,
+    "impression_count": 465,
+    "like_count": 2,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "repost_count": 0
    },
    "reply_en": "Curiosity without skepticism is how narratives sell. What’s the one claim in that thread you’d demand a primary source for?",
@@ -170,8 +333,8 @@
    "reply_lang": "en",
    "momentum": {
     "level": "bajo",
-    "score": -1,
-    "reason": "6 h, ~41 vistas/h, autor 1.4K seguidores, replies: 0"
+    "score": 0,
+    "reason": "10 h, ~48 vistas/h, autor 1.4K seguidores, replies: 1"
    },
    "with_link": false
   },
@@ -184,23 +347,104 @@
    "lang": "en",
    "url": "https://x.com/GaryCardone/status/2118375707726274616",
    "m": {
-    "bookmark_count": 32,
-    "impression_count": 24677,
-    "like_count": 251,
-    "quote_count": 1,
-    "reply_count": 42,
-    "repost_count": 14
+    "bookmark_count": 39,
+    "impression_count": 30283,
+    "like_count": 300,
+    "quote_count": 5,
+    "reply_count": 52,
+    "repost_count": 16
    },
    "reply_en": "Watch wallets, not war cries: if they scream “buy at $77K” with empty bags, the risk is yours. Who on your list actually shows cold storage?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "7 h, ~3553 vistas/h, autor 116.4K seguidores, replies: 42"
+    "level": "medio",
+    "score": 2,
+    "reason": "10 h, ~3.0K vistas/h, autor 116.5K seguidores, replies: 52"
    },
    "with_link": false
+  },
+  {
+   "id": "2118375142443405596",
+   "author": "Irene Zhao",
+   "username": "Irenezhao_",
+   "text": "If you are selling,\n\nFuck you https://t.co/3YQPPD6s6i",
+   "created_at": "2026-11-05T16:09:26.000Z",
+   "lang": "en",
+   "url": "https://x.com/Irenezhao_/status/2118375142443405596",
+   "m": {
+    "bookmark_count": 34,
+    "impression_count": 94244,
+    "like_count": 1453,
+    "quote_count": 16,
+    "reply_count": 233,
+    "repost_count": 39
+   },
+   "reply_en": "Anger at sellers is loud; cold storage is quiet. Who on your list shows keys, not just slogans?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "10 h, ~9.3K vistas/h, autor 252.6K seguidores, replies: 233"
+   }
+  },
+  {
+   "id": "2118364708428238865",
+   "author": "Shibo",
+   "username": "GodsBurnt",
+   "text": "Trump tried to warn you guys…\n\nThis is going to be 1929 all over again. \n\nYou’ll soon find out that being gay and having abortions doesn’t really matter when you’re on the streets and starving. \n\nHope you’re happy.",
+   "created_at": "2026-11-05T15:27:58.000Z",
+   "lang": "en",
+   "url": "https://x.com/GodsBurnt/status/2118364708428238865",
+   "m": {
+    "bookmark_count": 51,
+    "impression_count": 14523,
+    "like_count": 538,
+    "quote_count": 4,
+    "reply_count": 62,
+    "repost_count": 76
+   },
+   "reply_en": "1929 analogies travel faster than balance sheets. What’s the one number you’d check before buying that frame?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "11 h, ~1.3K vistas/h, autor 135.1K seguidores, replies: 62"
+   }
+  },
+  {
+   "id": "2118363356780437923",
+   "author": "Chantal",
+   "username": "chantalcripto",
+   "text": "ESTÁN CRASHEANDO TODOS LOS MERCADOS\n\nALGUIEN SABE QUE PASA?",
+   "created_at": "2026-11-05T15:22:36.000Z",
+   "lang": "es",
+   "url": "https://x.com/chantalcripto/status/2118363356780437923",
+   "m": {
+    "bookmark_count": 108,
+    "impression_count": 382572,
+    "like_count": 2180,
+    "quote_count": 17,
+    "reply_count": 323,
+    "repost_count": 120
+   },
+   "reply_en": "Cuando todo crashea a la vez, el ruido gana. ¿Mirás el gráfico de $BTC o tu checklist de custodia primero?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 1,
+    "reason": "11 h, ~34.9K vistas/h, autor 14.1K seguidores, replies: 323"
+   }
   },
   {
    "id": "2118362328672395620",
@@ -212,10 +456,10 @@
    "url": "https://x.com/Dawsmeta/status/2118362328672395620",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 3927,
-    "like_count": 16,
+    "impression_count": 4708,
+    "like_count": 18,
     "quote_count": 0,
-    "reply_count": 5,
+    "reply_count": 6,
     "repost_count": 0
    },
    "reply_en": "Control narratives travel faster than evidence. What’s the one concrete signal you’d need before treating Nov 17 as more than noise?",
@@ -224,8 +468,8 @@
    "reply_lang": "en",
    "momentum": {
     "level": "medio",
-    "score": 1,
-    "reason": "8 h, ~501 vistas/h, autor 3.8K seguidores, replies: 5"
+    "score": 2,
+    "reason": "11 h, ~426 vistas/h, autor 3.8K seguidores, replies: 6"
    },
    "with_link": false
   },
@@ -238,23 +482,50 @@
    "lang": "en",
    "url": "https://x.com/Shieldmetax/status/2118360877170634759",
    "m": {
-    "bookmark_count": 108,
-    "impression_count": 70213,
-    "like_count": 327,
+    "bookmark_count": 133,
+    "impression_count": 79706,
+    "like_count": 368,
     "quote_count": 0,
-    "reply_count": 54,
-    "repost_count": 34
+    "reply_count": 58,
+    "repost_count": 36
    },
    "reply_en": "Fear calendars sell clicks; Bitcoin still settles every ~10 minutes either way. Which rumor last year actually moved your stack?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "8 h, ~8857 vistas/h, autor 48K seguidores, replies: 54"
+    "level": "medio",
+    "score": 1,
+    "reason": "11 h, ~7.2K vistas/h, autor 48.0K seguidores, replies: 58"
    },
    "with_link": false
+  },
+  {
+   "id": "2118355951870681564",
+   "author": "Pepe Deluxe 🐸",
+   "username": "deluxe_pepe",
+   "text": "If they don't arrest people for the elections \n\nThen I agree with this\n\nIf they do.....then God is not done with America yet\n\nI can't tell if people have repentance in their heart but the reflection of the nation will reveal it soon enough https://t.co/cNrmqxdOal",
+   "created_at": "2026-11-05T14:53:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/deluxe_pepe/status/2118355951870681564",
+   "m": {
+    "bookmark_count": 3123,
+    "impression_count": 174859,
+    "like_count": 6211,
+    "quote_count": 102,
+    "reply_count": 250,
+    "repost_count": 1885
+   },
+   "reply_en": "Election vibes move feeds; settlement doesn’t care. What rule for your stack stays fixed if the narrative flips overnight?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "11 h, ~15.3K vistas/h, autor 107.5K seguidores, replies: 250"
+   }
   },
   {
    "id": "2118182637814861950",
@@ -266,10 +537,10 @@
    "url": "https://x.com/Nandocrc/status/2118182637814861950",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 548,
+    "impression_count": 770,
     "like_count": 3,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "repost_count": 0
    },
    "reply_en": "Ready for the headline—or for your own checklist? What’s the one rule you refuse to break if “forever” shows up ugly?",
@@ -279,7 +550,7 @@
    "momentum": {
     "level": "bajo",
     "score": -1,
-    "reason": "20 h, ~28 vistas/h, autor 587 seguidores, replies: 0"
+    "reason": "23 h, ~33 vistas/h, autor 587 seguidores, replies: 1"
    },
    "with_link": false
   },
@@ -292,21 +563,21 @@
    "lang": "en",
    "url": "https://x.com/KingAnt/status/2118180037677687028",
    "m": {
-    "bookmark_count": 18,
-    "impression_count": 9841,
-    "like_count": 219,
+    "bookmark_count": 26,
+    "impression_count": 13372,
+    "like_count": 282,
     "quote_count": 1,
-    "reply_count": 55,
-    "repost_count": 22
+    "reply_count": 69,
+    "repost_count": 29
    },
    "reply_en": "Every cycle gets a “last normal day” headline. Bitcoin keeps producing blocks either way. What would actually change your plan tomorrow?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "20 h, ~494 vistas/h, autor 65.4K seguidores, replies: 55"
+    "level": "bajo",
+    "score": 0,
+    "reason": "23 h, ~578 vistas/h, autor 65.4K seguidores, replies: 69"
    },
    "with_link": false
   }
