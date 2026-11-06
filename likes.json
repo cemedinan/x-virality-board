@@ -1,89 +1,143 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T09:11:41-03:00",
+    "generated_at": "2026-11-06T13:20:45-03:00",
     "window_hours": 24,
     "likes_scanned": 200,
-    "listed": 36,
-    "in_niche": 36,
+    "listed": 5,
+    "in_niche": 5,
     "not_recommended": 0,
-    "new_since_prev": 36,
-    "removed_replied": 19,
-    "removed_old": 2,
+    "new_since_prev": 5,
+    "removed_replied": 35,
+    "removed_old": 1,
     "note": "Posts de las últimas 24 horas que aún no has respondido",
-    "reply_check_note": "get_users_posts + search from:ForecastQuant paged ~36h; conversation_id and referenced_tweets matched"
+    "reply_check_note": "get_users_posts + search from:ForecastQuant (is:reply OR is:quote) paged ~36h; conversation_id and referenced_tweets matched"
   },
   "posts": [
     {
-      "id": "2118597616439374113",
-      "author": "linbotang",
-      "username": "linbo_tang",
-      "text": "FinX is so quiet today. Hope everyone’s doing alright. Stay safe!",
-      "created_at": "2026-11-06T06:53:28.000Z",
+      "id": "2118657597943550310",
+      "author": "Christian B Wallace",
+      "username": "tier4B_ISO2002",
+      "text": "THE FED FLIPS THE SWITCH. YOUR MONEY WILL NEVER BE YOURS AGAIN. 💀\n\n \"I NEED YOU TO LISTEN TO ME. IF YOUR MONEY IS SITTING IN A TRADITIONAL BANK ACCOUNT RIGHT NOW, YOU'RE GAMBLING WITH YOUR FREEDOM. WHEN THE FED FLIPS THE SWITCH FEDWIRE BECOMES ISO 20022 NATIVE, MEANING BANKS, GOVERNMENTS, AND AI-DRIVEN SURVEILLANCE SYSTEMS ARE GOING TO SEE EVERY DETAIL OF EVERY TRANSACTION IN REAL TIME.\" \n\n\"THIS ISN'T A TECH UPGRADE. IT'S THE FINAL STEP BEFORE PROGRAMMABLE MONEY, WITHDRAWAL RESTRICTIONS, AND FORCED CONVERSIONS TO DIGITAL DOLLARS. YOU WON'T BE WARNED WHEN IT HAPPENS. YOU'RE JUST GOING TO WAKE UP ONE DAY, AND YOUR MONEY WON'T MOVE UNLESS THEY SAY SO. THEY DON'T NEED TO ANNOUNCE ANYTHING ANYMORE. THEY'VE ALREADY LAID THE RAILS.\" \n\n \"SWIFT, FEDWIRE, AND GLOBAL BANKS — THEY'RE ALREADY SYNCED. AI-POWERED COMPLIANCE IS READY TO FLAG, FREEZE, AND REROUTE YOUR FUNDS. THIS IS YOUR LAST WINDOW.\" \n\n🔴 SYSTEM NOTICE: QFS IS NOW ACTIVE",
+      "created_at": "2026-11-06T10:51:48.000Z",
       "lang": "en",
-      "url": "https://x.com/linbo_tang/status/2118597616439374113",
+      "url": "https://x.com/tier4B_ISO2002/status/2118657597943550310",
       "m": {
-        "bookmark_count": 0,
-        "impression_count": 368,
-        "like_count": 14,
+        "bookmark_count": 68,
+        "impression_count": 11297,
+        "like_count": 148,
         "quote_count": 0,
-        "reply_count": 2,
-        "repost_count": 0
+        "reply_count": 8,
+        "repost_count": 43
       },
-      "reply_en": "👀 Quiet feeds usually mean people are checking their bags, not chatting. What’s one thing you’d rather see posted than silence?",
+      "reply_en": "🚨 “Last window” scare posts ship with every rails upgrade. What’s one verifiable Fedwire/ISO date you’d actually move cash on?\nI wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
       "in_niche": true,
       "skip_reason": "",
       "reply_lang": "en",
-      "with_link": false,
+      "with_link": true,
       "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "5 h, ~69 vistas/h, autor 2.0K seguidores, replies: 2"
+        "level": "alto",
+        "score": 3,
+        "reason": "5 h, ~2061 vistas/h, autor 7565 seguidores, replies: 8"
       }
     },
     {
-      "id": "2118573861147185553",
-      "author": "MSB 🔸 BNB",
-      "username": "MemeStreetBetz",
-      "text": "You won’t BELIEVE the next move that’s about to happen for Bitcoin.\n\nThis is next level, NEVER seen before.\n\nI’m about to REVEAL the next 7 DAYS.",
-      "created_at": "2026-11-06T05:19:04.000Z",
+      "id": "2118635894412652659",
+      "author": "Gordon 🐂",
+      "username": "GordonGekko",
+      "text": "I want to know how much fear is really out there.\n\nStocks are getting destroyed.\n\nBitcoin is under pressure.\n\nAltcoins are bleeding.\n\nBe completely honest.\n\nIf you suddenly had $1,000,000 in cash today, would you start buying assets or sit on the sidelines?",
+      "created_at": "2026-11-06T09:25:34.000Z",
       "lang": "en",
-      "url": "https://x.com/MemeStreetBetz/status/2118573861147185553",
+      "url": "https://x.com/GordonGekko/status/2118635894412652659",
       "m": {
         "bookmark_count": 7,
-        "impression_count": 5054,
-        "like_count": 100,
-        "quote_count": 0,
-        "reply_count": 14,
-        "repost_count": 3
+        "impression_count": 21459,
+        "like_count": 232,
+        "quote_count": 6,
+        "reply_count": 120,
+        "repost_count": 13
       },
-      "reply_en": "🚨 “Never seen before” plus a 7-day reveal—same pitch every dump. What single number in that tease is actually verifiable?",
+      "reply_en": "😳 $1M cash on a red board is the real stress test. Would you deploy over weeks—or wait for one clean trigger?",
       "in_niche": true,
       "skip_reason": "",
       "reply_lang": "en",
       "with_link": false,
       "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "7 h, ~735 vistas/h, autor 22.9K seguidores, replies: 14"
+        "level": "alto",
+        "score": 3,
+        "reason": "7 h, ~3101 vistas/h, autor 853.4K seguidores, replies: 120"
       }
     },
     {
-      "id": "2118567344025067932",
-      "author": "Kaz",
-      "username": "XBTkaz",
-      "text": "$BTC \n\nIt's crazy how accurate this is going so far,\n\nLooking for a tap into the mFVG (74.9k) next week then rip towards the upside. https://t.co/JBa0EPGMYq https://t.co/VgpUg3yUyj",
-      "created_at": "2026-11-06T04:53:10.000Z",
+      "id": "2118507715680952515",
+      "author": "Overkill Trading",
+      "username": "OverkillTrading",
+      "text": "DON’T SELL YOUR CRYPTO HERE 🚨 NOVEMBER 5 $ETH https://t.co/PCCiVnpaRQ",
+      "created_at": "2026-11-06T00:56:14.000Z",
       "lang": "en",
-      "url": "https://x.com/XBTkaz/status/2118567344025067932",
+      "url": "https://x.com/OverkillTrading/status/2118507715680952515",
       "m": {
-        "bookmark_count": 147,
-        "impression_count": 40424,
-        "like_count": 409,
+        "bookmark_count": 57,
+        "impression_count": 19955,
+        "like_count": 320,
+        "quote_count": 4,
+        "reply_count": 16,
+        "repost_count": 26
+      },
+      "reply_en": "👀 “Don’t sell here” banners hit every red November. What level would make you ignore that warning?",
+      "in_niche": true,
+      "skip_reason": "",
+      "reply_lang": "en",
+      "with_link": false,
+      "momentum": {
+        "level": "alto",
+        "score": 3,
+        "reason": "15 h, ~1295 vistas/h, autor 61.0K seguidores, replies: 16"
+      }
+    },
+    {
+      "id": "2118503085957951901",
+      "author": "Bitcoin Capitalist ✈️",
+      "username": "BTCCapitalist21",
+      "text": "The great financial reset is coming https://t.co/GCdybv1Auw",
+      "created_at": "2026-11-06T00:37:50.000Z",
+      "lang": "en",
+      "url": "https://x.com/BTCCapitalist21/status/2118503085957951901",
+      "m": {
+        "bookmark_count": 243,
+        "impression_count": 34856,
+        "like_count": 685,
+        "quote_count": 2,
+        "reply_count": 27,
+        "repost_count": 130
+      },
+      "reply_en": "🚨 “Great reset” posts spike every dump week. What single number would make you treat it as more than a meme?",
+      "in_niche": true,
+      "skip_reason": "",
+      "reply_lang": "en",
+      "with_link": false,
+      "momentum": {
+        "level": "alto",
+        "score": 3,
+        "reason": "16 h, ~2218 vistas/h, autor 7098 seguidores, replies: 27"
+      }
+    },
+    {
+      "id": "2118478303833342110",
+      "author": "The hunter",
+      "username": "TrueGemHunter",
+      "text": "SOMETHING CATASTROPHIC WILL HAPPEN TOMORROW \n\nBE PREPARED",
+      "created_at": "2026-11-05T22:59:21.000Z",
+      "lang": "en",
+      "url": "https://x.com/TrueGemHunter/status/2118478303833342110",
+      "m": {
+        "bookmark_count": 52,
+        "impression_count": 56225,
+        "like_count": 397,
         "quote_count": 5,
-        "reply_count": 26,
-        "repost_count": 37
+        "reply_count": 71,
+        "repost_count": 30
       },
-      "reply_en": "👀 Mapping the next tap at 74.9k is clean. Do you add on a wick into that mFVG, or only after it reclaims?",
+      "reply_en": "💀 “Catastrophic tomorrow” already became today. What were you actually preparing for—price, custody, or headlines?",
       "in_niche": true,
       "skip_reason": "",
       "reply_lang": "en",
@@ -91,903 +145,9 @@
       "momentum": {
         "level": "alto",
         "score": 3,
-        "reason": "7 h, ~5531 vistas/h, autor 13.4K seguidores, replies: 26"
+        "reason": "17 h, ~3239 vistas/h, autor 155.8K seguidores, replies: 71"
       },
-      "visual": "gráfico: zona mFVG ~74.9k y proyección alcista en navy/lima"
-    },
-    {
-      "id": "2118566269418868903",
-      "author": "⚡️₿ŤĈ_J̌ĘÐï⚡️",
-      "username": "BTC_JEDI21",
-      "text": "Hey @grok, how can I turn $20 a day into a million bucks ASAP? \n\nGive me the ultimate high-growth, aggressive strategy to hit seven figures as fast as mathematically possible.",
-      "created_at": "2026-11-06T04:48:54.000Z",
-      "lang": "en",
-      "url": "https://x.com/BTC_JEDI21/status/2118566269418868903",
-      "m": {
-        "bookmark_count": 3,
-        "impression_count": 4301,
-        "like_count": 11,
-        "quote_count": 0,
-        "reply_count": 3,
-        "repost_count": 0
-      },
-      "reply_en": "💀 $20/day to seven figures usually hides leverage or fantasy APYs. What’s the boring path you’d actually stick to for 10 years?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "7 h, ~583 vistas/h, autor 6.2K seguidores, replies: 3"
-      }
-    },
-    {
-      "id": "2118547267821219922",
-      "author": "swap.io",
-      "username": "swapdotio",
-      "text": "@CryptoKaleo sure ser, right after this dip https://t.co/KnkRGSuGYB",
-      "created_at": "2026-11-06T03:33:24.000Z",
-      "lang": "en",
-      "url": "https://x.com/swapdotio/status/2118547267821219922",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 13,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "repost_count": 0
-      },
-      "reply_en": "😂 “Sure, right after this dip” mid-red board is peak timing. What’s your real buy level if the speech is wrong?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "9 h, ~2 vistas/h, autor 6.0K seguidores, replies: 0"
-      }
-    },
-    {
-      "id": "2118530589825380850",
-      "author": "ABDUL",
-      "username": "ItzAbcrypto",
-      "text": "Gm Everyone.\n\nAn NFT reveal isn't complete just because the smart contract records it. The update also needs to reach the platforms where people view and trade that NFT.\n\nThis is worth examining with @FungoLabs .\n\nGenesis holders can make their NFT artwork permanently public https://t.co/mqYD9SMSR7",
-      "created_at": "2026-11-06T02:27:07.000Z",
-      "lang": "en",
-      "url": "https://x.com/ItzAbcrypto/status/2118530589825380850",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 3854,
-        "like_count": 137,
-        "quote_count": 0,
-        "reply_count": 158,
-        "repost_count": 2
-      },
-      "reply_en": "👀 On-chain mint ≠ the gallery updated—that lag is the real UX gap. Which marketplace still shows stale art for you?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "10 h, ~396 vistas/h, autor 16.6K seguidores, replies: 158"
-      }
-    },
-    {
-      "id": "2118529983421505765",
-      "author": "Dr_SaRa",
-      "username": "Sarakhan49309",
-      "text": "Blue tick users, are you still active?",
-      "created_at": "2026-11-06T02:24:43.000Z",
-      "lang": "en",
-      "url": "https://x.com/Sarakhan49309/status/2118529983421505765",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 349,
-        "like_count": 13,
-        "quote_count": 0,
-        "reply_count": 7,
-        "repost_count": 1
-      },
-      "reply_en": "👀 Blue-check roll call on a red week is a curious filter. What’s one post that made you keep the check this week?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "10 h, ~36 vistas/h, autor 14.4K seguidores, replies: 7"
-      }
-    },
-    {
-      "id": "2118525022390382798",
-      "author": "Nala",
-      "username": "ItsNala",
-      "text": "Crypto is crashing.\n\nStocks is crashing.\n\nDollar is crashing.\n\nEverything is crashing \n\nSeriously What left for us?",
-      "created_at": "2026-11-06T02:05:00.000Z",
-      "lang": "en",
-      "url": "https://x.com/ItsNala/status/2118525022390382798",
-      "m": {
-        "bookmark_count": 3,
-        "impression_count": 2065,
-        "like_count": 72,
-        "quote_count": 1,
-        "reply_count": 38,
-        "repost_count": 0
-      },
-      "reply_en": "📉 “Everything crashing” hits every red Thursday. What in your stack is sized so a red week doesn’t force a sale?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "10 h, ~204 vistas/h, autor 31.6K seguidores, replies: 38"
-      }
-    },
-    {
-      "id": "2118521574584180813",
-      "author": "Kit",
-      "username": "kit_sats",
-      "text": "This is just a relateable joke for those wondering.. incase you’re new here lol this didnt actually happen to me. My ads usually make me break even or positive. Getting comments taking my posts too serious",
-      "created_at": "2026-11-06T01:51:18.000Z",
-      "lang": "en",
-      "url": "https://x.com/kit_sats/status/2118521574584180813",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 63,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 1,
-        "repost_count": 0
-      },
-      "reply_en": "😂 Ad jokes land harder when the replies treat them as confessions. What’s your real break-even on ads right now?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "10 h, ~6 vistas/h, autor 11.2K seguidores, replies: 1"
-      }
-    },
-    {
-      "id": "2118517774184046855",
-      "author": "HODLTarantula(HT)🏴‍☠️Sovereign Maximalist",
-      "username": "HodlTarantula",
-      "text": "Verified https://t.co/VK7T9XGS1Y",
-      "created_at": "2026-11-06T01:36:12.000Z",
-      "lang": "en",
-      "url": "https://x.com/HodlTarantula/status/2118517774184046855",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 847,
-        "like_count": 45,
-        "quote_count": 0,
-        "reply_count": 2,
-        "repost_count": 1
-      },
-      "reply_en": "👀 Verified stamp, zero caption. What exactly got verified—the claim, or just the badge?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "11 h, ~80 vistas/h, autor 24.2K seguidores, replies: 2"
-      }
-    },
-    {
-      "id": "2118516868336304139",
-      "author": "Sri",
-      "username": "wtffstories",
-      "text": "Good Morning @X  Family 🌞 \n\nImagine ordering a product online and discovering that no human was involved in manufacturing, packing, or delivering it.\n\nHow far are we from this becoming normal?",
-      "created_at": "2026-11-06T01:32:36.000Z",
-      "lang": "en",
-      "url": "https://x.com/wtffstories/status/2118516868336304139",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 390,
-        "like_count": 12,
-        "quote_count": 0,
-        "reply_count": 6,
-        "repost_count": 0
-      },
-      "reply_en": "👀 A full no-human order path is closer than it feels. Which step would you refuse to automate first—making, packing, or delivery?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "11 h, ~37 vistas/h, autor 811 seguidores, replies: 6"
-      }
-    },
-    {
-      "id": "2118501306075922596",
-      "author": "Danny Wsol | Investor",
-      "username": "btcwithdanny",
-      "text": "You want to own $BTC at a discount.\n\nUntil the discount arrives and suddenly you don’t want it.\n\nYour obsession with getting the perfect entry is costing you years of opportunity.",
-      "created_at": "2026-11-06T00:30:45.000Z",
-      "lang": "en",
-      "url": "https://x.com/btcwithdanny/status/2118501306075922596",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 307,
-        "like_count": 8,
-        "quote_count": 0,
-        "reply_count": 5,
-        "repost_count": 1
-      },
-      "reply_en": "😳 Wanting the $BTC discount until it arrives—that’s the trap. What % below your last buy would you actually click?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "12 h, ~26 vistas/h, autor 1.2K seguidores, replies: 5"
-      }
-    },
-    {
-      "id": "2118494963952402832",
-      "author": "Josh Man",
-      "username": "JoshMandell6",
-      "text": "Remember remember the 5th of November https://t.co/xsCAMbFYeC",
-      "created_at": "2026-11-06T00:05:33.000Z",
-      "lang": "en",
-      "url": "https://x.com/JoshMandell6/status/2118494963952402832",
-      "m": {
-        "bookmark_count": 30,
-        "impression_count": 23233,
-        "like_count": 274,
-        "quote_count": 0,
-        "reply_count": 21,
-        "repost_count": 17
-      },
-      "reply_en": "👀 Guy Fawkes day on a red board hits different. Are you remembering the plot—or just the meme?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "alto",
-        "score": 3,
-        "reason": "12 h, ~1920 vistas/h, autor 146.1K seguidores, replies: 21"
-      }
-    },
-    {
-      "id": "2118493573222167010",
-      "author": "Kit",
-      "username": "kit_sats",
-      "text": "Nothing builds character quite like spending $300 on ads to make $17.",
-      "created_at": "2026-11-06T00:00:02.000Z",
-      "lang": "en",
-      "url": "https://x.com/kit_sats/status/2118493573222167010",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 1456,
-        "like_count": 61,
-        "quote_count": 0,
-        "reply_count": 13,
-        "repost_count": 1
-      },
-      "reply_en": "💀 $300 in ads, $17 back—character unlocked. What metric do you kill first when spend goes that red?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "12 h, ~119 vistas/h, autor 11.2K seguidores, replies: 13"
-      },
-      "gif": "This is Fine dog (fire room) — search: this is fine dog"
-    },
-    {
-      "id": "2118477497587171724",
-      "author": "DeGen",
-      "username": "0xDegenForest",
-      "text": "@CryptoKaleo golden bull run speech while the board is blood red. this is the content keeping me employed",
-      "created_at": "2026-11-05T22:56:09.000Z",
-      "lang": "en",
-      "url": "https://x.com/0xDegenForest/status/2118477497587171724",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 34,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "repost_count": 0
-      },
-      "reply_en": "😂 Golden-bull speech on a blood-red board is peak content. What’s one line you’d cut from that speech today?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "13 h, ~3 vistas/h, autor 25.5K seguidores, replies: 0"
-      }
-    },
-    {
-      "id": "2118474690511466947",
-      "author": "Hannah Hughes",
-      "username": "hannahhughes",
-      "text": "just checked the charts https://t.co/nxK1SGdY9Q",
-      "created_at": "2026-11-05T22:45:00.000Z",
-      "lang": "en",
-      "url": "https://x.com/hannahhughes/status/2118474690511466947",
-      "m": {
-        "bookmark_count": 3,
-        "impression_count": 1518,
-        "like_count": 68,
-        "quote_count": 1,
-        "reply_count": 30,
-        "repost_count": 0
-      },
-      "reply_en": "👀 “Just checked the charts” with no number is a vibe. What level would make you stop refreshing?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "13 h, ~113 vistas/h, autor 31.5K seguidores, replies: 30"
-      }
-    },
-    {
-      "id": "2118470627908821289",
-      "author": "Ron Sovereignty Swanson⚡️🗝️",
-      "username": "RonSwanonson",
-      "text": "If you truly understand Bitcoin and wonder how the hell people don’t see it yet…\n\nThat’s because you are still very early\n\nFrankly, it’s not easy to understand how it’s nearly inevitable over time\n \nIt sounds cliché but, more and more people understand bitcoin every single day",
-      "created_at": "2026-11-05T22:28:51.000Z",
-      "lang": "en",
-      "url": "https://x.com/RonSwanonson/status/2118470627908821289",
-      "m": {
-        "bookmark_count": 2,
-        "impression_count": 2153,
-        "like_count": 102,
-        "quote_count": 0,
-        "reply_count": 8,
-        "repost_count": 8
-      },
-      "reply_en": "👀 “Still early” only counts if adoption moves. What signal would prove the easy early window already closed?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "14 h, ~157 vistas/h, autor 11.5K seguidores, replies: 8"
-      }
-    },
-    {
-      "id": "2118469908908437889",
-      "author": "Night Sky Today",
-      "username": "NightSkyToday",
-      "text": "🚨: Research shows when you focus on the good, your brain trains itself to fing more of it. https://t.co/dA4ciZC9v3",
-      "created_at": "2026-11-05T22:26:00.000Z",
-      "lang": "en",
-      "url": "https://x.com/NightSkyToday/status/2118469908908437889",
-      "m": {
-        "bookmark_count": 18,
-        "impression_count": 4167,
-        "like_count": 156,
-        "quote_count": 3,
-        "reply_count": 4,
-        "repost_count": 20
-      },
-      "reply_en": "👀 Train the brain on the good—and still read the red candle honestly. What’s one good signal you’re tracking that isn’t price?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "14 h, ~303 vistas/h, autor 134.0K seguidores, replies: 4"
-      }
-    },
-    {
-      "id": "2118463083433574590",
-      "author": "Nate Sharp",
-      "username": "Sharp_On_Sats",
-      "text": "The faster people get this the better \n\nPure Bitcoin is amazing and self custody is obviously the standard against which any other use case should be measured\n\nBut expecting more than a few hundred thousand people in the world to ever do so is wildly narrow-minded\n\nGreat to see https://t.co/Qkkxl1VjM2",
-      "created_at": "2026-11-05T21:58:52.000Z",
-      "lang": "en",
-      "url": "https://x.com/Sharp_On_Sats/status/2118463083433574590",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 1229,
-        "like_count": 9,
-        "quote_count": 0,
-        "reply_count": 5,
-        "repost_count": 1
-      },
-      "reply_en": "👀 Self-custody as the standard, still rare past a few hundred thousand people—that gap is the product problem. What’s the one step that stops most friends you know?\nI wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": true,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "14 h, ~86 vistas/h, autor 2.1K seguidores, replies: 5"
-      }
-    },
-    {
-      "id": "2118440285135077583",
-      "author": "Burnasso",
-      "username": "Burnasso",
-      "text": "@CryptoKaleo PREACH  K A L E O  🚀🔥 https://t.co/b3luX3X3Yq",
-      "created_at": "2026-11-05T20:28:17.000Z",
-      "lang": "pl",
-      "url": "https://x.com/Burnasso/status/2118440285135077583",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 265,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "repost_count": 0
-      },
-      "reply_en": "🔥 PREACH na czerwonej planszy trafia inaczej. Jaki poziom $BTC realnie zmieniłby Twoją wielkość pozycji?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "pl",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "16 h, ~17 vistas/h, autor 16.1K seguidores, replies: 0"
-      }
-    },
-    {
-      "id": "2118435257573880116",
-      "author": "profpicsou",
-      "username": "profpicsou",
-      "text": "Ce compte est un assassin. La meilleure chose que vous lirez ce soir \n\nCelui qui ne le suit pas, ne comprend pas son raisonnement pertinent. \n\nJe vous invite donc à aller le suivre. \n\nLe marché est en stresse, et voilà la raison 👇🏼 https://t.co/3GQY4LqKo8",
-      "created_at": "2026-11-05T20:08:18.000Z",
-      "lang": "fr",
-      "url": "https://x.com/profpicsou/status/2118435257573880116",
-      "m": {
-        "bookmark_count": 89,
-        "impression_count": 29968,
-        "like_count": 141,
-        "quote_count": 0,
-        "reply_count": 8,
-        "repost_count": 3
-      },
-      "reply_en": "👀 Un compte qui explique le stress du marché vaut plus qu’un hype. Quelle idée précise de son raisonnement t’a convaincu ?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "fr",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "16 h, ~1866 vistas/h, autor 9.2K seguidores, replies: 8"
-      }
-    },
-    {
-      "id": "2118428878826029191",
-      "author": "Halston",
-      "username": "halstonvalencia",
-      "text": "@BTC_broo @tiffany_varty That I disagree with. You’re overestimating how technical most people are. You’re in an echo chamber. \n\nMost people can barely keep track of the mundane, you really think they’re gonna do the whole dice roll thing and whatever else is needed to self custody well?",
-      "created_at": "2026-11-05T19:42:57.000Z",
-      "lang": "en",
-      "url": "https://x.com/halstonvalencia/status/2118428878826029191",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 1527,
-        "like_count": 6,
-        "quote_count": 2,
-        "reply_count": 1,
-        "repost_count": 0
-      },
-      "reply_en": "👀 Echo-chamber check: most people won’t dice-roll a seed. What’s the simplest self-custody path you’d trust a non-technical friend with?\nI wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": true,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "16 h, ~93 vistas/h, autor 15.5K seguidores, replies: 1"
-      }
-    },
-    {
-      "id": "2118428239706407219",
-      "author": "WINR intern",
-      "username": "WINRintern",
-      "text": "@CryptoKaleo Fk it, I’m done https://t.co/EnLhC6jL1X",
-      "created_at": "2026-11-05T19:40:25.000Z",
-      "lang": "en",
-      "url": "https://x.com/WINRintern/status/2118428239706407219",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 249,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "repost_count": 0
-      },
-      "reply_en": "😂 “Fk it, I’m done” mid-thread is a mood. Are you done with the timeline—or with the leverage?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "17 h, ~15 vistas/h, autor 3.0K seguidores, replies: 0"
-      }
-    },
-    {
-      "id": "2118423537379893575",
-      "author": "Julia",
-      "username": "CryptoJulzss",
-      "text": "Crypto is crashing\n\nStocks are crashing\n\nGlobal markets are crashing\n\nSpaceX is crashing\n\nGold and Silver are crashing\n\nThis crash is PURE MANIPULATION\n\nI smell a black swan event coming",
-      "created_at": "2026-11-05T19:21:44.000Z",
-      "lang": "en",
-      "url": "https://x.com/CryptoJulzss/status/2118423537379893575",
-      "m": {
-        "bookmark_count": 12,
-        "impression_count": 6670,
-        "like_count": 205,
-        "quote_count": 2,
-        "reply_count": 91,
-        "repost_count": 15
-      },
-      "reply_en": "🚨 Same crash list every red week—“manipulation” without a receipt. What verifiable data point would change your mind here?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "17 h, ~396 vistas/h, autor 25.5K seguidores, replies: 91"
-      }
-    },
-    {
-      "id": "2118419931515490773",
-      "author": "Ameen",
-      "username": "Amenouboy",
-      "text": "@CryptoKaleo Feeling the momentum. Let’s get it.",
-      "created_at": "2026-11-05T19:07:24.000Z",
-      "lang": "en",
-      "url": "https://x.com/Amenouboy/status/2118419931515490773",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 67,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "repost_count": 0
-      },
-      "reply_en": "🔥 Momentum talk is easy on a speech; harder on red tape. What number would prove the momentum is real for you?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "17 h, ~4 vistas/h, autor 32.7K seguidores, replies: 0"
-      }
-    },
-    {
-      "id": "2118418294583799922",
-      "author": "K A L E O",
-      "username": "CryptoKaleo",
-      "text": "YOU ARE ABOUT TO ENTER THE MOST ABUNDANT, PROSPEROUS, OPPORTUNITY FILLED PHASE OF YOUR LIFE.\n\nBULLIEVE IN THE GOLDEN BULL RUN.",
-      "created_at": "2026-11-05T19:00:54.000Z",
-      "lang": "en",
-      "url": "https://x.com/CryptoKaleo/status/2118418294583799922",
-      "m": {
-        "bookmark_count": 17,
-        "impression_count": 32975,
-        "like_count": 764,
-        "quote_count": 3,
-        "reply_count": 56,
-        "repost_count": 32
-      },
-      "reply_en": "👀 Abundance speech on a red week lands loud. What concrete opportunity are you sizing for—not just believing in?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "alto",
-        "score": 3,
-        "reason": "17 h, ~1919 vistas/h, autor 729.3K seguidores, replies: 56"
-      }
-    },
-    {
-      "id": "2118417604637556934",
-      "author": "Bitcoin Amsterdam",
-      "username": "bitcoinconfams",
-      "text": "@ts_hodl That panel was sick 🔥",
-      "created_at": "2026-11-05T18:58:09.000Z",
-      "lang": "en",
-      "url": "https://x.com/bitcoinconfams/status/2118417604637556934",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 113,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "repost_count": 1
-      },
-      "reply_en": "🔥 A panel that sticks usually has one hard tradeoff. What was the line from that stage you’d actually act on?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "17 h, ~7 vistas/h, autor 16.3K seguidores, replies: 0"
-      }
-    },
-    {
-      "id": "2118415800948154404",
-      "author": "Bitmund Freud",
-      "username": "BitmundFreud",
-      "text": "Serious question. Did you regret getting into bitcoin:native ?",
-      "created_at": "2026-11-05T18:50:59.000Z",
-      "lang": "en",
-      "url": "https://x.com/BitmundFreud/status/2118415800948154404",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 5388,
-        "like_count": 56,
-        "quote_count": 3,
-        "reply_count": 78,
-        "repost_count": 2
-      },
-      "reply_en": "😳 Serious question back: regret usually means timing, not the asset. What year did you buy that still feels wrong—and why?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "17 h, ~311 vistas/h, autor 11.1K seguidores, replies: 78"
-      }
-    },
-    {
-      "id": "2118415052676239498",
-      "author": "Crypto Chris",
-      "username": "seethelocksmith",
-      "text": "I love a good buying opportunity.",
-      "created_at": "2026-11-05T18:48:01.000Z",
-      "lang": "en",
-      "url": "https://x.com/seethelocksmith/status/2118415052676239498",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 561,
-        "like_count": 24,
-        "quote_count": 0,
-        "reply_count": 6,
-        "repost_count": 0
-      },
-      "reply_en": "👀 Loving the buy opportunity is easy until the wick keeps going. What % more downside still keeps you a buyer?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "17 h, ~32 vistas/h, autor 8.1K seguidores, replies: 6"
-      }
-    },
-    {
-      "id": "2118413079545622669",
-      "author": "Priced in ₿itcoin ∞/21M",
-      "username": "PricedinBTC",
-      "text": "$BTC bounce off the 50 week MA again. https://t.co/OOm3ahOaJa",
-      "created_at": "2026-11-05T18:40:11.000Z",
-      "lang": "en",
-      "url": "https://x.com/PricedinBTC/status/2118413079545622669",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 1451,
-        "like_count": 30,
-        "quote_count": 0,
-        "reply_count": 1,
-        "repost_count": 2
-      },
-      "reply_en": "👀 Bounce off the 50-week MA again—clean level talk. Do you treat that as a buy zone or just a watch level?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "18 h, ~83 vistas/h, autor 18.0K seguidores, replies: 1"
-      },
-      "visual": "gráfico: $BTC vs media de 50 semanas, navy/lima"
-    },
-    {
-      "id": "2118400037310824685",
-      "author": "0.3 BTC",
-      "username": "0_3_BTC",
-      "text": "You can do everything society tells you to do:\n\n• Work for 40 years.\n• Save diligently.\n• Avoid unnecessary risks.\n• Retire at 65.\n\nAnd still discover that your savings buy far less than you expected.\n\nNobody guarantees that your money will preserve your freedom.\n\nSo why do",
-      "created_at": "2026-11-05T17:48:21.000Z",
-      "lang": "en",
-      "url": "https://x.com/0_3_BTC/status/2118400037310824685",
-      "m": {
-        "bookmark_count": 0,
-        "impression_count": 1134,
-        "like_count": 18,
-        "quote_count": 0,
-        "reply_count": 5,
-        "repost_count": 3
-      },
-      "reply_en": "😳 40 years of “do everything right” and still lose purchasing power—that’s the quiet risk. What % of your savings is outside that promise?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "18 h, ~62 vistas/h, autor 4.6K seguidores, replies: 5"
-      }
-    },
-    {
-      "id": "2118391164898533824",
-      "author": "WohlstandsWal",
-      "username": "WohlstandsWal",
-      "text": "Kann mir mal bitte jemand wie für einen 9 jährigen erklären, wieso der gesamte Aktienmarkt abstürzt?? https://t.co/UU0DqX9Z6B",
-      "created_at": "2026-11-05T17:13:06.000Z",
-      "lang": "de",
-      "url": "https://x.com/WohlstandsWal/status/2118391164898533824",
-      "m": {
-        "bookmark_count": 882,
-        "impression_count": 1998697,
-        "like_count": 6017,
-        "quote_count": 80,
-        "reply_count": 1061,
-        "repost_count": 179
-      },
-      "reply_en": "👀 Crash für einen 9-Jährigen: alle verkaufen denselben Korb gleichzeitig. Welchen einen Satz würdest du ihm heute geben?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "de",
-      "with_link": false,
-      "momentum": {
-        "level": "alto",
-        "score": 3,
-        "reason": "19 h, ~105325 vistas/h, autor 3.6K seguidores, replies: 1061"
-      }
-    },
-    {
-      "id": "2118380540747264496",
-      "author": "Bark",
-      "username": "barkmeta",
-      "text": "Everything is crashing at the exact same time.\n\nThis doesn’t happen in a free market. It only happens under extreme manipulation.\n\nThe Great Reset is not a conspiracy theory…. it’s actually here.",
-      "created_at": "2026-11-05T16:30:53.000Z",
-      "lang": "en",
-      "url": "https://x.com/barkmeta/status/2118380540747264496",
-      "m": {
-        "bookmark_count": 160,
-        "impression_count": 41496,
-        "like_count": 2131,
-        "quote_count": 15,
-        "reply_count": 115,
-        "repost_count": 321
-      },
-      "reply_en": "🚨 Everything crashing ≠ automatic proof of a Great Reset. What on-chain or macro number would you need before buying that frame?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "alto",
-        "score": 3,
-        "reason": "20 h, ~2109 vistas/h, autor 289.8K seguidores, replies: 115"
-      }
-    },
-    {
-      "id": "2118379761974309028",
-      "author": "Hannah Hughes",
-      "username": "hannahhughes",
-      "text": "stop selling or im gonna scream cry and throw up",
-      "created_at": "2026-11-05T16:27:47.000Z",
-      "lang": "en",
-      "url": "https://x.com/hannahhughes/status/2118379761974309028",
-      "m": {
-        "bookmark_count": 1,
-        "impression_count": 1816,
-        "like_count": 74,
-        "quote_count": 1,
-        "reply_count": 30,
-        "repost_count": 0
-      },
-      "reply_en": "😭 Stop-selling meltdown is the timeline’s real indicator. What’s the one rule that stops you from becoming the seller?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "20 h, ~92 vistas/h, autor 31.5K seguidores, replies: 30"
-      },
-      "gif": "Michael Scott 'No, God, please no' — search: Michael Scott no god no"
-    },
-    {
-      "id": "2118332501663838647",
-      "author": "Trey Sellers | Bitcoin FIRE",
-      "username": "ts_hodl",
-      "text": "Just got off stage at Bitcoin Amsterdam talking bitcoin vs houses.\n\nI'd still rather have 1 bitcoin and rent.",
-      "created_at": "2026-11-05T13:19:59.000Z",
-      "lang": "en",
-      "url": "https://x.com/ts_hodl/status/2118332501663838647",
-      "m": {
-        "bookmark_count": 3,
-        "impression_count": 3563,
-        "like_count": 107,
-        "quote_count": 1,
-        "reply_count": 12,
-        "repost_count": 2
-      },
-      "reply_en": "👀 1 bitcoin and rent vs a house—keys vs leverage on shelter. What number would flip you to prefer the keys over the deed?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "23 h, ~156 vistas/h, autor 12.9K seguidores, replies: 12"
-      }
-    },
-    {
-      "id": "2118327480608063714",
-      "author": "Mr Az",
-      "username": "MrAzTrades",
-      "text": "Being early in #crypto feels exactly like being wrong.\n\nFor months.\n\nThat's why almost nobody stays early.",
-      "created_at": "2026-11-05T13:00:02.000Z",
-      "lang": "en",
-      "url": "https://x.com/MrAzTrades/status/2118327480608063714",
-      "m": {
-        "bookmark_count": 2,
-        "impression_count": 1003,
-        "like_count": 15,
-        "quote_count": 0,
-        "reply_count": 4,
-        "repost_count": 2
-      },
-      "reply_en": "😳 Being early feeling exactly like being wrong for months—that’s the filter. What kept you early the last time it felt wrong?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "bajo",
-        "score": 1,
-        "reason": "23 h, ~43 vistas/h, autor 5.3K seguidores, replies: 4"
-      }
+      "gif": "This Is Fine dog — search: this is fine"
     }
   ]
 }
