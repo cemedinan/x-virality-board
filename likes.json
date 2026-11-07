@@ -1,100 +1,398 @@
 {
-  "meta": {
-    "generated_at": "2026-11-06T23:08:48-03:00",
-    "window_hours": 24,
-    "likes_scanned": 99,
-    "listed": 3,
-    "in_niche": 3,
-    "not_recommended": 0,
-    "new_since_prev": 3,
-    "removed_replied": 2,
-    "removed_old": 0,
-    "note": "Posts de las últimas 24 horas que aún no has respondido",
-    "reply_check_note": "get_users_posts + search from:ForecastQuant (is:reply OR is:quote) paged ~36h; conversation_id and referenced_tweets matched"
+ "meta": {
+  "generated_at": "2026-11-07T09:09:04-03:00",
+  "window_hours": 24,
+  "likes_scanned": 50,
+  "listed": 14,
+  "in_niche": 14,
+  "not_recommended": 0,
+  "new_since_prev": 13,
+  "removed_replied": 1,
+  "removed_old": 1,
+  "note": "Posts de las últimas 24 horas que aún no has respondido",
+  "reply_check_note": "get_users_posts + search from:ForecastQuant (is:reply OR is:quote) paged ~36h; conversation_id and referenced_tweets matched"
+ },
+ "posts": [
+  {
+   "id": "2118858975332683824",
+   "author": "⚡️₿ŤĈ_J̌ĘÐï⚡️",
+   "username": "BTC_JEDI21",
+   "text": "Is anyone actually buying $BTC today? https://t.co/djOkQ0HtBi",
+   "created_at": "2026-11-07T00:12:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/BTC_JEDI21/status/2118858975332683824",
+   "m": {
+    "bookmark_count": 7,
+    "impression_count": 2621,
+    "like_count": 95,
+    "quote_count": 0,
+    "reply_count": 10,
+    "repost_count": 11
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "12 h, ~219 vistas/h, autor 6.2K seguidores, replies: 10"
+   },
+   "reply_en": "👀 Red-day buyers rarely post about it. Do you stack on a fixed weekly schedule, or only when price hits one specific level?",
+   "with_link": false
   },
-  "posts": [
-    {
-      "id": "2118768103794319668",
-      "author": "Yeezy",
-      "username": "yeezycooks",
-      "text": "Investors trying to predict the market\n\nThe market: https://t.co/s9V8aemCmb",
-      "created_at": "2026-11-06T18:10:55.000Z",
-      "lang": "en",
-      "url": "https://x.com/yeezycooks/status/2118768103794319668",
-      "m": {
-        "bookmark_count": 23,
-        "impression_count": 8849,
-        "like_count": 179,
-        "quote_count": 1,
-        "reply_count": 8,
-        "repost_count": 9
-      },
-      "reply_en": "😂 Investors sketch the next candle while the market freestyles live. Which wrong call from this year still stings most?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "alto",
-        "score": 3,
-        "reason": "8 h, ~1118 vistas/h, autor 14.9K seguidores, replies: 8"
-      },
-      "gif": "Market chaos — search: chaos trading meme"
-    },
-    {
-      "id": "2118730774182768877",
-      "author": "Not Jerome Powell",
-      "username": "alifarhat79",
-      "text": "Tech CEO’s on January 3, 2027 https://t.co/VQkJaAOqLV",
-      "created_at": "2026-11-06T15:42:35.000Z",
-      "lang": "en",
-      "url": "https://x.com/alifarhat79/status/2118730774182768877",
-      "m": {
-        "bookmark_count": 520,
-        "impression_count": 254726,
-        "like_count": 7563,
-        "quote_count": 90,
-        "reply_count": 167,
-        "repost_count": 722
-      },
-      "reply_en": "😂 Tech CEOs frozen on Jan 3, 2027—calendar comedy at peak. Which single frame in that clip made you hit like?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "alto",
-        "score": 3,
-        "reason": "10 h, ~24516 vistas/h, autor 2M seguidores, replies: 167"
-      },
-      "gif": "Awkward stare — search: awkward stare meme"
-    },
-    {
-      "id": "2118526482167234959",
-      "author": "Yeezy",
-      "username": "yeezycooks",
-      "text": "Just one more bull run, I promise I’ll take profits this time. https://t.co/9P9fZKdeiG",
-      "created_at": "2026-11-06T02:10:48.000Z",
-      "lang": "en",
-      "url": "https://x.com/yeezycooks/status/2118526482167234959",
-      "m": {
-        "bookmark_count": 23,
-        "impression_count": 14324,
-        "like_count": 835,
-        "quote_count": 3,
-        "reply_count": 7,
-        "repost_count": 32
-      },
-      "reply_en": "😂 “One more bull run, then I’ll take profits”—the eternal last words. What rule actually made you lock gains last cycle?",
-      "in_niche": true,
-      "skip_reason": "",
-      "reply_lang": "en",
-      "with_link": false,
-      "momentum": {
-        "level": "medio",
-        "score": 2,
-        "reason": "24 h, ~599 vistas/h, autor 14.9K seguidores, replies: 7"
-      }
-    }
-  ]
+  {
+   "id": "2118847844946002142",
+   "author": "Sylvia",
+   "username": "Sylvia_xh6",
+   "text": "$BTC\n\nYou are not yet prepared for what is about to happen. https://t.co/jAp0xRiDRy",
+   "created_at": "2026-11-06T23:27:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/Sylvia_xh6/status/2118847844946002142",
+   "m": {
+    "bookmark_count": 37,
+    "impression_count": 109698,
+    "like_count": 2075,
+    "quote_count": 0,
+    "reply_count": 18,
+    "repost_count": 6
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "13 h, ~8646 vistas/h, autor 2.5K seguidores, replies: 18"
+   },
+   "reply_en": "😳 Not prepared for which direction, though? The only prep that works both ways: spot, no leverage, your own keys. What level would change your mind?",
+   "with_link": false
+  },
+  {
+   "id": "2118798889562362060",
+   "author": "Mr boss | Official",
+   "username": "MrbossOfficiial",
+   "text": "@ForecastQuant Great stuff here! Let's discuss a collab 🤝",
+   "created_at": "2026-11-06T20:13:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/MrbossOfficiial/status/2118798889562362060",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 40,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "16 h, ~3 vistas/h, autor 232.1K seguidores, replies: 0"
+   },
+   "reply_en": "🤝 Thanks! Everything is in the open: the model and the code are there to audit. Which part of the 13-year map caught your eye?",
+   "with_link": false
+  },
+  {
+   "id": "2118791178791616689",
+   "author": "Hailey Alpha",
+   "username": "jarsandey",
+   "text": "@ForecastQuant Powerful vision 🔥 DM me",
+   "created_at": "2026-11-06T19:42:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/jarsandey/status/2118791178791616689",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 39,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "16 h, ~2 vistas/h, autor 92.3K seguidores, replies: 0"
+   },
+   "reply_en": "👀 Not a vision, a model you can audit. Which assumption would you stress-test first?",
+   "with_link": false
+  },
+  {
+   "id": "2118788738222604295",
+   "author": "Captain Mutant",
+   "username": "0ii05i",
+   "text": "@ForecastQuant This is getting interesting, would love to join forces! 🔥",
+   "created_at": "2026-11-06T19:32:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/0ii05i/status/2118788738222604295",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "17 h, ~2 vistas/h, autor 238.0K seguidores, replies: 0"
+   },
+   "reply_en": "🔥 The fun part is checking it against price every year. Which milestone on the map do you think misses first?",
+   "with_link": false
+  },
+  {
+   "id": "2118784056922128618",
+   "author": "Lena Crypto",
+   "username": "0o20_",
+   "text": "@ForecastQuant Hey, I'd love to support this through a collab! 🚀",
+   "created_at": "2026-11-06T19:14:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/0o20_/status/2118784056922128618",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "17 h, ~1 vistas/h, autor 154.4K seguidores, replies: 0"
+   },
+   "reply_en": "🙏 Appreciate it. The best support is pushing back on the model: which year on the map looks most wrong to you?",
+   "with_link": false
+  },
+  {
+   "id": "2118783119872643204",
+   "author": "🐋👑 SOLANA WHALE KING 👑🐋",
+   "username": "020iiN",
+   "text": "@ForecastQuant Please check DM",
+   "created_at": "2026-11-06T19:10:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/020iiN/status/2118783119872643204",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "17 h, ~0 vistas/h, autor 30.8K seguidores, replies: 0"
+   },
+   "reply_en": "📬 I keep it public so everyone can check the math. What's your question about the map?",
+   "with_link": false
+  },
+  {
+   "id": "2118782482816573470",
+   "author": "🐋👑 SOLANA WHALE KING 👑🐋",
+   "username": "020iiN",
+   "text": "@ForecastQuant Please follow me back 🔙  let's pump your projct  🔥🔥 SEND ME DM💌🚀 🔥🔥",
+   "created_at": "2026-11-06T19:08:03.000Z",
+   "lang": "en",
+   "url": "https://x.com/020iiN/status/2118782482816573470",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "17 h, ~0 vistas/h, autor 30.8K seguidores, replies: 0"
+   },
+   "reply_en": "🙅‍♂️",
+   "with_link": false,
+   "gif": "Michael Scott 'No, God, please no' — buscar en el selector de GIF de X: \"no god no\""
+  },
+  {
+   "id": "2118781769000624612",
+   "author": "Riley Morgan",
+   "username": "iRileyCrypto",
+   "text": "@ForecastQuant This looks exciting! Would love to connect with the team 🔥",
+   "created_at": "2026-11-06T19:05:13.000Z",
+   "lang": "en",
+   "url": "https://x.com/iRileyCrypto/status/2118781769000624612",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "17 h, ~1 vistas/h, autor 147.2K seguidores, replies: 0"
+   },
+   "reply_en": "🔥 No team pitch here, just a model you can audit. Which part should I break down next?",
+   "with_link": false
+  },
+  {
+   "id": "2118781676583354613",
+   "author": "Whale Elite",
+   "username": "Realwhales_",
+   "text": "@ForecastQuant Amazing project 👏 DM me ☺️",
+   "created_at": "2026-11-06T19:04:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/Realwhales_/status/2118781676583354613",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 27,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "17 h, ~2 vistas/h, autor 116.1K seguidores, replies: 0"
+   },
+   "reply_en": "👏 Thanks. It's a model, not a project to pump, and the code is there to audit. Which number on it surprised you most?",
+   "with_link": false
+  },
+  {
+   "id": "2118735403687563330",
+   "author": "Watcher.Guru",
+   "username": "WatcherGuru",
+   "text": "JUST IN: 🇷🇺 Russia's central bank officially approves Bitcoin, Ethereum, and USDT trading for retail investors. https://t.co/9k14jFrkF8",
+   "created_at": "2026-11-06T16:00:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/WatcherGuru/status/2118735403687563330",
+   "m": {
+    "bookmark_count": 195,
+    "impression_count": 349006,
+    "like_count": 6309,
+    "quote_count": 132,
+    "reply_count": 300,
+    "repost_count": 709
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "20 h, ~17333 vistas/h, autor 4.9M seguidores, replies: 300"
+   },
+   "reply_en": "😳 The same central bank that proposed a full crypto ban in 2022 now approves retail $BTC trading. Real adoption, or control over where Russians are allowed to buy?",
+   "with_link": false
+  },
+  {
+   "id": "2118730774182768877",
+   "author": "Not Jerome Powell",
+   "username": "alifarhat79",
+   "text": "Tech CEO’s on January 3, 2027 https://t.co/VQkJaAOqLV",
+   "created_at": "2026-11-06T15:42:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/alifarhat79/status/2118730774182768877",
+   "m": {
+    "bookmark_count": 1008,
+    "impression_count": 839867,
+    "like_count": 15808,
+    "quote_count": 220,
+    "reply_count": 498,
+    "repost_count": 1341
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "20 h, ~41086 vistas/h, autor 2.0M seguidores, replies: 498"
+   },
+   "reply_en": "😂 Tech CEOs frozen on Jan 3, 2027—calendar comedy at peak. Which single frame in that clip made you hit like?",
+   "with_link": false,
+   "gif": "Awkward stare — search: awkward stare meme"
+  },
+  {
+   "id": "2118717186847940767",
+   "author": "Ash Crypto",
+   "username": "AshCrypto",
+   "text": "This is absolutely Massive.\n\n🇺🇸 The White House is doing a final review of the rule that would allow Americans to invest in crypto through their 401(k).\n\nTRILLIONS WILL FLOW INTO CRYPTO 🚀 https://t.co/AviwIqfixv",
+   "created_at": "2026-11-06T14:48:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/AshCrypto/status/2118717186847940767",
+   "m": {
+    "bookmark_count": 99,
+    "impression_count": 128870,
+    "like_count": 3883,
+    "quote_count": 39,
+    "reply_count": 177,
+    "repost_count": 482
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "21 h, ~6038 vistas/h, autor 2.2M seguidores, replies: 177"
+   },
+   "reply_en": "🚨 \"Trillions\" needs an asterisk: it's a final review, not a rule, and plan sponsors still have to offer it. Would you hold $BTC in a 401(k) or keep your own keys?\nI wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "with_link": true
+  },
+  {
+   "id": "2118714189355065754",
+   "author": "Crypto Rover",
+   "username": "cryptorover",
+   "text": "BREAKING: 🇺🇸 White House is reviewing a new rule allowing Americans to invest in Bitcoin &amp; crypto through their 401(k) retirement accounts.\n\nTHIS IS HUGE FOR CRYPTO ADOPTION! 🚀 https://t.co/HQk8Cjz44i",
+   "created_at": "2026-11-06T14:36:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/cryptorover/status/2118714189355065754",
+   "m": {
+    "bookmark_count": 89,
+    "impression_count": 220789,
+    "like_count": 3117,
+    "quote_count": 23,
+    "reply_count": 87,
+    "repost_count": 403
+   },
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "22 h, ~10250 vistas/h, autor 1.6M seguidores, replies: 87"
+   },
+   "reply_en": "👀 Reviewing isn't approved yet. US 401(k) plans hold roughly $9T (ICI), so even a 1% slice is ~$90B. What % would you let your retirement plan put in $BTC?",
+   "with_link": false,
+   "visual": "gráfico: activos en 401(k) de EE.UU. (~$9T, ICI) vs capitalización de $BTC, con barras de 1%, 3% y 5% de asignación"
+  }
+ ]
 }
