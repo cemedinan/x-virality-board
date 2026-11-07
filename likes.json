@@ -1,42 +1,41 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T16:10:50-03:00",
+  "generated_at": "2026-11-07T20:08:13-03:00",
   "window_hours": 24,
-  "likes_scanned": 199,
+  "likes_scanned": 99,
   "listed": 1,
   "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 0,
-  "removed_old": 1
+  "new_since_prev": 1,
+  "removed_replied": 1,
+  "removed_old": 0
  },
  "posts": [
   {
-   "id": "2118862535042687172",
-   "author": "Tiffany Fong",
-   "username": "TiffanyFong",
-   "text": "https://t.co/tSrS2YlMbr",
-   "created_at": "2026-11-07T00:26:09.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/TiffanyFong/status/2118862535042687172",
+   "id": "2119180976811036996",
+   "author": "DAweinz 🇦🇹",
+   "username": "DAweinz",
+   "text": "@ForecastQuant @1000xgirl @grok Yes. We do.",
+   "created_at": "2026-11-07T21:31:32.000Z",
+   "lang": "en",
+   "url": "https://x.com/DAweinz/status/2119180976811036996",
    "m": {
-    "bookmark_count": 842,
-    "impression_count": 432693,
-    "like_count": 13768,
-    "quote_count": 54,
-    "reply_count": 287,
-    "repost_count": 976
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
    },
-   "reply_en": "😬",
+   "reply_en": "🤝 Glad I'm not the only one. The fun part is that the power law can be checked against $BTC price every year, no faith needed. Which date are you watching?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
-   "gif": "Awkward Look Monkey Puppet (busca \"awkward monkey\" en el selector de GIF de X)",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 1,
-    "reason": "19 h, ~23.1K vistas/h, autor 984.8K seguidores, replies: 287"
+    "level": "bajo",
+    "score": 0,
+    "reason": "1.6 h, ~2.5 vistas/h (<50/h), autor 327 seguidores, replies: 0; respuesta a tu post sobre power law"
    }
   }
  ]
