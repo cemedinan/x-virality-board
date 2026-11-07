@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T13:04:07-03:00",
+  "generated_at": "2026-11-07T16:10:50-03:00",
   "window_hours": 24,
   "likes_scanned": 199,
-  "listed": 2,
-  "in_niche": 2,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 2,
-  "removed_replied": 10,
-  "removed_old": 4
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 1
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "zxx",
    "url": "https://x.com/TiffanyFong/status/2118862535042687172",
    "m": {
-    "bookmark_count": 636,
-    "impression_count": 327110,
-    "like_count": 10972,
-    "quote_count": 41,
-    "reply_count": 236,
-    "repost_count": 755
+    "bookmark_count": 842,
+    "impression_count": 432693,
+    "like_count": 13768,
+    "quote_count": 54,
+    "reply_count": 287,
+    "repost_count": 976
    },
    "reply_en": "😬",
    "in_niche": true,
@@ -35,35 +35,8 @@
    "with_link": false,
    "momentum": {
     "level": "medio",
-    "score": 2,
-    "reason": "16 h, ~20.9K vistas/h, autor 984.8K seguidores, replies: 236"
-   }
-  },
-  {
-   "id": "2118769011664245084",
-   "author": "There’s Only 21M",
-   "username": "21MBitties",
-   "text": "The game only continues if you keep playing https://t.co/j2K8M4zKqg",
-   "created_at": "2026-11-06T18:14:31.000Z",
-   "lang": "en",
-   "url": "https://x.com/21MBitties/status/2118769011664245084",
-   "m": {
-    "bookmark_count": 6,
-    "impression_count": 1783,
-    "like_count": 139,
-    "quote_count": 2,
-    "reply_count": 5,
-    "repost_count": 13
-   },
-   "reply_en": "😂 Elections every 4 years, halvings every 210,000 blocks. Only one of those schedules was fixed in advance. Which one would you rather plan your savings around?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": -1,
-    "reason": "22 h, ~81 vistas/h, autor 5.8K seguidores, replies: 5"
+    "score": 1,
+    "reason": "19 h, ~23.1K vistas/h, autor 984.8K seguidores, replies: 287"
    }
   }
  ]
