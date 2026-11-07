@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T20:05:00-03:00",
+    "generated_at": "2026-11-06T23:08:48-03:00",
     "window_hours": 24,
-    "likes_scanned": 199,
-    "listed": 2,
-    "in_niche": 2,
+    "likes_scanned": 99,
+    "listed": 3,
+    "in_niche": 3,
     "not_recommended": 0,
-    "new_since_prev": 2,
+    "new_since_prev": 3,
     "removed_replied": 2,
     "removed_old": 0,
     "note": "Posts de las últimas 24 horas que aún no has respondido",
@@ -14,22 +14,22 @@
   },
   "posts": [
     {
-      "id": "2118713006343463102",
-      "author": "TheBigO99",
-      "username": "TheBigO1999",
-      "text": "@DrClownPhD https://t.co/2CraV1bfp5",
-      "created_at": "2026-11-06T14:31:59.000Z",
+      "id": "2118768103794319668",
+      "author": "Yeezy",
+      "username": "yeezycooks",
+      "text": "Investors trying to predict the market\n\nThe market: https://t.co/s9V8aemCmb",
+      "created_at": "2026-11-06T18:10:55.000Z",
       "lang": "en",
-      "url": "https://x.com/TheBigO1999/status/2118713006343463102",
+      "url": "https://x.com/yeezycooks/status/2118768103794319668",
       "m": {
-        "bookmark_count": 10,
-        "impression_count": 9171,
-        "like_count": 268,
-        "quote_count": 0,
-        "reply_count": 1,
-        "repost_count": 18
+        "bookmark_count": 23,
+        "impression_count": 8849,
+        "like_count": 179,
+        "quote_count": 1,
+        "reply_count": 8,
+        "repost_count": 9
       },
-      "reply_en": "😂 Media reply on the Texas/data-center meme travels fast. Which single frame in that clip made you hit like?",
+      "reply_en": "😂 Investors sketch the next candle while the market freestyles live. Which wrong call from this year still stings most?",
       "in_niche": true,
       "skip_reason": "",
       "reply_lang": "en",
@@ -37,26 +37,27 @@
       "momentum": {
         "level": "alto",
         "score": 3,
-        "reason": "8 h, ~1079 vistas/h, autor 1.8K seguidores, replies: 1"
-      }
+        "reason": "8 h, ~1118 vistas/h, autor 14.9K seguidores, replies: 8"
+      },
+      "gif": "Market chaos — search: chaos trading meme"
     },
     {
-      "id": "2118683181347930120",
-      "author": "Dr. Clown, PhD",
-      "username": "DrClownPhD",
-      "text": "BREAKING: Texas bans data centers. Stocks lose $2 trillion in 40 minutes. 🤠 https://t.co/WN52CcYcs7",
-      "created_at": "2026-11-06T12:33:28.000Z",
+      "id": "2118730774182768877",
+      "author": "Not Jerome Powell",
+      "username": "alifarhat79",
+      "text": "Tech CEO’s on January 3, 2027 https://t.co/VQkJaAOqLV",
+      "created_at": "2026-11-06T15:42:35.000Z",
       "lang": "en",
-      "url": "https://x.com/DrClownPhD/status/2118683181347930120",
+      "url": "https://x.com/alifarhat79/status/2118730774182768877",
       "m": {
-        "bookmark_count": 3094,
-        "impression_count": 1384935,
-        "like_count": 22776,
-        "quote_count": 230,
-        "reply_count": 435,
-        "repost_count": 3675
+        "bookmark_count": 520,
+        "impression_count": 254726,
+        "like_count": 7563,
+        "quote_count": 90,
+        "reply_count": 167,
+        "repost_count": 722
       },
-      "reply_en": "🤠 “Texas bans data centers” and $2T gone in 40 minutes—cartoon-speed headline. Are you reading it as satire, or did a real ban story hit your feed?",
+      "reply_en": "😂 Tech CEOs frozen on Jan 3, 2027—calendar comedy at peak. Which single frame in that clip made you hit like?",
       "in_niche": true,
       "skip_reason": "",
       "reply_lang": "en",
@@ -64,9 +65,36 @@
       "momentum": {
         "level": "alto",
         "score": 3,
-        "reason": "10 h, ~132206 vistas/h, autor 366.9K seguidores, replies: 435"
+        "reason": "10 h, ~24516 vistas/h, autor 2M seguidores, replies: 167"
       },
-      "gif": "Wait what — search: wait what meme"
+      "gif": "Awkward stare — search: awkward stare meme"
+    },
+    {
+      "id": "2118526482167234959",
+      "author": "Yeezy",
+      "username": "yeezycooks",
+      "text": "Just one more bull run, I promise I’ll take profits this time. https://t.co/9P9fZKdeiG",
+      "created_at": "2026-11-06T02:10:48.000Z",
+      "lang": "en",
+      "url": "https://x.com/yeezycooks/status/2118526482167234959",
+      "m": {
+        "bookmark_count": 23,
+        "impression_count": 14324,
+        "like_count": 835,
+        "quote_count": 3,
+        "reply_count": 7,
+        "repost_count": 32
+      },
+      "reply_en": "😂 “One more bull run, then I’ll take profits”—the eternal last words. What rule actually made you lock gains last cycle?",
+      "in_niche": true,
+      "skip_reason": "",
+      "reply_lang": "en",
+      "with_link": false,
+      "momentum": {
+        "level": "medio",
+        "score": 2,
+        "reason": "24 h, ~599 vistas/h, autor 14.9K seguidores, replies: 7"
+      }
     }
   ]
 }
