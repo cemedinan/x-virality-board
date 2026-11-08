@@ -1,13 +1,13 @@
 {
  "meta": {
-  "generated_at": "2026-11-07T20:08:13-03:00",
+  "generated_at": "2026-11-07T23:07:16-03:00",
   "window_hours": 24,
   "likes_scanned": 99,
   "listed": 1,
   "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 1,
-  "removed_replied": 1,
+  "new_since_prev": 0,
+  "removed_replied": 0,
   "removed_old": 0
  },
  "posts": [
@@ -35,7 +35,7 @@
    "momentum": {
     "level": "bajo",
     "score": 0,
-    "reason": "1.6 h, ~2.5 vistas/h (<50/h), autor 327 seguidores, replies: 0; respuesta a tu post sobre power law"
+    "reason": "4.6 h, ~0.9 vistas/h (<50/h), autor 328 seguidores, replies: 0; respuesta a tu post sobre power law"
    }
   }
  ]
