@@ -1,14 +1,42 @@
 {
  "meta": {
-  "generated_at": "2026-11-08T20:01:33-03:00",
+  "generated_at": "2026-11-08T23:03:30-03:00",
   "window_hours": 24,
   "likes_scanned": 25,
-  "listed": 0,
-  "in_niche": 0,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 0,
+  "new_since_prev": 1,
   "removed_replied": 0,
   "removed_old": 0
  },
- "posts": []
+ "posts": [
+  {
+   "id": "2119578646469886225",
+   "author": "Grant Cardone",
+   "username": "GrantCardone",
+   "text": "$73,500 - added !!!  CardoneCapital https://t.co/qrv9aeRbay",
+   "created_at": "2026-11-08T23:51:43.000Z",
+   "lang": "en",
+   "url": "https://x.com/GrantCardone/status/2119578646469886225",
+   "m": {
+    "bookmark_count": 10,
+    "impression_count": 19549,
+    "like_count": 680,
+    "quote_count": 5,
+    "reply_count": 71,
+    "repost_count": 22
+   },
+   "reply_en": "😳 Adding at $73.5K the same weekend Fear & Greed dropped to 25. One-off buy, or is there a level where Cardone Capital adds again?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.2 h, ~8.900 vistas/h, 71 replies; autor grande y post sobre compra de $BTC en la caída"
+   }
+  }
+ ]
 }
