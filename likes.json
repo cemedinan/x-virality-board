@@ -1,14 +1,355 @@
 {
  "meta": {
-  "generated_at": "2026-11-10T13:08:19-03:00",
+  "generated_at": "2026-11-10T16:05:25-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 0,
-  "in_niche": 0,
+  "listed": 12,
+  "in_niche": 12,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 17,
-  "removed_old": 6
+  "new_since_prev": 12,
+  "removed_replied": 0,
+  "removed_old": 0
  },
- "posts": []
+ "posts": [
+  {
+   "id": "2120202090937274538",
+   "author": "Shivanshi Singh",
+   "username": "Shivansshi",
+   "text": "Why BTC USD fell near $73,000 after US CPI report and could it crash to $70,000 next?\n\n@grok ?",
+   "created_at": "2026-11-10T17:09:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/Shivansshi/status/2120202090937274538",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 194,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "reply_en": "📉 On CPI days $BTC trades rate expectations: hotter print, fewer cuts priced, risk sells first. The tell for $70K is whether spot buyers step in or only shorts close. Which one are you watching?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "1.9 h, ~100 vistas/h, autor 4,434 seguidores, replies: 2",
+    "vph": 100
+   }
+  },
+  {
+   "id": "2120200374946824562",
+   "author": "Heidi",
+   "username": "blockchainchick",
+   "text": "Bitcoin is dead, don’t buy it\n\nLeave it all for me 😉",
+   "created_at": "2026-11-10T17:02:15.000Z",
+   "lang": "en",
+   "url": "https://x.com/blockchainchick/status/2120200374946824562",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 4139,
+    "like_count": 167,
+    "quote_count": 0,
+    "reply_count": 30,
+    "repost_count": 12
+   },
+   "reply_en": "😂 Bitcoin has been declared dead hundreds of times and still produces a block every ~10 minutes. Which obituary was your favorite?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.1 h, ~2,016 vistas/h, autor 143,226 seguidores, replies: 30",
+    "vph": 2016
+   }
+  },
+  {
+   "id": "2120197341533667568",
+   "author": "MARMOT",
+   "username": "Web3Marmot",
+   "text": "🚨 BITCOIN IS BEING MANIPULATED. AND I HAVE PROOF.\n\nEveryone is talking about how Bitcoin went down below $73K in 15 minutes.\n\nEveryone’s posting about it.\n\nBut almost nobody is explaining what actually caused it.\n\nStop staring at the chart. Look at the flows.\n\nWithin minutes, https://t.co/3SpxSzptwW",
+   "created_at": "2026-11-10T16:50:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/Web3Marmot/status/2120197341533667568",
+   "m": {
+    "bookmark_count": 14,
+    "impression_count": 8538,
+    "like_count": 42,
+    "quote_count": 0,
+    "reply_count": 9,
+    "repost_count": 5
+   },
+   "reply_en": "👀 A drop below $73K in 15 minutes rarely comes from spot alone. In your data, which moved first: perp open interest, exchange inflows or ETF outflows?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.3 h, ~3,788 vistas/h, autor 87,687 seguidores, replies: 9",
+    "vph": 3788
+   }
+  },
+  {
+   "id": "2120182460650524815",
+   "author": "Tom Crown",
+   "username": "TomCrown",
+   "text": "HERE WE GO BITCOIN",
+   "created_at": "2026-11-10T15:51:04.000Z",
+   "lang": "en",
+   "url": "https://x.com/TomCrown/status/2120182460650524815",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 3803,
+    "like_count": 49,
+    "quote_count": 0,
+    "reply_count": 5,
+    "repost_count": 1
+   },
+   "reply_en": "👀 Here we go up, or here we go $70K? The $73K area is the line I'm watching today. Which level are you watching first?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "3.2 h, ~1,174 vistas/h, autor 62,234 seguidores, replies: 5",
+    "vph": 1174
+   }
+  },
+  {
+   "id": "2120163254693679261",
+   "author": "Gordon 🐂",
+   "username": "GordonGekko",
+   "text": "Manipulation at tis finest.\n\nThey are dropping the Bitcoin price after inflation data is released.\n\nTrying to cause panic and shake you out.\n\nLuckily we were prepared for this as I warned you about it last week.\n\nNow, are you ready for what comes next? https://t.co/1X2A7hjeAu",
+   "created_at": "2026-11-10T14:34:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/GordonGekko/status/2120163254693679261",
+   "m": {
+    "bookmark_count": 28,
+    "impression_count": 55728,
+    "like_count": 734,
+    "quote_count": 3,
+    "reply_count": 158,
+    "repost_count": 54
+   },
+   "reply_en": "👀 Shakeouts after CPI are a pattern, but 'manipulation' needs a culprit. Was it spot selling or a wave of long liquidations in perps? Two very different stories.",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "4.5 h, ~12,353 vistas/h, autor 854,675 seguidores, replies: 158",
+    "vph": 12353
+   }
+  },
+  {
+   "id": "2120146606037066031",
+   "author": "Martín Justo",
+   "username": "martinjustoo",
+   "text": "Los picos de posiciones en largo de los grandes inversores suelen marcar suelos en Bitcoin.\n\nHaz con esta info lo que quieras, pero $BTC no esperará por ti. https://t.co/c55ivQPHYu",
+   "created_at": "2026-11-10T13:28:35.000Z",
+   "lang": "es",
+   "url": "https://x.com/martinjustoo/status/2120146606037066031",
+   "m": {
+    "bookmark_count": 3,
+    "impression_count": 1995,
+    "like_count": 18,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 1
+   },
+   "reply_en": "👀 Interesante, pero un indicador también vale por sus fallos. ¿Cuántas veces ese pico de largos marcó suelo y cuántas no? Si tienes el backtest, me interesa verlo.",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "5.6 h, ~355 vistas/h, autor 1,530 seguidores, replies: 0",
+    "vph": 355
+   },
+   "visual": "gráfico + picos de posiciones largas de grandes inversores vs precio de $BTC, marcando aciertos y fallos (fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua)"
+  },
+  {
+   "id": "2120139414303096859",
+   "author": "Comet",
+   "username": "cometwtf",
+   "text": "The bottom of the bear market was $57,800\n\nI’m not turning bearish until we get back to that price \n\nHave some more faith people, I have seen too many people crying about Bitcoin being down 3% this week.",
+   "created_at": "2026-11-10T13:00:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/cometwtf/status/2120139414303096859",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 3255,
+    "like_count": 67,
+    "quote_count": 1,
+    "reply_count": 19,
+    "repost_count": 1
+   },
+   "reply_en": "😳 $57,800 as the line in the sand is ~21% below $73K. Many who keep faith at -3% won't at -20%. What would make you change your mind before that level?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "6.1 h, ~534 vistas/h, autor 156,901 seguidores, replies: 19",
+    "vph": 534
+   },
+   "visual": "gráfico + precio actual ~$73K vs nivel $57,800 con la distancia porcentual (fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua)"
+  },
+  {
+   "id": "2120111044206919733",
+   "author": "Shield",
+   "username": "Shieldmetax",
+   "text": "This next run will be generational.",
+   "created_at": "2026-11-10T11:07:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/Shieldmetax/status/2120111044206919733",
+   "m": {
+    "bookmark_count": 10,
+    "impression_count": 3731,
+    "like_count": 155,
+    "quote_count": 1,
+    "reply_count": 29,
+    "repost_count": 9
+   },
+   "reply_en": "🔥 Generational runs reward whoever survives the boring part first: spot, no leverage, keys in your hands. What's your plan if it dips before it runs?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "8.0 h, ~468 vistas/h, autor 48,340 seguidores, replies: 29",
+    "vph": 468
+   }
+  },
+  {
+   "id": "2120045226605920416",
+   "author": "尤可欣Isadora",
+   "username": "isadora288881",
+   "text": "I AM a Chinese spy.\n\nScared yet? https://t.co/OeB2UV5CkN",
+   "created_at": "2026-11-10T06:45:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/isadora288881/status/2120045226605920416",
+   "m": {
+    "bookmark_count": 23,
+    "impression_count": 18266,
+    "like_count": 274,
+    "quote_count": 5,
+    "reply_count": 93,
+    "repost_count": 8
+   },
+   "reply_en": "😳",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "12.3 h, ~1,482 vistas/h, autor 75,945 seguidores, replies: 93",
+    "vph": 1482
+   },
+   "gif": "Jim Halpert mirando a cámara (buscar: 'jim halpert stare')"
+  },
+  {
+   "id": "2120012721697787979",
+   "author": "𝕁.𝕆@仮想通貨ガイジンマン",
+   "username": "jobtcfx",
+   "text": "何この人。完全に神やん https://t.co/JRUTZZ8mdw",
+   "created_at": "2026-11-10T04:36:35.000Z",
+   "lang": "ja",
+   "url": "https://x.com/jobtcfx/status/2120012721697787979",
+   "m": {
+    "bookmark_count": 198,
+    "impression_count": 55751,
+    "like_count": 274,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 3
+   },
+   "reply_en": "😳 これは何者…？元ネタどこ？",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "ja",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "14.5 h, ~3,850 vistas/h, autor 2,163 seguidores, replies: 1",
+    "vph": 3850
+   },
+   "gif": "Mind blown / asombro (buscar: 'mind blown')"
+  },
+  {
+   "id": "2119980866642550875",
+   "author": "Bitcoin Context",
+   "username": "Bitreumalt",
+   "text": "BREAKING: Denmark’s largest lender Danske Bank officially opened retail Bitcoin access, ending years of opposition.\n⠀\nLed by CEO Carsten Egeriis, the bank launched spot Bitcoin products across mobile banking following surging customer demand.\n⠀\nEuropean mega-banks once blocked https://t.co/aovtHWi4C8",
+   "created_at": "2026-11-10T02:30:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/Bitreumalt/status/2119980866642550875",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 954,
+    "like_count": 53,
+    "quote_count": 11,
+    "reply_count": 10,
+    "repost_count": 15
+   },
+   "reply_en": "🔥 Years of saying no, now Bitcoin inside the banking app. Real question for Danske clients: can you withdraw to your own wallet, or is it exposure without the keys? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "16.6 h, ~58 vistas/h, autor 3,298 seguidores, replies: 10",
+    "vph": 58
+   }
+  },
+  {
+   "id": "2119896601854431694",
+   "author": "Jake Claver",
+   "username": "JakeClaverXq",
+   "text": "🚨BOOOOOOOOOOOOMB💥💥💥💥💥\n\nJP Morgan says XRP is about to create multi millionaires. $1,000\nof XRP will be worth over $5 million.Based on usage, XRP demand will outgrow supply.\nAvoid storing on Exchange and random cold wallet 🚀💰\n\n#Crypto #XRP #CLARITYAct https://t.co/xYVP1xx4zx",
+   "created_at": "2026-11-09T20:55:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/JakeClaverXq/status/2119896601854431694",
+   "m": {
+    "bookmark_count": 92,
+    "impression_count": 22823,
+    "like_count": 421,
+    "quote_count": 3,
+    "reply_count": 78,
+    "repost_count": 45
+   },
+   "reply_en": "😳 $1,000 to $5M is a 5,000x. Has anyone found the actual JP Morgan note behind this claim? The one part I agree with: keys off exchanges. I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "22.2 h, ~1,029 vistas/h, autor 2,009 seguidores, replies: 78",
+    "vph": 1029
+   }
+  }
+ ]
 }
