@@ -1,62 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-09T20:06:33-03:00",
+  "generated_at": "2026-11-09T23:08:39-03:00",
   "window_hours": 24,
   "likes_scanned": 98,
-  "listed": 9,
-  "in_niche": 9,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
   "new_since_prev": 1,
-  "removed_replied": 0,
+  "removed_replied": 9,
   "removed_old": 0
  },
  "posts": [
   {
-   "id": "2119814421296144814",
-   "author": "Ted",
-   "username": "TedPillows",
-   "text": "Don't cheat on your wife. https://t.co/SiTxM0PUpr",
-   "created_at": "2026-11-09T15:28:36.000Z",
-   "lang": "en",
-   "url": "https://x.com/TedPillows/status/2119814421296144814",
+   "id": "2119909366765900196",
+   "author": "eva edxn",
+   "username": "evaedxn",
+   "text": "gm https://t.co/iFL1aZzvsU",
+   "created_at": "2026-11-09T21:45:53.000Z",
+   "lang": "und",
+   "url": "https://x.com/evaedxn/status/2119909366765900196",
    "m": {
-    "bookmark_count": 2030,
-    "impression_count": 1118609,
-    "like_count": 62289,
-    "quote_count": 339,
-    "reply_count": 547,
-    "repost_count": 3906
+    "bookmark_count": 7,
+    "impression_count": 7246,
+    "like_count": 287,
+    "quote_count": 3,
+    "reply_count": 140,
+    "repost_count": 5
    },
-   "reply_en": "💀",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "7.6 h, ~146,554 vistas/h, autor 322,878 seguidores, replies: 547",
-    "vph": 146554
-   },
-   "gif": "Michael Scott 'No, God, no' (busca 'no god no' en el selector de GIFs de X)"
-  },
-  {
-   "id": "2119799675230228674",
-   "author": "Myntad",
-   "username": "Myntad_com",
-   "text": "Thank God Bitcoin has no CEO.",
-   "created_at": "2026-11-09T14:30:01.000Z",
-   "lang": "en",
-   "url": "https://x.com/Myntad_com/status/2119799675230228674",
-   "m": {
-    "bookmark_count": 3,
-    "impression_count": 5089,
-    "like_count": 394,
-    "quote_count": 2,
-    "reply_count": 33,
-    "repost_count": 39
-   },
-   "reply_en": "💯 No CEO, no foundation, no off switch, and still running since January 2009. Which \"crypto CEO\" blowup made you appreciate that the most?",
+   "reply_en": "gm ☕ Honest question: what do you open first in the morning, the $BTC chart or the coffee?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -64,204 +35,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "8.6 h, ~591 vistas/h, autor 1,510 seguidores, replies: 33",
-    "vph": 591
-   }
-  },
-  {
-   "id": "2119784412418113689",
-   "author": "Nico Sobrino",
-   "username": "nicogsobrino",
-   "text": "El mayor activo que puedes construir es tu libertad. Bitcoin es la herramienta, pero solo te protege si lo guardas sin puntos de fallo.",
-   "created_at": "2026-11-09T13:29:22.000Z",
-   "lang": "es",
-   "url": "https://x.com/nicogsobrino/status/2119784412418113689",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 367,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "🔐 Exacto: una seed guardada en un celular conectado ya es un punto de falla. ¿Tú la guardas en papel, en metal o en multisig? Escribí sobre autocustodia airgapped: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "es",
-   "with_link": true,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "9.6 h, ~38 vistas/h (<50/h), autor 2,402 seguidores, replies: 1",
-    "vph": 38
-   }
-  },
-  {
-   "id": "2119777841349103990",
-   "author": "AriesTheCoder",
-   "username": "AriesTheCoder",
-   "text": "@Irenezhao_ Shut up and take my secrets! https://t.co/Zs9rmvoOvA",
-   "created_at": "2026-11-09T13:03:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/AriesTheCoder/status/2119777841349103990",
-   "m": {
-    "bookmark_count": 3,
-    "impression_count": 13702,
-    "like_count": 196,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 2
-   },
-   "reply_en": "😂 Futurama never gets old. Which secret goes first, the API keys or the seed phrase? Please say API keys.",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "10.1 h, ~1,363 vistas/h, autor 918 seguidores, replies: 3",
-    "vph": 1363
-   }
-  },
-  {
-   "id": "2119758739641184587",
-   "author": "Arynne Wexler",
-   "username": "ArynneWexler",
-   "text": "Getting a lot of reactions to this in NYC https://t.co/4KcSEx7TNL",
-   "created_at": "2026-11-09T11:47:21.000Z",
-   "lang": "en",
-   "url": "https://x.com/ArynneWexler/status/2119758739641184587",
-   "m": {
-    "bookmark_count": 564,
-    "impression_count": 1255706,
-    "like_count": 32128,
-    "quote_count": 147,
-    "reply_count": 1094,
-    "repost_count": 1578
-   },
-   "reply_en": "👀 1.2M views in under 12 hours, so the hat clearly did its job. Which reactions surprised you more, the ones on the street or the ones online?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "11.3 h, ~110,926 vistas/h, autor 284,656 seguidores, replies: 1094",
-    "vph": 110926
-   }
-  },
-  {
-   "id": "2119758147665481979",
-   "author": "청소부",
-   "username": "KORROOFTOPARODY",
-   "text": "After successful Nvidia project \n\nNext china’s target will be Sam Altman\n\nWill be literally Open AI https://t.co/b8zEMtuLey",
-   "created_at": "2026-11-09T11:45:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/KORROOFTOPARODY/status/2119758147665481979",
-   "m": {
-    "bookmark_count": 755,
-    "impression_count": 599581,
-    "like_count": 5275,
-    "quote_count": 93,
-    "reply_count": 166,
-    "repost_count": 518
-   },
-   "reply_en": "😂 \"Open AI\" finally living up to the name. Who's next on the list after Nvidia and OpenAI?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "11.4 h, ~52,783 vistas/h, autor 14,197 seguidores, replies: 166",
-    "vph": 52783
-   }
-  },
-  {
-   "id": "2119692222928986481",
-   "author": "Alpha hunter",
-   "username": "DoggySoIana",
-   "text": "Flower Type by @ronentanchum is live on OpenSea! 256 generative pieces turning letters, numbers",
-   "created_at": "2026-11-09T07:23:02.000Z",
-   "lang": "en",
-   "url": "https://x.com/DoggySoIana/status/2119692222928986481",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 146,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 1
-   },
-   "reply_en": "👀 256 outputs from just letters and punctuation is a fun limit to design around. Do you collect generative art for the algorithm or for one specific output?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "15.7 h, ~9 vistas/h (<50/h), autor 12,767 seguidores, replies: 3",
-    "vph": 9
-   }
-  },
-  {
-   "id": "2119690113613430847",
-   "author": "Alpha hunter",
-   "username": "DoggySoIana",
-   "text": "Flower Type by @ronentanchum is live on OpenSea! 256 generative pieces transforming letters, numbers, and punctuation into petals, stems, leaves, and sky. In collab with @artblocks_io",
-   "created_at": "2026-11-09T07:14:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/DoggySoIana/status/2119690113613430847",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 139,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 1
-   },
-   "reply_en": "🌸 Turning punctuation into petals is a great constraint: 256 pieces from the same alphabet. Which character ended up making the best flower?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "15.9 h, ~9 vistas/h (<50/h), autor 12,767 seguidores, replies: 1",
-    "vph": 9
-   }
-  },
-  {
-   "id": "2119688941884326268",
-   "author": "Alpha hunter",
-   "username": "DoggySoIana",
-   "text": "Scammers and FUD are shaking out weak hands with fake hacks and rug pulls, while banks quietly buy the dip.",
-   "created_at": "2026-11-09T07:10:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/DoggySoIana/status/2119688941884326268",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 93,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 1
-   },
-   "reply_en": "⚠️ Fake hack rumors only shake you out if you can't check where your coins are. With your own keys offline, a headline is just a headline. Which rumor fooled people this week? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "15.9 h, ~6 vistas/h (<50/h), autor 12,767 seguidores, replies: 2",
-    "vph": 6
+    "reason": "4.4 h, ~1,654 vistas/h, autor 42,680 seguidores, replies: 140",
+    "vph": 1654
    }
   }
  ]
