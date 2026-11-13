@@ -1,118 +1,62 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T09:06:20-03:00",
+  "generated_at": "2026-11-13T13:04:21-03:00",
   "window_hours": 24,
   "likes_scanned": 300,
-  "listed": 48,
-  "in_niche": 48,
+  "listed": 14,
+  "in_niche": 14,
   "not_recommended": 0,
-  "new_since_prev": 48,
-  "removed_replied": 49,
-  "removed_old": 16
+  "new_since_prev": 14,
+  "removed_replied": 43,
+  "removed_old": 5
  },
  "posts": [
   {
-   "id": "2121161645346914595",
-   "author": "Betaer - 蓝V互关 Follow Me, I'll Follow Back💯",
-   "username": "Betaer",
-   "text": "法语学了这么久，今天偷听旁边两个女生聊天\n听了两个地铁站才反应过来，人家说的是意大利语\n\n#法语 #意大利语 #地铁 https://t.co/vXEQcsFG5m",
-   "created_at": "2026-11-13T08:42:00.000Z",
-   "lang": "zh",
-   "url": "https://x.com/Betaer/status/2121161645346914595",
+   "id": "2121213317825888617",
+   "author": "Beardo",
+   "username": "BeardoTrader",
+   "text": "Don't worry guys, the next time Bitcoin tops and bottoms I'll let you know and we'll all get rich together. https://t.co/neulo0YJMU",
+   "created_at": "2026-11-13T12:07:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/BeardoTrader/status/2121213317825888617",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 118,
-    "like_count": 4,
+    "bookmark_count": 46,
+    "impression_count": 38749,
+    "like_count": 521,
+    "quote_count": 0,
+    "reply_count": 35,
+    "repost_count": 10
+   },
+   "reply_en": "😂 The only call that never misses: telling everyone after it happened. Which top did you call in real time, 69K or 126K?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "4.0 h, ~9,808 vistas/h, autor 56,542 seguidores, replies: 35",
+    "vph": 9808
+   },
+   "gif": "Leonardo DiCaprio pointing — buscar \"dicaprio pointing\""
+  },
+  {
+   "id": "2121207405673402754",
+   "author": "Simba",
+   "username": "Simba_crpt",
+   "text": "Hey @grok, could $BTC really hit $160K in 2029 before collapsing to $35K? https://t.co/pS6Qt54tZX",
+   "created_at": "2026-11-13T11:43:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/Simba_crpt/status/2121207405673402754",
+   "m": {
+    "bookmark_count": 9,
+    "impression_count": 11363,
+    "like_count": 38,
     "quote_count": 0,
     "reply_count": 4,
     "repost_count": 0
    },
-   "reply_en": "😂 两个地铁站才发现是意大利语，这说明你的耳朵已经习惯了法语的节奏。你是先听出哪个词不对劲的？",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "zh",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "3.4 h, ~35 vistas/h (<50/h), autor 6,483 seguidores, replies: 4",
-    "vph": 35
-   }
-  },
-  {
-   "id": "2121161450689568908",
-   "author": "Bitcoin Realist",
-   "username": "abitcoinrealist",
-   "text": "@StealthQE4 Lol they are already assuming PPI is gonna be shit 💀",
-   "created_at": "2026-11-13T08:41:13.000Z",
-   "lang": "en",
-   "url": "https://x.com/abitcoinrealist/status/2121161450689568908",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 196,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "💀 Markets pricing a bad PPI before it prints is half the move. If it comes in soft, who gets squeezed first: shorts or the doom accounts?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "3.4 h, ~57 vistas/h, autor 1,514 seguidores, replies: 1",
-    "vph": 57
-   },
-   "gif": "Michael Scott \"no, no, no\" — buscar \"michael scott no\""
-  },
-  {
-   "id": "2121128927523749968",
-   "author": "Bitcoin Dawg",
-   "username": "bitcoin_dawg",
-   "text": "THE HATERS WILL SAY WE WERE LUCKY https://t.co/3sBO06Lb4V",
-   "created_at": "2026-11-13T06:31:59.000Z",
-   "lang": "en",
-   "url": "https://x.com/bitcoin_dawg/status/2121128927523749968",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 308,
-    "like_count": 16,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 1
-   },
-   "reply_en": "Luck doesn't survive four halvings. Holding through every -50% drawdown is the part nobody wants to copy. What was your hardest one to sit through?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "5.6 h, ~55 vistas/h, autor 4,641 seguidores, replies: 1",
-    "vph": 55
-   }
-  },
-  {
-   "id": "2121128678570578301",
-   "author": "Quinten",
-   "username": "QuintenFrancois",
-   "text": "Belgium has one of the most expensive government structures… ⬇️ https://t.co/Ca5EYFAhkm",
-   "created_at": "2026-11-13T06:31:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/QuintenFrancois/status/2121128678570578301",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 11264,
-    "like_count": 80,
-    "quote_count": 0,
-    "reply_count": 4,
-    "repost_count": 2
-   },
-   "reply_en": "😳 Every euro of government overhead is a tax on savers, and inflation is the quiet version of it. Is Belgium's problem the layers of government or the cost of each one?",
+   "reply_en": "👀 $160K then $35K is a -78% drawdown, the same depth as 2018 and 2022. The real question isn't the target: would you still be holding spot at -78%?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -120,535 +64,28 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "5.6 h, ~2,015 vistas/h, autor 205,355 seguidores, replies: 4",
-    "vph": 2015
-   }
+    "reason": "4.3 h, ~2,617 vistas/h, autor 32,258 seguidores, replies: 4",
+    "vph": 2617
+   },
+   "visual": "gráfico: drawdowns de $BTC por ciclo (2014, 2018, 2022) vs. el -78% hipotético; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
   {
-   "id": "2121128487654166879",
-   "author": "Sophia Bennett 🇺🇸",
-   "username": "sophiabennett07",
-   "text": "This is not a coincidence:\n\n-Jensen Huang was forced out \n\n-Microsoft services are DOWN\n\n-Japan banking system is DOWN \n\n-Paraguay banking system is DOWN.\n\n🚨Something big is in the works.",
-   "created_at": "2026-11-13T06:30:14.000Z",
+   "id": "2121178883823390757",
+   "author": "Crypto Michael",
+   "username": "MichaelXBT",
+   "text": "The Bitcoin King https://t.co/2jjSqE4rPI",
+   "created_at": "2026-11-13T09:50:30.000Z",
    "lang": "en",
-   "url": "https://x.com/sophiabennett07/status/2121128487654166879",
+   "url": "https://x.com/MichaelXBT/status/2121178883823390757",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 476,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 1
-   },
-   "reply_en": "👀 Four outages in a row feels connected, but \"not a coincidence\" needs a source. One thing is verifiable: every bank and cloud failure is a single point of failure. Bitcoin kept producing blocks. Which outage hit you directly?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "5.6 h, ~85 vistas/h, autor 13,031 seguidores, replies: 0",
-    "vph": 85
-   }
-  },
-  {
-   "id": "2121128221911744899",
-   "author": "Shannu",
-   "username": "Shannnu_18",
-   "text": "What he is doing in my pc 😭💀 https://t.co/knZ5RpZ4Zb",
-   "created_at": "2026-11-13T06:29:11.000Z",
-   "lang": "en",
-   "url": "https://x.com/Shannnu_18/status/2121128221911744899",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 716,
-    "like_count": 29,
-    "quote_count": 0,
-    "reply_count": 15,
-    "repost_count": 0
-   },
-   "reply_en": "😭 At least he's not touching the hardware wallet. Is that your trading setup or the cat's?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "5.6 h, ~127 vistas/h, autor 4,166 seguidores, replies: 15",
-    "vph": 127
-   },
-   "gif": "gato tecleando — buscar \"cat typing keyboard\""
-  },
-  {
-   "id": "2121128217386123568",
-   "author": "Watcher.Guru",
-   "username": "WatcherGuru",
-   "text": "JUST IN: 🇹🇭 Thailand launches payment system allowing tourists to convert crypto into its national currency for purchases.",
-   "created_at": "2026-11-13T06:29:10.000Z",
-   "lang": "en",
-   "url": "https://x.com/WatcherGuru/status/2121128217386123568",
-   "m": {
-    "bookmark_count": 286,
-    "impression_count": 296869,
-    "like_count": 4521,
-    "quote_count": 104,
-    "reply_count": 251,
-    "repost_count": 568
-   },
-   "reply_en": "🇹🇭 Interesting detail: crypto stays the tourist's asset until the last second, then it becomes baht. Is that adoption or just a better FX desk? Curious if $BTC settles on-chain or through a custodian.",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "5.6 h, ~52,828 vistas/h, autor 4,920,945 seguidores, replies: 251",
-    "vph": 52828
-   }
-  },
-  {
-   "id": "2121127506992644497",
-   "author": "SWEET",
-   "username": "Justforfun_4554",
-   "text": "Good morning x family ,great news shall follow us today",
-   "created_at": "2026-11-13T06:26:20.000Z",
-   "lang": "en",
-   "url": "https://x.com/Justforfun_4554/status/2121127506992644497",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 562,
-    "like_count": 48,
-    "quote_count": 0,
-    "reply_count": 26,
-    "repost_count": 23
-   },
-   "reply_en": "☀️ Good morning! With $BTC under $70K the best news would be a calm head. What are you watching today: price, PPI or the outages?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "5.7 h, ~99 vistas/h, autor 3,212 seguidores, replies: 26",
-    "vph": 99
-   }
-  },
-  {
-   "id": "2121098399676280836",
-   "author": "Shield",
-   "username": "Shieldmetax",
-   "text": "This isn't a glitch. \n\nIt's a warning shot.   \n\nTen giants all going down in the same week? \n\nDays before GTA 6?\n\nAnd what happens on the 17th? https://t.co/yQJ4T5ooOS https://t.co/j043nymhVT",
-   "created_at": "2026-11-13T04:30:41.000Z",
-   "lang": "en",
-   "url": "https://x.com/Shieldmetax/status/2121098399676280836",
-   "m": {
-    "bookmark_count": 23,
-    "impression_count": 7637,
-    "like_count": 105,
-    "quote_count": 0,
-    "reply_count": 20,
-    "repost_count": 21
-   },
-   "reply_en": "👀 Ten giants down in one week is worth asking about, but a date and a hashtag aren't evidence. The lesson that holds either way: don't keep your savings where one outage locks you out. What's supposed to happen on the 17th?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "7.6 h, ~1,006 vistas/h, autor 48,429 seguidores, replies: 20",
-    "vph": 1006
-   }
-  },
-  {
-   "id": "2121083223505883619",
-   "author": "Eduardo Borges",
-   "username": "duborges",
-   "text": "and so it begins…\n\nBrazil’s largest port (Santos) is offline for 6 days already https://t.co/UDqGcwEk2N https://t.co/P4RmvXd3Du",
-   "created_at": "2026-11-13T03:30:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/duborges/status/2121083223505883619",
-   "m": {
-    "bookmark_count": 215,
-    "impression_count": 48741,
-    "like_count": 691,
-    "quote_count": 4,
-    "reply_count": 7,
-    "repost_count": 79
-   },
-   "reply_en": "⚠️ Six days offline at Santos is huge for trade, if confirmed. Is there an official note from the port authority on the cause? Supply chains with one digital chokepoint break all at once.",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "8.6 h, ~5,668 vistas/h, autor 19,646 seguidores, replies: 7",
-    "vph": 5668
-   }
-  },
-  {
-   "id": "2121078971572068723",
-   "author": "Mostak Ahmmed",
-   "username": "rab4745",
-   "text": "Good morning crypto Twitter \n\n       Start the day with coffee https://t.co/nbhFzBjy7h",
-   "created_at": "2026-11-13T03:13:29.000Z",
-   "lang": "en",
-   "url": "https://x.com/rab4745/status/2121078971572068723",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 413,
-    "like_count": 63,
+    "bookmark_count": 65,
+    "impression_count": 97088,
+    "like_count": 487,
     "quote_count": 1,
-    "reply_count": 52,
-    "repost_count": 8
-   },
-   "reply_en": "☕ Coffee first, chart second. With $BTC under $70K, do you check price before or after the first cup?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "8.9 h, ~47 vistas/h (<50/h), autor 19,316 seguidores, replies: 52",
-    "vph": 47
-   }
-  },
-  {
-   "id": "2121074246382146002",
-   "author": "Defi",
-   "username": "lil_defi",
-   "text": "You only need to get rich once.",
-   "created_at": "2026-11-13T02:54:42.000Z",
-   "lang": "en",
-   "url": "https://x.com/lil_defi/status/2121074246382146002",
-   "m": {
-    "bookmark_count": 3,
-    "impression_count": 1050,
-    "like_count": 50,
-    "quote_count": 0,
-    "reply_count": 12,
-    "repost_count": 0
-   },
-   "reply_en": "True, and the hard part is not getting poor twice. Leverage is usually what turns \"once\" into \"never again\". Spot or perps for you?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "9.2 h, ~114 vistas/h, autor 23,757 seguidores, replies: 12",
-    "vph": 114
-   }
-  },
-  {
-   "id": "2121074209803870560",
-   "author": "Simply Bitcoin",
-   "username": "SimplyBitcoin",
-   "text": "JUST IN: BITCOIN IS DUMPING\n\nBitcoin broke below $70,000 for the first time in nearly 3 months.\n\nAre we cooked? 😭 https://t.co/z4jE5f5tMX",
-   "created_at": "2026-11-13T02:54:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/SimplyBitcoin/status/2121074209803870560",
-   "m": {
-    "bookmark_count": 5,
-    "impression_count": 18664,
-    "like_count": 335,
-    "quote_count": 5,
-    "reply_count": 66,
-    "repost_count": 15
-   },
-   "reply_en": "😭 Not cooked, just tested. Under $70K for the first time in ~3 months is where leverage gets flushed and spot holders get a discount. Are you buying, waiting or selling?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "9.2 h, ~2,029 vistas/h, autor 163,110 seguidores, replies: 66",
-    "vph": 2029
-   },
-   "gif": "\"This is fine\" dog — buscar \"this is fine\""
-  },
-  {
-   "id": "2121070410498552272",
-   "author": "Aaron Ely",
-   "username": "AaronEly11",
-   "text": "@DougAMacgregor Remember in terminator when all the services started going down and the only way to fix it was to deploy skynet?",
-   "created_at": "2026-11-13T02:39:28.000Z",
-   "lang": "en",
-   "url": "https://x.com/AaronEly11/status/2121070410498552272",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 11519,
-    "like_count": 44,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 3
-   },
-   "reply_en": "😂 Plot twist: the fix is always \"turn it off and on again\". Which is scarier, the outage or how many systems depend on one company?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "9.4 h, ~1,219 vistas/h, autor 270 seguidores, replies: 1",
-    "vph": 1219
-   },
-   "gif": "Terminator \"I'll be back\" — buscar \"ill be back terminator\""
-  },
-  {
-   "id": "2121068030067388642",
-   "author": "NAMAN RAJ",
-   "username": "thenamanraj",
-   "text": "Hey @grok, create a map ranking countries by how good they will be for remote developers in 2035.\n\nConsider salaries, cost of living, taxes, internet speed and visas.\n\nWhich countries will be the winners and losers?",
-   "created_at": "2026-11-13T02:30:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/thenamanraj/status/2121068030067388642",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 315,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 0
-   },
-   "reply_en": "Interesting ranking, but by 2035 the tiebreaker may be how easy it is to get paid and keep your money across borders. Would you rank countries by how they treat $BTC too?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "9.6 h, ~33 vistas/h (<50/h), autor 2,955 seguidores, replies: 6",
-    "vph": 33
-   }
-  },
-  {
-   "id": "2121068030306537545",
-   "author": "Bitcoin Context",
-   "username": "Bitreumalt",
-   "text": "BREAKING: Video giant Rumble quietly sold two-thirds of its Bitcoin treasury while reporting its first profitable quarter.\n⠀\nCEO Chris Pavlovski disclosed the firm cut its stash by 68% from 293 to 94 Bitcoin as its Quake AI unit hit $96.6M in revenue.\n⠀\nWhile public firms cash https://t.co/jMcOypgAq5",
-   "created_at": "2026-11-13T02:30:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/Bitreumalt/status/2121068030306537545",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 513,
-    "like_count": 18,
-    "quote_count": 9,
-    "reply_count": 3,
-    "repost_count": 1
-   },
-   "reply_en": "👀 Selling 68% of the treasury (293 → 94 BTC) in a profitable quarter says more about the board's conviction than about Bitcoin. Funding growth or losing faith in the treasury play?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "9.6 h, ~53 vistas/h, autor 3,404 seguidores, replies: 3",
-    "vph": 53
-   }
-  },
-  {
-   "id": "2121066153187635605",
-   "author": "深深｜观势而行",
-   "username": "Yxnh8023",
-   "text": "@ForecastQuant 真跌倒65k\n我只能睁眼睛看啊",
-   "created_at": "2026-11-13T02:22:33.000Z",
-   "lang": "zh",
-   "url": "https://x.com/Yxnh8023/status/2121066153187635605",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 27,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "真到65k的话，最重要的是不加杠杆、拿现货，睁眼看着也没关系。你会在65k补仓吗？",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "zh",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "9.7 h, ~3 vistas/h (<50/h), autor 5,681 seguidores, replies: 0",
-    "vph": 3
-   }
-  },
-  {
-   "id": "2121065865953128845",
-   "author": "MrBujok",
-   "username": "BujokMr",
-   "text": "Lolol https://t.co/umNleUJ06q",
-   "created_at": "2026-11-13T02:21:24.000Z",
-   "lang": "en",
-   "url": "https://x.com/BujokMr/status/2121065865953128845",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 4324,
-    "like_count": 16,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 3
-   },
-   "reply_en": "😂",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "9.7 h, ~444 vistas/h, autor 35,126 seguidores, replies: 0",
-    "vph": 444
-   },
-   "gif": "Leonardo DiCaprio riéndose — buscar \"leo dicaprio laughing\""
-  },
-  {
-   "id": "2121064454968533357",
-   "author": "비트맥시갤러리",
-   "username": "gvx1q5",
-   "text": "지금 하락 아무것도 아니다\n\n법정화폐가격때문에 흔들리지 마라\n\n백서원문 20번이상 정독한 형님의 결론이니 믿어라\n\n우리 집팔비사단 배의 든든한 선장님이시다 https://t.co/Reyf1Tb7AV",
-   "created_at": "2026-11-13T02:15:48.000Z",
-   "lang": "ko",
-   "url": "https://x.com/gvx1q5/status/2121064454968533357",
-   "m": {
-    "bookmark_count": 30,
-    "impression_count": 8710,
-    "like_count": 74,
-    "quote_count": 2,
-    "reply_count": 10,
+    "reply_count": 46,
     "repost_count": 4
    },
-   "reply_en": "백서를 20번 넘게 읽었다면 이번 하락도 이미 본 장면이죠. 중요한 건 레버리지 없이 현물을 직접 보관하는 것. 지금 추가 매수하시나요?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "ko",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "9.8 h, ~885 vistas/h, autor 625 seguidores, replies: 10",
-    "vph": 885
-   }
-  },
-  {
-   "id": "2121058286480896317",
-   "author": "Francis Flandro",
-   "username": "fflandro",
-   "text": "@DougAMacgregor I'm not surprised. Microsoft is built on malware.",
-   "created_at": "2026-11-13T01:51:17.000Z",
-   "lang": "en",
-   "url": "https://x.com/fflandro/status/2121058286480896317",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 18922,
-    "like_count": 132,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "😂 Harsh, but the real problem is concentration: when one vendor fails, half the economy fails with it. Do you have any money that doesn't depend on a company being online?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "10.3 h, ~1,846 vistas/h, autor 2,681 seguidores, replies: 1",
-    "vph": 1846
-   }
-  },
-  {
-   "id": "2121055785136607527",
-   "author": "Guffadi_queen 🇦🇺",
-   "username": "subedianjana11",
-   "text": "Grow your 𝕏 account here",
-   "created_at": "2026-11-13T01:41:21.000Z",
-   "lang": "en",
-   "url": "https://x.com/subedianjana11/status/2121055785136607527",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1023,
-    "like_count": 45,
-    "quote_count": 0,
-    "reply_count": 33,
-    "repost_count": 2
-   },
-   "reply_en": "Growth on X comes faster from one useful reply than from ten follow-for-follow threads. What's the post that grew your account the most?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "10.4 h, ~98 vistas/h, autor 29,063 seguidores, replies: 33",
-    "vph": 98
-   }
-  },
-  {
-   "id": "2121055596392718454",
-   "author": "Douglas Macgregor",
-   "username": "DougAMacgregor",
-   "text": "BREAKING: Microsoft unable to correct major outage.",
-   "created_at": "2026-11-13T01:40:36.000Z",
-   "lang": "en",
-   "url": "https://x.com/DougAMacgregor/status/2121055596392718454",
-   "m": {
-    "bookmark_count": 764,
-    "impression_count": 2867980,
-    "like_count": 21010,
-    "quote_count": 533,
-    "reply_count": 852,
-    "repost_count": 2193
-   },
-   "reply_en": "⚠️ If Microsoft can't fix it fast, banks, airlines and exchanges running on its cloud are exposed too. Single point of failure in plain sight. Bitcoin kept producing blocks. Would you be able to reach your money if your exchange went dark for 48h? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "10.4 h, ~275,001 vistas/h, autor 685,574 seguidores, replies: 852",
-    "vph": 275001
-   }
-  },
-  {
-   "id": "2121054258531377185",
-   "author": "Anonymously Enlightening",
-   "username": "A_enlightening",
-   "text": "11/12/26 While tons of creators are using old David Wilcock videos to feed you false hopes, people need the real truth and not pacified illusions (forgive me for busting the bubble)\n#anonymous #anonymouslyenlightening #weareanonymous #expectus #awake https://t.co/Zwd7fnxatK",
-   "created_at": "2026-11-13T01:35:17.000Z",
-   "lang": "en",
-   "url": "https://x.com/A_enlightening/status/2121054258531377185",
-   "m": {
-    "bookmark_count": 183,
-    "impression_count": 33042,
-    "like_count": 552,
-    "quote_count": 7,
-    "reply_count": 22,
-    "repost_count": 143
-   },
-   "reply_en": "\"Real truth\" needs sources you can verify, not just another video. What's one claim here that anyone can check for themselves?",
+   "reply_en": "👑 Kings get tested on red days, not green ones. What's the one metric you check when $BTC drops like this?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -656,535 +93,225 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10.5 h, ~3,142 vistas/h, autor 61,624 seguidores, replies: 22",
-    "vph": 3142
+    "reason": "6.2 h, ~15,581 vistas/h, autor 128,439 seguidores, replies: 46",
+    "vph": 15581
    }
   },
   {
-   "id": "2121047797562593408",
-   "author": "Allen B.",
-   "username": "Alleninvests",
-   "text": "They told me we’d never see this again. https://t.co/ohg3ujuRLj",
-   "created_at": "2026-11-13T01:09:36.000Z",
+   "id": "2121175936154718272",
+   "author": "Doctor Profit 🇨🇭",
+   "username": "DrProfitCrypto",
+   "text": "$BTC: Bottom was in at 68k \n\nHistorically, there is no better signal than the MA200 weekly that marks the bottom of each bear market. Since the last 10 years, it marked the bottom perfectly together with the four years cycle. I am bidding big size here https://t.co/939Lw096Il",
+   "created_at": "2026-11-13T09:38:47.000Z",
    "lang": "en",
-   "url": "https://x.com/Alleninvests/status/2121047797562593408",
+   "url": "https://x.com/DrProfitCrypto/status/2121175936154718272",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 1230,
-    "like_count": 35,
-    "quote_count": 0,
-    "reply_count": 18,
-    "repost_count": 1
+    "bookmark_count": 321,
+    "impression_count": 209835,
+    "like_count": 3615,
+    "quote_count": 17,
+    "reply_count": 244,
+    "repost_count": 220
    },
-   "reply_en": "👀 Never say never in this market. Which level did they say we'd never see again: under $70K or something lower?",
+   "reply_en": "🤔 The weekly 200 MA has marked past bear-market lows, but \"perfectly\" is a strong word with only 3 or 4 cycles of data. Would you still be bidding if it closed a few weeks below it, like in 2022?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "10.9 h, ~112 vistas/h, autor 2,489 seguidores, replies: 18",
-    "vph": 112
-   }
-  },
-  {
-   "id": "2121046678593499325",
-   "author": "Ian R. Cohen (Bitcoin Lawyer Guy)",
-   "username": "btclawyerguy",
-   "text": "@JoeCarlasare Bitcoin doesn't care",
-   "created_at": "2026-11-13T01:05:09.000Z",
-   "lang": "en",
-   "url": "https://x.com/btclawyerguy/status/2121046678593499325",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 365,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
+    "level": "alto",
+    "score": 3,
+    "reason": "6.4 h, ~32,652 vistas/h, autor 498,519 seguidores, replies: 244",
+    "vph": 32652
    },
-   "reply_en": "Exactly. Blocks every ~10 minutes, outage or not, headlines or not. What's the one thing that actually would make Bitcoin care?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "11.0 h, ~33 vistas/h (<50/h), autor 772 seguidores, replies: 1",
-    "vph": 33
-   }
+   "visual": "gráfico: $BTC semanal con la MA200 semanal marcando los mínimos de 2015, 2018 y 2022; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
   {
-   "id": "2121046327455006742",
-   "author": "harms",
-   "username": "harmszaj5",
-   "text": "A day off for GTA 6 isn't a benefit; it's a recruiting post with a payroll entry attached. Logitech buys the launch-day press cycle for the cost of one shift, and employees get a Tuesday. Cheap, smart, and only impressive if you've never watched a company calendar do PR before.",
-   "created_at": "2026-11-13T01:03:46.000Z",
-   "lang": "en",
-   "url": "https://x.com/harmszaj5/status/2121046327455006742",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 175,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 7,
-    "repost_count": 1
-   },
-   "reply_en": "Cheap PR, sure, but it works because employees actually want the day. Would you rather have GTA day off or a better 401k match?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "11.0 h, ~16 vistas/h (<50/h), autor 5,455 seguidores, replies: 7",
-    "vph": 16
-   }
-  },
-  {
-   "id": "2121045388530745428",
-   "author": "山下健一｜お金の仕組みからBitcoin",
-   "username": "Kenichi_Y",
-   "text": "Bitcoin 終わった…\nそういうポストを目にする度に、\n\n2013年もいたな〜 \n2018年もいたな〜 \n2022年もいたな〜  \n\nとなる。 \n\n数年後、\n\n2026年もいたな〜 \n\nとなる。 https://t.co/0pcPadFZgT",
-   "created_at": "2026-11-13T01:00:02.000Z",
-   "lang": "ja",
-   "url": "https://x.com/Kenichi_Y/status/2121045388530745428",
+   "id": "2121170417398538291",
+   "author": "BONEZ",
+   "username": "0xBNZ",
+   "text": "GM https://t.co/zXydvQWiJG",
+   "created_at": "2026-11-13T09:16:51.000Z",
+   "lang": "und",
+   "url": "https://x.com/0xBNZ/status/2121170417398538291",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 6594,
-    "like_count": 98,
-    "quote_count": 1,
-    "reply_count": 13,
-    "repost_count": 6
+    "impression_count": 2353,
+    "like_count": 174,
+    "quote_count": 0,
+    "reply_count": 151,
+    "repost_count": 5
    },
-   "reply_en": "まさにこれ。「ビットコイン終わった」は毎サイクルの定番ですね。2026年版の「終わった」は何年後に笑い話になると思いますか？",
+   "reply_en": "☕",
    "in_niche": true,
    "skip_reason": "",
-   "reply_lang": "ja",
+   "reply_lang": "und",
    "with_link": false,
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "11.1 h, ~594 vistas/h, autor 28,731 seguidores, replies: 13",
-    "vph": 594
-   }
+    "reason": "6.8 h, ~346 vistas/h, autor 45,420 seguidores, replies: 151",
+    "vph": 346
+   },
+   "gif": "Good morning coffee — buscar \"good morning coffee\""
   },
   {
-   "id": "2121036018287530077",
-   "author": "mitrajoon",
-   "username": "mitrajoon246071",
-   "text": "Just wait 'til the internet goes down tomorrow.",
-   "created_at": "2026-11-13T00:22:48.000Z",
+   "id": "2121168621460505003",
+   "author": "Carl Moon 🌙",
+   "username": "carlmoon",
+   "text": "THAILAND IS BRINGING CRYPTO TO EVERYDAY PAYMENTS! 🇹🇭\n\nTourists can now convert crypto into Thai baht and pay at shops and restaurants using QR codes.\n\nThe pilot targets $440 MILLION in spending over 18 months.\n\nCRYPTO ADOPTION IS GETTING REAL! https://t.co/wYWxva65L0",
+   "created_at": "2026-11-13T09:09:43.000Z",
    "lang": "en",
-   "url": "https://x.com/mitrajoon246071/status/2121036018287530077",
+   "url": "https://x.com/carlmoon/status/2121168621460505003",
    "m": {
-    "bookmark_count": 29,
-    "impression_count": 24885,
-    "like_count": 579,
-    "quote_count": 4,
-    "reply_count": 100,
-    "repost_count": 33
+    "bookmark_count": 6,
+    "impression_count": 10386,
+    "like_count": 175,
+    "quote_count": 3,
+    "reply_count": 23,
+    "repost_count": 19
    },
-   "reply_en": "😬 If the internet goes down, the question is who can still access their money. Keys offline don't need anyone's server. Do you have a plan B for that?",
+   "reply_en": "🇹🇭 Detail that matters: tourists convert to baht at the point of sale, so merchants never hold crypto. Is that adoption or just a nicer FX rail? $440M over 18 months will tell.",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "11.7 h, ~2,122 vistas/h, autor 32,361 seguidores, replies: 100",
-    "vph": 2122
+    "level": "medio",
+    "score": 2,
+    "reason": "6.9 h, ~1,503 vistas/h, autor 1,520,243 seguidores, replies: 23",
+    "vph": 1503
    }
   },
   {
-   "id": "2121034116422684675",
-   "author": "Megan",
-   "username": "MMthee0ne",
-   "text": "@GodsBurnt Absolutely! We are in this world, not of this world. And we live in a sin-filled world, so bad things are destined to happen. We were never meant to stay here forever. We have a home with God.",
-   "created_at": "2026-11-13T00:15:14.000Z",
+   "id": "2121161832421380294",
+   "author": "Heidi",
+   "username": "blockchainchick",
+   "text": "Bitcoin just lost $70k.\n\nAre you buying, holding or selling this morning? 👀",
+   "created_at": "2026-11-13T08:42:44.000Z",
    "lang": "en",
-   "url": "https://x.com/MMthee0ne/status/2121034116422684675",
+   "url": "https://x.com/blockchainchick/status/2121161832421380294",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 255,
-    "like_count": 13,
-    "quote_count": 0,
-    "reply_count": 2,
+    "bookmark_count": 2,
+    "impression_count": 8592,
+    "like_count": 132,
+    "quote_count": 1,
+    "reply_count": 90,
     "repost_count": 0
    },
-   "reply_en": "🙏 Amen. Peace that doesn't depend on markets or headlines. How do you keep that perspective on hard days?",
+   "reply_en": "📉 Below $70K and the timeline gets quiet. Holding spot, no leverage, and checking where my coins sit. Who here is adding vs. just watching?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "11.9 h, ~22 vistas/h (<50/h), autor 29,298 seguidores, replies: 2",
-    "vph": 22
+    "level": "medio",
+    "score": 2,
+    "reason": "7.4 h, ~1,167 vistas/h, autor 143,221 seguidores, replies: 90",
+    "vph": 1167
    }
   },
   {
-   "id": "2121014885681156323",
-   "author": "Anticommie",
-   "username": "QueenAnticommie",
-   "text": "Dear hackers,\n\nErase our debts. Do something good for once.\n\nSincerely,\n\nEveryone",
-   "created_at": "2026-11-12T22:58:49.000Z",
+   "id": "2121133754924122583",
+   "author": "Caffe' Satoshi",
+   "username": "CaffeSatoshi",
+   "text": "Mathematical Proof that Bitcoin is being manipulated and deliberately kept underwater?\n\n(my phyton code used to analyse the data and create the charts is in the first comment below to ensure 100% transparency)\n\nI wanted to put last night's Bitcoin sell-off into a much longer https://t.co/R7DbL2g8UC",
+   "created_at": "2026-11-13T06:51:10.000Z",
    "lang": "en",
-   "url": "https://x.com/QueenAnticommie/status/2121014885681156323",
+   "url": "https://x.com/CaffeSatoshi/status/2121133754924122583",
    "m": {
-    "bookmark_count": 300,
-    "impression_count": 496135,
-    "like_count": 44032,
-    "quote_count": 204,
-    "reply_count": 452,
-    "repost_count": 5154
+    "bookmark_count": 7,
+    "impression_count": 1486,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 2
    },
-   "reply_en": "😂 Hackers erasing debts would just inflate them back by Monday. The real fix is money nobody can print or freeze. Which debt would you erase first?",
+   "reply_en": "👏 Posting the Python code with the charts is the right move: anyone can audit it. Which data source did you use for the intraday sell-off, spot or futures?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "13.1 h, ~37,800 vistas/h, autor 259,833 seguidores, replies: 452",
-    "vph": 37800
-   },
-   "gif": "\"Take my money\" Fry — buscar \"shut up and take my money\""
-  },
-  {
-   "id": "2121007726029656259",
-   "author": "フ ォ リ ス",
-   "username": "follis_",
-   "text": "2023 bull market ignition fractal playing out\n\nWill history repeat itself\n\nLet's find out\n\n$BTC https://t.co/yBn1oohey5",
-   "created_at": "2026-11-12T22:30:22.000Z",
-   "lang": "en",
-   "url": "https://x.com/follis_/status/2121007726029656259",
-   "m": {
-    "bookmark_count": 73,
-    "impression_count": 40528,
-    "like_count": 465,
-    "quote_count": 5,
-    "reply_count": 29,
-    "repost_count": 40
-   },
-   "reply_en": "👀 The 2023 fractal looks clean on the chart, but fractals rhyme, they don't repeat. What would invalidate it for you: losing $64K or something else? $BTC",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "13.6 h, ~2,980 vistas/h, autor 127,907 seguidores, replies: 29",
-    "vph": 2980
+    "level": "medio",
+    "score": 2,
+    "reason": "9.2 h, ~161 vistas/h, autor 10,785 seguidores, replies: 1",
+    "vph": 161
    }
   },
   {
-   "id": "2121007461113135268",
-   "author": "SantinoCripto®",
-   "username": "SantinoCripto",
-   "text": "Algo huele muy mal en Binance:\n\n- El director financieron (CFO) Kaiser Ng dimitió tras 5 años en el cargo.\n\n- Sufren un HACK de 6.3 BILLONES de dólares.\n\n- No han aprobado la licencia MiCA en Europa.\n\nPersonalmente no dejaría en ese exchange ni el dinero del vecino. \n\nVa a ser el",
-   "created_at": "2026-11-12T22:29:19.000Z",
-   "lang": "es",
-   "url": "https://x.com/SantinoCripto/status/2121007461113135268",
+   "id": "2121131995396747583",
+   "author": "Pius the Banker",
+   "username": "PiusSprenger",
+   "text": "On days like this, with Bitcoin down a lot, you can panic…\n\nOR ZOOM OUT. https://t.co/RzLfwadRdY",
+   "created_at": "2026-11-13T06:44:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/PiusSprenger/status/2121131995396747583",
    "m": {
-    "bookmark_count": 37,
-    "impression_count": 25668,
-    "like_count": 192,
-    "quote_count": 2,
+    "bookmark_count": 1,
+    "impression_count": 5030,
+    "like_count": 246,
+    "quote_count": 4,
     "reply_count": 19,
     "repost_count": 14
    },
-   "reply_en": "⚠️ Un CFO que se va, un hackeo de 6.300 millones y sin MiCA: tres señales distintas, un mismo riesgo de contraparte. Si no tienes tus llaves, tu $BTC es una promesa del exchange. Escribí cómo armar autocustodia airgapped: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "es",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "13.6 h, ~1,885 vistas/h, autor 69,467 seguidores, replies: 19",
-    "vph": 1885
-   }
-  },
-  {
-   "id": "2121007212722008501",
-   "author": "Gregory Ramirez",
-   "username": "mlkbfrey",
-   "text": "I'm only going to say this TWICE.\n\nIf you're under 40, the incoming market CRASH will be a generational time to BUY insanely undervalued stocks at a discount.\n\n1) $NVDA— BUY at $160–$165. The bad news has been fully priced in. It's time to buy. https://t.co/t1EN3bLhzm",
-   "created_at": "2026-11-12T22:28:20.000Z",
-   "lang": "en",
-   "url": "https://x.com/mlkbfrey/status/2121007212722008501",
-   "m": {
-    "bookmark_count": 2674,
-    "impression_count": 1643301,
-    "like_count": 3020,
-    "quote_count": 16,
-    "reply_count": 155,
-    "repost_count": 104
-   },
-   "reply_en": "Bold call. Buying a \"crash\" works only if you can hold through the second leg down without leverage. What's your plan if $NVDA goes to $140 first?",
+   "reply_en": "🔭 Zoom out works only if you can sit through the zoom in. Every cycle had a -50% drop or worse. What was your worst one?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "13.6 h, ~120,535 vistas/h, autor 7,291 seguidores, replies: 155",
-    "vph": 120535
-   }
-  },
-  {
-   "id": "2120998181039141132",
-   "author": "The Bitcoin Historian",
-   "username": "pete_rizzo_",
-   "text": "BREAKING: 🇺🇸 US JUSTICE DEPARTMENT JUST SEIZED $1,200,000,000 IN CRYPTO STOLEN BY NORTH KOREA FROM BINANCE\n\nMORE #BITCOIN IS HEADING TO THE STRATEGIC RESERVE\n\nHERE WE GO 🚀 https://t.co/E5C2TcCd4Q",
-   "created_at": "2026-11-12T21:52:27.000Z",
-   "lang": "en",
-   "url": "https://x.com/pete_rizzo_/status/2120998181039141132",
-   "m": {
-    "bookmark_count": 49,
-    "impression_count": 101466,
-    "like_count": 1085,
-    "quote_count": 23,
-    "reply_count": 154,
-    "repost_count": 112
-   },
-   "reply_en": "👀 $1.2B recovered is good news, but it also shows funds on exchanges can be stolen and frozen by others. If your coins sat on Binance during the hack, who decided when you could withdraw? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "14.2 h, ~7,130 vistas/h, autor 224,097 seguidores, replies: 154",
-    "vph": 7130
-   }
-  },
-  {
-   "id": "2120986980850995203",
-   "author": "Bethany O’Leary 🇺🇸 🦅",
-   "username": "BethanyForTruth",
-   "text": "Hey @grok, why did Microsoft services go down globally today?!",
-   "created_at": "2026-11-12T21:07:56.000Z",
-   "lang": "en",
-   "url": "https://x.com/BethanyForTruth/status/2120986980850995203",
-   "m": {
-    "bookmark_count": 99,
-    "impression_count": 989311,
-    "like_count": 1099,
-    "quote_count": 7,
-    "reply_count": 167,
-    "repost_count": 76
-   },
-   "reply_en": "👀 The \"why\" matters less than the \"how much depends on it\": banks, airlines and exchanges all froze together. Did any service you rely on go down?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "15.0 h, ~66,071 vistas/h, autor 104,124 seguidores, replies: 167",
-    "vph": 66071
-   }
-  },
-  {
-   "id": "2120981805406749017",
-   "author": "Pato Bonato sin bozal",
-   "username": "patobonatosinb",
-   "text": "“YO NO VINE A NORUEGA PARA VER ESTO. UNA BOLI EN NORUEGA? ME ESTÁS JODIENDO? ESTAMOS EN NORUEGA LA C…”\n\nLas palabras de un Argentino en su viaje a Noruega 🇳🇴 https://t.co/KfsSMSNQXB",
-   "created_at": "2026-11-12T20:47:23.000Z",
-   "lang": "es",
-   "url": "https://x.com/patobonatosinb/status/2120981805406749017",
-   "m": {
-    "bookmark_count": 1642,
-    "impression_count": 447097,
-    "like_count": 8029,
-    "quote_count": 47,
-    "reply_count": 370,
-    "repost_count": 500
-   },
-   "reply_en": "😂 Viajar hasta Noruega para toparse justo con lo que no esperaba. ¿Qué es lo más inesperado que te has encontrado viajando?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "es",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "15.3 h, ~29,192 vistas/h, autor 12,646 seguidores, replies: 370",
-    "vph": 29192
-   }
-  },
-  {
-   "id": "2120972578055389676",
-   "author": "Rep Charlie Miller",
-   "username": "RepCharlieNC2",
-   "text": "🚨🚨 MAJOR ALERT: ALL FLIGHTS HAVE BEEN GROUNDED, AIRSPACE HAS BEEN RESTRICTED !!!\n\nTHE NATIONAL GUARD HAS BEEN ACTIVATED. https://t.co/NmHNmaZyDB",
-   "created_at": "2026-11-12T20:10:43.000Z",
-   "lang": "en",
-   "url": "https://x.com/RepCharlieNC2/status/2120972578055389676",
-   "m": {
-    "bookmark_count": 90,
-    "impression_count": 115516,
-    "like_count": 619,
-    "quote_count": 7,
-    "reply_count": 36,
-    "repost_count": 171
-   },
-   "reply_en": "🚨 Is there an FAA or official notice on this? \"All flights grounded\" is easy to verify, and nothing spreads faster than an unverified alert. Source?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "15.9 h, ~7,253 vistas/h, autor 685 seguidores, replies: 36",
-    "vph": 7253
-   }
-  },
-  {
-   "id": "2120966643828375798",
-   "author": "ximena soublette",
-   "username": "paxipa",
-   "text": "https://t.co/W3S5tEEMrn",
-   "created_at": "2026-11-12T19:47:08.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/paxipa/status/2120966643828375798",
-   "m": {
-    "bookmark_count": 29,
-    "impression_count": 4058,
-    "like_count": 103,
-    "quote_count": 5,
-    "reply_count": 2,
-    "repost_count": 106
-   },
-   "reply_en": "🔥",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "zxx",
    "with_link": false,
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16.3 h, ~249 vistas/h, autor 4,391 seguidores, replies: 2",
-    "vph": 249
-   },
-   "gif": "Leonardo DiCaprio brindando — buscar \"leo dicaprio cheers\""
+    "reason": "9.3 h, ~539 vistas/h, autor 14,832 seguidores, replies: 19",
+    "vph": 539
+   }
   },
   {
-   "id": "2120962851665739940",
-   "author": "Banned Video Archive",
-   "username": "bannedvideo_arc",
-   "text": "https://t.co/qAuC3KqJID https://t.co/litTqWAwDd",
-   "created_at": "2026-11-12T19:32:04.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/bannedvideo_arc/status/2120962851665739940",
+   "id": "2121126105344049584",
+   "author": "Mircea 140k",
+   "username": "mirceabrs",
+   "text": "Imagine you are a beginner trader\n\nYou keep seeing posts about Dr Profit 'He shorted the top' 'He longed the bottom' 'He never misses'\n\n'Hmm this guy knows something I don't. I need to see more'\n\nFrom your tiny amount of liquidity you buy one month membership for the VIP group https://t.co/tvqNH7yKe2",
+   "created_at": "2026-11-13T06:20:46.000Z",
+   "lang": "en",
+   "url": "https://x.com/mirceabrs/status/2121126105344049584",
    "m": {
-    "bookmark_count": 1689,
-    "impression_count": 114247,
-    "like_count": 3893,
-    "quote_count": 81,
-    "reply_count": 74,
-    "repost_count": 715
+    "bookmark_count": 66,
+    "impression_count": 70254,
+    "like_count": 339,
+    "quote_count": 7,
+    "reply_count": 80,
+    "repost_count": 18
    },
-   "reply_en": "👀",
+   "reply_en": "😬 The VIP group business model works whether the calls are right or not. That's the part beginners miss. What's the first red flag you'd teach them to spot?",
    "in_niche": true,
    "skip_reason": "",
-   "reply_lang": "zxx",
+   "reply_lang": "en",
    "with_link": false,
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "16.6 h, ~6,894 vistas/h, autor 3,714 seguidores, replies: 74",
-    "vph": 6894
-   },
-   "gif": "\"Jim Carrey typing\" — buscar \"jim carrey typing\""
+    "reason": "9.7 h, ~7,223 vistas/h, autor 6,416 seguidores, replies: 80",
+    "vph": 7223
+   }
   },
   {
-   "id": "2120959557363282088",
-   "author": "Minamon1",
-   "username": "pepitagrila",
-   "text": "https://t.co/UKCXkyrAOW",
-   "created_at": "2026-11-12T19:18:58.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/pepitagrila/status/2120959557363282088",
+   "id": "2121039843501449491",
+   "author": "LaDoger 🟧",
+   "username": "LaDoger",
+   "text": "₿ear attack resolved https://t.co/PEJ1UyUjor",
+   "created_at": "2026-11-13T00:38:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/LaDoger/status/2121039843501449491",
    "m": {
-    "bookmark_count": 129,
-    "impression_count": 41961,
-    "like_count": 853,
+    "bookmark_count": 8,
+    "impression_count": 134388,
+    "like_count": 125,
     "quote_count": 4,
-    "reply_count": 24,
-    "repost_count": 224
+    "reply_count": 8,
+    "repost_count": 11
    },
-   "reply_en": "😂",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "zxx",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "16.8 h, ~2,499 vistas/h, autor 31,060 seguidores, replies: 24",
-    "vph": 2499
-   },
-   "gif": "\"Pikachu sorprendido\" — buscar \"surprised pikachu\""
-  },
-  {
-   "id": "2120931315554156647",
-   "author": "CdeCripto",
-   "username": "CdeCriptoz",
-   "text": "No les voy a mentir.\n\nBitcoin se ve completamente horrible aqui, y a menos que ocurra un milagro hoy y cierre por encima de la SMA de 200 en diario ($73.3k), la ruptura de todos los soportes confirman caida de Bitcoin a los $64k-$61k.\n\nLo peor no es la caida, es que tendremos https://t.co/UqYdXuSA4P",
-   "created_at": "2026-11-12T17:26:45.000Z",
-   "lang": "es",
-   "url": "https://x.com/CdeCriptoz/status/2120931315554156647",
-   "m": {
-    "bookmark_count": 42,
-    "impression_count": 28487,
-    "like_count": 455,
-    "quote_count": 5,
-    "reply_count": 91,
-    "repost_count": 21
-   },
-   "reply_en": "Honesto. Si no recupera la SMA 200 diaria en $73,3k, $64k–$61k es la zona lógica. Sin apalancamiento, es zona de compra o de espera, no de pánico. ¿Qué te haría cambiar de opinión?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "es",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "18.7 h, ~1,527 vistas/h, autor 34,926 seguidores, replies: 91",
-    "vph": 1527
-   }
-  },
-  {
-   "id": "2120925919401640129",
-   "author": "Walker⚡️",
-   "username": "WalkerAmerica",
-   "text": "Stop what you are doing and watch Jensen Huang in The Office  https://t.co/1PkzSwY3Y7",
-   "created_at": "2026-11-12T17:05:18.000Z",
-   "lang": "en",
-   "url": "https://x.com/WalkerAmerica/status/2120925919401640129",
-   "m": {
-    "bookmark_count": 591,
-    "impression_count": 174832,
-    "like_count": 1331,
-    "quote_count": 16,
-    "reply_count": 23,
-    "repost_count": 131
-   },
-   "reply_en": "😂 Jensen in The Office is peak crossover. Which character would he be, Michael or Dwight?",
+   "reply_en": "🐻 Resolved for now. Bears tend to come back in packs. What level would make you call it fully over?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -1192,28 +319,27 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "19.0 h, ~9,193 vistas/h, autor 83,228 seguidores, replies: 23",
-    "vph": 9193
-   },
-   "gif": "Michael Scott \"I declare bankruptcy\" — buscar \"i declare bankruptcy\""
+    "reason": "15.4 h, ~8,704 vistas/h, autor 20,103 seguidores, replies: 8",
+    "vph": 8704
+   }
   },
   {
-   "id": "2120921925467644369",
-   "author": "Bitcoin Intelligence",
-   "username": "BitcoinIntelX",
-   "text": "This is the quiet before the MASSIVE EXPLOSION.\n\nMost people believe retail investors will NEVER come back.\n\nBut they have no idea how this market really operates.\n\nOnce institutions finish accumulating…\n\nOnce they start aggressively driving Bitcoin higher…\n\nOnce BTC suddenly https://t.co/FMMbNq6s5l",
-   "created_at": "2026-11-12T16:49:26.000Z",
+   "id": "2121007633146823050",
+   "author": "CryptoReviewing",
+   "username": "CryptoReviewing",
+   "text": "🇬🇧 THE MAN WHO SATOSHI NAKAMOTI EMAILED FIRST JUST SAID THIS ON CNBC:\n\n\"BITCOIN WILL TOP AT A $1 MILLION BY 2028 AT THE END OF THE CYCLE\"\n\nHE SAID IT WILL HAPPEN BECAUSE: \"95% OF ADOPTION IS STILL AHEAD AND PENSIONS AND MUTUAL FUNDS HAVEN'T EVEN BOUGHT YET\"\n\nBULLISH AS F*CK! IS https://t.co/m7NP16WOjX",
+   "created_at": "2026-11-12T22:30:00.000Z",
    "lang": "en",
-   "url": "https://x.com/BitcoinIntelX/status/2120921925467644369",
+   "url": "https://x.com/CryptoReviewing/status/2121007633146823050",
    "m": {
-    "bookmark_count": 9,
-    "impression_count": 7862,
-    "like_count": 55,
+    "bookmark_count": 32,
+    "impression_count": 26046,
+    "like_count": 116,
     "quote_count": 0,
     "reply_count": 9,
-    "repost_count": 8
+    "repost_count": 18
    },
-   "reply_en": "Possible, but \"once institutions finish accumulating\" has no date and no data. Which on-chain metric would show that it's actually happening: exchange outflows, ETF flows or long-term holder supply?",
+   "reply_en": "🤔 If he means Adam Back, $1M by 2028 is still a forecast, not a fact. The pension-and-funds argument is the interesting part: what % of their allocation would it take?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -1221,27 +347,27 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "19.3 h, ~408 vistas/h, autor 166,593 seguidores, replies: 9",
-    "vph": 408
+    "reason": "17.6 h, ~1,482 vistas/h, autor 95,432 seguidores, replies: 9",
+    "vph": 1482
    }
   },
   {
-   "id": "2120892241590063136",
-   "author": "The Bitcoin Historian",
-   "username": "pete_rizzo_",
-   "text": "BREAKING: 🇺🇸 $5 TRILLION JPMORGAN JUST ANNOUNCED THEY BOUGHT $47,000,000 WORTH OF #BITCOIN\n\nTHEY NOW OWN OVER $539,000,000 WORTH OF BTC\n\nJAMIE DIMON BENT THE KNEE 🔥 https://t.co/0Dbu5CSD4E",
-   "created_at": "2026-11-12T14:51:29.000Z",
+   "id": "2120971292530692286",
+   "author": "BONEZ",
+   "username": "0xBNZ",
+   "text": "I fixed the Bitcoin rainbow chart https://t.co/tIo86KXoNh",
+   "created_at": "2026-11-12T20:05:36.000Z",
    "lang": "en",
-   "url": "https://x.com/pete_rizzo_/status/2120892241590063136",
+   "url": "https://x.com/0xBNZ/status/2120971292530692286",
    "m": {
-    "bookmark_count": 33,
-    "impression_count": 51688,
-    "like_count": 955,
-    "quote_count": 3,
-    "reply_count": 73,
-    "repost_count": 155
+    "bookmark_count": 35,
+    "impression_count": 58926,
+    "like_count": 946,
+    "quote_count": 13,
+    "reply_count": 107,
+    "repost_count": 57
    },
-   "reply_en": "👀 $47M on a $5T balance sheet is a rounding error, but Dimon's bank buying at all is the story. Is this conviction or just clients' flows? Interesting to see the custodian too.",
+   "reply_en": "😂 Finally a rainbow chart that matches my mood this week. Which band are we in right now, honestly?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -1249,120 +375,36 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "21.2 h, ~2,433 vistas/h, autor 224,097 seguidores, replies: 73",
-    "vph": 2433
+    "reason": "20.0 h, ~2,949 vistas/h, autor 45,420 seguidores, replies: 107",
+    "vph": 2949
    }
   },
   {
-   "id": "2120882953152512148",
-   "author": "v",
-   "username": "v79454186",
-   "text": "Good morning, Bitcoin family! ☀️🐈‍⬛☕️\n\nCoffee hot. ₿TC strong. Spirits BRIGHT! 🧡\n\nNew day. New opportunities. Same diamond hands! 💎🙌\n\n₿E BRIGHT. SPREAD THE LIGHT! ⚡\n\n#Bitcoin #BeBright #BTC",
-   "created_at": "2026-11-12T14:14:34.000Z",
+   "id": "2120942903774040069",
+   "author": "𝗖𝗛𝗔𝗜𝗡 𝗠𝗜𝗡𝗗 ⛓🧠",
+   "username": "0xChainMind",
+   "text": "Everyone's selling my buy zone... $BTC\n\nWe derisked the top at 87K and price is flushing right into 70K, exactly where the plan wanted it\n\nThey're all begging for a capitulation lower, but this is the re-accumulation before expansion, not the breakdown they want\n\nHere's the https://t.co/4sPT6lCeBK https://t.co/SH8mfdzcru",
+   "created_at": "2026-11-12T18:12:48.000Z",
    "lang": "en",
-   "url": "https://x.com/v79454186/status/2120882953152512148",
+   "url": "https://x.com/0xChainMind/status/2120942903774040069",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 199,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 0
-   },
-   "reply_en": "☀️ Good morning! Bright spirits help, but cold storage helps more when the price is under $70K. Stacking today or waiting?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 0,
-    "reason": "21.9 h, ~9 vistas/h (<50/h), autor 1,495 seguidores, replies: 6",
-    "vph": 9
-   }
-  },
-  {
-   "id": "2120862743020614025",
-   "author": "Kripto Simpsons",
-   "username": "kriptosimpsons",
-   "text": "kripto simpsons’ların yeni kehaneti:\n\n1 2Kasım 2026’dan itibaren 👇 \n\n#ethereum 1.800$ altı yok\n\n#bitcoin 60.000$ altı yok\n\n#gram altın 1 yıl boyunca 10.000₺ yok\n\n#gümüş 5 yıl boyunca ath yok\n\ninanmıyorsanız izleyin ve görün…",
-   "created_at": "2026-11-12T12:54:16.000Z",
-   "lang": "tr",
-   "url": "https://x.com/kriptosimpsons/status/2120862743020614025",
-   "m": {
-    "bookmark_count": 46,
-    "impression_count": 80067,
-    "like_count": 226,
-    "quote_count": 0,
-    "reply_count": 48,
+    "bookmark_count": 56,
+    "impression_count": 26562,
+    "like_count": 124,
+    "quote_count": 2,
+    "reply_count": 13,
     "repost_count": 21
    },
-   "reply_en": "🤔 Kehanet güzel ama 60.000$ desteği garanti değil. Kaldıraçsız spot tutmak en güvenli yol. Sence $BTC 60.000$'ı test eder mi?",
+   "reply_en": "👀 Derisking at 87K and reloading near 70K is a plan most people only claim afterwards. What would invalidate the re-accumulation idea for you: a weekly close under which level?",
    "in_niche": true,
    "skip_reason": "",
-   "reply_lang": "tr",
+   "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "23.2 h, ~3,451 vistas/h, autor 55,760 seguidores, replies: 48",
-    "vph": 3451
-   }
-  },
-  {
-   "id": "2120857315494801735",
-   "author": "Fanz",
-   "username": "Fanzzka",
-   "text": "喂@grok 图片中这些人是男的还是女的？ https://t.co/LmsZ6Bg81v",
-   "created_at": "2026-11-12T12:32:42.000Z",
-   "lang": "zh",
-   "url": "https://x.com/Fanzzka/status/2120857315494801735",
-   "m": {
-    "bookmark_count": 11571,
-    "impression_count": 19601456,
-    "like_count": 18360,
-    "quote_count": 347,
-    "reply_count": 3150,
-    "repost_count": 575
-   },
-   "reply_en": "😂 这张图难倒了所有人。你第一眼猜的是男是女？",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "zh",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "23.6 h, ~831,958 vistas/h, autor 63,517 seguidores, replies: 3150",
-    "vph": 831958
-   }
-  },
-  {
-   "id": "2120854959667208596",
-   "author": "MenteBinaria",
-   "username": "SoyMenteBinaria",
-   "text": "🐉 LA IA ACABA DE LLEVAR DRAGON BALL A LA ACCIÓN REAL… Y PARECE UNA PRODUCCIÓN DE HOLLYWOOD.\n\nImagínate ver el legendario Torneo de las Artes Marciales de Dragon Ball como si estuvieras dentro de una película.\n\nEso es lo que muestra este impresionante proyecto creado con https://t.co/iBdSeY2TbK",
-   "created_at": "2026-11-12T12:23:20.000Z",
-   "lang": "es",
-   "url": "https://x.com/SoyMenteBinaria/status/2120854959667208596",
-   "m": {
-    "bookmark_count": 3794,
-    "impression_count": 932142,
-    "like_count": 10222,
-    "quote_count": 43,
-    "reply_count": 249,
-    "repost_count": 1436
-   },
-   "reply_en": "🐉 Impresionante lo rápido que avanza la IA en video. ¿Cuánto falta para que un estudio la use en una película de verdad, y lo notaríamos?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "es",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "23.7 h, ~39,303 vistas/h, autor 4,032 seguidores, replies: 249",
-    "vph": 39303
+    "level": "medio",
+    "score": 2,
+    "reason": "21.9 h, ~1,215 vistas/h, autor 173,224 seguidores, replies: 13",
+    "vph": 1215
    }
   }
  ]
