@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-13T20:08:53-03:00",
+  "generated_at": "2026-11-13T23:02:37-03:00",
   "window_hours": 24,
-  "likes_scanned": 200,
+  "likes_scanned": 100,
   "listed": 0,
   "in_niche": 0,
   "not_recommended": 0,
   "new_since_prev": 0,
-  "removed_replied": 10,
-  "removed_old": 2
+  "removed_replied": 0,
+  "removed_old": 0
  },
  "posts": []
 }
