@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T13:05:53-03:00",
+  "generated_at": "2026-11-14T16:10:59-03:00",
   "window_hours": 24,
-  "likes_scanned": 50,
-  "listed": 2,
-  "in_niche": 2,
+  "likes_scanned": 30,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 2,
+  "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 0
+  "removed_old": 1
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/BitQua/status/2121537022326157702",
    "m": {
-    "bookmark_count": 238,
-    "impression_count": 144415,
-    "like_count": 1162,
-    "quote_count": 13,
-    "reply_count": 96,
-    "repost_count": 66
+    "bookmark_count": 304,
+    "impression_count": 177905,
+    "like_count": 1381,
+    "quote_count": 14,
+    "reply_count": 105,
+    "repost_count": 78
    },
    "reply_en": "👀 Too secret to share until Monday, yet posted for everyone. What timeframe is this chart on, and what level would invalidate it?",
    "in_niche": true,
@@ -35,38 +35,9 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "6.5 h, ~22,088 vistas/h, replies: 96",
-    "vph": 22088
+    "reason": "9.6 h, ~18,488 vistas/h, replies: 105",
+    "vph": 18488
    }
-  },
-  {
-   "id": "2121319236798730499",
-   "author": "Neural Derp",
-   "username": "NeuralDerp",
-   "text": "The Mandalorian and Grogu try to pawn the Darksaber - 💍Pawn Star Wars!✨\n\nAn ancient weapon. A claim to the throne of Mandalore.\n\nThis is the way… to get lowballed. 💸 https://t.co/mTFi81XTef",
-   "created_at": "2026-11-13T19:08:12.000Z",
-   "lang": "en",
-   "url": "https://x.com/NeuralDerp/status/2121319236798730499",
-   "m": {
-    "bookmark_count": 357,
-    "impression_count": 31374,
-    "like_count": 915,
-    "quote_count": 13,
-    "reply_count": 17,
-    "repost_count": 161
-   },
-   "reply_en": "💀 \"Best I can do is 200 credits\" for the throne of Mandalore. Which Star Wars relic should they try to pawn next?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "21.0 h, ~1,496 vistas/h, replies: 17",
-    "vph": 1496
-   },
-   "gif": "Pawn Stars Rick \"Best I can do\" — buscar \"best I can do pawn stars\""
   }
  ]
 }
