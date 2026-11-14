@@ -1,43 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T16:10:59-03:00",
+  "generated_at": "2026-11-14T20:02:13-03:00",
   "window_hours": 24,
-  "likes_scanned": 30,
-  "listed": 1,
-  "in_niche": 1,
+  "likes_scanned": 99,
+  "listed": 0,
+  "in_niche": 0,
   "not_recommended": 0,
   "new_since_prev": 0,
-  "removed_replied": 0,
-  "removed_old": 1
+  "removed_replied": 1,
+  "removed_old": 0
  },
- "posts": [
-  {
-   "id": "2121537022326157702",
-   "author": "BitQuant",
-   "username": "BitQua",
-   "text": "I showed this chart to an investor, and he asked me not to share it with anyone else until Monday. So please don’t use it before then. $BTC https://t.co/GUGMaVmAgW",
-   "created_at": "2026-11-14T09:33:37.000Z",
-   "lang": "en",
-   "url": "https://x.com/BitQua/status/2121537022326157702",
-   "m": {
-    "bookmark_count": 304,
-    "impression_count": 177905,
-    "like_count": 1381,
-    "quote_count": 14,
-    "reply_count": 105,
-    "repost_count": 78
-   },
-   "reply_en": "👀 Too secret to share until Monday, yet posted for everyone. What timeframe is this chart on, and what level would invalidate it?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "9.6 h, ~18,488 vistas/h, replies: 105",
-    "vph": 18488
-   }
-  }
- ]
+ "posts": []
 }
