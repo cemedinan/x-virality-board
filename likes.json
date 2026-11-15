@@ -1,16 +1,44 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T23:09:10-03:00",
+  "generated_at": "2026-11-15T09:08:49-03:00",
   "window_hours": 24,
   "likes_scanned": 99,
-  "listed": 2,
-  "in_niche": 2,
+  "listed": 8,
+  "in_niche": 8,
   "not_recommended": 0,
-  "new_since_prev": 2,
+  "new_since_prev": 6,
   "removed_replied": 0,
   "removed_old": 0
  },
  "posts": [
+  {
+   "id": "2121811426981613973",
+   "author": "Nandini M",
+   "username": "your_niaaaa",
+   "text": "It is mid November already. Damn.\nOctober, November, December are basically Friday, Saturday, Sunday of the year.",
+   "created_at": "2026-11-15T03:44:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/your_niaaaa/status/2121811426981613973",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 975,
+    "like_count": 60,
+    "quote_count": 0,
+    "reply_count": 11,
+    "repost_count": 4
+   },
+   "reply_en": "😳 Then it's Saturday afternoon: 46 days left in 2026. What's the one thing you still want done before Sunday night?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "8.4 h, ~116 vistas/h, autor 13,502 seguidores, replies: 11",
+    "vph": 116
+   }
+  },
   {
    "id": "2121745905166770391",
    "author": "Grant Cardone",
@@ -20,12 +48,12 @@
    "lang": "en",
    "url": "https://x.com/GrantCardone/status/2121745905166770391",
    "m": {
-    "bookmark_count": 19,
-    "impression_count": 71348,
-    "like_count": 786,
-    "quote_count": 22,
-    "reply_count": 456,
-    "repost_count": 34
+    "bookmark_count": 31,
+    "impression_count": 108655,
+    "like_count": 1039,
+    "quote_count": 26,
+    "reply_count": 548,
+    "repost_count": 48
    },
    "reply_en": "💀 Bitcoin has been declared dead 400+ times since 2010, and 99Bitcoins keeps the obituary list. Zero would need every node worldwide to shut off at once. What's the actual failure path you'd bet on?",
    "in_niche": true,
@@ -35,10 +63,152 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "2.8 h, ~25,860 vistas/h, autor 1,271,985 seguidores, replies: 456",
-    "vph": 25860
+    "reason": "12.8 h, ~8,520 vistas/h, autor 1,271,983 seguidores, replies: 548",
+    "vph": 8520
    },
    "visual": "gráfico: obituarios de Bitcoin por año (lista de 99Bitcoins) sobre el precio de $BTC; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2121717910456373318",
+   "author": "46Krypto.hl 🌐",
+   "username": "46Krypto",
+   "text": "Je pose ça là https://t.co/3Vhkjxklgj https://t.co/4YG5mRgKCb",
+   "created_at": "2026-11-14T21:32:24.000Z",
+   "lang": "fr",
+   "url": "https://x.com/46Krypto/status/2121717910456373318",
+   "m": {
+    "bookmark_count": 51,
+    "impression_count": 44757,
+    "like_count": 221,
+    "quote_count": 1,
+    "reply_count": 15,
+    "repost_count": 10
+   },
+   "reply_en": "😳 Le même compte qui a tout liquidé à -70 % en novembre 2022, vers 16 000 $, annonce zéro à 65 000 $. Entre les deux, $BTC a fait x4. Qu'est-ce qui a changé dans sa thèse depuis ?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "fr",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "14.6 h, ~3,064 vistas/h, autor 5,526 seguidores, replies: 15",
+    "vph": 3064
+   }
+  },
+  {
+   "id": "2121687544257761659",
+   "author": "Mauricio 🇸🇻",
+   "username": "Bonilla74",
+   "text": "Esta es la que todos los alfa queremos en nuestras vidas 😂😂 https://t.co/PCwjc4iBux",
+   "created_at": "2026-11-14T19:31:44.000Z",
+   "lang": "es",
+   "url": "https://x.com/Bonilla74/status/2121687544257761659",
+   "m": {
+    "bookmark_count": 958,
+    "impression_count": 436343,
+    "like_count": 3302,
+    "quote_count": 31,
+    "reply_count": 99,
+    "repost_count": 248
+   },
+   "reply_en": "😂",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "16.6 h, ~26,257 vistas/h, autor 5,973 seguidores, replies: 99",
+    "vph": 26257
+   },
+   "gif": "Leonardo DiCaprio señalando la TV (Once Upon a Time in Hollywood); buscar 'DiCaprio pointing'"
+  },
+  {
+   "id": "2121667842214891965",
+   "author": "Ülkü✨",
+   "username": "ulkudiebirisi",
+   "text": "Bu görüntü gerçek TikTok ta canlı yayınlandı. https://t.co/d6T1h07RFR",
+   "created_at": "2026-11-14T18:13:26.000Z",
+   "lang": "tr",
+   "url": "https://x.com/ulkudiebirisi/status/2121667842214891965",
+   "m": {
+    "bookmark_count": 5606,
+    "impression_count": 2424329,
+    "like_count": 22864,
+    "quote_count": 111,
+    "reply_count": 650,
+    "repost_count": 2505
+   },
+   "reply_en": "👀 2,4 milyon izlenme ama kaynak hâlâ belirsiz. Bu ışıklar hangi şehirde ve hangi gece çekildi, bilen var mı?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "tr",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "17.9 h, ~135,263 vistas/h, autor 17,171 seguidores, replies: 650",
+    "vph": 135263
+   }
+  },
+  {
+   "id": "2121630986404512032",
+   "author": "🇨🇳 Guo Shen 郭深",
+   "username": "GuoShenCN7",
+   "text": "底部已现。\n\n6.5万美元。\n\n我愿以个人声誉作保。 https://t.co/4L9GMmqoIB",
+   "created_at": "2026-11-14T15:46:59.000Z",
+   "lang": "zh",
+   "url": "https://x.com/GuoShenCN7/status/2121630986404512032",
+   "m": {
+    "bookmark_count": 225,
+    "impression_count": 323361,
+    "like_count": 2737,
+    "quote_count": 61,
+    "reply_count": 1181,
+    "repost_count": 196
+   },
+   "reply_en": "😳 用个人声誉担保底部，勇气可嘉。从8.72万跌到6.5万，已经回撤约25%。如果判断错了，你的失效价位是多少？",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "zh",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "20.4 h, ~15,879 vistas/h, autor 154,258 seguidores, replies: 1181",
+    "vph": 15879
+   }
+  },
+  {
+   "id": "2121629312595984588",
+   "author": "SatsDaddy",
+   "username": "SatsScholar",
+   "text": "https://t.co/vQmbPZuJ46",
+   "created_at": "2026-11-14T15:40:20.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/SatsScholar/status/2121629312595984588",
+   "m": {
+    "bookmark_count": 10,
+    "impression_count": 6420,
+    "like_count": 376,
+    "quote_count": 2,
+    "reply_count": 6,
+    "repost_count": 31
+   },
+   "reply_en": "💀 Same $65K, different horse. In 2024 it was close to the all-time high; now it's ~48% below the ~$126K peak. Did your conviction change, or just the picture?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "20.5 h, ~314 vistas/h, autor 5,029 seguidores, replies: 6",
+    "vph": 314
+   },
+   "visual": "gráfico: precio de $BTC 2024-2026 marcando las dos veces en ~65K (cerca del ATH en 2024 vs ~48% bajo el pico de ~126K en 2026); fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
   {
    "id": "2121624237912027505",
@@ -49,12 +219,12 @@
    "lang": "es",
    "url": "https://x.com/SantinoCripto/status/2121624237912027505",
    "m": {
-    "bookmark_count": 382,
-    "impression_count": 347914,
-    "like_count": 1566,
-    "quote_count": 40,
-    "reply_count": 148,
-    "repost_count": 161
+    "bookmark_count": 425,
+    "impression_count": 418481,
+    "like_count": 1737,
+    "quote_count": 44,
+    "reply_count": 174,
+    "repost_count": 183
    },
    "reply_en": "👀 \"Es oficial\" es mucho decir: ¿dónde lo anunció Hoskinson exactamente? Si un fundador puede \"cerrar\" una red, eso dice más del proyecto que cualquier precio. En $BTC no hay nadie a quien pedirle que lo apague.",
    "in_niche": true,
@@ -64,8 +234,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10.8 h, ~32,164 vistas/h, autor 69,519 seguidores, replies: 148",
-    "vph": 32164
+    "reason": "20.8 h, ~20,109 vistas/h, autor 69,529 seguidores, replies: 174",
+    "vph": 20109
    }
   }
  ]
