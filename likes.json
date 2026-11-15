@@ -1,16 +1,45 @@
 {
  "meta": {
-  "generated_at": "2026-11-15T16:04:41-03:00",
+  "generated_at": "2026-11-15T20:09:27-03:00",
   "window_hours": 24,
   "likes_scanned": 99,
-  "listed": 5,
-  "in_niche": 5,
+  "listed": 9,
+  "in_niche": 9,
   "not_recommended": 0,
-  "new_since_prev": 5,
-  "removed_replied": 4,
-  "removed_old": 1
+  "new_since_prev": 4,
+  "removed_replied": 0,
+  "removed_old": 0
  },
  "posts": [
+  {
+   "id": "2122095381580230968",
+   "author": "Harii",
+   "username": "harii_user",
+   "text": "Snowfall 🥶 \nGuys!!!!!!!!!!!! https://t.co/rhfO1JVZgw",
+   "created_at": "2026-11-15T22:32:20.000Z",
+   "lang": "en",
+   "url": "https://x.com/harii_user/status/2122095381580230968",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 96,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 5,
+    "repost_count": 1
+   },
+   "reply_en": "🥶❄️",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "0.6 h, ~155 vistas/h, autor 6,100 seguidores, replies: 5",
+    "vph": 155
+   },
+   "gif": "Game of Thrones 'Winter is coming' (Ned Stark) — buscar: winter is coming"
+  },
   {
    "id": "2122037866054537256",
    "author": "Rooster",
@@ -21,8 +50,8 @@
    "url": "https://x.com/RoosterBroost3r/status/2122037866054537256",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 152,
-    "like_count": 3,
+    "impression_count": 532,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -33,10 +62,10 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "0.3 h, ~436 vistas/h, autor 4,459 seguidores, replies: 0",
-    "vph": 436
+    "level": "bajo",
+    "score": 1,
+    "reason": "4.4 h, ~120 vistas/h, autor 4,460 seguidores, replies: 0",
+    "vph": 120
    }
   },
   {
@@ -49,7 +78,7 @@
    "url": "https://x.com/milan32257115/status/2122037019761127478",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 116,
+    "impression_count": 353,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -61,10 +90,10 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "0.4 h, ~287 vistas/h, autor 9 seguidores, replies: 0",
-    "vph": 287
+    "level": "bajo",
+    "score": 1,
+    "reason": "4.5 h, ~79 vistas/h, autor 12 seguidores, replies: 0",
+    "vph": 79
    }
   },
   {
@@ -77,8 +106,8 @@
    "url": "https://x.com/BTC_Milyunair/status/2122030241170239905",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 196,
-    "like_count": 4,
+    "impression_count": 548,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -89,10 +118,10 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "0.9 h, ~230 vistas/h, autor 806 seguidores, replies: 0",
-    "vph": 230
+    "level": "bajo",
+    "score": 1,
+    "reason": "4.9 h, ~111 vistas/h, autor 810 seguidores, replies: 0",
+    "vph": 111
    }
   },
   {
@@ -104,9 +133,9 @@
    "lang": "zh",
    "url": "https://x.com/lianshangbiji/status/2122021576854102434",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 394,
-    "like_count": 1,
+    "bookmark_count": 1,
+    "impression_count": 1691,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -119,8 +148,65 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "1.4 h, ~276 vistas/h, autor 3,594 seguidores, replies: 0",
-    "vph": 276
+    "reason": "5.5 h, ~307 vistas/h, autor 3,603 seguidores, replies: 0",
+    "vph": 307
+   }
+  },
+  {
+   "id": "2121965068254691547",
+   "author": "☠️ ₿itcoin Pirate☠️",
+   "username": "Bitcoin_Pirate_",
+   "text": "We choose freedom  ♫ ♪ ♫ ♪ ♬  #bitcoin https://t.co/CUdrxTwL7R",
+   "created_at": "2026-11-15T13:54:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/Bitcoin_Pirate_/status/2121965068254691547",
+   "m": {
+    "bookmark_count": 12,
+    "impression_count": 989,
+    "like_count": 54,
+    "quote_count": 1,
+    "reply_count": 5,
+    "repost_count": 18
+   },
+   "reply_en": "🔥 Freedom you can verify: a 21M cap enforced by every node, and nobody's permission needed to hold it. Which part sold you first?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "9.2 h, ~107 vistas/h, autor 988 seguidores, replies: 5",
+    "vph": 107
+   },
+   "visual": "imagen explicativa: '3 libertades verificables de Bitcoin' (21M de suministro, nodos que validan, sin permiso) — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2121921869502972264",
+   "author": "Marc ₿",
+   "username": "marc02200",
+   "text": "Hey @grok, please tell us. Is Bitcoin going to ZERO?\n\nStart with a YES or NO. https://t.co/kSS0nrypxB",
+   "created_at": "2026-11-15T11:02:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/marc02200/status/2121921869502972264",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 23039,
+    "like_count": 14,
+    "quote_count": 0,
+    "reply_count": 5,
+    "repost_count": 3
+   },
+   "reply_en": "😳 NO. Bitcoin has been declared dead hundreds of times since 2010, and blocks still come out roughly every 10 minutes. What would actually have to break for it to hit zero?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "12.1 h, ~1,902 vistas/h, autor 4,325 seguidores, replies: 5",
+    "vph": 1902
    }
   },
   {
@@ -133,11 +219,11 @@
    "url": "https://x.com/solo_mining/status/2121888235139784907",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 1548,
-    "like_count": 43,
+    "impression_count": 1917,
+    "like_count": 57,
     "quote_count": 1,
     "reply_count": 3,
-    "repost_count": 8
+    "repost_count": 11
    },
    "reply_en": "🔥 Cheap sats only feel like a win if you can still sleep at -30%. Are you stacking on a fixed schedule or waiting for a level?",
    "in_niche": true,
@@ -145,10 +231,38 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "10.3 h, ~151 vistas/h, autor 6,920 seguidores, replies: 3",
-    "vph": 151
+    "level": "bajo",
+    "score": 1,
+    "reason": "14.3 h, ~134 vistas/h, autor 6,920 seguidores, replies: 3",
+    "vph": 134
+   }
+  },
+  {
+   "id": "2121745420900806700",
+   "author": "Madison Hanson",
+   "username": "HansonHash",
+   "text": "Women in Bitcoin 😍 https://t.co/98pMPHq0sR",
+   "created_at": "2026-11-14T23:21:43.000Z",
+   "lang": "en",
+   "url": "https://x.com/HansonHash/status/2121745420900806700",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 2096,
+    "like_count": 70,
+    "quote_count": 0,
+    "reply_count": 7,
+    "repost_count": 1
+   },
+   "reply_en": "😍 Love seeing more women stacking sats. What got you into Bitcoin: a friend, a crash, or your own rabbit hole?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "23.8 h, ~88 vistas/h, autor 8,037 seguidores, replies: 7",
+    "vph": 88
    }
   }
  ]
