@@ -1,14 +1,72 @@
 {
  "meta": {
-  "generated_at": "2026-11-14T20:02:13-03:00",
+  "generated_at": "2026-11-14T23:09:10-03:00",
   "window_hours": 24,
   "likes_scanned": 99,
-  "listed": 0,
-  "in_niche": 0,
+  "listed": 2,
+  "in_niche": 2,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 1,
+  "new_since_prev": 2,
+  "removed_replied": 0,
   "removed_old": 0
  },
- "posts": []
+ "posts": [
+  {
+   "id": "2121745905166770391",
+   "author": "Grant Cardone",
+   "username": "GrantCardone",
+   "text": "Will BTC go to zero? 😬 https://t.co/LZila03q2J",
+   "created_at": "2026-11-14T23:23:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/GrantCardone/status/2121745905166770391",
+   "m": {
+    "bookmark_count": 19,
+    "impression_count": 71348,
+    "like_count": 786,
+    "quote_count": 22,
+    "reply_count": 456,
+    "repost_count": 34
+   },
+   "reply_en": "💀 Bitcoin has been declared dead 400+ times since 2010, and 99Bitcoins keeps the obituary list. Zero would need every node worldwide to shut off at once. What's the actual failure path you'd bet on?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.8 h, ~25,860 vistas/h, autor 1,271,985 seguidores, replies: 456",
+    "vph": 25860
+   },
+   "visual": "gráfico: obituarios de Bitcoin por año (lista de 99Bitcoins) sobre el precio de $BTC; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2121624237912027505",
+   "author": "SantinoCripto®",
+   "username": "SantinoCripto",
+   "text": "Es OFICIAL: El creador de Cardano $ADA, Charles Hoskinson, da por finalizado el proyecto. \n\nCardano es oficialmente una criptomoneda zombie. https://t.co/8MvNnDlCvf",
+   "created_at": "2026-11-14T15:20:10.000Z",
+   "lang": "es",
+   "url": "https://x.com/SantinoCripto/status/2121624237912027505",
+   "m": {
+    "bookmark_count": 382,
+    "impression_count": 347914,
+    "like_count": 1566,
+    "quote_count": 40,
+    "reply_count": 148,
+    "repost_count": 161
+   },
+   "reply_en": "👀 \"Es oficial\" es mucho decir: ¿dónde lo anunció Hoskinson exactamente? Si un fundador puede \"cerrar\" una red, eso dice más del proyecto que cualquier precio. En $BTC no hay nadie a quien pedirle que lo apague.",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "10.8 h, ~32,164 vistas/h, autor 69,519 seguidores, replies: 148",
+    "vph": 32164
+   }
+  }
+ ]
 }
