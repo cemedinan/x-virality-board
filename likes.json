@@ -1,16 +1,44 @@
 {
  "meta": {
-  "generated_at": "2026-11-16T23:04:18-03:00",
+  "generated_at": "2026-11-17T09:04:39-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 1,
-  "in_niche": 1,
+  "listed": 5,
+  "in_niche": 5,
   "not_recommended": 0,
-  "new_since_prev": 1,
-  "removed_replied": 24,
-  "removed_old": 3
+  "new_since_prev": 4,
+  "removed_replied": 0,
+  "removed_old": 0
  },
  "posts": [
+  {
+   "id": "2122527592582426674",
+   "author": "Vince (HodlFlorida)",
+   "username": "HodlFlorida",
+   "text": "I started buying Bitcoin in 2017 at $13,000. (White circle)\n\nI’ve bought the tops: $20k, $60k, $120k.\n\nI’ve bought the bottoms: $3.5k, $15.5k and $58k.\n\nStop listening to the haters. Know what you hold. We are just getting started. https://t.co/CTxk7s9DLr",
+   "created_at": "2026-11-17T03:09:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/HodlFlorida/status/2122527592582426674",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 3279,
+    "like_count": 182,
+    "quote_count": 0,
+    "reply_count": 15,
+    "repost_count": 8
+   },
+   "reply_en": "🙌 Bought the $20K, $60K and $120K tops and still holding: that beats any perfect-entry story. Which buy felt worst at the time, and which one looks best today?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "8.9 h, ~368 vistas/h, autor 7,450 seguidores, replies: 15",
+    "vph": 368
+   }
+  },
   {
    "id": "2122489964495552905",
    "author": "Defi",
@@ -20,11 +48,11 @@
    "lang": "en",
    "url": "https://x.com/lil_defi/status/2122489964495552905",
    "m": {
-    "bookmark_count": 6,
-    "impression_count": 3308,
-    "like_count": 27,
+    "bookmark_count": 7,
+    "impression_count": 4981,
+    "like_count": 33,
     "quote_count": 0,
-    "reply_count": 9,
+    "reply_count": 10,
     "repost_count": 0
    },
    "reply_en": "😳 Banks hacked, flights grounded and a dirty bomb threat in one day, if the reports hold up. Days like this are why I keep my $BTC keys offline. What's your plan B if your bank app goes dark? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
@@ -33,10 +61,94 @@
    "reply_lang": "en",
    "with_link": true,
    "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "11.4 h, ~437 vistas/h, autor 24,326 seguidores, replies: 10",
+    "vph": 437
+   }
+  },
+  {
+   "id": "2122473592151482491",
+   "author": "Bark",
+   "username": "barkmeta",
+   "text": "Crash crypto so they run to stocks.\n\nIt's working… now crash stocks so they run to cash.\n\nThey moved it to the bank?\n\nPerfect… now hack their bank accounts. https://t.co/TmIA6EpEvk",
+   "created_at": "2026-11-16T23:35:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/barkmeta/status/2122473592151482491",
+   "m": {
+    "bookmark_count": 209,
+    "impression_count": 56966,
+    "like_count": 3312,
+    "quote_count": 32,
+    "reply_count": 109,
+    "repost_count": 398
+   },
+   "reply_en": "😳 Crypto down, stocks down, now bank hack headlines. The only balance nobody can freeze is the one you hold the keys to. Exchange or offline for your $BTC? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "1.4 h, ~2,362 vistas/h, autor 24,326 seguidores, replies: 9",
-    "vph": 2362
+    "reason": "12.5 h, ~4,561 vistas/h, autor 291,202 seguidores, replies: 109",
+    "vph": 4561
+   }
+  },
+  {
+   "id": "2122444581169959121",
+   "author": "JAN3",
+   "username": "JAN3com",
+   "text": "ADAM BACK: \"I have a bet on for Bitcoin to top $1 million by the end of the cycle, which is later in 2028.\" https://t.co/IbiDYQdVWF",
+   "created_at": "2026-11-16T21:39:55.000Z",
+   "lang": "en",
+   "url": "https://x.com/JAN3com/status/2122444581169959121",
+   "m": {
+    "bookmark_count": 22,
+    "impression_count": 17009,
+    "like_count": 477,
+    "quote_count": 6,
+    "reply_count": 37,
+    "repost_count": 60
+   },
+   "reply_en": "😳 $1M by 2028 is roughly a 15x from the mid-$60Ks in about two years. What would have to happen first for that bet to pay: sovereign buying, ETF flows or a dollar crisis?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "14.4 h, ~1,180 vistas/h, autor 33,137 seguidores, replies: 37",
+    "vph": 1180
+   }
+  },
+  {
+   "id": "2122392324328284579",
+   "author": "Shield",
+   "username": "Shieldmetax",
+   "text": "🚨 It's happening.\n\nThey're hacking the banks…\n\nThe \"conspiracy theorists\" called this years ago. \n\nIs your money really safe? \n\nWhat happens when you wake up and your account says $0?\n\nMost people have NO IDEA what's coming. https://t.co/w8nYuMX5oI https://t.co/EyONtBlIWf",
+   "created_at": "2026-11-16T18:12:16.000Z",
+   "lang": "en",
+   "url": "https://x.com/Shieldmetax/status/2122392324328284579",
+   "m": {
+    "bookmark_count": 32,
+    "impression_count": 21390,
+    "like_count": 319,
+    "quote_count": 8,
+    "reply_count": 58,
+    "repost_count": 49
+   },
+   "reply_en": "⚠️ If the bank hack reports hold up, the scary part is realizing your balance is just a row in someone else's database. How much of your savings can you actually verify yourself?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "17.9 h, ~1,197 vistas/h, autor 48,596 seguidores, replies: 58",
+    "vph": 1197
    }
   }
  ]
