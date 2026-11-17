@@ -1,16 +1,44 @@
 {
  "meta": {
-  "generated_at": "2026-11-17T16:01:17-03:00",
+  "generated_at": "2026-11-17T20:10:27-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 8,
-  "in_niche": 8,
+  "listed": 7,
+  "in_niche": 7,
   "not_recommended": 0,
-  "new_since_prev": 0,
+  "new_since_prev": 1,
   "removed_replied": 0,
-  "removed_old": 3
+  "removed_old": 2
  },
  "posts": [
+  {
+   "id": "2122818605792595983",
+   "author": "DD ❤️DOGE /🕊️",
+   "username": "DD____",
+   "text": "@ForecastQuant Bitcoin keeps marching on 🔥💪",
+   "created_at": "2026-11-17T22:26:10.000Z",
+   "lang": "en",
+   "url": "https://x.com/DD____/status/2122818605792595983",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "🔥 Block by block: after the next halving the subsidy drops to 1.5625 BTC, with only ~3% of the 21M left to issue. Do you think fees can carry miners by then?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "0.7 h, ~12 vistas/h, autor 172,188 seguidores, replies: 0",
+    "vph": 12
+   }
+  },
   {
    "id": "2122677742659575915",
    "author": "Mara Voss",
@@ -21,7 +49,7 @@
    "url": "https://x.com/mara_research/status/2122677742659575915",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 12,
+    "impression_count": 21,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -35,7 +63,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "5.9 h, ~2 vistas/h, autor 8,781 seguidores, replies: 0",
+    "reason": "10.1 h, ~2 vistas/h, autor 8,784 seguidores, replies: 0",
     "vph": 2
    }
   },
@@ -49,11 +77,11 @@
    "url": "https://x.com/HodlFlorida/status/2122527592582426674",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 5786,
-    "like_count": 291,
+    "impression_count": 6891,
+    "like_count": 323,
     "quote_count": 1,
-    "reply_count": 23,
-    "repost_count": 16
+    "reply_count": 24,
+    "repost_count": 19
    },
    "reply_en": "🙌 Bought the $20K, $60K and $120K tops and still holding: that beats any perfect-entry story. Which buy felt worst at the time, and which one looks best today?",
    "in_niche": true,
@@ -63,8 +91,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15.9 h, ~365 vistas/h, autor 7,458 seguidores, replies: 23",
-    "vph": 365
+    "reason": "20.0 h, ~344 vistas/h, autor 7,464 seguidores, replies: 24",
+    "vph": 344
    }
   },
   {
@@ -76,12 +104,12 @@
    "lang": "en",
    "url": "https://x.com/david_eng_mba/status/2122520805406073153",
    "m": {
-    "bookmark_count": 17,
-    "impression_count": 6933,
-    "like_count": 221,
+    "bookmark_count": 18,
+    "impression_count": 7203,
+    "like_count": 230,
     "quote_count": 0,
-    "reply_count": 11,
-    "repost_count": 14
+    "reply_count": 12,
+    "repost_count": 15
    },
    "reply_en": "📉 Stacking below P-10 is a rule, not a feeling, and that's what makes it work. Do you scale size the deeper it goes, or keep buys flat?",
    "in_niche": true,
@@ -91,8 +119,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16.3 h, ~425 vistas/h, autor 26,514 seguidores, replies: 11",
-    "vph": 425
+    "reason": "20.5 h, ~352 vistas/h, autor 26,514 seguidores, replies: 12",
+    "vph": 352
    }
   },
   {
@@ -104,12 +132,12 @@
    "lang": "en",
    "url": "https://x.com/TheBTCTherapist/status/2122511848545358189",
    "m": {
-    "bookmark_count": 13,
-    "impression_count": 14577,
-    "like_count": 94,
+    "bookmark_count": 15,
+    "impression_count": 16012,
+    "like_count": 103,
     "quote_count": 1,
     "reply_count": 12,
-    "repost_count": 5
+    "repost_count": 7
    },
    "reply_en": "💀 $1M by end of 2020, and $BTC closed that year near $29K. Big targets age badly when they come with a date. Do you trust any price target with a deadline?",
    "in_niche": true,
@@ -119,8 +147,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16.9 h, ~862 vistas/h, autor 263,123 seguidores, replies: 12",
-    "vph": 862
+    "reason": "21.1 h, ~761 vistas/h, autor 263,086 seguidores, replies: 12",
+    "vph": 761
    }
   },
   {
@@ -133,7 +161,7 @@
    "url": "https://x.com/lil_defi/status/2122489964495552905",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 5172,
+    "impression_count": 5209,
     "like_count": 34,
     "quote_count": 0,
     "reply_count": 10,
@@ -147,8 +175,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "18.4 h, ~282 vistas/h, autor 24,326 seguidores, replies: 10",
-    "vph": 282
+    "reason": "22.5 h, ~231 vistas/h, autor 24,326 seguidores, replies: 10",
+    "vph": 231
    }
   },
   {
@@ -160,12 +188,12 @@
    "lang": "en",
    "url": "https://x.com/barkmeta/status/2122473592151482491",
    "m": {
-    "bookmark_count": 303,
-    "impression_count": 104610,
-    "like_count": 5323,
-    "quote_count": 49,
-    "reply_count": 136,
-    "repost_count": 625
+    "bookmark_count": 390,
+    "impression_count": 141620,
+    "like_count": 6712,
+    "quote_count": 58,
+    "reply_count": 152,
+    "repost_count": 775
    },
    "reply_en": "😳 Crypto down, stocks down, now bank hack headlines. The only balance nobody can freeze is the one you hold the keys to. Exchange or offline for your $BTC? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
    "in_niche": true,
@@ -175,64 +203,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "19.4 h, ~5,383 vistas/h, autor 291,202 seguidores, replies: 136",
-    "vph": 5383
-   }
-  },
-  {
-   "id": "2122457361550024984",
-   "author": "Defi",
-   "username": "lil_defi",
-   "text": "American digital infrastructure trying to go 24 hours without getting hacked \n\n@grok what’s next to get hacked? https://t.co/2njFpIs22j",
-   "created_at": "2026-11-16T22:30:43.000Z",
-   "lang": "en",
-   "url": "https://x.com/lil_defi/status/2122457361550024984",
-   "m": {
-    "bookmark_count": 2,
-    "impression_count": 1117,
-    "like_count": 49,
-    "quote_count": 0,
-    "reply_count": 8,
-    "repost_count": 2
-   },
-   "reply_en": "🚨 Banks, airlines, now more infrastructure in one week. Every hacked system is a reminder of what you don't control. Which of your accounts would hurt most if it went offline tomorrow?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "20.5 h, ~54 vistas/h, autor 24,326 seguidores, replies: 8",
-    "vph": 54
-   }
-  },
-  {
-   "id": "2122444581169959121",
-   "author": "JAN3",
-   "username": "JAN3com",
-   "text": "ADAM BACK: \"I have a bet on for Bitcoin to top $1 million by the end of the cycle, which is later in 2028.\" https://t.co/IbiDYQdVWF",
-   "created_at": "2026-11-16T21:39:55.000Z",
-   "lang": "en",
-   "url": "https://x.com/JAN3com/status/2122444581169959121",
-   "m": {
-    "bookmark_count": 30,
-    "impression_count": 22966,
-    "like_count": 664,
-    "quote_count": 7,
-    "reply_count": 55,
-    "repost_count": 73
-   },
-   "reply_en": "😳 $1M by 2028 is roughly a 15x from the mid-$60Ks in about two years. What would have to happen first for that bet to pay: sovereign buying, ETF flows or a dollar crisis?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "21.4 h, ~1,075 vistas/h, autor 33,143 seguidores, replies: 55",
-    "vph": 1075
+    "reason": "23.6 h, ~6,004 vistas/h, autor 291,202 seguidores, replies: 152",
+    "vph": 6004
    }
   }
  ]
