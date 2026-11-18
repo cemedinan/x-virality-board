@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-18T09:05:56-03:00",
+  "generated_at": "2026-11-18T16:06:59-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 12,
-  "in_niche": 12,
+  "listed": 5,
+  "in_niche": 5,
   "not_recommended": 0,
-  "new_since_prev": 12,
-  "removed_replied": 2,
-  "removed_old": 3
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 7
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/Iwendtster/status/2122900126708732184",
    "m": {
-    "bookmark_count": 537,
-    "impression_count": 60866,
-    "like_count": 2146,
-    "quote_count": 18,
-    "reply_count": 184,
-    "repost_count": 664
+    "bookmark_count": 942,
+    "impression_count": 107642,
+    "like_count": 3941,
+    "quote_count": 44,
+    "reply_count": 306,
+    "repost_count": 1222
    },
    "reply_en": "👀 Afraid, no. Prepared, yes. Which part of this worries you more: the outages themselves, or how little control people have when they happen?",
    "in_niche": true,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "8.3 h, ~7,365 vistas/h, autor 136,885 seguidores, replies: 184",
-    "vph": 7365
+    "reason": "15.3 h, ~7,044 vistas/h, autor 137,280 seguidores, replies: 306",
+    "vph": 7044
    }
   },
   {
@@ -50,7 +50,7 @@
    "m": {
     "bookmark_count": 0,
     "impression_count": 9,
-    "like_count": 0,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
     "repost_count": 0
@@ -63,8 +63,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "13.2 h, ~1 vistas/h, autor 137 seguidores, replies: 1",
-    "vph": 1
+    "reason": "20.3 h, ~0 vistas/h, autor 135 seguidores, replies: 1",
+    "vph": 0
    }
   },
   {
@@ -77,11 +77,11 @@
    "url": "https://x.com/JamesEastonUK/status/2122804501132542334",
    "m": {
     "bookmark_count": 12,
-    "impression_count": 7456,
-    "like_count": 278,
+    "impression_count": 8128,
+    "like_count": 309,
     "quote_count": 1,
-    "reply_count": 9,
-    "repost_count": 17
+    "reply_count": 10,
+    "repost_count": 20
    },
    "reply_en": "📉 Base or just a pause before the next leg: the weekly close decides. Which level has to hold for you to call it a base?",
    "in_niche": true,
@@ -91,8 +91,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14.6 h, ~511 vistas/h, autor 46,738 seguidores, replies: 9",
-    "vph": 511
+    "reason": "21.6 h, ~376 vistas/h, autor 46,800 seguidores, replies: 10",
+    "vph": 376
    }
   },
   {
@@ -104,12 +104,12 @@
    "lang": "en",
    "url": "https://x.com/Cryptotea/status/2122798244816429210",
    "m": {
-    "bookmark_count": 2,
-    "impression_count": 12435,
-    "like_count": 564,
+    "bookmark_count": 4,
+    "impression_count": 15056,
+    "like_count": 646,
     "quote_count": 2,
-    "reply_count": 41,
-    "repost_count": 12
+    "reply_count": 44,
+    "repost_count": 14
    },
    "reply_en": "😅 Same. Extreme fear has shown up near past lows, but it can stay extreme for weeks. Are you buying the fear in spot, or waiting for a reversal first?",
    "in_niche": true,
@@ -119,8 +119,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15.0 h, ~828 vistas/h, autor 189,870 seguidores, replies: 41",
-    "vph": 828
+    "reason": "22.0 h, ~683 vistas/h, autor 189,863 seguidores, replies: 44",
+    "vph": 683
    }
   },
   {
@@ -132,12 +132,12 @@
    "lang": "en",
    "url": "https://x.com/AshleyDCan/status/2122773476629221585",
    "m": {
-    "bookmark_count": 20,
-    "impression_count": 10190,
-    "like_count": 357,
-    "quote_count": 2,
-    "reply_count": 74,
-    "repost_count": 26
+    "bookmark_count": 22,
+    "impression_count": 11562,
+    "like_count": 391,
+    "quote_count": 3,
+    "reply_count": 83,
+    "repost_count": 30
    },
    "reply_en": "⚠️ Cyberattacks, outages and prep talk in the same week is a lot, and much of it is still unconfirmed. Which would hit you first: no bank app, no power or no internet?",
    "in_niche": true,
@@ -147,206 +147,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16.7 h, ~612 vistas/h, autor 198,862 seguidores, replies: 74",
-    "vph": 612
-   }
-  },
-  {
-   "id": "2122752688584880278",
-   "author": "Autism Capital 🧩",
-   "username": "AutismCapital",
-   "text": "I believe you have my pump https://t.co/uUh2RAqpAC",
-   "created_at": "2026-11-17T18:04:14.000Z",
-   "lang": "en",
-   "url": "https://x.com/AutismCapital/status/2122752688584880278",
-   "m": {
-    "bookmark_count": 12,
-    "impression_count": 22037,
-    "like_count": 508,
-    "quote_count": 4,
-    "reply_count": 14,
-    "repost_count": 18
-   },
-   "reply_en": "😂 Milton energy. Someone check the basement, the pump has to be down there.",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "18.0 h, ~1,222 vistas/h, autor 1,749,886 seguidores, replies: 14",
-    "vph": 1222
-   },
-   "gif": "Office Space, Milton 'I believe you have my stapler' (buscar: \"milton stapler\")"
-  },
-  {
-   "id": "2122747158856073572",
-   "author": "ʞɔɐ𝘡",
-   "username": "Skoorbkaz",
-   "text": "🚨Holy shit! If you want to know what's been happening. Watch this!\n\nI had Claude pull every major headline from the first 17 days of November and lay them out in order on a globe. 67 real headlines. Flights grounded. Banks down. NSA’s classified network down. A bridge in the https://t.co/zSd6NEaflT",
-   "created_at": "2026-11-17T17:42:16.000Z",
-   "lang": "en",
-   "url": "https://x.com/Skoorbkaz/status/2122747158856073572",
-   "m": {
-    "bookmark_count": 2173,
-    "impression_count": 102486,
-    "like_count": 1945,
-    "quote_count": 48,
-    "reply_count": 106,
-    "repost_count": 738
-   },
-   "reply_en": "🚨 67 headlines in 17 days hits hard laid out like this. \"Banks down\" is the one that should make people check who holds their $BTC keys. Which have been confirmed? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "18.4 h, ~5,572 vistas/h, autor 6,836 seguidores, replies: 106",
-    "vph": 5572
-   }
-  },
-  {
-   "id": "2122731238888808834",
-   "author": "Quinten",
-   "username": "QuintenFrancois",
-   "text": "Retail thought institutional adoption would make Bitcoin go up forever.\n\nInstead, we’re seeing some of the most oversold conditions in Bitcoin’s history.\n\nRetail is panicking while Wall Street is building its Bitcoin exposure.\n\nMaybe this is what institutional adoption really",
-   "created_at": "2026-11-17T16:39:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/QuintenFrancois/status/2122731238888808834",
-   "m": {
-    "bookmark_count": 10,
-    "impression_count": 17396,
-    "like_count": 194,
-    "quote_count": 3,
-    "reply_count": 13,
-    "repost_count": 22
-   },
-   "reply_en": "📉 Retail sells the oversold dip while Wall Street builds exposure: the coins just move to holders with longer horizons. Which side of that trade are you on this time?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "19.4 h, ~894 vistas/h, autor 205,632 seguidores, replies: 13",
-    "vph": 894
-   }
-  },
-  {
-   "id": "2122716935813046528",
-   "author": "Defi",
-   "username": "lil_defi",
-   "text": "Realising all communication is going down during the November17 blackout \n\n@grok how serious is the NSA communications network going down? https://t.co/CA1Z4ELITC https://t.co/TOT82JaDJN",
-   "created_at": "2026-11-17T15:42:10.000Z",
-   "lang": "en",
-   "url": "https://x.com/lil_defi/status/2122716935813046528",
-   "m": {
-    "bookmark_count": 11,
-    "impression_count": 21679,
-    "like_count": 35,
-    "quote_count": 1,
-    "reply_count": 8,
-    "repost_count": 1
-   },
-   "reply_en": "😳 If the reports hold and even the NSA's network went down, an exchange login is not a safety plan. Could you still move your $BTC after 48h offline? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "20.4 h, ~1,063 vistas/h, autor 24,557 seguidores, replies: 8",
-    "vph": 1063
-   }
-  },
-  {
-   "id": "2122714868042338780",
-   "author": "Aura Satoshi",
-   "username": "HappyCanada2",
-   "text": "HARD CAP MATTERS. https://t.co/HYtyIvtmLN",
-   "created_at": "2026-11-17T15:33:57.000Z",
-   "lang": "en",
-   "url": "https://x.com/HappyCanada2/status/2122714868042338780",
-   "m": {
-    "bookmark_count": 2,
-    "impression_count": 503,
-    "like_count": 51,
-    "quote_count": 0,
-    "reply_count": 5,
-    "repost_count": 0
-   },
-   "reply_en": "💯 Over 95% of the 21M $BTC is already mined, and no one can print more because the market is scared. What made the cap click for you?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "20.5 h, ~24 vistas/h, autor 1,888 seguidores, replies: 5",
-    "vph": 24
-   },
-   "visual": "gráfico: curva de emisión de BTC hacia 21M marcando el % ya minado hoy y los halvings — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
-  },
-  {
-   "id": "2122709382605447423",
-   "author": "v",
-   "username": "v79454186",
-   "text": "https://t.co/2vTBjRKpXu",
-   "created_at": "2026-11-17T15:12:09.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/v79454186/status/2122709382605447423",
-   "m": {
-    "bookmark_count": 1,
-    "impression_count": 243,
-    "like_count": 19,
-    "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 0
-   },
-   "reply_en": "📌 Saving this one. Says more than a thread could.",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "20.9 h, ~12 vistas/h, autor 1,484 seguidores, replies: 2",
-    "vph": 12
-   }
-  },
-  {
-   "id": "2122704245812080989",
-   "author": "MDB",
-   "username": "MDBitcoin",
-   "text": "https://t.co/RwCKRMbyAb",
-   "created_at": "2026-11-17T14:51:44.000Z",
-   "lang": "zxx",
-   "url": "https://x.com/MDBitcoin/status/2122704245812080989",
-   "m": {
-    "bookmark_count": 18,
-    "impression_count": 3870,
-    "like_count": 230,
-    "quote_count": 3,
-    "reply_count": 5,
-    "repost_count": 39
-   },
-   "reply_en": "🔥",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "21.2 h, ~182 vistas/h, autor 27,229 seguidores, replies: 5",
-    "vph": 182
+    "reason": "23.7 h, ~488 vistas/h, autor 198,860 seguidores, replies: 83",
+    "vph": 488
    }
   }
  ]
