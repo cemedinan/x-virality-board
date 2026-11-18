@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-18T16:06:59-03:00",
+  "generated_at": "2026-11-18T20:10:08-03:00",
   "window_hours": 24,
-  "likes_scanned": 100,
-  "listed": 5,
-  "in_niche": 5,
+  "likes_scanned": 40,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
   "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 7
+  "removed_old": 4
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/Iwendtster/status/2122900126708732184",
    "m": {
-    "bookmark_count": 942,
-    "impression_count": 107642,
-    "like_count": 3941,
-    "quote_count": 44,
-    "reply_count": 306,
-    "repost_count": 1222
+    "bookmark_count": 1033,
+    "impression_count": 122719,
+    "like_count": 4419,
+    "quote_count": 49,
+    "reply_count": 340,
+    "repost_count": 1359
    },
    "reply_en": "👀 Afraid, no. Prepared, yes. Which part of this worries you more: the outages themselves, or how little control people have when they happen?",
    "in_niche": true,
@@ -35,120 +35,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "15.3 h, ~7,044 vistas/h, autor 137,280 seguidores, replies: 306",
-    "vph": 7044
-   }
-  },
-  {
-   "id": "2122824965032665332",
-   "author": "jack wang",
-   "username": "jeepwng",
-   "text": "营收 1158 亿，同比翻倍还多，指引 1300 亿，全市场都在喊超预期。\n翻到资产负债表那页，笑不出来了：应收账款 810 亿，九个月翻了一倍多；Q4 毛利率指引 71%-72%，比这季度低了三个点。\n货是卖出去了，钱还没回来，赚的也没有以前那么厚了。\n行吧，我先去数应收账款了。",
-   "created_at": "2026-11-17T22:51:26.000Z",
-   "lang": "zh",
-   "url": "https://x.com/jeepwng/status/2122824965032665332",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 9,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 1,
-    "repost_count": 0
-   },
-   "reply_en": "😳 营收翻倍很亮眼，但应收账款九个月翻一倍多、毛利率指引降三个点，这两个数字更值得盯。你觉得是大客户付款变慢，还是在提前压货？",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "zh",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "20.3 h, ~0 vistas/h, autor 135 seguidores, replies: 1",
-    "vph": 0
-   }
-  },
-  {
-   "id": "2122804501132542334",
-   "author": "James",
-   "username": "JamesEastonUK",
-   "text": "Base Formation.\n\nVolatility is the price of admission. https://t.co/054TPcH4qf",
-   "created_at": "2026-11-17T21:30:07.000Z",
-   "lang": "en",
-   "url": "https://x.com/JamesEastonUK/status/2122804501132542334",
-   "m": {
-    "bookmark_count": 12,
-    "impression_count": 8128,
-    "like_count": 309,
-    "quote_count": 1,
-    "reply_count": 10,
-    "repost_count": 20
-   },
-   "reply_en": "📉 Base or just a pause before the next leg: the weekly close decides. Which level has to hold for you to call it a base?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "21.6 h, ~376 vistas/h, autor 46,800 seguidores, replies: 10",
-    "vph": 376
-   }
-  },
-  {
-   "id": "2122798244816429210",
-   "author": "Crypto Tea",
-   "username": "Cryptotea",
-   "text": "Bitcoin sentiment so bad it’s starting to make me bullish",
-   "created_at": "2026-11-17T21:05:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/Cryptotea/status/2122798244816429210",
-   "m": {
-    "bookmark_count": 4,
-    "impression_count": 15056,
-    "like_count": 646,
-    "quote_count": 2,
-    "reply_count": 44,
-    "repost_count": 14
-   },
-   "reply_en": "😅 Same. Extreme fear has shown up near past lows, but it can stay extreme for weeks. Are you buying the fear in spot, or waiting for a reversal first?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "22.0 h, ~683 vistas/h, autor 189,863 seguidores, replies: 44",
-    "vph": 683
-   }
-  },
-  {
-   "id": "2122773476629221585",
-   "author": "Ashley",
-   "username": "AshleyDCan",
-   "text": "cyberattacks, outages and doomsday prep?\n\nwtf is happening in the US? https://t.co/msn5r38DGS",
-   "created_at": "2026-11-17T19:26:50.000Z",
-   "lang": "en",
-   "url": "https://x.com/AshleyDCan/status/2122773476629221585",
-   "m": {
-    "bookmark_count": 22,
-    "impression_count": 11562,
-    "like_count": 391,
-    "quote_count": 3,
-    "reply_count": 83,
-    "repost_count": 30
-   },
-   "reply_en": "⚠️ Cyberattacks, outages and prep talk in the same week is a lot, and much of it is still unconfirmed. Which would hit you first: no bank app, no power or no internet?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "23.7 h, ~488 vistas/h, autor 198,860 seguidores, replies: 83",
-    "vph": 488
+    "reason": "19.3 h, ~6,347 vistas/h, autor 137,396 seguidores, replies: 340",
+    "vph": 6347
    }
   }
  ]
