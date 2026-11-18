@@ -1,12 +1,12 @@
 {
  "meta": {
-  "generated_at": "2026-11-17T20:10:27-03:00",
+  "generated_at": "2026-11-17T23:05:31-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 7,
-  "in_niche": 7,
+  "listed": 5,
+  "in_niche": 5,
   "not_recommended": 0,
-  "new_since_prev": 1,
+  "new_since_prev": 0,
   "removed_replied": 0,
   "removed_old": 2
  },
@@ -21,7 +21,7 @@
    "url": "https://x.com/DD____/status/2122818605792595983",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 9,
+    "impression_count": 10,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "0.7 h, ~12 vistas/h, autor 172,188 seguidores, replies: 0",
-    "vph": 12
+    "reason": "3.7 h, ~3 vistas/h, autor 172,188 seguidores, replies: 0",
+    "vph": 3
    }
   },
   {
@@ -63,7 +63,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "10.1 h, ~2 vistas/h, autor 8,784 seguidores, replies: 0",
+    "reason": "13.0 h, ~2 vistas/h, autor 8,809 seguidores, replies: 0",
     "vph": 2
    }
   },
@@ -77,11 +77,11 @@
    "url": "https://x.com/HodlFlorida/status/2122527592582426674",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 6891,
-    "like_count": 323,
+    "impression_count": 7436,
+    "like_count": 339,
     "quote_count": 1,
-    "reply_count": 24,
-    "repost_count": 19
+    "reply_count": 25,
+    "repost_count": 21
    },
    "reply_en": "🙌 Bought the $20K, $60K and $120K tops and still holding: that beats any perfect-entry story. Which buy felt worst at the time, and which one looks best today?",
    "in_niche": true,
@@ -91,8 +91,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "20.0 h, ~344 vistas/h, autor 7,464 seguidores, replies: 24",
-    "vph": 344
+    "reason": "22.9 h, ~324 vistas/h, autor 7,465 seguidores, replies: 25",
+    "vph": 324
    }
   },
   {
@@ -105,8 +105,8 @@
    "url": "https://x.com/david_eng_mba/status/2122520805406073153",
    "m": {
     "bookmark_count": 18,
-    "impression_count": 7203,
-    "like_count": 230,
+    "impression_count": 7280,
+    "like_count": 236,
     "quote_count": 0,
     "reply_count": 12,
     "repost_count": 15
@@ -119,8 +119,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "20.5 h, ~352 vistas/h, autor 26,514 seguidores, replies: 12",
-    "vph": 352
+    "reason": "23.4 h, ~311 vistas/h, autor 26,515 seguidores, replies: 12",
+    "vph": 311
    }
   },
   {
@@ -133,8 +133,8 @@
    "url": "https://x.com/TheBTCTherapist/status/2122511848545358189",
    "m": {
     "bookmark_count": 15,
-    "impression_count": 16012,
-    "like_count": 103,
+    "impression_count": 16622,
+    "like_count": 110,
     "quote_count": 1,
     "reply_count": 12,
     "repost_count": 7
@@ -147,64 +147,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "21.1 h, ~761 vistas/h, autor 263,086 seguidores, replies: 12",
-    "vph": 761
-   }
-  },
-  {
-   "id": "2122489964495552905",
-   "author": "Defi",
-   "username": "lil_defi",
-   "text": "So today the banks got hacked, the airlines stopped flying and USA got threatened with a dirty bomb.\n\nTomorrow can’t get any worse. \n\nRight @grok? https://t.co/N7YYko0qdD",
-   "created_at": "2026-11-17T00:40:16.000Z",
-   "lang": "en",
-   "url": "https://x.com/lil_defi/status/2122489964495552905",
-   "m": {
-    "bookmark_count": 7,
-    "impression_count": 5209,
-    "like_count": 34,
-    "quote_count": 0,
-    "reply_count": 10,
-    "repost_count": 0
-   },
-   "reply_en": "😳 Banks hacked, flights grounded and a dirty bomb threat in one day, if the reports hold up. Days like this are why I keep my $BTC keys offline. What's your plan B if your bank app goes dark? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "22.5 h, ~231 vistas/h, autor 24,326 seguidores, replies: 10",
-    "vph": 231
-   }
-  },
-  {
-   "id": "2122473592151482491",
-   "author": "Bark",
-   "username": "barkmeta",
-   "text": "Crash crypto so they run to stocks.\n\nIt's working… now crash stocks so they run to cash.\n\nThey moved it to the bank?\n\nPerfect… now hack their bank accounts. https://t.co/TmIA6EpEvk",
-   "created_at": "2026-11-16T23:35:12.000Z",
-   "lang": "en",
-   "url": "https://x.com/barkmeta/status/2122473592151482491",
-   "m": {
-    "bookmark_count": 390,
-    "impression_count": 141620,
-    "like_count": 6712,
-    "quote_count": 58,
-    "reply_count": 152,
-    "repost_count": 775
-   },
-   "reply_en": "😳 Crypto down, stocks down, now bank hack headlines. The only balance nobody can freeze is the one you hold the keys to. Exchange or offline for your $BTC? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "23.6 h, ~6,004 vistas/h, autor 291,202 seguidores, replies: 152",
-    "vph": 6004
+    "reason": "24.0 h, ~693 vistas/h, autor 263,090 seguidores, replies: 12",
+    "vph": 693
    }
   }
  ]
