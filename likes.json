@@ -1,33 +1,61 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T13:03:51-03:00",
+  "generated_at": "2026-11-19T15:45:06-03:00",
   "window_hours": 24,
-  "likes_scanned": 100,
-  "listed": 10,
-  "in_niche": 10,
+  "likes_scanned": 197,
+  "listed": 16,
+  "in_niche": 16,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 0,
+  "new_since_prev": 16,
+  "removed_replied": 7,
   "removed_old": 3
  },
  "posts": [
   {
-   "id": "2123233889695023255",
-   "author": "Shield",
-   "username": "Shieldmetax",
-   "text": "Hey @grok , was an undersea internet cable just SEVERED in the Gulf of Oman?\n\nBecause hours later, Pakistan is reportedly going DARK. \n\nA nationwide internet blackout.\n\nWhich country gets switched off NEXT?\n\nWe all know the answer…",
-   "created_at": "2026-11-19T01:56:21.000Z",
+   "id": "2123465747712106678",
+   "author": "Halston",
+   "username": "halstonvalencia",
+   "text": "There was a 1 in 400 trillion chance of you being born.\n\nA 1 in 14 chance of being alive during this particular moment in human history.\n\nA 1 in 22 chance of being among the people who own bitcoin.\n\nA 1 in 10,000 chance of being among those who own an entire bitcoin.\n\nFor",
+   "created_at": "2026-11-19T17:17:40.000Z",
    "lang": "en",
-   "url": "https://x.com/Shieldmetax/status/2123233889695023255",
+   "url": "https://x.com/halstonvalencia/status/2123465747712106678",
    "m": {
-    "bookmark_count": 18,
-    "impression_count": 60094,
-    "like_count": 103,
+    "bookmark_count": 3,
+    "impression_count": 1383,
+    "like_count": 46,
     "quote_count": 0,
-    "reply_count": 20,
-    "repost_count": 11
+    "reply_count": 7,
+    "repost_count": 5
    },
-   "reply_en": "😳 If one cut cable can black out a whole country, that's the real stress test for anything \"decentralized\". Bitcoin nodes can still sync over Blockstream's satellite broadcast. Has anyone in Pakistan confirmed how long it lasted?",
+   "reply_en": "😳 That 1-in-10,000 figure is the one that stays with me: a whole coin is already a tiny club. If those odds are even roughly right, how many of that club do you think still hold through a 70% drawdown?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "1.5 h, ~949 vistas/h, autor 16,092 seguidores, replies: 7",
+    "vph": 949
+   }
+  },
+  {
+   "id": "2123459094522781924",
+   "author": "Grant Cardone",
+   "username": "GrantCardone",
+   "text": "Average Anthropic employee will be worth $44 million after today's IPO.  New millionaires being made at scale ?\n• Private jet \n• Travel\n• Beach homes\n• Luxury Vehicles",
+   "created_at": "2026-11-19T16:51:14.000Z",
+   "lang": "en",
+   "url": "https://x.com/GrantCardone/status/2123459094522781924",
+   "m": {
+    "bookmark_count": 39,
+    "impression_count": 39612,
+    "like_count": 541,
+    "quote_count": 6,
+    "reply_count": 63,
+    "repost_count": 34
+   },
+   "reply_en": "😳 Reports put the average near $44M at the $83 IPO price, a historic paper print, and a lot of it stays locked at first. If you had to park a gain like that for 10 years, would you rather hold the stock, cash, or an asset with a 21M cap?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -35,224 +63,27 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14.1 h, ~4,254 vistas/h, autor 48,687 seguidores, replies: 20",
-    "vph": 4254
+    "reason": "1.9 h, ~20,871 vistas/h, autor 1,271,664 seguidores, replies: 63",
+    "vph": 20871
    }
   },
   {
-   "id": "2123219714344132715",
-   "author": "CryptoReviewing",
-   "username": "CryptoReviewing",
-   "text": "These 2 pizzas cost 10,000 Bitcoin.\n\nEveryone knows the man who bought them.\n\nAlmost nobody knows the teenager who SOLD them.\n\nHis name is Jeremy Sturdivant. He was 19.\n\nIn May 2010 he ordered 2 Papa John's pizzas on his credit card and got paid 10,000 Bitcoin for it.\n\nToday https://t.co/xKywou80n7",
-   "created_at": "2026-11-19T01:00:02.000Z",
+   "id": "2123456816424382910",
+   "author": "jack wang",
+   "username": "jeepwng",
+   "text": "@ForecastQuant The 'uncorrelated' label only survives in calm markets. An NVDA miss hits the AI capex story underwriting half the risk book, and BTC reprices as the most liquid high-beta asset around. The tell isn't the headline, it's funding staying positive while spot slides.",
+   "created_at": "2026-11-19T16:42:11.000Z",
    "lang": "en",
-   "url": "https://x.com/CryptoReviewing/status/2123219714344132715",
-   "m": {
-    "bookmark_count": 4,
-    "impression_count": 7718,
-    "like_count": 17,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 3
-   },
-   "reply_en": "😳 A 19-year-old gets 10,000 BTC for two pizzas, then BTC crashes ~93% in 2011. Holding through that was not obvious to anyone. Would you have kept even 100 of them?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "15.1 h, ~512 vistas/h, autor 95,962 seguidores, replies: 3",
-    "vph": 512
-   }
-  },
-  {
-   "id": "2123206885377773997",
-   "author": "Fred Krueger",
-   "username": "dotkrueger",
-   "text": "Buying below the 200W MA has a perfect and amazing track record. https://t.co/xriPiM3NbF",
-   "created_at": "2026-11-19T00:09:03.000Z",
-   "lang": "en",
-   "url": "https://x.com/dotkrueger/status/2123206885377773997",
-   "m": {
-    "bookmark_count": 37,
-    "impression_count": 13979,
-    "like_count": 329,
-    "quote_count": 5,
-    "reply_count": 14,
-    "repost_count": 26
-   },
-   "reply_en": "👀 \"Perfect\" on a sample of about four cycles. Below the 200W MA the entry is the easy part; in 2022 BTC sat under it for roughly 7 months. How long can you hold underwater without leverage?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "15.9 h, ~878 vistas/h, autor 387,943 seguidores, replies: 14",
-    "vph": 878
-   },
-   "visual": "gráfico: precio de BTC vs media móvil de 200 semanas, sombreando los periodos bajo la media (2015, 2020, 2022 y hoy) — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
-  },
-  {
-   "id": "2123202152646455383",
-   "author": "Seth",
-   "username": "seth_fin",
-   "text": "Elon Musk is a loyal friend. He got this to say about Jensen Huang.\n\nCore Devs and the team at Nvidia loves Jensen.\n\nThis decision is not good towards Nvidia shareholders and the board should serve the shareholders and nothing else. https://t.co/fNm9QW23Lv",
-   "created_at": "2026-11-18T23:50:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/seth_fin/status/2123202152646455383",
+   "url": "https://x.com/jeepwng/status/2123456816424382910",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 5516,
-    "like_count": 39,
-    "quote_count": 1,
-    "reply_count": 8,
-    "repost_count": 2
-   },
-   "reply_en": "👀 \"The board should serve the shareholders\" is the cleanest line here. Which part of the decision hurts NVDA holders more: the cost itself, or the precedent it sets?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "16.2 h, ~340 vistas/h, autor 102,147 seguidores, replies: 8",
-    "vph": 340
-   }
-  },
-  {
-   "id": "2123182068704203186",
-   "author": "Cointelegraph",
-   "username": "Cointelegraph",
-   "text": "🚨 JUST IN: Arthur Hayes warns that an AI bubble collapse could trigger a 1929-style financial crisis, potentially sending Bitcoin to $10,000. \n\nHowever, he is 99% confident governments would respond by printing money, potentially fueling a major crypto rally. https://t.co/xaXUoWb2tG",
-   "created_at": "2026-11-18T22:30:26.000Z",
-   "lang": "en",
-   "url": "https://x.com/Cointelegraph/status/2123182068704203186",
-   "m": {
-    "bookmark_count": 65,
-    "impression_count": 79335,
-    "like_count": 676,
-    "quote_count": 19,
-    "reply_count": 149,
-    "repost_count": 66
-   },
-   "reply_en": "😱 $10K $BTC and a money-printing rally in the same forecast: Hayes is pricing both tails. If both happen, the only sure way to lose is leverage in between. Which comes first for you, the crash or the printer?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "17.6 h, ~4,519 vistas/h, autor 2,928,071 seguidores, replies: 149",
-    "vph": 4519
-   }
-  },
-  {
-   "id": "2123166858450751857",
-   "author": "CryptoReviewing",
-   "username": "CryptoReviewing",
-   "text": "🚨 JUST IN: ONE OF CRYPTO'S BIGGEST ON-CHAIN HEDGE FUNDS GOT HACKED FOR $10 MILLION. NOW IT'S PULLING EVERYTHING OUT.\n\nABRAXAS CAPITAL CLOSED $200 MILLION OF POSITIONS IN 2 DAYS.\n\nAND WAIT UNTIL YOU SEE WHERE IT SENT THE MONEY.\n\n$109 MILLION OF USDC WENT TO BINANCE. YES, THE https://t.co/bZJHPB4a2U",
-   "created_at": "2026-11-18T21:30:00.000Z",
-   "lang": "en",
-   "url": "https://x.com/CryptoReviewing/status/2123166858450751857",
-   "m": {
-    "bookmark_count": 9,
-    "impression_count": 16742,
-    "like_count": 95,
-    "quote_count": 3,
-    "reply_count": 12,
-    "repost_count": 18
-   },
-   "reply_en": "🚨 $10M gone, and the vault wasn't the weak point: reports point to a leaked API key, not cold storage. Every always-online connection is attack surface. I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": true,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "18.6 h, ~902 vistas/h, autor 95,962 seguidores, replies: 12",
-    "vph": 902
-   }
-  },
-  {
-   "id": "2123132117655998890",
-   "author": "CF",
-   "username": "fergalpha",
-   "text": "Michael Saylor\n\n“I’m not proud of this, I’m the only public company CEO in the history of the world that actually lived to see his stock decline in value by -99.8%. My stock went from $333 a share, to $0.42. HODL? You haven’t lived through anything.”\n\nI think about this a lot. https://t.co/P2r6BAUn8h",
-   "created_at": "2026-11-18T19:11:57.000Z",
-   "lang": "en",
-   "url": "https://x.com/fergalpha/status/2123132117655998890",
-   "m": {
-    "bookmark_count": 45,
-    "impression_count": 45751,
-    "like_count": 420,
-    "quote_count": 2,
-    "reply_count": 134,
-    "repost_count": 103
-   },
-   "reply_en": "💀 -99.8% and he's still running the company a quarter century later. That's the real HODL résumé; most people sell at -30%. What's the deepest drawdown you've actually held through?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "20.9 h, ~2,193 vistas/h, autor 171,663 seguidores, replies: 134",
-    "vph": 2193
-   }
-  },
-  {
-   "id": "2123118093480452393",
-   "author": "Ron Sovereignty Swanson⚡️🗝️",
-   "username": "RonSwanonson",
-   "text": "It’s wild that Bitcoin only dropped -53%\n\nAnd gold has already dropped -33% \n\nThis is going to look so lopsided when bitcoin does a 3x from here and gold fails to reclaim its recent all-time high for years to come",
-   "created_at": "2026-11-18T18:16:13.000Z",
-   "lang": "en",
-   "url": "https://x.com/RonSwanonson/status/2123118093480452393",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 1393,
-    "like_count": 65,
+    "impression_count": 17,
+    "like_count": 1,
     "quote_count": 0,
-    "reply_count": 5,
-    "repost_count": 3
-   },
-   "reply_en": "😳 Gold down 33% is the bigger surprise here; that's a crypto-sized move for the \"safe\" asset. A 3x from -53% would put $BTC back above the old ATH. What timeframe are you giving it?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "21.8 h, ~64 vistas/h, autor 11,622 seguidores, replies: 5",
-    "vph": 64
-   }
-  },
-  {
-   "id": "2123098029402313080",
-   "author": "Arch",
-   "username": "ArchLending",
-   "text": "Hey @grok, which of these three is most likely to give the highest return over the next 10 years?\n\nA. Bitcoin\nB. Gold\nC. S&amp;P 500\n\nExplain your answer.",
-   "created_at": "2026-11-18T16:56:30.000Z",
-   "lang": "en",
-   "url": "https://x.com/ArchLending/status/2123098029402313080",
-   "m": {
-    "bookmark_count": 2,
-    "impression_count": 2389,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 0,
     "repost_count": 0
    },
-   "reply_en": "👀 Over the last 10 years BTC beat both by a mile, but with two drawdowns of 75%+ on the way (2018, 2022). The return question is easy, the holding one isn't. Which of the three would you not sell in a -70% year?",
+   "reply_en": "👀 You're pointing at the right crack: 'uncorrelated' is easy to say until a mega-cap print hits liquidity. If funding stays positive while spot slides, is that delayed stress, or just noisy leverage?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -260,38 +91,376 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "23.1 h, ~103 vistas/h, autor 7,667 seguidores, replies: 1",
-    "vph": 103
+    "reason": "2.0 h, ~8 vistas/h, autor 135 seguidores, replies: 0",
+    "vph": 8
    }
   },
   {
-   "id": "2123097786220482663",
-   "author": "David the ape 🦍 🥇🥈",
-   "username": "patato_ass",
-   "text": "Just in:\n\nGold  +109.88% for the past 5 years \nSilver + 88.67% for the past 5 years \nBTC    + 2.00% for the past 5 years https://t.co/Y1Ltv7dr6h",
-   "created_at": "2026-11-18T16:55:32.000Z",
+   "id": "2123447457988153500",
+   "author": "CryptoGoos",
+   "username": "cryptogoos",
+   "text": "Hey @grok, be honest.\n\nDo you think there’s a realistic chance $BTC recovers this year’s losses and closes 2026 green?\n\nBitcoin has NEVER closed two consecutive years in the red! https://t.co/kPdUudbxhN",
+   "created_at": "2026-11-19T16:05:00.000Z",
    "lang": "en",
-   "url": "https://x.com/patato_ass/status/2123097786220482663",
+   "url": "https://x.com/cryptogoos/status/2123447457988153500",
    "m": {
-    "bookmark_count": 1,
-    "impression_count": 562,
-    "like_count": 26,
+    "bookmark_count": 2,
+    "impression_count": 11769,
+    "like_count": 58,
     "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 3
+    "reply_count": 5,
+    "repost_count": 2
    },
-   "reply_en": "📉 Start the clock in Nov 2021, right at the old $69K top, and BTC looks flat. Move it a year back to late 2020 (~$15K-19K) and you get a very different number. Which start date is the fair one?",
+   "reply_en": "😳 A second red yearly close would break the pattern on that chart, and 2026 is already ~28% down from the open. Recovering that before Dec 31 is a tight clock. Which matters more to you, the yearly close or the time to reclaim the high?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "23.1 h, ~24 vistas/h, autor 8,257 seguidores, replies: 2",
-    "vph": 24
+    "level": "alto",
+    "score": 3,
+    "reason": "2.7 h, ~4,410 vistas/h, autor 120,809 seguidores, replies: 5",
+    "vph": 4410
+   }
+  },
+  {
+   "id": "2123446201043542108",
+   "author": "Myntad",
+   "username": "Myntad_com",
+   "text": "2030 is only 3 years away.\n\nWhat monetary asset do you trust with your savings? https://t.co/Q3kGddlOPX",
+   "created_at": "2026-11-19T16:00:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/Myntad_com/status/2123446201043542108",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 403,
+    "like_count": 13,
+    "quote_count": 0,
+    "reply_count": 7,
+    "repost_count": 0
    },
-   "visual": "gráfico: retorno de BTC vs oro según la fecha de inicio (nov-2020 vs nov-2021), mostrando cómo cambia el resultado — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+   "reply_en": "👀 By 2030 almost all 21 million $BTC is already mined, while that gold chart still shows most of the crust estimate underground. If both projections hold, which scarcity do you actually want to underwrite for three years?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "2.8 h, ~146 vistas/h, autor 1,583 seguidores, replies: 7",
+    "vph": 146
+   },
+   "visual": "comparación 2030: oferta ya minada de BTC vs oro aún por extraer — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2123443970285933037",
+   "author": "Grok",
+   "username": "grok",
+   "text": "@TedPillows Cash and short-term T-bills.\n\nHigher Fed hike odds and ~5% yields make non-yielding assets (gold, silver, BTC) costly to hold. Liquidity is being freed up for the $81B Anthropic IPO that just priced and starts trading today. Leveraged positions are also getting cleaned out across",
+   "created_at": "2026-11-19T15:51:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/grok/status/2123443970285933037",
+   "m": {
+    "bookmark_count": 19,
+    "impression_count": 15094,
+    "like_count": 120,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 7
+   },
+   "reply_en": "👀 Cash and T-bills are the clean answer if yields are really near 5%, and that also explains gold, silver and $BTC falling together. If the $81B Anthropic IPO is today's liquidity magnet, do you see a one-day drain or a weeks-long bid for cash?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.9 h, ~5,206 vistas/h, autor 9,426,010 seguidores, replies: 3",
+    "vph": 5206
+   }
+  },
+  {
+   "id": "2123443806527709492",
+   "author": "Ted",
+   "username": "TedPillows",
+   "text": "Bitcoin is down.\nEthereum is down.\nGold is down.\nSilver is down.\nStocks are down.\nBonds are down.\n\nEven, the DXY is down.\n\nHey @grok, if everything is down where's the money going?",
+   "created_at": "2026-11-19T15:50:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/TedPillows/status/2123443806527709492",
+   "m": {
+    "bookmark_count": 52,
+    "impression_count": 142122,
+    "like_count": 707,
+    "quote_count": 5,
+    "reply_count": 142,
+    "repost_count": 38
+   },
+   "reply_en": "😱 When even the DXY falls with $BTC, gold and stocks, it's not a simple risk-off rotation. Cash, T-bills or just evaporating mark-to-market can all look the same on a screen. Which one do you think is actually absorbing the liquidity?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.9 h, ~48,832 vistas/h, autor 324,349 seguidores, replies: 142",
+    "vph": 48832
+   },
+   "visual": "gráfico: BTC, oro, acciones, bonos y DXY todos en rojo el mismo día — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2123428232678834291",
+   "author": "Isabella",
+   "username": "LIsabella_o",
+   "text": "Hey @grok, please be brutally honest.\n\nWill Bitcoin crash to a new low of $38.5K after 6 consecutive weeks of decline?\n\nStart with a YES or NO. https://t.co/nskIBUOc2A",
+   "created_at": "2026-11-19T14:48:36.000Z",
+   "lang": "en",
+   "url": "https://x.com/LIsabella_o/status/2123428232678834291",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 10615,
+    "like_count": 119,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 6
+   },
+   "reply_en": "😬 A clean YES or NO on $38.5K is a trap; the chart is around $63.5K after the drop, not a locked path to that target. What would actually change your mind here, a weekly close or a break of the last swing low?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "3.9 h, ~2,693 vistas/h, autor 2,105 seguidores, replies: 2",
+    "vph": 2693
+   }
+  },
+  {
+   "id": "2123399642452734250",
+   "author": "CryptoGoos",
+   "username": "cryptogoos",
+   "text": "BITCOIN: HERE WE GO! 🚀 https://t.co/2PJgscopiP",
+   "created_at": "2026-11-19T12:55:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/cryptogoos/status/2123399642452734250",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 8342,
+    "like_count": 122,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 5
+   },
+   "reply_en": "🚀 'Here we go' is a bold read on that overlay: the average to ATH is marked at 585 days, and era 5 is still the lagging line. If this era keeps underperforming the last four, when do you drop the 'here we go'?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "5.8 h, ~1,430 vistas/h, autor 120,809 seguidores, replies: 2",
+    "vph": 1430
+   }
+  },
+  {
+   "id": "2123371205600165941",
+   "author": "Toz",
+   "username": "Cryptoze",
+   "text": "$BTC HAS BOTTOMED. 🚨\n\nSorry bears, It’s over. https://t.co/PxCX4WmWeb",
+   "created_at": "2026-11-19T11:02:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/Cryptoze/status/2123371205600165941",
+   "m": {
+    "bookmark_count": 9,
+    "impression_count": 14180,
+    "like_count": 464,
+    "quote_count": 0,
+    "reply_count": 131,
+    "repost_count": 67
+   },
+   "reply_en": "🚨 Calling the exact bottom is how a lot of people get trapped in the next leg. That $500k line is a drawn channel, not a guarantee, and 2018 and 2022 both spent months around the low. What would invalidate this bottom for you?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "7.7 h, ~1,837 vistas/h, autor 92,583 seguidores, replies: 131",
+    "vph": 1837
+   }
+  },
+  {
+   "id": "2123361641987473474",
+   "author": "Quinten",
+   "username": "QuintenFrancois",
+   "text": "I’m convinced this is a rare long term opportunity to build wealth https://t.co/gkdnaiWGO9",
+   "created_at": "2026-11-19T10:24:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/QuintenFrancois/status/2123361641987473474",
+   "m": {
+    "bookmark_count": 6,
+    "impression_count": 7473,
+    "like_count": 189,
+    "quote_count": 0,
+    "reply_count": 9,
+    "repost_count": 10
+   },
+   "reply_en": "👀 The quoted post says 51.5% of $BTC is at an unrealized loss, a setup it also flags in 2015, 2018 and 2022. 'Rare' only pays if you can sit through the ugly part. How long are you willing to let this opportunity look wrong?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "8.4 h, ~895 vistas/h, autor 205,618 seguidores, replies: 9",
+    "vph": 895
+   }
+  },
+  {
+   "id": "2123360635417243825",
+   "author": "Crypto Rover",
+   "username": "cryptorover",
+   "text": "Once Bitcoin hits $200,000, it won’t matter whether you bought at $50K, $60K, or even $70K.\n\nFoolish.",
+   "created_at": "2026-11-19T10:20:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/cryptorover/status/2123360635417243825",
+   "m": {
+    "bookmark_count": 11,
+    "impression_count": 50037,
+    "like_count": 730,
+    "quote_count": 1,
+    "reply_count": 112,
+    "repost_count": 38
+   },
+   "reply_en": "😬 The $200K line is doing a lot of work in that sentence; if it takes years, the entry between $50K and $70K matters a lot in time and drawdown. Are you calling the destination foolish, or the idea that the buy price won't matter?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "8.4 h, ~5,944 vistas/h, autor 1,623,835 seguidores, replies: 112",
+    "vph": 5944
+   }
+  },
+  {
+   "id": "2123307384437166495",
+   "author": "🇨🇳 Guo Shen 郭深",
+   "username": "GuoShenCN7",
+   "text": "下一轮比特币牛市本月开始 🔥\n\n$BTC 总是在 #Bitcoin 减半前约520天见底，并在减半后涨至历史新高。\n\n回到2022年，$BTC 在减半前仅516天于$15,476见底，随后上涨8倍至$126,199。\n\n如今，距离减半还有510天，恐惧与贪婪指数为10，我的目标是2027年达到$250,000👇 https://t.co/Dczv4rvXyl",
+   "created_at": "2026-11-19T06:48:24.000Z",
+   "lang": "zh",
+   "url": "https://x.com/GuoShenCN7/status/2123307384437166495",
+   "m": {
+    "bookmark_count": 23,
+    "impression_count": 21774,
+    "like_count": 180,
+    "quote_count": 1,
+    "reply_count": 29,
+    "repost_count": 23
+   },
+   "reply_en": "😳 “减半前约520天见底”听起来很整齐，但样本大概只有几次减半，2018和2022的底部并不一样。如果节奏差几十天，你还会把25万美元绑在2027年吗？",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "zh",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "11.9 h, ~1,823 vistas/h, autor 155,658 seguidores, replies: 29",
+    "vph": 1823
+   },
+   "visual": "línea de tiempo de halvings hasta 2028, con el precio actual y el recuento de días al próximo — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2123307053200408823",
+   "author": "Plebstyle - Your trusted shop for Bitcoiners",
+   "username": "Pleb_Style",
+   "text": "GM https://t.co/017Vd17p9g",
+   "created_at": "2026-11-19T06:47:05.000Z",
+   "lang": "und",
+   "url": "https://x.com/Pleb_Style/status/2123307053200408823",
+   "m": {
+    "bookmark_count": 3,
+    "impression_count": 859,
+    "like_count": 39,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 7
+   },
+   "reply_en": "😂 Wall Street counting a $100 bill, the bitcoiner counting the days since the last sale. If 'never selling' is the plan, what drawdown would actually test it?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "12.0 h, ~72 vistas/h, autor 5,569 seguidores, replies: 3",
+    "vph": 72
+   }
+  },
+  {
+   "id": "2123226264593170643",
+   "author": "INDIA FIRST",
+   "username": "INDIAFIRST4421",
+   "text": "जब बच्चा पैदा हुआ तो माता ने उसे पैरों से क्यों कुचला, अगर वह आदमी बच्चे को ना बचाता तो क्या वह उसे मार डालती @grok बताओ उसने ऐसा क्यों किया  https://t.co/dEAdRmQ6VC",
+   "created_at": "2026-11-19T01:26:03.000Z",
+   "lang": "hi",
+   "url": "https://x.com/INDIAFIRST4421/status/2123226264593170643",
+   "m": {
+    "bookmark_count": 1047,
+    "impression_count": 3276460,
+    "like_count": 4575,
+    "quote_count": 18,
+    "reply_count": 119,
+    "repost_count": 162
+   },
+   "reply_en": "😳 यह इंसान नहीं, हिरण का नवजात बच्चा लगता है। माँ घबराहट या तनाव में कदम बढ़ा सकती है, खासकर बाड़े जैसी जगह में। क्लिप में साफ़ है कि वह कदम जानबूझकर था, या बचाव के बाद माँ शांत हुई?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "hi",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "17.3 h, ~189,198 vistas/h, autor 3,514 seguidores, replies: 119",
+    "vph": 189198
+   }
+  },
+  {
+   "id": "2123156272614686940",
+   "author": "Johnny Midnight ⚡️",
+   "username": "its_The_Dr",
+   "text": "Now that is fun to watch!  https://t.co/mQbc9oOA9x",
+   "created_at": "2026-11-18T20:47:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/its_The_Dr/status/2123156272614686940",
+   "m": {
+    "bookmark_count": 566,
+    "impression_count": 792168,
+    "like_count": 3793,
+    "quote_count": 8,
+    "reply_count": 45,
+    "repost_count": 221
+   },
+   "reply_en": "😆 A 105-second compilation of satisfying work, and I still can't explain why it's so watchable. Which clip got you, the hopper or the bamboo?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "22.0 h, ~36,085 vistas/h, autor 781,352 seguidores, replies: 45",
+    "vph": 36085
+   }
   }
  ]
 }
