@@ -1,33 +1,61 @@
 {
  "meta": {
-  "generated_at": "2026-11-18T20:10:08-03:00",
+  "generated_at": "2026-11-18T23:07:07-03:00",
   "window_hours": 24,
-  "likes_scanned": 40,
-  "listed": 1,
-  "in_niche": 1,
+  "likes_scanned": 100,
+  "listed": 12,
+  "in_niche": 12,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 0,
-  "removed_old": 4
+  "new_since_prev": 12,
+  "removed_replied": 1,
+  "removed_old": 0
  },
  "posts": [
   {
-   "id": "2122900126708732184",
-   "author": "Ian",
-   "username": "Iwendtster",
-   "text": "SHOULD WE BE AFRAID? PART 2. https://t.co/gYSujKpjRe",
-   "created_at": "2026-11-18T03:50:06.000Z",
+   "id": "2123205500380831768",
+   "author": "Aura Satoshi",
+   "username": "HappyCanada2",
+   "text": "never ever https://t.co/ihU72NVqT4",
+   "created_at": "2026-11-19T00:03:33.000Z",
    "lang": "en",
-   "url": "https://x.com/Iwendtster/status/2122900126708732184",
+   "url": "https://x.com/HappyCanada2/status/2123205500380831768",
    "m": {
-    "bookmark_count": 1033,
-    "impression_count": 122719,
-    "like_count": 4419,
-    "quote_count": 49,
-    "reply_count": 340,
-    "repost_count": 1359
+    "bookmark_count": 0,
+    "impression_count": 365,
+    "like_count": 28,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 1
    },
-   "reply_en": "👀 Afraid, no. Prepared, yes. Which part of this worries you more: the outages themselves, or how little control people have when they happen?",
+   "reply_en": "💎 \"Never ever\" is easy at the top; ~49% below the ATH is where it counts. What's the one thing that would actually make you sell?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "2.1 h, ~177 vistas/h, autor 1,901 seguidores, replies: 2",
+    "vph": 177
+   }
+  },
+  {
+   "id": "2123197018273116619",
+   "author": "Joe Burnett",
+   "username": "IIICapital",
+   "text": "My wife got home from work today and told me she bought more Bitcoin.\n\nNever give up gents.",
+   "created_at": "2026-11-18T23:29:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/IIICapital/status/2123197018273116619",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 9142,
+    "like_count": 245,
+    "quote_count": 1,
+    "reply_count": 27,
+    "repost_count": 9
+   },
+   "reply_en": "😂 When your wife is buying the dip before you, the bottom-callers should take notes. Spot, no leverage, I hope? What made her pull the trigger today?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -35,8 +63,290 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "19.3 h, ~6,347 vistas/h, autor 137,396 seguidores, replies: 340",
-    "vph": 6347
+    "reason": "2.6 h, ~3,487 vistas/h, autor 106,727 seguidores, replies: 27",
+    "vph": 3487
+   }
+  },
+  {
+   "id": "2123192054725640256",
+   "author": "🌞Sunny哥",
+   "username": "BTC__Sunny",
+   "text": "比特币哪怕跌破60,000美金也不需要担心\n\n这个位置套不了很久\n\n请记住一句话\n\n比特币没有割过任何人，只有你自己割了自己 https://t.co/4k3V5VwB6c",
+   "created_at": "2026-11-18T23:10:07.000Z",
+   "lang": "zh",
+   "url": "https://x.com/BTC__Sunny/status/2123192054725640256",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 1287,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 11,
+    "repost_count": 1
+   },
+   "reply_en": "😌 说得对：被割的往往是自己加的杠杆和恐慌卖出。只用闲钱、只买现货，跌破6万也睡得着。你给自己定的持有期是多久？",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "zh",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "3.0 h, ~436 vistas/h, autor 49,473 seguidores, replies: 11",
+    "vph": 436
+   }
+  },
+  {
+   "id": "2123183467835916299",
+   "author": "Quinten",
+   "username": "QuintenFrancois",
+   "text": "A lot of people are going to regret ignoring these moments… https://t.co/dpPVcnIa80",
+   "created_at": "2026-11-18T22:36:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/QuintenFrancois/status/2123183467835916299",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 4783,
+    "like_count": 53,
+    "quote_count": 0,
+    "reply_count": 10,
+    "repost_count": 1
+   },
+   "reply_en": "👀 Regret usually comes from the moments that feel worst. $BTC sat near $16K in Nov 2022 and almost nobody wanted it. What's your plan if it gets uglier first?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "3.5 h, ~1,359 vistas/h, autor 205,616 seguidores, replies: 10",
+    "vph": 1359
+   }
+  },
+  {
+   "id": "2123168875386998984",
+   "author": "The Bitcoin Historian",
+   "username": "pete_rizzo_",
+   "text": "JUST IN: MEXICAN BILLIONAIRE RICARDO SALINAS JUST SENT A MASSIVE WARNING TO EVERYONE NOT BUYING #BITCOIN RIGHT NOW\n\n“DON’T LET THE GOVERNMENT STEAL THE PRODUCT OF YOUR WORK”\n\nTRADITIONAL 60/40 ADVICE IS “REALLY BAD” AND “SELF-SERVING”\n\n“UNDERSTAND THE BTC THESIS”\n\nTHE FIAT SYSTEM https://t.co/kyc8W3uTZl",
+   "created_at": "2026-11-18T21:38:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/pete_rizzo_/status/2123168875386998984",
+   "m": {
+    "bookmark_count": 25,
+    "impression_count": 10710,
+    "like_count": 197,
+    "quote_count": 2,
+    "reply_count": 15,
+    "repost_count": 29
+   },
+   "reply_en": "🔥 Strong words from Salinas, but the thesis only works if you hold the keys: coins on an exchange are an IOU. Where do yours actually sit? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "4.5 h, ~2,388 vistas/h, autor 224,328 seguidores, replies: 15",
+    "vph": 2388
+   }
+  },
+  {
+   "id": "2123158606216667481",
+   "author": "Code Monkey",
+   "username": "TrinityTradeAI",
+   "text": "The inner read: in 5 sessions IBIT fell 16.3%. MSTR fell 25.7%, about 1.6x the coin. COIN -18.6%, HOOD -18.1%.\n\nA crypto stock is the coin plus business risk plus its own leverage. In Trinity terms, it's a Long-side position that gets a smaller size, because the Neutral side has https://t.co/5AeUyeP6JO",
+   "created_at": "2026-11-18T20:57:12.000Z",
+   "lang": "en",
+   "url": "https://x.com/TrinityTradeAI/status/2123158606216667481",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 30,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "reply_en": "👀 MSTR falling ~1.6x the coin in 5 sessions is the cleanest proof a proxy isn't the asset. Spot carries no business risk or debt on top. How do you size the proxy vs the coin?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "5.2 h, ~6 vistas/h, autor 2,453 seguidores, replies: 1",
+    "vph": 6
+   }
+  },
+  {
+   "id": "2123154812896436706",
+   "author": "Code Monkey",
+   "username": "TrinityTradeAI",
+   "text": "$COIN is under every close of the past year, 60% off its December high.\n\nFrom 1-year highs: IBIT -36%, ETHA -49%, HOOD -49%, MSTR -56%, COIN -60%. S&amp;P 500: -6%.\n\nThe stocks built on crypto fell further than the crypto.\n\nWhen BTC turns, which one do you want to own?\n\nNot financial https://t.co/otXTaijd6n",
+   "created_at": "2026-11-18T20:42:08.000Z",
+   "lang": "en",
+   "url": "https://x.com/TrinityTradeAI/status/2123154812896436706",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 70,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "reply_en": "📉 S&P -6%, COIN -60% from 1-year highs: the wrappers bled harder than the coin. If $BTC turns, I'd rather own the asset than the leverage stacked on it. Did any proxy beat spot this cycle?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "5.4 h, ~13 vistas/h, autor 2,453 seguidores, replies: 2",
+    "vph": 13
+   },
+   "visual": "gráfico: caída desde máximos de 1 año (IBIT, ETHA, HOOD, MSTR, COIN vs S&P 500), barras horizontales con las cifras del post — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2123128873885868336",
+   "author": "Chantal",
+   "username": "chantalcripto",
+   "text": "En 2023 pasó exactamente lo mismo con Bitcoin\n\nTodos bajistas, análisis mandando BTC a 5k, miedo extremo.\n\nDe un día para otro metió un velazo verde que dejó a todo el mundo fuera y les obligó a comprar mucho más arriba.\n\nLa historia se repite…",
+   "created_at": "2026-11-18T18:59:04.000Z",
+   "lang": "es",
+   "url": "https://x.com/chantalcripto/status/2123128873885868336",
+   "m": {
+    "bookmark_count": 3,
+    "impression_count": 6450,
+    "like_count": 89,
+    "quote_count": 0,
+    "reply_count": 15,
+    "repost_count": 5
+   },
+   "reply_en": "👀 A fines de 2022 BTC tocó cerca de $16K con miedo extremo, y cerró 2023 sobre $42K. La duda es si hoy hay capitulación o solo cansancio. ¿Qué te dice que esta vez es igual?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "es",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "7.1 h, ~904 vistas/h, autor 14,189 seguidores, replies: 15",
+    "vph": 904
+   },
+   "visual": "gráfico: BTC desde el mínimo de nov-2022 (~$16K) al cierre de 2023 (~$42K), marcando la zona de miedo extremo — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2123101916989210902",
+   "author": "Julian Liniger",
+   "username": "julian_liniger",
+   "text": "Nobody with patience has ever lost money in bitcoin.",
+   "created_at": "2026-11-18T17:11:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/julian_liniger/status/2123101916989210902",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 3206,
+    "like_count": 174,
+    "quote_count": 3,
+    "reply_count": 13,
+    "repost_count": 10
+   },
+   "reply_en": "😅 Mostly true, with one big asterisk: patience only works without leverage and with your own keys. Patience didn't save FTX users. What's the longest drawdown you've held through?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "8.9 h, ~359 vistas/h, autor 19,140 seguidores, replies: 13",
+    "vph": 359
+   }
+  },
+  {
+   "id": "2123063300997169249",
+   "author": "Sylvia",
+   "username": "Sylvia_xh6",
+   "text": "$BTC\n\nLong-term trendline is broken now\n\n2018. 2020. 2023\n\nSame story every time\n\nWe all know how it ended... https://t.co/Hq5jlVj6OD",
+   "created_at": "2026-11-18T14:38:30.000Z",
+   "lang": "en",
+   "url": "https://x.com/Sylvia_xh6/status/2123063300997169249",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 5633,
+    "like_count": 154,
+    "quote_count": 0,
+    "reply_count": 4,
+    "repost_count": 2
+   },
+   "reply_en": "📉 2018, 2020, 2023: three breaks, three very different paths, and 2020 had a ~40% crash day in March before the run. Which one does this chart look most like to you?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "11.5 h, ~491 vistas/h, autor 2,736 seguidores, replies: 4",
+    "vph": 491
+   }
+  },
+  {
+   "id": "2122988037202444413",
+   "author": "Max Keiser",
+   "username": "maxkeiser",
+   "text": "🤩👍 https://t.co/B4lHjsrkAt",
+   "created_at": "2026-11-18T09:39:25.000Z",
+   "lang": "art",
+   "url": "https://x.com/maxkeiser/status/2122988037202444413",
+   "m": {
+    "bookmark_count": 6,
+    "impression_count": 17259,
+    "like_count": 299,
+    "quote_count": 0,
+    "reply_count": 8,
+    "repost_count": 18
+   },
+   "reply_en": "🤩🙌",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "und",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "16.5 h, ~1,048 vistas/h, autor 685,740 seguidores, replies: 8",
+    "vph": 1048
+   }
+  },
+  {
+   "id": "2122882697882120655",
+   "author": "Code Monkey",
+   "username": "TrinityTradeAI",
+   "text": "Nvidia just printed a record quarter: $115.8B revenue, +103% y/y, with $130B guided for next quarter.\n\nThe stock: $155.46 close, $162.94 after hours (+4.8%).\n\nThat's still 31.9% under its $239.24 close on Oct 6.\n\nWhat has to happen for the other 31.9% to come back?\n\nNot financial https://t.co/PZbEZ3lTpT",
+   "created_at": "2026-11-18T02:40:51.000Z",
+   "lang": "en",
+   "url": "https://x.com/TrinityTradeAI/status/2122882697882120655",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 30,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "reply_en": "😳 +103% y/y revenue and the stock still sits 31.9% under Oct 6. Earnings beat, price lags: valuation reset, or just risk-off hitting everything, $BTC included?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "23.4 h, ~1 vistas/h, autor 2,453 seguidores, replies: 1",
+    "vph": 1
    }
   }
  ]
