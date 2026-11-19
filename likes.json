@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T09:03:39-03:00",
+  "generated_at": "2026-11-19T13:03:51-03:00",
   "window_hours": 24,
   "likes_scanned": 100,
-  "listed": 13,
-  "in_niche": 13,
+  "listed": 10,
+  "in_niche": 10,
   "not_recommended": 0,
-  "new_since_prev": 13,
-  "removed_replied": 11,
-  "removed_old": 1
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 3
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/Shieldmetax/status/2123233889695023255",
    "m": {
-    "bookmark_count": 17,
-    "impression_count": 55693,
-    "like_count": 93,
+    "bookmark_count": 18,
+    "impression_count": 60094,
+    "like_count": 103,
     "quote_count": 0,
-    "reply_count": 18,
-    "repost_count": 9
+    "reply_count": 20,
+    "repost_count": 11
    },
    "reply_en": "😳 If one cut cable can black out a whole country, that's the real stress test for anything \"decentralized\". Bitcoin nodes can still sync over Blockstream's satellite broadcast. Has anyone in Pakistan confirmed how long it lasted?",
    "in_niche": true,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10.1 h, ~5,502 vistas/h, autor 48,687 seguidores, replies: 18",
-    "vph": 5502
+    "reason": "14.1 h, ~4,254 vistas/h, autor 48,687 seguidores, replies: 20",
+    "vph": 4254
    }
   },
   {
@@ -49,8 +49,8 @@
    "url": "https://x.com/CryptoReviewing/status/2123219714344132715",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 6888,
-    "like_count": 16,
+    "impression_count": 7718,
+    "like_count": 17,
     "quote_count": 0,
     "reply_count": 3,
     "repost_count": 3
@@ -63,8 +63,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "11.1 h, ~623 vistas/h, autor 95,956 seguidores, replies: 3",
-    "vph": 623
+    "reason": "15.1 h, ~512 vistas/h, autor 95,962 seguidores, replies: 3",
+    "vph": 512
    }
   },
   {
@@ -76,12 +76,12 @@
    "lang": "en",
    "url": "https://x.com/dotkrueger/status/2123206885377773997",
    "m": {
-    "bookmark_count": 35,
-    "impression_count": 12888,
-    "like_count": 292,
-    "quote_count": 4,
-    "reply_count": 13,
-    "repost_count": 23
+    "bookmark_count": 37,
+    "impression_count": 13979,
+    "like_count": 329,
+    "quote_count": 5,
+    "reply_count": 14,
+    "repost_count": 26
    },
    "reply_en": "👀 \"Perfect\" on a sample of about four cycles. Below the 200W MA the entry is the easy part; in 2022 BTC sat under it for roughly 7 months. How long can you hold underwater without leverage?",
    "in_niche": true,
@@ -89,10 +89,10 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "11.9 h, ~1,082 vistas/h, autor 387,939 seguidores, replies: 13",
-    "vph": 1082
+    "level": "medio",
+    "score": 2,
+    "reason": "15.9 h, ~878 vistas/h, autor 387,943 seguidores, replies: 14",
+    "vph": 878
    },
    "visual": "gráfico: precio de BTC vs media móvil de 200 semanas, sombreando los periodos bajo la media (2015, 2020, 2022 y hoy) — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
@@ -106,11 +106,11 @@
    "url": "https://x.com/seth_fin/status/2123202152646455383",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 5196,
-    "like_count": 33,
+    "impression_count": 5516,
+    "like_count": 39,
     "quote_count": 1,
     "reply_count": 8,
-    "repost_count": 1
+    "repost_count": 2
    },
    "reply_en": "👀 \"The board should serve the shareholders\" is the cleanest line here. Which part of the decision hurts NVDA holders more: the cost itself, or the precedent it sets?",
    "in_niche": true,
@@ -120,8 +120,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "12.2 h, ~425 vistas/h, autor 102,146 seguidores, replies: 8",
-    "vph": 425
+    "reason": "16.2 h, ~340 vistas/h, autor 102,147 seguidores, replies: 8",
+    "vph": 340
    }
   },
   {
@@ -133,12 +133,12 @@
    "lang": "en",
    "url": "https://x.com/Cointelegraph/status/2123182068704203186",
    "m": {
-    "bookmark_count": 58,
-    "impression_count": 72678,
-    "like_count": 614,
-    "quote_count": 17,
-    "reply_count": 136,
-    "repost_count": 60
+    "bookmark_count": 65,
+    "impression_count": 79335,
+    "like_count": 676,
+    "quote_count": 19,
+    "reply_count": 149,
+    "repost_count": 66
    },
    "reply_en": "😱 $10K $BTC and a money-printing rally in the same forecast: Hayes is pricing both tails. If both happen, the only sure way to lose is leverage in between. Which comes first for you, the crash or the printer?",
    "in_niche": true,
@@ -148,8 +148,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "13.6 h, ~5,362 vistas/h, autor 2,928,054 seguidores, replies: 136",
-    "vph": 5362
+    "reason": "17.6 h, ~4,519 vistas/h, autor 2,928,071 seguidores, replies: 149",
+    "vph": 4519
    }
   },
   {
@@ -162,11 +162,11 @@
    "url": "https://x.com/CryptoReviewing/status/2123166858450751857",
    "m": {
     "bookmark_count": 9,
-    "impression_count": 15630,
-    "like_count": 88,
+    "impression_count": 16742,
+    "like_count": 95,
     "quote_count": 3,
-    "reply_count": 11,
-    "repost_count": 17
+    "reply_count": 12,
+    "repost_count": 18
    },
    "reply_en": "🚨 $10M gone, and the vault wasn't the weak point: reports point to a leaked API key, not cold storage. Every always-online connection is attack surface. I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
    "in_niche": true,
@@ -174,10 +174,10 @@
    "reply_lang": "en",
    "with_link": true,
    "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "14.6 h, ~1,073 vistas/h, autor 95,956 seguidores, replies: 11",
-    "vph": 1073
+    "level": "medio",
+    "score": 2,
+    "reason": "18.6 h, ~902 vistas/h, autor 95,962 seguidores, replies: 12",
+    "vph": 902
    }
   },
   {
@@ -189,12 +189,12 @@
    "lang": "en",
    "url": "https://x.com/fergalpha/status/2123132117655998890",
    "m": {
-    "bookmark_count": 38,
-    "impression_count": 39870,
-    "like_count": 375,
+    "bookmark_count": 45,
+    "impression_count": 45751,
+    "like_count": 420,
     "quote_count": 2,
-    "reply_count": 128,
-    "repost_count": 89
+    "reply_count": 134,
+    "repost_count": 103
    },
    "reply_en": "💀 -99.8% and he's still running the company a quarter century later. That's the real HODL résumé; most people sell at -30%. What's the deepest drawdown you've actually held through?",
    "in_niche": true,
@@ -204,8 +204,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "16.9 h, ~2,364 vistas/h, autor 171,558 seguidores, replies: 128",
-    "vph": 2364
+    "reason": "20.9 h, ~2,193 vistas/h, autor 171,663 seguidores, replies: 134",
+    "vph": 2193
    }
   },
   {
@@ -218,8 +218,8 @@
    "url": "https://x.com/RonSwanonson/status/2123118093480452393",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1352,
-    "like_count": 62,
+    "impression_count": 1393,
+    "like_count": 65,
     "quote_count": 0,
     "reply_count": 5,
     "repost_count": 3
@@ -232,8 +232,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "17.8 h, ~76 vistas/h, autor 11,617 seguidores, replies: 5",
-    "vph": 76
+    "reason": "21.8 h, ~64 vistas/h, autor 11,622 seguidores, replies: 5",
+    "vph": 64
    }
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://x.com/ArchLending/status/2123098029402313080",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 2283,
+    "impression_count": 2389,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 1,
@@ -260,8 +260,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "19.1 h, ~119 vistas/h, autor 7,668 seguidores, replies: 1",
-    "vph": 119
+    "reason": "23.1 h, ~103 vistas/h, autor 7,667 seguidores, replies: 1",
+    "vph": 103
    }
   },
   {
@@ -274,8 +274,8 @@
    "url": "https://x.com/patato_ass/status/2123097786220482663",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 533,
-    "like_count": 25,
+    "impression_count": 562,
+    "like_count": 26,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 3
@@ -288,94 +288,10 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "19.1 h, ~28 vistas/h, autor 8,238 seguidores, replies: 2",
-    "vph": 28
+    "reason": "23.1 h, ~24 vistas/h, autor 8,257 seguidores, replies: 2",
+    "vph": 24
    },
    "visual": "gráfico: retorno de BTC vs oro según la fecha de inicio (nov-2020 vs nov-2021), mostrando cómo cambia el resultado — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
-  },
-  {
-   "id": "2123084225972719622",
-   "author": "Sabrina crypto",
-   "username": "sabrinacallz",
-   "text": "TOM LEE WARNED ON NATIONAL TV THAT EVERYONE NOT BUYING BITCOIN AND CRYPTO RIGHT NOW WILL MISS OUT ON \"PARABOLIC\" GAINS\n\nHE KNOWS WHAT'S COMING 🚀 https://t.co/tGY9vzsgNh",
-   "created_at": "2026-11-18T16:01:39.000Z",
-   "lang": "en",
-   "url": "https://x.com/sabrinacallz/status/2123084225972719622",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 2960,
-    "like_count": 8,
-    "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 4
-   },
-   "reply_en": "⚠️ \"Buy now or miss out\" has been said at every price, tops included. A forecast isn't a plan. What's yours if $BTC drops another 30% first?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "20.0 h, ~148 vistas/h, autor 99,854 seguidores, replies: 2",
-    "vph": 148
-   }
-  },
-  {
-   "id": "2123079307396276470",
-   "author": "Grant Cardone",
-   "username": "GrantCardone",
-   "text": "Would you invest 1,000,000 in Anthropic?",
-   "created_at": "2026-11-18T15:42:06.000Z",
-   "lang": "en",
-   "url": "https://x.com/GrantCardone/status/2123079307396276470",
-   "m": {
-    "bookmark_count": 12,
-    "impression_count": 52944,
-    "like_count": 428,
-    "quote_count": 11,
-    "reply_count": 431,
-    "repost_count": 25
-   },
-   "reply_en": "😅 Most people can't, and that's the point: private AI rounds are closed to normal investors. With $BTC, $10 buys the same asset as $1M. Would you take the Anthropic stake or the same $1M in spot BTC?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "20.4 h, ~2,600 vistas/h, autor 1,271,670 seguidores, replies: 431",
-    "vph": 2600
-   }
-  },
-  {
-   "id": "2123046842963251544",
-   "author": "Jeff Swanson",
-   "username": "theswansjr",
-   "text": "Every few decades the economy gets rewired.\n1870s. Electricity.\n1920s. Automobiles.\n1970s. Personal computers.\n1990s. The internet.\n2009. Bitcoin.\n\nEvery one was “a toy,” “a fad,” “a bubble.” Right up until it was the air you breathe.\n\nHindsight is the most expensive lens in",
-   "created_at": "2026-11-18T13:33:06.000Z",
-   "lang": "en",
-   "url": "https://x.com/theswansjr/status/2123046842963251544",
-   "m": {
-    "bookmark_count": 6,
-    "impression_count": 3607,
-    "like_count": 145,
-    "quote_count": 2,
-    "reply_count": 21,
-    "repost_count": 16
-   },
-   "reply_en": "🔌 Every one of those also had a brutal crash after the hype: the internet had 2000, Bitcoin has had several 75%+ drops. Being right on the tech didn't mean being right on timing. Which one would you have held through its crash?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "22.5 h, ~160 vistas/h, autor 15,363 seguidores, replies: 21",
-    "vph": 160
-   }
   }
  ]
 }
