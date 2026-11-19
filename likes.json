@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T15:45:06-03:00",
+  "generated_at": "2026-11-19T16:08:21-03:00",
   "window_hours": 24,
-  "likes_scanned": 197,
+  "likes_scanned": 100,
   "listed": 16,
   "in_niche": 16,
   "not_recommended": 0,
-  "new_since_prev": 16,
-  "removed_replied": 7,
-  "removed_old": 3
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 0
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/halstonvalencia/status/2123465747712106678",
    "m": {
-    "bookmark_count": 3,
-    "impression_count": 1383,
-    "like_count": 46,
+    "bookmark_count": 4,
+    "impression_count": 1621,
+    "like_count": 54,
     "quote_count": 0,
     "reply_count": 7,
-    "repost_count": 5
+    "repost_count": 6
    },
    "reply_en": "😳 That 1-in-10,000 figure is the one that stays with me: a whole coin is already a tiny club. If those odds are even roughly right, how many of that club do you think still hold through a 70% drawdown?",
    "in_niche": true,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "1.5 h, ~949 vistas/h, autor 16,092 seguidores, replies: 7",
-    "vph": 949
+    "reason": "1.8 h, ~879 vistas/h, autor 16,093 seguidores, replies: 7",
+    "vph": 879
    }
   },
   {
@@ -48,12 +48,12 @@
    "lang": "en",
    "url": "https://x.com/GrantCardone/status/2123459094522781924",
    "m": {
-    "bookmark_count": 39,
-    "impression_count": 39612,
-    "like_count": 541,
-    "quote_count": 6,
-    "reply_count": 63,
-    "repost_count": 34
+    "bookmark_count": 51,
+    "impression_count": 46568,
+    "like_count": 622,
+    "quote_count": 7,
+    "reply_count": 70,
+    "repost_count": 42
    },
    "reply_en": "😳 Reports put the average near $44M at the $83 IPO price, a historic paper print, and a lot of it stays locked at first. If you had to park a gain like that for 10 years, would you rather hold the stock, cash, or an asset with a 21M cap?",
    "in_niche": true,
@@ -63,8 +63,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "1.9 h, ~20,871 vistas/h, autor 1,271,664 seguidores, replies: 63",
-    "vph": 20871
+    "reason": "2.3 h, ~20,375 vistas/h, autor 1,271,666 seguidores, replies: 70",
+    "vph": 20375
    }
   },
   {
@@ -91,8 +91,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "2.0 h, ~8 vistas/h, autor 135 seguidores, replies: 0",
-    "vph": 8
+    "reason": "2.4 h, ~7 vistas/h, autor 135 seguidores, replies: 0",
+    "vph": 7
    }
   },
   {
@@ -104,9 +104,9 @@
    "lang": "en",
    "url": "https://x.com/cryptogoos/status/2123447457988153500",
    "m": {
-    "bookmark_count": 2,
-    "impression_count": 11769,
-    "like_count": 58,
+    "bookmark_count": 3,
+    "impression_count": 12895,
+    "like_count": 64,
     "quote_count": 0,
     "reply_count": 5,
     "repost_count": 2
@@ -119,8 +119,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "2.7 h, ~4,410 vistas/h, autor 120,809 seguidores, replies: 5",
-    "vph": 4410
+    "reason": "3.1 h, ~4,219 vistas/h, autor 120,818 seguidores, replies: 5",
+    "vph": 4219
    }
   },
   {
@@ -133,8 +133,8 @@
    "url": "https://x.com/Myntad_com/status/2123446201043542108",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 403,
-    "like_count": 13,
+    "impression_count": 425,
+    "like_count": 15,
     "quote_count": 0,
     "reply_count": 7,
     "repost_count": 0
@@ -145,10 +145,10 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "2.8 h, ~146 vistas/h, autor 1,583 seguidores, replies: 7",
-    "vph": 146
+    "level": "bajo",
+    "score": 1,
+    "reason": "3.1 h, ~135 vistas/h, autor 1,582 seguidores, replies: 7",
+    "vph": 135
    },
    "visual": "comparación 2030: oferta ya minada de BTC vs oro aún por extraer — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
@@ -161,9 +161,9 @@
    "lang": "en",
    "url": "https://x.com/grok/status/2123443970285933037",
    "m": {
-    "bookmark_count": 19,
-    "impression_count": 15094,
-    "like_count": 120,
+    "bookmark_count": 23,
+    "impression_count": 17407,
+    "like_count": 136,
     "quote_count": 0,
     "reply_count": 3,
     "repost_count": 7
@@ -176,8 +176,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "2.9 h, ~5,206 vistas/h, autor 9,426,010 seguidores, replies: 3",
-    "vph": 5206
+    "reason": "3.3 h, ~5,295 vistas/h, autor 9,426,152 seguidores, replies: 3",
+    "vph": 5295
    }
   },
   {
@@ -189,12 +189,12 @@
    "lang": "en",
    "url": "https://x.com/TedPillows/status/2123443806527709492",
    "m": {
-    "bookmark_count": 52,
-    "impression_count": 142122,
-    "like_count": 707,
-    "quote_count": 5,
-    "reply_count": 142,
-    "repost_count": 38
+    "bookmark_count": 64,
+    "impression_count": 166908,
+    "like_count": 788,
+    "quote_count": 6,
+    "reply_count": 157,
+    "repost_count": 46
    },
    "reply_en": "😱 When even the DXY falls with $BTC, gold and stocks, it's not a simple risk-off rotation. Cash, T-bills or just evaporating mark-to-market can all look the same on a screen. Which one do you think is actually absorbing the liquidity?",
    "in_niche": true,
@@ -204,8 +204,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "2.9 h, ~48,832 vistas/h, autor 324,349 seguidores, replies: 142",
-    "vph": 48832
+    "reason": "3.3 h, ~50,608 vistas/h, autor 324,381 seguidores, replies: 157",
+    "vph": 50608
    },
    "visual": "gráfico: BTC, oro, acciones, bonos y DXY todos en rojo el mismo día — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
@@ -219,8 +219,8 @@
    "url": "https://x.com/LIsabella_o/status/2123428232678834291",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 10615,
-    "like_count": 119,
+    "impression_count": 13436,
+    "like_count": 120,
     "quote_count": 0,
     "reply_count": 2,
     "repost_count": 6
@@ -233,8 +233,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "3.9 h, ~2,693 vistas/h, autor 2,105 seguidores, replies: 2",
-    "vph": 2693
+    "reason": "4.3 h, ~3,103 vistas/h, autor 2,106 seguidores, replies: 2",
+    "vph": 3103
    }
   },
   {
@@ -247,7 +247,7 @@
    "url": "https://x.com/cryptogoos/status/2123399642452734250",
    "m": {
     "bookmark_count": 4,
-    "impression_count": 8342,
+    "impression_count": 8510,
     "like_count": 122,
     "quote_count": 0,
     "reply_count": 2,
@@ -261,8 +261,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "5.8 h, ~1,430 vistas/h, autor 120,809 seguidores, replies: 2",
-    "vph": 1430
+    "reason": "6.2 h, ~1,368 vistas/h, autor 120,818 seguidores, replies: 2",
+    "vph": 1368
    }
   },
   {
@@ -275,10 +275,10 @@
    "url": "https://x.com/Cryptoze/status/2123371205600165941",
    "m": {
     "bookmark_count": 9,
-    "impression_count": 14180,
-    "like_count": 464,
+    "impression_count": 14600,
+    "like_count": 481,
     "quote_count": 0,
-    "reply_count": 131,
+    "reply_count": 133,
     "repost_count": 67
    },
    "reply_en": "🚨 Calling the exact bottom is how a lot of people get trapped in the next leg. That $500k line is a drawn channel, not a guarantee, and 2018 and 2022 both spent months around the low. What would invalidate this bottom for you?",
@@ -289,8 +289,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "7.7 h, ~1,837 vistas/h, autor 92,583 seguidores, replies: 131",
-    "vph": 1837
+    "reason": "8.1 h, ~1,801 vistas/h, autor 92,585 seguidores, replies: 133",
+    "vph": 1801
    }
   },
   {
@@ -303,8 +303,8 @@
    "url": "https://x.com/QuintenFrancois/status/2123361641987473474",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 7473,
-    "like_count": 189,
+    "impression_count": 7546,
+    "like_count": 194,
     "quote_count": 0,
     "reply_count": 9,
     "repost_count": 10
@@ -317,8 +317,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "8.4 h, ~895 vistas/h, autor 205,618 seguidores, replies: 9",
-    "vph": 895
+    "reason": "8.7 h, ~863 vistas/h, autor 205,617 seguidores, replies: 9",
+    "vph": 863
    }
   },
   {
@@ -330,9 +330,9 @@
    "lang": "en",
    "url": "https://x.com/cryptorover/status/2123360635417243825",
    "m": {
-    "bookmark_count": 11,
-    "impression_count": 50037,
-    "like_count": 730,
+    "bookmark_count": 12,
+    "impression_count": 50641,
+    "like_count": 749,
     "quote_count": 1,
     "reply_count": 112,
     "repost_count": 38
@@ -345,8 +345,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "8.4 h, ~5,944 vistas/h, autor 1,623,835 seguidores, replies: 112",
-    "vph": 5944
+    "reason": "8.8 h, ~5,751 vistas/h, autor 1,623,844 seguidores, replies: 112",
+    "vph": 5751
    }
   },
   {
@@ -359,7 +359,7 @@
    "url": "https://x.com/GuoShenCN7/status/2123307384437166495",
    "m": {
     "bookmark_count": 23,
-    "impression_count": 21774,
+    "impression_count": 22416,
     "like_count": 180,
     "quote_count": 1,
     "reply_count": 29,
@@ -373,8 +373,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "11.9 h, ~1,823 vistas/h, autor 155,658 seguidores, replies: 29",
-    "vph": 1823
+    "reason": "12.3 h, ~1,818 vistas/h, autor 155,658 seguidores, replies: 29",
+    "vph": 1818
    },
    "visual": "línea de tiempo de halvings hasta 2028, con el precio actual y el recuento de días al próximo — fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
@@ -388,8 +388,8 @@
    "url": "https://x.com/Pleb_Style/status/2123307053200408823",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 859,
-    "like_count": 39,
+    "impression_count": 874,
+    "like_count": 41,
     "quote_count": 0,
     "reply_count": 3,
     "repost_count": 7
@@ -400,10 +400,10 @@
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "12.0 h, ~72 vistas/h, autor 5,569 seguidores, replies: 3",
-    "vph": 72
+    "level": "bajo",
+    "score": 1,
+    "reason": "12.4 h, ~71 vistas/h, autor 5,569 seguidores, replies: 3",
+    "vph": 71
    }
   },
   {
@@ -415,12 +415,12 @@
    "lang": "hi",
    "url": "https://x.com/INDIAFIRST4421/status/2123226264593170643",
    "m": {
-    "bookmark_count": 1047,
-    "impression_count": 3276460,
-    "like_count": 4575,
+    "bookmark_count": 1090,
+    "impression_count": 3366626,
+    "like_count": 4757,
     "quote_count": 18,
-    "reply_count": 119,
-    "repost_count": 162
+    "reply_count": 122,
+    "repost_count": 164
    },
    "reply_en": "😳 यह इंसान नहीं, हिरण का नवजात बच्चा लगता है। माँ घबराहट या तनाव में कदम बढ़ा सकती है, खासकर बाड़े जैसी जगह में। क्लिप में साफ़ है कि वह कदम जानबूझकर था, या बचाव के बाद माँ शांत हुई?",
    "in_niche": true,
@@ -430,8 +430,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "17.3 h, ~189,198 vistas/h, autor 3,514 seguidores, replies: 119",
-    "vph": 189198
+    "reason": "17.7 h, ~190,148 vistas/h, autor 3,517 seguidores, replies: 122",
+    "vph": 190148
    }
   },
   {
@@ -443,12 +443,12 @@
    "lang": "en",
    "url": "https://x.com/its_The_Dr/status/2123156272614686940",
    "m": {
-    "bookmark_count": 566,
-    "impression_count": 792168,
-    "like_count": 3793,
-    "quote_count": 8,
-    "reply_count": 45,
-    "repost_count": 221
+    "bookmark_count": 599,
+    "impression_count": 832124,
+    "like_count": 3989,
+    "quote_count": 9,
+    "reply_count": 48,
+    "repost_count": 235
    },
    "reply_en": "😆 A 105-second compilation of satisfying work, and I still can't explain why it's so watchable. Which clip got you, the hopper or the bamboo?",
    "in_niche": true,
@@ -458,8 +458,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "22.0 h, ~36,085 vistas/h, autor 781,352 seguidores, replies: 45",
-    "vph": 36085
+    "reason": "22.3 h, ~37,247 vistas/h, autor 781,347 seguidores, replies: 48",
+    "vph": 37247
    }
   }
  ]
