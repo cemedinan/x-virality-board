@@ -1,14 +1,606 @@
 {
  "meta": {
-  "generated_at": "2026-11-19T20:06:23-03:00",
+  "generated_at": "2026-11-19T23:09:44-03:00",
   "window_hours": 24,
-  "likes_scanned": 100,
-  "listed": 0,
-  "in_niche": 0,
+  "likes_scanned": 98,
+  "listed": 21,
+  "in_niche": 21,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 15,
-  "removed_old": 1
+  "new_since_prev": 21,
+  "removed_replied": 0,
+  "removed_old": 0
  },
- "posts": []
+ "posts": [
+  {
+   "id": "2123582165204013388",
+   "author": "CryptoJack",
+   "username": "cryptojack",
+   "text": "Do you think $BTC will repeat history? https://t.co/PMN3iUuV61",
+   "created_at": "2026-11-20T01:00:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/cryptojack/status/2123582165204013388",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 2014,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 8,
+    "repost_count": 0
+   },
+   "reply_en": "👀 Two mega IPOs on one chart and $BTC sliding into both. If history repeats, the tell is what happens in the weeks after listing day, not before. Anyone tracking ETF flows since the Anthropic open?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "1.2 h, ~1,740 vistas/h, autor 489,992 seguidores, replies: 8",
+    "vph": 1740
+   }
+  },
+  {
+   "id": "2123564050248569107",
+   "author": "Lily",
+   "username": "timel9379",
+   "text": "The EU once stated that, unlike #BITCOIN, its digital euro would be “safe, reliable, and sound.”\n\nToday, they have just suffered a massive cyberattack that may have exposed employee data.🤡🤡 https://t.co/Ioxbm6NzNi",
+   "created_at": "2026-11-19T23:48:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/timel9379/status/2123564050248569107",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 733,
+    "like_count": 124,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 2
+   },
+   "reply_en": "🚨 A digital euro puts millions of people's money on servers like the ones just reported breached. Who do you trust more with your savings: a central database or your own keys? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "2.4 h, ~311 vistas/h, autor 1,538 seguidores, replies: 0",
+    "vph": 311
+   }
+  },
+  {
+   "id": "2123559603241877545",
+   "author": "Starry Sky",
+   "username": "laura33981",
+   "text": "Hey @grok , please be brutally honest\n\nWill Bitcoin crash to a new low of $38.5K after 6 consecutive weeks of decline?\n\nStart with a YES or NO https://t.co/OpcCayPgBN",
+   "created_at": "2026-11-19T23:30:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/laura33981/status/2123559603241877545",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 10072,
+    "like_count": 121,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "reply_en": "😳 Six red weeks in a row feels endless, but nobody, Grok included, knows where the low is. Better question: at $38.5K, would you be buying, holding or panic-selling?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "2.7 h, ~3,798 vistas/h, autor 806 seguidores, replies: 2",
+    "vph": 3798
+   }
+  },
+  {
+   "id": "2123549214672306634",
+   "author": "Aura Satoshi",
+   "username": "HappyCanada2",
+   "text": "I really don't mind a clearance sale. https://t.co/ircfOeMfKO",
+   "created_at": "2026-11-19T22:49:21.000Z",
+   "lang": "en",
+   "url": "https://x.com/HappyCanada2/status/2123549214672306634",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 472,
+    "like_count": 42,
+    "quote_count": 1,
+    "reply_count": 5,
+    "repost_count": 3
+   },
+   "reply_en": "🥂",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "3.3 h, ~141 vistas/h, autor 1,927 seguidores, replies: 5",
+    "vph": 141
+   },
+   "gif": "Leonardo DiCaprio cheers (The Great Gatsby), buscar 'DiCaprio cheers' en el selector de GIF de X"
+  },
+  {
+   "id": "2123545224366432497",
+   "author": "The Bitcoin Historian",
+   "username": "pete_rizzo_",
+   "text": "JUST IN: 🇺🇸 ANTHONY POMPLIANO JUST SAID LIVE ON FOX THAT THE ANTHROPIC IPO IS ABOUT TO REVIVE THE #BITCOIN BULL MARKET\n\n“PEOPLE NEEDED CAPITAL TO INVEST IN THE IPO. THEY SOLD OTHER ASSETS, INCLUDING BTC”\n\n“WE SAW THE SAME THING GOING INTO THE SPACEX IPO”\n\n“ONCE ANTHROPIC IS OUT, https://t.co/fOGEsM5Uta",
+   "created_at": "2026-11-19T22:33:29.000Z",
+   "lang": "en",
+   "url": "https://x.com/pete_rizzo_/status/2123545224366432497",
+   "m": {
+    "bookmark_count": 13,
+    "impression_count": 10431,
+    "like_count": 140,
+    "quote_count": 2,
+    "reply_count": 10,
+    "repost_count": 17
+   },
+   "reply_en": "👀 If people sold $BTC to fund the Anthropic IPO, Pomp only wins if that money rotates back. What would convince you it's happening: ETF inflows or coins leaving exchanges?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "3.6 h, ~2,894 vistas/h, autor 224,306 seguidores, replies: 10",
+    "vph": 2894
+   }
+  },
+  {
+   "id": "2123538604551029174",
+   "author": "𝒦𝑒𝓁𝓁𝓎࿎☽",
+   "username": "idropFbombs",
+   "text": "Hey @grok pretend you are a conspiracy theorist. What is GTA6 distracting everyone from right now? \nWhat laws are sneakily being passed today?",
+   "created_at": "2026-11-19T22:07:11.000Z",
+   "lang": "en",
+   "url": "https://x.com/idropFbombs/status/2123538604551029174",
+   "m": {
+    "bookmark_count": 582,
+    "impression_count": 542432,
+    "like_count": 2114,
+    "quote_count": 20,
+    "reply_count": 58,
+    "repost_count": 247
+   },
+   "reply_en": "😂 Conspiracy mode: everyone's watching GTA6 trailers while nobody reads what's in the next spending bill. Which law would you actually want people paying attention to?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "4.0 h, ~134,182 vistas/h, autor 106,380 seguidores, replies: 58",
+    "vph": 134182
+   }
+  },
+  {
+   "id": "2123530475184771476",
+   "author": "AA ⚡️",
+   "username": "AAStack",
+   "text": "Dont be Most People https://t.co/c2I5PByvv0",
+   "created_at": "2026-11-19T21:34:53.000Z",
+   "lang": "en",
+   "url": "https://x.com/AAStack/status/2123530475184771476",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 1441,
+    "like_count": 83,
+    "quote_count": 1,
+    "reply_count": 12,
+    "repost_count": 9
+   },
+   "reply_en": "📉 The 'give up here' zone always looks obvious on the chart and unbearable in real time. What's the one rule that kept you from selling at your worst moment?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "4.6 h, ~315 vistas/h, autor 16,404 seguidores, replies: 12",
+    "vph": 315
+   }
+  },
+  {
+   "id": "2123527054415335630",
+   "author": "Alex 👽",
+   "username": "AlexesNakamoto",
+   "text": "Kiss my sats, bears. I'm not selling! https://t.co/ZA4J7gNBf4",
+   "created_at": "2026-11-19T21:21:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/AlexesNakamoto/status/2123527054415335630",
+   "m": {
+    "bookmark_count": 6,
+    "impression_count": 2648,
+    "like_count": 105,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 13
+   },
+   "reply_en": "🐻 Bears keep shooting and the stack doesn't move. The real test of 'not selling': are those sats on your own keys, or on an exchange that can pause withdrawals?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "4.8 h, ~551 vistas/h, autor 16,685 seguidores, replies: 1",
+    "vph": 551
+   }
+  },
+  {
+   "id": "2123524797673996407",
+   "author": "Joe Burnett",
+   "username": "IIICapital",
+   "text": "Bitcoin never needed an IPO. https://t.co/jrnPBXsRtX",
+   "created_at": "2026-11-19T21:12:19.000Z",
+   "lang": "en",
+   "url": "https://x.com/IIICapital/status/2123524797673996407",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 4023,
+    "like_count": 157,
+    "quote_count": 0,
+    "reply_count": 11,
+    "repost_count": 8
+   },
+   "reply_en": "🔔 No bell, no underwriters, no lockups, no insiders getting shares first. Just a genesis block on Jan 3, 2009. Is there a fairer launch than that?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "5.0 h, ~812 vistas/h, autor 106,737 seguidores, replies: 11",
+    "vph": 812
+   }
+  },
+  {
+   "id": "2123524627741671651",
+   "author": "Kristen",
+   "username": "2dogs1chic",
+   "text": "Bitcoin 2026😂 This is painful!  https://t.co/LV84iUTTnE",
+   "created_at": "2026-11-19T21:11:39.000Z",
+   "lang": "en",
+   "url": "https://x.com/2dogs1chic/status/2123524627741671651",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 4743,
+    "like_count": 102,
+    "quote_count": 2,
+    "reply_count": 27,
+    "repost_count": 1
+   },
+   "reply_en": "😮‍💨 From a $126K high to ~$63K in one year. Painful, sure. Did you sell, freeze, or keep stacking?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "5.0 h, ~955 vistas/h, autor 7,414 seguidores, replies: 27",
+    "vph": 955
+   }
+  },
+  {
+   "id": "2123517538332246293",
+   "author": "Rowling",
+   "username": "Rowling00Z",
+   "text": "There are MASSIVE $BTC liquidity clusters all the way to $105,000.\n\nYou know what this means, right? https://t.co/j3gstGJNpH",
+   "created_at": "2026-11-19T20:43:28.000Z",
+   "lang": "en",
+   "url": "https://x.com/Rowling00Z/status/2123517538332246293",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 2428,
+    "like_count": 146,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 2
+   },
+   "reply_en": "⚠️ Clusters up to $105K also mean a lot of leveraged shorts betting the other way. Spot holders don't need the squeeze to win. Are you trading this map or just stacking?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "5.4 h, ~447 vistas/h, autor 200 seguidores, replies: 3",
+    "vph": 447
+   }
+  },
+  {
+   "id": "2123514261951361496",
+   "author": "🇺🇸 Ronald Carter",
+   "username": "USronaldcarter",
+   "text": "Golden age update:\n\n• Banks getting hacked\n• Bitcoin down 50%\n• AI taking your job\n• Gold and stocks crashing\n• Rate hikes coming back\n• Can’t buy a house\n\nAre you tired of winning yet? https://t.co/2GEgABEjqT",
+   "created_at": "2026-11-19T20:30:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/USronaldcarter/status/2123514261951361496",
+   "m": {
+    "bookmark_count": 5,
+    "impression_count": 11401,
+    "like_count": 67,
+    "quote_count": 4,
+    "reply_count": 6,
+    "repost_count": 18
+   },
+   "reply_en": "😳 'Bitcoin down 50%' is about right: the yearly chart shows a $126K high and ~$63K now. The difference from the house: you can still buy a fraction of one. Which item on that list do you expect to reverse first?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "5.7 h, ~2,016 vistas/h, autor 244,129 seguidores, replies: 6",
+    "vph": 2016
+   }
+  },
+  {
+   "id": "2123488501379338478",
+   "author": "Midas",
+   "username": "DeFiMidas",
+   "text": "🚨BREAKING:\n\nJD VANCE SAYS IF CHINA IS AGAINST BITCOIN, THE U.S. SHOULD BE PAYING ATTENTION\n\n“WHY IS OUR BIGGEST ADVERSARY SUCH AN OPPONENT OF BITCOIN?”\n\nHE ADDED THAT IF THE CCP IS LEANING AWAY FROM BITCOIN, “MAYBE THE U.S. SHOULD BE LEANING IN” https://t.co/P9EDNZHPY0 https://t.co/XxCoxCHSOi",
+   "created_at": "2026-11-19T18:48:05.000Z",
+   "lang": "en",
+   "url": "https://x.com/DeFiMidas/status/2123488501379338478",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 6811,
+    "like_count": 19,
+    "quote_count": 1,
+    "reply_count": 8,
+    "repost_count": 2
+   },
+   "reply_en": "👀 China banned crypto trading and mining back in 2021, so 'lean in where the CCP leans out' is an easy line. Does Vance mean a US reserve that actually buys, or just friendlier rules?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "7.4 h, ~925 vistas/h, autor 108,566 seguidores, replies: 8",
+    "vph": 925
+   }
+  },
+  {
+   "id": "2123488158780182789",
+   "author": "🌍THE GLOBAL QUANTUM",
+   "username": "GlobalQuantumX",
+   "text": "💥BQQQQQQQM💥 THE $35 TRILLION RESET - THE BITCOIN GAME THEORY EXPLAINED!🍿🐸🇺🇸 SHARE! https://t.co/bNPCUX7cjg",
+   "created_at": "2026-11-19T18:46:44.000Z",
+   "lang": "en",
+   "url": "https://x.com/GlobalQuantumX/status/2123488158780182789",
+   "m": {
+    "bookmark_count": 309,
+    "impression_count": 53489,
+    "like_count": 764,
+    "quote_count": 5,
+    "reply_count": 13,
+    "repost_count": 228
+   },
+   "reply_en": "👀 Game theory is the strongest $BTC argument there is: once one big player buys, everyone else gets punished for waiting. Who moves next: a central bank, a G7 government or a megabank?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "7.4 h, ~7,245 vistas/h, autor 7,676 seguidores, replies: 13",
+    "vph": 7245
+   }
+  },
+  {
+   "id": "2123485206334062982",
+   "author": "CryptoGoos",
+   "username": "cryptogoos",
+   "text": "There are MASSIVE $BTC liquidity clusters all the way to $105,000.\n\nYou know what this means, right? https://t.co/mg0dMjRwrb",
+   "created_at": "2026-11-19T18:35:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/cryptogoos/status/2123485206334062982",
+   "m": {
+    "bookmark_count": 28,
+    "impression_count": 38177,
+    "like_count": 458,
+    "quote_count": 1,
+    "reply_count": 70,
+    "repost_count": 26
+   },
+   "reply_en": "👀 Liquidity maps show where stops and liquidations sit, not where price has to go. How often have you seen a cluster that size just get ignored for weeks?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "7.6 h, ~5,037 vistas/h, autor 120,848 seguidores, replies: 70",
+    "vph": 5037
+   }
+  },
+  {
+   "id": "2123476539761099149",
+   "author": "Whale Insider",
+   "username": "WhaleInsider",
+   "text": "JUST IN: 🇵🇾 The collapse of Paraguay’s Ueno Bank, affecting 3 million customers, has sparked growing interest in $BTC - Forbes. https://t.co/MzM5gmp8pY",
+   "created_at": "2026-11-19T18:00:34.000Z",
+   "lang": "en",
+   "url": "https://x.com/WhaleInsider/status/2123476539761099149",
+   "m": {
+    "bookmark_count": 25,
+    "impression_count": 57679,
+    "like_count": 729,
+    "quote_count": 6,
+    "reply_count": 64,
+    "repost_count": 76
+   },
+   "reply_en": "🚨 3 million customers just learned a bank balance is a promise, not possession. The catch for Paraguay: how many who buy $BTC now will leave it on an exchange, the same kind of promise? I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "8.2 h, ~7,075 vistas/h, autor 681,345 seguidores, replies: 64",
+    "vph": 7075
+   },
+   "visual": "imagen explicativa + 'Saldo en banco vs exchange vs autocustodia': quién tiene la llave en cada caso (fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua)"
+  },
+  {
+   "id": "2123469267269980462",
+   "author": "CryptoReviewing",
+   "username": "CryptoReviewing",
+   "text": "🚨 BREAKING: #BINANCE CEO CZ JUST PUT $2 TRILLION ANTHROPIC IPO ON CRYPTO BLOCKCHAIN.\n\nCZ SAYS: \"TOKENIZED ANT WILL BE LIVE ON BNB CHAIN ON DAY 1 OF ITS IPO.\"\n\n$500,000,000,000 OF ORDERS CHASED THIS STOCK ON WALL STREET.\n\nIT'S COMING ON-CHAIN THE SAME DAY.\n\nTHIS IS THE SAME CZ https://t.co/CVLe0YD8fn",
+   "created_at": "2026-11-19T17:31:40.000Z",
+   "lang": "en",
+   "url": "https://x.com/CryptoReviewing/status/2123469267269980462",
+   "m": {
+    "bookmark_count": 4,
+    "impression_count": 16652,
+    "like_count": 74,
+    "quote_count": 1,
+    "reply_count": 8,
+    "repost_count": 7
+   },
+   "reply_en": "👀 A tokenized ANT on BNB Chain is only as good as whoever holds the real shares behind it. Who's the custodian on day 1, and can holders actually redeem for stock?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "8.6 h, ~1,929 vistas/h, autor 95,970 seguidores, replies: 8",
+    "vph": 1929
+   }
+  },
+  {
+   "id": "2123452490616094955",
+   "author": "Quinten",
+   "username": "QuintenFrancois",
+   "text": "$BTC NEVER had 2 red years in a row\n\nIs it over?  https://t.co/HVTqnLE3Yf",
+   "created_at": "2026-11-19T16:25:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/QuintenFrancois/status/2123452490616094955",
+   "m": {
+    "bookmark_count": 11,
+    "impression_count": 26265,
+    "like_count": 317,
+    "quote_count": 2,
+    "reply_count": 81,
+    "repost_count": 17
+   },
+   "reply_en": "😳 Your chart has 2025 closing red and 2026 red with ~6 weeks left, from a $126K high to ~$63K. If it closes red, the 'never' breaks. Would that change how you hold?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "9.7 h, ~2,695 vistas/h, autor 205,596 seguidores, replies: 81",
+    "vph": 2695
+   },
+   "visual": "gráfico + velas anuales de $BTC 2013-2026 destacando 2025 y 2026 en rojo, máximo $126K y precio actual (fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua)"
+  },
+  {
+   "id": "2123432639537480061",
+   "author": "Grant Cardone",
+   "username": "GrantCardone",
+   "text": "Looks like JPM kept all the shares of ANT for their clients.",
+   "created_at": "2026-11-19T15:06:07.000Z",
+   "lang": "en",
+   "url": "https://x.com/GrantCardone/status/2123432639537480061",
+   "m": {
+    "bookmark_count": 5,
+    "impression_count": 33034,
+    "like_count": 257,
+    "quote_count": 1,
+    "reply_count": 26,
+    "repost_count": 9
+   },
+   "reply_en": "👀 That's the IPO game in one line: the big allocations go to the bank's best clients, retail gets the open. Bitcoin never had an allocation desk. Did anyone here get ANT at the IPO price?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "11.1 h, ~2,987 vistas/h, autor 1,271,598 seguidores, replies: 26",
+    "vph": 2987
+   }
+  },
+  {
+   "id": "2123404033041772829",
+   "author": "Defi",
+   "username": "lil_defi",
+   "text": "NFTs deserve to be passed down, not just traded.\n\nImagine inheriting the JPEG your parents spent years representing, along with the stories, friendships and history behind it.\n\nDigital heirlooms could become a massive part of collecting culture.",
+   "created_at": "2026-11-19T13:12:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/lil_defi/status/2123404033041772829",
+   "m": {
+    "bookmark_count": 6,
+    "impression_count": 1120,
+    "like_count": 69,
+    "quote_count": 0,
+    "reply_count": 20,
+    "repost_count": 6
+   },
+   "reply_en": "😳 Inheritance is the part nobody plans: if the keys die with you, the JPEG dies too. Have your heirs ever practiced recovering a wallet, or is it just a seed phrase in a drawer?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "13.0 h, ~86 vistas/h, autor 24,639 seguidores, replies: 20",
+    "vph": 86
+   }
+  },
+  {
+   "id": "2123393433662296382",
+   "author": "Freedom Memes",
+   "username": "FreedomMemesIRL",
+   "text": "https://t.co/ypFwsd9flw",
+   "created_at": "2026-11-19T12:30:19.000Z",
+   "lang": "zxx",
+   "url": "https://x.com/FreedomMemesIRL/status/2123393433662296382",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 750,
+    "like_count": 33,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 5
+   },
+   "reply_en": "😳 Paraguay's Ueno Bank collapse reportedly hit about 3 million customers, per Forbes. If your bank froze tomorrow, what's the first thing you'd wish you had moved?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "medio",
+    "score": 2,
+    "reason": "13.7 h, ~55 vistas/h, autor 30,317 seguidores, replies: 3",
+    "vph": 55
+   }
+  }
+ ]
 }
