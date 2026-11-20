@@ -1,33 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-20T16:04:43-03:00",
+  "generated_at": "2026-11-20T20:10:52-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
-  "listed": 2,
-  "in_niche": 2,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 2,
-  "removed_replied": 14,
-  "removed_old": 6
+  "new_since_prev": 1,
+  "removed_replied": 2,
+  "removed_old": 0
  },
  "posts": [
   {
-   "id": "2123826627759264099",
-   "author": "Michael Saylor",
-   "username": "saylor",
-   "text": "Remember why you ₿ought. https://t.co/UxYdpFJutx",
-   "created_at": "2026-11-20T17:11:41.000Z",
+   "id": "2123864343729041747",
+   "author": "Grant Cardone",
+   "username": "GrantCardone",
+   "text": "Fed will NOT raise rates in December!\nBookmark it",
+   "created_at": "2026-11-20T19:41:33.000Z",
    "lang": "en",
-   "url": "https://x.com/saylor/status/2123826627759264099",
+   "url": "https://x.com/GrantCardone/status/2123864343729041747",
    "m": {
-    "bookmark_count": 250,
-    "impression_count": 245917,
-    "like_count": 7206,
-    "quote_count": 146,
-    "reply_count": 908,
-    "repost_count": 652
+    "bookmark_count": 365,
+    "impression_count": 125682,
+    "like_count": 2969,
+    "quote_count": 25,
+    "reply_count": 280,
+    "repost_count": 172
    },
-   "reply_en": "👀 Easy to remember on the way up, harder with $BTC at a 4-month low. Mine was never the price, it was holding keys nobody can freeze. What's the one reason that kept you holding through the last drawdown?",
+   "reply_en": "👀 Bold call, but the Fed moves on data, not bookmarks: one hot inflation print can flip December odds fast. If they do hold, does $BTC rally on relief or is it already priced in?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -35,36 +35,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "1.9 h, ~130,530 vistas/h, autor 5,220,692 seguidores, replies: 908",
-    "vph": 130530
-   }
-  },
-  {
-   "id": "2123820492348064016",
-   "author": "jack wang",
-   "username": "jeepwng",
-   "text": "@ForecastQuant Everything correlating to one is the market telling you it was never diversification, just the same risk trade in different wrappers. Gold -2% on the same day as BTC says it all.",
-   "created_at": "2026-11-20T16:47:18.000Z",
-   "lang": "en",
-   "url": "https://x.com/jeepwng/status/2123820492348064016",
-   "m": {
-    "bookmark_count": 0,
-    "impression_count": 14,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "repost_count": 0
-   },
-   "reply_en": "😳 That gold -2% print surprised me most. When everything sells together it's usually forced selling, not a verdict on each asset. Which one decouples first once it stops, gold or $BTC?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "2.3 h, ~6 vistas/h, autor 134 seguidores, replies: 0",
-    "vph": 6
+    "reason": "3.5 h, ~36,025 vistas/h, autor 1,271,711 seguidores, replies: 280",
+    "vph": 36025
    }
   }
  ]
