@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-11-21T13:04:42-03:00",
+  "generated_at": "2026-11-21T16:10:35-03:00",
   "window_hours": 24,
-  "likes_scanned": 297,
+  "likes_scanned": 198,
   "listed": 4,
   "in_niche": 4,
   "not_recommended": 0,
@@ -21,7 +21,7 @@
    "url": "https://x.com/Theopheelingz/status/2123971843174388017",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 328,
+    "impression_count": 330,
     "like_count": 15,
     "quote_count": 0,
     "reply_count": 2,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "13.3 h, ~25 vistas/h, autor 12,135 seguidores, replies: 2",
-    "vph": 25
+    "reason": "16.4 h, ~20 vistas/h, autor 12,136 seguidores, replies: 2",
+    "vph": 20
    }
   },
   {
@@ -48,12 +48,12 @@
    "lang": "en",
    "url": "https://x.com/GrantCardone/status/2123966324657566030",
    "m": {
-    "bookmark_count": 48,
-    "impression_count": 64461,
-    "like_count": 2466,
-    "quote_count": 12,
-    "reply_count": 151,
-    "repost_count": 135
+    "bookmark_count": 49,
+    "impression_count": 68275,
+    "like_count": 2568,
+    "quote_count": 13,
+    "reply_count": 156,
+    "repost_count": 142
    },
    "reply_en": "📉 Paper losses look huge on a screen and invisible at the grocery store, unless you were on leverage. Did anyone actually get forced to sell this week, or just watch?",
    "in_niche": true,
@@ -63,8 +63,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "13.6 h, ~4,729 vistas/h, autor 1,273,232 seguidores, replies: 151",
-    "vph": 4729
+    "reason": "16.7 h, ~4,081 vistas/h, autor 1,273,135 seguidores, replies: 156",
+    "vph": 4081
    }
   },
   {
@@ -76,12 +76,12 @@
    "lang": "en",
    "url": "https://x.com/alifarhat79/status/2123955435409457422",
    "m": {
-    "bookmark_count": 914,
-    "impression_count": 451843,
-    "like_count": 13588,
-    "quote_count": 92,
-    "reply_count": 162,
-    "repost_count": 1040
+    "bookmark_count": 1193,
+    "impression_count": 600941,
+    "like_count": 18367,
+    "quote_count": 123,
+    "reply_count": 207,
+    "repost_count": 1363
    },
    "reply_en": "💀 Every big IPO has its 'I'll buy once it settles' crowd. Did anyone here actually get shares at the offer price, or was it insiders only?",
    "in_niche": true,
@@ -91,8 +91,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14.4 h, ~31,480 vistas/h, autor 2,020,419 seguidores, replies: 162",
-    "vph": 31480
+    "reason": "17.5 h, ~34,436 vistas/h, autor 2,018,927 seguidores, replies: 207",
+    "vph": 34436
    }
   },
   {
@@ -104,12 +104,12 @@
    "lang": "en",
    "url": "https://x.com/TheBTCTherapist/status/2123889046065664055",
    "m": {
-    "bookmark_count": 9,
-    "impression_count": 14885,
-    "like_count": 229,
+    "bookmark_count": 10,
+    "impression_count": 15340,
+    "like_count": 236,
     "quote_count": 0,
     "reply_count": 9,
-    "repost_count": 9
+    "repost_count": 11
    },
    "reply_en": "😂 Making money in $BTC is the easy part. Not selling it the next red week is the real boss fight. How many cycles did it take you?",
    "in_niche": true,
@@ -119,8 +119,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "18.7 h, ~794 vistas/h, autor 263,100 seguidores, replies: 9",
-    "vph": 794
+    "reason": "21.8 h, ~702 vistas/h, autor 263,080 seguidores, replies: 9",
+    "vph": 702
    },
    "gif": "Leonardo DiCaprio cheers (The Great Gatsby) — buscar \"DiCaprio cheers\""
   }
