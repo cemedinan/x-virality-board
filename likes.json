@@ -1,16 +1,100 @@
 {
  "meta": {
-  "generated_at": "2026-11-20T23:01:41-03:00",
+  "generated_at": "2026-11-21T09:06:55-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
-  "listed": 2,
-  "in_niche": 2,
+  "listed": 4,
+  "in_niche": 4,
   "not_recommended": 0,
-  "new_since_prev": 1,
-  "removed_replied": 0,
+  "new_since_prev": 3,
+  "removed_replied": 1,
   "removed_old": 0
  },
  "posts": [
+  {
+   "id": "2123971843174388017",
+   "author": "𓂀𝓣𝓱𝓸𝓶𝓹𝓼𝓸𝓷 𝓞𝓫𝓮𝔂 𝓣𝓱𝓮𝓸𝓹𝓱𝓲𝓵𝓾𝓼",
+   "username": "Theopheelingz",
+   "text": "When you metaphorically describe or compare your feelings for a woman to the feeling you get from being high on weed or a drug.",
+   "created_at": "2026-11-21T02:48:43.000Z",
+   "lang": "en",
+   "url": "https://x.com/Theopheelingz/status/2123971843174388017",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 317,
+    "like_count": 15,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 8
+   },
+   "reply_en": "😂 That's not romance, that's a dopamine chart with a name on it. What's the crash phase in this metaphor?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "9.3 h, ~34 vistas/h, autor 12,134 seguidores, replies: 2",
+    "vph": 34
+   }
+  },
+  {
+   "id": "2123966324657566030",
+   "author": "Grant Cardone",
+   "username": "GrantCardone",
+   "text": "Trillions of value wiped out of the markets but I doubt any your daily habits have changed. Stay calm the world is not ending.",
+   "created_at": "2026-11-21T02:26:47.000Z",
+   "lang": "en",
+   "url": "https://x.com/GrantCardone/status/2123966324657566030",
+   "m": {
+    "bookmark_count": 38,
+    "impression_count": 53080,
+    "like_count": 2088,
+    "quote_count": 12,
+    "reply_count": 128,
+    "repost_count": 119
+   },
+   "reply_en": "📉 Paper losses look huge on a screen and invisible at the grocery store, unless you were on leverage. Did anyone actually get forced to sell this week, or just watch?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "9.7 h, ~5,490 vistas/h, autor 1,272,739 seguidores, replies: 128",
+    "vph": 5490
+   }
+  },
+  {
+   "id": "2123955435409457422",
+   "author": "Not Jerome Powell",
+   "username": "alifarhat79",
+   "text": "People who missed Anthropic’s ipo https://t.co/h5tPunmXqm",
+   "created_at": "2026-11-21T01:43:31.000Z",
+   "lang": "en",
+   "url": "https://x.com/alifarhat79/status/2123955435409457422",
+   "m": {
+    "bookmark_count": 631,
+    "impression_count": 290483,
+    "like_count": 8687,
+    "quote_count": 67,
+    "reply_count": 116,
+    "repost_count": 702
+   },
+   "reply_en": "💀 Every big IPO has its 'I'll buy once it settles' crowd. Did anyone here actually get shares at the offer price, or was it insiders only?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "10.4 h, ~27,957 vistas/h, autor 2,020,476 seguidores, replies: 116",
+    "vph": 27957
+   }
+  },
   {
    "id": "2123889046065664055",
    "author": "The ₿itcoin Therapist",
@@ -20,12 +104,12 @@
    "lang": "en",
    "url": "https://x.com/TheBTCTherapist/status/2123889046065664055",
    "m": {
-    "bookmark_count": 6,
-    "impression_count": 10583,
-    "like_count": 170,
+    "bookmark_count": 7,
+    "impression_count": 14150,
+    "like_count": 219,
     "quote_count": 0,
-    "reply_count": 8,
-    "repost_count": 5
+    "reply_count": 9,
+    "repost_count": 9
    },
    "reply_en": "😂 Making money in $BTC is the easy part. Not selling it the next red week is the real boss fight. How many cycles did it take you?",
    "in_niche": true,
@@ -35,38 +119,10 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "4.7 h, ~2,252 vistas/h, autor 263,151 seguidores, replies: 8",
-    "vph": 2252
+    "reason": "14.8 h, ~957 vistas/h, autor 263,114 seguidores, replies: 9",
+    "vph": 957
    },
    "gif": "Leonardo DiCaprio cheers (The Great Gatsby) — buscar \"DiCaprio cheers\""
-  },
-  {
-   "id": "2123864343729041747",
-   "author": "Grant Cardone",
-   "username": "GrantCardone",
-   "text": "Fed will NOT raise rates in December!\nBookmark it",
-   "created_at": "2026-11-20T19:41:33.000Z",
-   "lang": "en",
-   "url": "https://x.com/GrantCardone/status/2123864343729041747",
-   "m": {
-    "bookmark_count": 483,
-    "impression_count": 169039,
-    "like_count": 3678,
-    "quote_count": 34,
-    "reply_count": 345,
-    "repost_count": 222
-   },
-   "reply_en": "👀 Bold call, but the Fed moves on data, not bookmarks: one hot inflation print can flip December odds fast. If they do hold, does $BTC rally on relief or is it already priced in?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "6.3 h, ~26,680 vistas/h, autor 1,271,822 seguidores, replies: 345",
-    "vph": 26680
-   }
   }
  ]
 }
