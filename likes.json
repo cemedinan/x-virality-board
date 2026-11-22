@@ -1,61 +1,33 @@
 {
  "meta": {
-  "generated_at": "2026-11-21T20:04:01-03:00",
+  "generated_at": "2026-11-21T23:09:35-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
-  "listed": 3,
-  "in_niche": 3,
+  "listed": 1,
+  "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 0,
-  "removed_replied": 0,
+  "new_since_prev": 1,
+  "removed_replied": 2,
   "removed_old": 1
  },
  "posts": [
   {
-   "id": "2123971843174388017",
-   "author": "𓂀𝓣𝓱𝓸𝓶𝓹𝓼𝓸𝓷 𝓞𝓫𝓮𝔂 𝓣𝓱𝓮𝓸𝓹𝓱𝓲𝓵𝓾𝓼",
-   "username": "Theopheelingz",
-   "text": "When you metaphorically describe or compare your feelings for a woman to the feeling you get from being high on weed or a drug.",
-   "created_at": "2026-11-21T02:48:43.000Z",
+   "id": "2124159275161326032",
+   "author": "Bitcoin Archive",
+   "username": "BitcoinArchive",
+   "text": "BITCOIN BACK OVER $60,000 https://t.co/oKZMKYRO3o",
+   "created_at": "2026-11-21T15:13:30.000Z",
    "lang": "en",
-   "url": "https://x.com/Theopheelingz/status/2123971843174388017",
+   "url": "https://x.com/BitcoinArchive/status/2124159275161326032",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 332,
-    "like_count": 15,
-    "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 8
+    "bookmark_count": 10,
+    "impression_count": 36599,
+    "like_count": 818,
+    "quote_count": 1,
+    "reply_count": 59,
+    "repost_count": 48
    },
-   "reply_en": "😂 That's not romance, that's a dopamine chart with a name on it. What's the crash phase in this metaphor?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "bajo",
-    "score": 1,
-    "reason": "20.3 h, ~16 vistas/h, autor 12,134 seguidores, replies: 2",
-    "vph": 16
-   }
-  },
-  {
-   "id": "2123966324657566030",
-   "author": "Grant Cardone",
-   "username": "GrantCardone",
-   "text": "Trillions of value wiped out of the markets but I doubt any your daily habits have changed. Stay calm the world is not ending.",
-   "created_at": "2026-11-21T02:26:47.000Z",
-   "lang": "en",
-   "url": "https://x.com/GrantCardone/status/2123966324657566030",
-   "m": {
-    "bookmark_count": 49,
-    "impression_count": 71081,
-    "like_count": 2658,
-    "quote_count": 13,
-    "reply_count": 159,
-    "repost_count": 148
-   },
-   "reply_en": "📉 Paper losses look huge on a screen and invisible at the grocery store, unless you were on leverage. Did anyone actually get forced to sell this week, or just watch?",
+   "reply_en": "👀 $60K reclaimed, but the real test is whether it holds into the weekly close. Are you adding spot here or waiting for a retest?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
@@ -63,36 +35,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "20.6 h, ~3,447 vistas/h, autor 1,273,263 seguidores, replies: 159",
-    "vph": 3447
-   }
-  },
-  {
-   "id": "2123955435409457422",
-   "author": "Not Jerome Powell",
-   "username": "alifarhat79",
-   "text": "People who missed Anthropic’s ipo https://t.co/h5tPunmXqm",
-   "created_at": "2026-11-21T01:43:31.000Z",
-   "lang": "en",
-   "url": "https://x.com/alifarhat79/status/2123955435409457422",
-   "m": {
-    "bookmark_count": 1473,
-    "impression_count": 743387,
-    "like_count": 22326,
-    "quote_count": 144,
-    "reply_count": 234,
-    "repost_count": 1602
-   },
-   "reply_en": "💀 Every big IPO has its 'I'll buy once it settles' crowd. Did anyone here actually get shares at the offer price, or was it insiders only?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "21.3 h, ~34,832 vistas/h, autor 2,018,829 seguidores, replies: 234",
-    "vph": 34832
+    "reason": "10.9 h, ~3,347 vistas/h, autor 1,796,020 seguidores, replies: 59",
+    "vph": 3347
    }
   }
  ]
