@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-21T23:09:35-03:00",
+  "generated_at": "2026-11-22T09:09:05-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
   "listed": 1,
   "in_niche": 1,
   "not_recommended": 0,
-  "new_since_prev": 1,
-  "removed_replied": 2,
-  "removed_old": 1
+  "new_since_prev": 0,
+  "removed_replied": 0,
+  "removed_old": 0
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/BitcoinArchive/status/2124159275161326032",
    "m": {
-    "bookmark_count": 10,
-    "impression_count": 36599,
-    "like_count": 818,
-    "quote_count": 1,
-    "reply_count": 59,
-    "repost_count": 48
+    "bookmark_count": 13,
+    "impression_count": 46644,
+    "like_count": 1079,
+    "quote_count": 3,
+    "reply_count": 81,
+    "repost_count": 66
    },
    "reply_en": "👀 $60K reclaimed, but the real test is whether it holds into the weekly close. Are you adding spot here or waiting for a retest?",
    "in_niche": true,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "10.9 h, ~3,347 vistas/h, autor 1,796,020 seguidores, replies: 59",
-    "vph": 3347
+    "reason": "20.9 h, ~2,229 vistas/h, autor 1,796,042 seguidores, replies: 81",
+    "vph": 2229
    }
   }
  ]
