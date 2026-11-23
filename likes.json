@@ -1,16 +1,72 @@
 {
  "meta": {
-  "generated_at": "2026-11-23T09:01:31-03:00",
+  "generated_at": "2026-11-23T13:06:26-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
-  "listed": 1,
-  "in_niche": 1,
+  "listed": 3,
+  "in_niche": 3,
   "not_recommended": 0,
-  "new_since_prev": 1,
-  "removed_replied": 1,
+  "new_since_prev": 2,
+  "removed_replied": 0,
   "removed_old": 0
  },
  "posts": [
+  {
+   "id": "2124858462631063700",
+   "author": "Mestray",
+   "username": "bnbchami",
+   "text": "@Khaikhaidao @ForecastQuant @era_wallet The silent part is that the old address keeps looking fine while new funds land on a different path. I write the derivation path next to the seed backup, so a restore test shows any change.",
+   "created_at": "2026-11-23T13:31:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/bnbchami/status/2124858462631063700",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "👀 Writing the path next to the seed is underrated: m/84' and m/44' give two completely different address sets from the same 24 words. Do you also note the first receive address to check on restore?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "2.6 h, ~1 vistas/h, autor 322 seguidores, replies: 0",
+    "vph": 1
+   }
+  },
+  {
+   "id": "2124858402866446500",
+   "author": "Mestray",
+   "username": "bnbchami",
+   "text": "@Khaikhaidao @ForecastQuant @era_wallet Most wallet update flows never show the derivation path at all, so nothing looks wrong until funds land in an address you never backed up. Re-derive once from your own seed and compare the full address before funding.",
+   "created_at": "2026-11-23T13:31:35.000Z",
+   "lang": "en",
+   "url": "https://x.com/bnbchami/status/2124858402866446500",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "⚠️ That's the scary failure mode: same seed, different path, and the backup looks fine until you restore. I check the first address on an airgapped device before funding anything. I wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "2.6 h, ~2 vistas/h, autor 322 seguidores, replies: 0",
+    "vph": 2
+   }
+  },
   {
    "id": "2124668313867280572",
    "author": "Mary allison",
@@ -20,12 +76,12 @@
    "lang": "en",
    "url": "https://x.com/maryisalien/status/2124668313867280572",
    "m": {
-    "bookmark_count": 932,
-    "impression_count": 55080,
-    "like_count": 2092,
-    "quote_count": 26,
-    "reply_count": 109,
-    "repost_count": 252
+    "bookmark_count": 1085,
+    "impression_count": 66485,
+    "like_count": 2493,
+    "quote_count": 30,
+    "reply_count": 115,
+    "repost_count": 305
    },
    "reply_en": "😳 Blaming the Rockefellers is easy. Admitting we chose the sedation ourselves is the uncomfortable part. Which one would you cut first: the feed, the games, or handing your savings to someone else to hold?",
    "in_niche": true,
@@ -35,8 +91,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "11.1 h, ~4,968 vistas/h, autor 49,816 seguidores, replies: 109",
-    "vph": 4968
+    "reason": "15.2 h, ~4,383 vistas/h, autor 49,863 seguidores, replies: 115",
+    "vph": 4383
    }
   }
  ]
