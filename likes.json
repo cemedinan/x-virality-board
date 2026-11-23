@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-23T16:05:34-03:00",
+  "generated_at": "2026-11-23T20:03:21-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
   "listed": 3,
@@ -34,9 +34,9 @@
    "with_link": false,
    "momentum": {
     "level": "bajo",
-    "score": 1,
-    "reason": "5.6 h, ~1 vistas/h, autor 322 seguidores, replies: 0",
-    "vph": 1
+    "score": 0,
+    "reason": "9.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
+    "vph": 0
    }
   },
   {
@@ -62,9 +62,9 @@
    "with_link": true,
    "momentum": {
     "level": "bajo",
-    "score": 1,
-    "reason": "5.6 h, ~1 vistas/h, autor 322 seguidores, replies: 0",
-    "vph": 1
+    "score": 0,
+    "reason": "9.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
+    "vph": 0
    }
   },
   {
@@ -76,12 +76,12 @@
    "lang": "en",
    "url": "https://x.com/maryisalien/status/2124668313867280572",
    "m": {
-    "bookmark_count": 1158,
-    "impression_count": 71097,
-    "like_count": 2648,
+    "bookmark_count": 1219,
+    "impression_count": 75686,
+    "like_count": 2786,
     "quote_count": 31,
-    "reply_count": 120,
-    "repost_count": 326
+    "reply_count": 126,
+    "repost_count": 345
    },
    "reply_en": "😳 Blaming the Rockefellers is easy. Admitting we chose the sedation ourselves is the uncomfortable part. Which one would you cut first: the feed, the games, or handing your savings to someone else to hold?",
    "in_niche": true,
@@ -90,9 +90,9 @@
    "with_link": false,
    "momentum": {
     "level": "alto",
-    "score": 3,
-    "reason": "18.2 h, ~3,916 vistas/h, autor 49,882 seguidores, replies: 120",
-    "vph": 3916
+    "score": 3422,
+    "reason": "22.1 h, ~3422 vistas/h, autor 49895 seguidores, replies: 126",
+    "vph": 3422
    }
   }
  ]
