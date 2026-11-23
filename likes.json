@@ -1,42 +1,42 @@
 {
  "meta": {
-  "generated_at": "2026-11-22T13:02:12-03:00",
+  "generated_at": "2026-11-23T09:01:31-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
   "listed": 1,
   "in_niche": 1,
   "not_recommended": 0,
   "new_since_prev": 1,
-  "removed_replied": 0,
-  "removed_old": 1
+  "removed_replied": 1,
+  "removed_old": 0
  },
  "posts": [
   {
-   "id": "2124498625174905120",
-   "author": "Aura Satoshi",
-   "username": "HappyCanada2",
-   "text": "BRING ON THE DISCOUNTS. 🫡🔥 https://t.co/AlsblmxK5T",
-   "created_at": "2026-11-22T13:41:58.000Z",
+   "id": "2124668313867280572",
+   "author": "Mary allison",
+   "username": "maryisalien",
+   "text": "is the naive human the new epstein class? https://t.co/wyLMQAqmpv",
+   "created_at": "2026-11-23T00:56:15.000Z",
    "lang": "en",
-   "url": "https://x.com/HappyCanada2/status/2124498625174905120",
+   "url": "https://x.com/maryisalien/status/2124668313867280572",
    "m": {
-    "bookmark_count": 1,
-    "impression_count": 321,
-    "like_count": 16,
-    "quote_count": 0,
-    "reply_count": 3,
-    "repost_count": 0
+    "bookmark_count": 932,
+    "impression_count": 55080,
+    "like_count": 2092,
+    "quote_count": 26,
+    "reply_count": 109,
+    "repost_count": 252
    },
-   "reply_en": "🔥 $57.6K is basically a retest of the summer low near $57.7K. Discount hunters: stacking spot here, or waiting to see if it holds a second time?",
+   "reply_en": "😳 Blaming the Rockefellers is easy. Admitting we chose the sedation ourselves is the uncomfortable part. Which one would you cut first: the feed, the games, or handing your savings to someone else to hold?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false,
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "2.3 h, ~137 vistas/h, autor 1,971 seguidores, replies: 3",
-    "vph": 137
+    "level": "alto",
+    "score": 3,
+    "reason": "11.1 h, ~4,968 vistas/h, autor 49,816 seguidores, replies: 109",
+    "vph": 4968
    }
   }
  ]
