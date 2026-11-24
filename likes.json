@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-24T16:10:00-03:00",
+  "generated_at": "2026-11-24T20:09:31-03:00",
   "window_hours": 24,
   "likes_scanned": 199,
-  "listed": 31,
-  "in_niche": 31,
+  "listed": 30,
+  "in_niche": 30,
   "not_recommended": 0,
-  "new_since_prev": 5,
+  "new_since_prev": 0,
   "removed_replied": 0,
-  "removed_old": 2
+  "removed_old": 1
  },
  "posts": [
   {
@@ -21,11 +21,11 @@
    "url": "https://x.com/david_eng_mba/status/2125258791386305018",
    "m": {
     "bookmark_count": 1,
-    "impression_count": 2873,
-    "like_count": 69,
+    "impression_count": 3514,
+    "like_count": 81,
     "quote_count": 0,
-    "reply_count": 6,
-    "repost_count": 3
+    "reply_count": 7,
+    "repost_count": 5
    },
    "reply_en": "34 of 35 reclaims within 90 days is a strong base rate 👀 What did the one slow case look like: did it also come with record ETF outflows like this month's $4.71B?",
    "in_niche": true,
@@ -35,8 +35,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "3.1 h, ~920 vistas/h, autor 26,483 seguidores, replies: 6",
-    "vph": 920
+    "reason": "7.1 h, ~494 vistas/h, autor 26,491 seguidores, replies: 7",
+    "vph": 494
    }
   },
   {
@@ -48,11 +48,11 @@
    "lang": "en",
    "url": "https://x.com/HappyCanada2/status/2125257562916548984",
    "m": {
-    "bookmark_count": 0,
-    "impression_count": 392,
-    "like_count": 34,
+    "bookmark_count": 1,
+    "impression_count": 495,
+    "like_count": 44,
     "quote_count": 0,
-    "reply_count": 3,
+    "reply_count": 4,
     "repost_count": 1
    },
    "reply_en": "Truth you can verify yourself: run a node and you check every rule, no one to trust. How many people who say this actually run one?",
@@ -63,8 +63,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "3.2 h, ~122 vistas/h, autor 2,026 seguidores, replies: 3",
-    "vph": 122
+    "reason": "7.2 h, ~69 vistas/h, autor 2,038 seguidores, replies: 4",
+    "vph": 69
    }
   },
   {
@@ -77,11 +77,11 @@
    "url": "https://x.com/Daisy5Aurora/status/2125239575778087369",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3410,
-    "like_count": 122,
+    "impression_count": 4692,
+    "like_count": 121,
     "quote_count": 0,
     "reply_count": 2,
-    "repost_count": 1
+    "repost_count": 3
    },
    "reply_en": "👀 Before buying any chart I'd ask one thing: what invalidates it? Where exactly is your line in the sand on this one?",
    "in_niche": true,
@@ -91,8 +91,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "4.4 h, ~776 vistas/h, autor 1,703 seguidores, replies: 2",
-    "vph": 776
+    "reason": "8.4 h, ~559 vistas/h, autor 1,703 seguidores, replies: 2",
+    "vph": 559
    }
   },
   {
@@ -104,12 +104,12 @@
    "lang": "en",
    "url": "https://x.com/BTC_JEDI21/status/2125232617058636134",
    "m": {
-    "bookmark_count": 6,
-    "impression_count": 2354,
-    "like_count": 80,
-    "quote_count": 0,
-    "reply_count": 11,
-    "repost_count": 4
+    "bookmark_count": 10,
+    "impression_count": 3811,
+    "like_count": 124,
+    "quote_count": 2,
+    "reply_count": 14,
+    "repost_count": 12
    },
    "reply_en": "😂",
    "in_niche": true,
@@ -119,8 +119,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "4.9 h, ~485 vistas/h, autor 6,219 seguidores, replies: 11",
-    "vph": 485
+    "reason": "8.8 h, ~431 vistas/h, autor 6,218 seguidores, replies: 14",
+    "vph": 431
    },
    "gif": "\"This is fine\" (perro tomando café en la habitación en llamas); buscar \"this is fine\" en el selector de GIF de X"
   },
@@ -133,11 +133,11 @@
    "lang": "en",
    "url": "https://x.com/cryptogoos/status/2125165024675307781",
    "m": {
-    "bookmark_count": 36,
-    "impression_count": 19645,
-    "like_count": 162,
+    "bookmark_count": 38,
+    "impression_count": 20966,
+    "like_count": 170,
     "quote_count": 4,
-    "reply_count": 28,
+    "reply_count": 32,
     "repost_count": 18
    },
    "reply_en": "The hard part isn't buying in the midterm year, it's doing nothing while it drops another leg. Who here actually held through all of 2022 without selling?",
@@ -148,8 +148,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "9.3 h, ~2,105 vistas/h, autor 121,082 seguidores, replies: 28",
-    "vph": 2105
+    "reason": "13.3 h, ~1,573 vistas/h, autor 121,078 seguidores, replies: 32",
+    "vph": 1573
    }
   },
   {
@@ -162,7 +162,7 @@
    "url": "https://x.com/Khaikhaidao/status/2125085071237636583",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 367,
+    "impression_count": 369,
     "like_count": 12,
     "quote_count": 0,
     "reply_count": 9,
@@ -171,8 +171,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.6 h, ~25 vistas/h, autor 7,419 seguidores, replies: 9",
-    "vph": 25
+    "reason": "18.6 h, ~20 vistas/h, autor 7,420 seguidores, replies: 9",
+    "vph": 20
    },
    "reply_en": "😳 $146M into Anthropic while trimming ETH and SOL staking ETFs is a loud move, and notice Bitcoin isn't in that list. Rotation out of crypto, or just out of altcoins?",
    "in_niche": true,
@@ -191,7 +191,7 @@
    "url": "https://x.com/Scavacini777/status/2125084632366358898",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 21,
+    "impression_count": 22,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -200,7 +200,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.7 h, ~1 vistas/h, autor 12,281 seguidores, replies: 1",
+    "reason": "18.6 h, ~1 vistas/h, autor 12,279 seguidores, replies: 1",
     "vph": 1
    },
    "reply_en": "🥂",
@@ -220,7 +220,7 @@
    "url": "https://x.com/August778/status/2125084068542894307",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 28,
+    "impression_count": 30,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -229,7 +229,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.7 h, ~2 vistas/h, autor 4,124 seguidores, replies: 0",
+    "reason": "18.7 h, ~2 vistas/h, autor 4,124 seguidores, replies: 0",
     "vph": 2
    },
    "reply_en": "🙏 Simple and true. A taxi always costs less than the alternative. Fun December to you too!",
@@ -248,7 +248,7 @@
    "url": "https://x.com/aganstwallst/status/2125083816297632230",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 1282,
+    "impression_count": 1334,
     "like_count": 14,
     "quote_count": 0,
     "reply_count": 2,
@@ -257,8 +257,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14.7 h, ~87 vistas/h, autor 20,927 seguidores, replies: 2",
-    "vph": 87
+    "reason": "18.7 h, ~71 vistas/h, autor 20,924 seguidores, replies: 2",
+    "vph": 71
    },
    "reply_en": "👀 $59K held for now, but one bounce isn't confirmation. What would invalidate it for you: a daily close below $59K, or something else?",
    "in_niche": true,
@@ -276,7 +276,7 @@
    "url": "https://x.com/climbwithin/status/2125083391901270309",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 425,
+    "impression_count": 447,
     "like_count": 17,
     "quote_count": 0,
     "reply_count": 6,
@@ -285,8 +285,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.7 h, ~29 vistas/h, autor 21,982 seguidores, replies: 6",
-    "vph": 29
+    "reason": "18.7 h, ~24 vistas/h, autor 21,984 seguidores, replies: 6",
+    "vph": 24
    },
    "reply_en": "💯 Half-done feels done until it ships. What's your rule for knowing a job is actually finished?",
    "in_niche": true,
@@ -304,7 +304,7 @@
    "url": "https://x.com/MoVanCrypto777/status/2125083139101937982",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 11528,
+    "impression_count": 11536,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -313,8 +313,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14.8 h, ~781 vistas/h, autor 515 seguidores, replies: 0",
-    "vph": 781
+    "reason": "18.7 h, ~615 vistas/h, autor 516 seguidores, replies: 0",
+    "vph": 615
    },
    "reply_en": "😂📸",
    "in_niche": true,
@@ -342,8 +342,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.8 h, ~19 vistas/h, autor 13,013 seguidores, replies: 10",
-    "vph": 19
+    "reason": "18.8 h, ~15 vistas/h, autor 13,018 seguidores, replies: 10",
+    "vph": 15
    },
    "reply_en": "👀 On-chain proof beats promises, agreed. Before connecting a wallet to any campaign, do you check what permissions you're signing? That's where most drains start.",
    "in_niche": true,
@@ -361,7 +361,7 @@
    "url": "https://x.com/FreedomMemesIRL/status/2125082905969934819",
    "m": {
     "bookmark_count": 2,
-    "impression_count": 1872,
+    "impression_count": 1908,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 2,
@@ -370,8 +370,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14.8 h, ~127 vistas/h, autor 30,305 seguidores, replies: 2",
-    "vph": 127
+    "reason": "18.8 h, ~102 vistas/h, autor 30,306 seguidores, replies: 2",
+    "vph": 102
    },
    "reply_en": "👀 A summary is fine, but the best Bitcoin articles are worth reading twice. What's the one line from it you'd keep?",
    "in_niche": true,
@@ -389,7 +389,7 @@
    "url": "https://x.com/BITCOINFUNDMGR/status/2125081989133082895",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 197,
+    "impression_count": 204,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -398,8 +398,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.8 h, ~13 vistas/h, autor 72,458 seguidores, replies: 0",
-    "vph": 13
+    "reason": "18.8 h, ~11 vistas/h, autor 72,458 seguidores, replies: 0",
+    "vph": 11
    },
    "reply_en": "💀 Zero depressed warriors, and also very few old ones. Hard to tell which stat explains the other 😂",
    "in_niche": true,
@@ -417,7 +417,7 @@
    "url": "https://x.com/climbwithin/status/2125081982522785960",
    "m": {
     "bookmark_count": 3,
-    "impression_count": 503,
+    "impression_count": 526,
     "like_count": 20,
     "quote_count": 0,
     "reply_count": 6,
@@ -426,8 +426,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.8 h, ~34 vistas/h, autor 21,982 seguidores, replies: 6",
-    "vph": 34
+    "reason": "18.8 h, ~28 vistas/h, autor 21,984 seguidores, replies: 6",
+    "vph": 28
    },
    "reply_en": "🎯 Focus is the one resource you can't buy back. What's the one thing you said no to this month that made the biggest difference?",
    "in_niche": true,
@@ -454,7 +454,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.9 h, ~1 vistas/h, autor 2,116 seguidores, replies: 0",
+    "reason": "18.9 h, ~1 vistas/h, autor 2,118 seguidores, replies: 0",
     "vph": 1
    },
    "reply_en": "⏱️ Exactly: a timestamp turns \"trust me\" into something anyone can check. Is it anchored on-chain, or just signed by the device?",
@@ -472,18 +472,18 @@
    "lang": "en",
    "url": "https://x.com/TylerDurden/status/2125081158807671216",
    "m": {
-    "bookmark_count": 114,
-    "impression_count": 62435,
-    "like_count": 1398,
+    "bookmark_count": 121,
+    "impression_count": 67467,
+    "like_count": 1498,
     "quote_count": 6,
     "reply_count": 61,
-    "repost_count": 36
+    "repost_count": 39
    },
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14.9 h, ~4,194 vistas/h, autor 227,567 seguidores, replies: 61",
-    "vph": 4194
+    "reason": "18.9 h, ~3,574 vistas/h, autor 227,590 seguidores, replies: 61",
+    "vph": 3574
    },
    "reply_en": "👀 From ~$60K, $40-45K would be another 25-33% down. DCA only works if you keep buying through that without selling. How long is your DCA horizon: months or years?",
    "in_niche": true,
@@ -502,17 +502,17 @@
    "url": "https://x.com/iamroseline0/status/2125080719328170291",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 872,
-    "like_count": 54,
+    "impression_count": 883,
+    "like_count": 55,
     "quote_count": 0,
     "reply_count": 34,
-    "repost_count": 8
+    "repost_count": 9
    },
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "14.9 h, ~58 vistas/h, autor 5,138 seguidores, replies: 34",
-    "vph": 58
+    "level": "bajo",
+    "score": 1,
+    "reason": "18.9 h, ~47 vistas/h, autor 5,164 seguidores, replies: 34",
+    "vph": 47
    },
    "reply_en": "🌅 Good morning from Chile! Here for Bitcoin, data and self-custody talk. What are you building or learning this week?",
    "in_niche": true,
@@ -530,7 +530,7 @@
    "url": "https://x.com/FreedomMemesIRL/status/2125080686256128329",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1141,
+    "impression_count": 1226,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 3,
@@ -539,8 +539,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14.9 h, ~76 vistas/h, autor 30,305 seguidores, replies: 3",
-    "vph": 76
+    "reason": "18.9 h, ~65 vistas/h, autor 30,306 seguidores, replies: 3",
+    "vph": 65
    },
    "reply_en": "😂 Bitcoin has been declared dead hundreds of times and bitcoiners still show up. What's the unfair part this time?",
    "in_niche": true,
@@ -558,17 +558,17 @@
    "url": "https://x.com/thelivingdraft/status/2125080565221413294",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 1464,
-    "like_count": 94,
+    "impression_count": 1524,
+    "like_count": 97,
     "quote_count": 0,
-    "reply_count": 60,
-    "repost_count": 10
+    "reply_count": 61,
+    "repost_count": 11
    },
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "14.9 h, ~98 vistas/h, autor 18,661 seguidores, replies: 60",
-    "vph": 98
+    "reason": "18.9 h, ~81 vistas/h, autor 18,672 seguidores, replies: 61",
+    "vph": 81
    },
    "reply_en": "🐢 Slow progress is still progress, and it's the part nobody posts. What's one thing you've kept doing for 12+ months that finally started paying off?",
    "in_niche": true,
@@ -586,7 +586,7 @@
    "url": "https://x.com/Scavacini777/status/2125080376380989505",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 535,
+    "impression_count": 584,
     "like_count": 6,
     "quote_count": 1,
     "reply_count": 1,
@@ -595,8 +595,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "14.9 h, ~36 vistas/h, autor 12,281 seguidores, replies: 1",
-    "vph": 36
+    "reason": "18.9 h, ~31 vistas/h, autor 12,279 seguidores, replies: 1",
+    "vph": 31
    },
    "reply_en": "🔥 Separating money from state only works if you hold your own keys. Coins on an exchange are still a promise from a company. Where are yours?\nI wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
    "in_niche": true,
@@ -614,17 +614,17 @@
    "url": "https://x.com/AutismCapital/status/2125071367746023786",
    "m": {
     "bookmark_count": 7,
-    "impression_count": 29760,
-    "like_count": 612,
+    "impression_count": 30992,
+    "like_count": 620,
     "quote_count": 2,
-    "reply_count": 31,
+    "reply_count": 32,
     "repost_count": 22
    },
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "15.5 h, ~1,916 vistas/h, autor 1,747,864 seguidores, replies: 31",
-    "vph": 1916
+    "reason": "19.5 h, ~1,587 vistas/h, autor 1,747,673 seguidores, replies: 32",
+    "vph": 1587
    },
    "reply_en": "🔥🐶",
    "in_niche": true,
@@ -643,7 +643,7 @@
    "url": "https://x.com/Sarmad_Crypto/status/2125064386553286969",
    "m": {
     "bookmark_count": 6,
-    "impression_count": 7030,
+    "impression_count": 7121,
     "like_count": 87,
     "quote_count": 2,
     "reply_count": 17,
@@ -652,8 +652,8 @@
    "momentum": {
     "level": "medio",
     "score": 2,
-    "reason": "16.0 h, ~439 vistas/h, autor 3,979 seguidores, replies: 17",
-    "vph": 439
+    "reason": "20.0 h, ~356 vistas/h, autor 3,987 seguidores, replies: 17",
+    "vph": 356
    },
    "reply_en": "📉 Below $60K and everyone suddenly has a $52K target. If it gets there, what's your plan: spot DCA or cash? Leverage is how a 13% drop becomes a 100% loss.",
    "in_niche": true,
@@ -672,17 +672,17 @@
    "url": "https://x.com/LusubuTOP/status/2125058010502578557",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 985,
+    "impression_count": 1003,
     "like_count": 42,
     "quote_count": 1,
     "reply_count": 28,
     "repost_count": 5
    },
    "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "16.4 h, ~60 vistas/h, autor 37,078 seguidores, replies: 28",
-    "vph": 60
+    "level": "bajo",
+    "score": 1,
+    "reason": "20.4 h, ~49 vistas/h, autor 37,077 seguidores, replies: 28",
+    "vph": 49
    },
    "reply_en": "😳 Xem mà nổi da gà thật. Anh ta phải làm bao lâu mới thuần tay được như vậy nhỉ?",
    "in_niche": true,
@@ -700,17 +700,17 @@
    "url": "https://x.com/Billal6968/status/2125057012975493132",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 256,
-    "like_count": 26,
+    "impression_count": 261,
+    "like_count": 27,
     "quote_count": 0,
-    "reply_count": 26,
+    "reply_count": 27,
     "repost_count": 2
    },
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "16.5 h, ~16 vistas/h, autor 23,397 seguidores, replies: 26",
-    "vph": 16
+    "reason": "20.5 h, ~13 vistas/h, autor 23,400 seguidores, replies: 27",
+    "vph": 13
    },
    "reply_en": "😳 From a rejection near $64K to under $60K: that's how fast confidence flips. Do moves like this change your plan, or only your mood?",
    "in_niche": true,
@@ -728,11 +728,11 @@
    "url": "https://x.com/GrantCardone/status/2125047558057939043",
    "m": {
     "bookmark_count": 28,
-    "impression_count": 63976,
-    "like_count": 932,
+    "impression_count": 67881,
+    "like_count": 981,
     "quote_count": 3,
-    "reply_count": 95,
-    "repost_count": 27
+    "reply_count": 101,
+    "repost_count": 29
    },
    "reply_en": "👀 If BTC is really 20-30% under the cost to mine, the pressure shifts to miners: sell reserves or switch machines off. Which estimate is that, all-in cost or just electricity?",
    "in_niche": true,
@@ -742,8 +742,8 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "17.1 h, ~3,738 vistas/h, autor 1,273,095 seguidores, replies: 95",
-    "vph": 3738
+    "reason": "21.1 h, ~3,216 vistas/h, autor 1,273,074 seguidores, replies: 101",
+    "vph": 3216
    },
    "visual": "gráfico: precio de BTC vs estimaciones públicas de costo de minado (costo total vs solo electricidad), líneas en el tiempo; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
@@ -757,17 +757,17 @@
    "url": "https://x.com/ken_w3b3/status/2125044921728200992",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 523,
-    "like_count": 34,
+    "impression_count": 528,
+    "like_count": 36,
     "quote_count": 0,
-    "reply_count": 17,
+    "reply_count": 19,
     "repost_count": 0
    },
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "17.3 h, ~30 vistas/h, autor 17,069 seguidores, replies: 17",
-    "vph": 30
+    "reason": "21.3 h, ~25 vistas/h, autor 17,063 seguidores, replies: 19",
+    "vph": 25
    },
    "reply_en": "👀 The real question isn't the $NVDA price, it's whether AI keeps pulling money away from crypto. Do you see them as rivals or the same risk-on trade?",
    "in_niche": true,
@@ -785,7 +785,7 @@
    "url": "https://x.com/qazzaq_eth/status/2125044225486020962",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 11,
+    "impression_count": 12,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -794,7 +794,7 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "17.3 h, ~1 vistas/h, autor 5,476 seguidores, replies: 1",
+    "reason": "21.3 h, ~1 vistas/h, autor 5,474 seguidores, replies: 1",
     "vph": 1
    },
    "reply_en": "👀 When every podcast says the same thing, the trade is usually already crowded. Which signal do you trust when they all agree?",
@@ -813,17 +813,17 @@
    "url": "https://x.com/FreedomMemesIRL/status/2125032386274423289",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 642,
+    "impression_count": 692,
     "like_count": 26,
     "quote_count": 0,
-    "reply_count": 2,
-    "repost_count": 0
+    "reply_count": 3,
+    "repost_count": 1
    },
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "18.1 h, ~35 vistas/h, autor 30,305 seguidores, replies: 2",
-    "vph": 35
+    "reason": "22.1 h, ~31 vistas/h, autor 30,306 seguidores, replies: 3",
+    "vph": 31
    },
    "reply_en": "😂 Memes taught more people about Bitcoin than most whitepapers ever will. Which meme first made you actually get the 21M fixed supply?",
    "in_niche": true,
@@ -841,7 +841,7 @@
    "url": "https://x.com/JonnieKing/status/2125021368156885496",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 787,
+    "impression_count": 812,
     "like_count": 10,
     "quote_count": 0,
     "reply_count": 5,
@@ -850,43 +850,14 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "18.8 h, ~42 vistas/h, autor 9,265 seguidores, replies: 5",
-    "vph": 42
+    "reason": "22.8 h, ~36 vistas/h, autor 9,264 seguidores, replies: 5",
+    "vph": 36
    },
    "reply_en": "😳 \"Everyone is bearish\" sounds bullish, but consensus alone isn't a signal. What would change your mind first: price, ETF flows or funding?",
    "in_niche": true,
    "skip_reason": "",
    "reply_lang": "en",
    "with_link": false
-  },
-  {
-   "id": "2124993972468666418",
-   "author": "parachutesBTC",
-   "username": "parachutesBTC",
-   "text": "if the last 3 cycles rhyme\n\n$61K → $143K by next November\n$318K the year after\n\nwatch the line https://t.co/UPvqTRRnJq",
-   "created_at": "2026-11-23T22:30:18.000Z",
-   "lang": "en",
-   "url": "https://x.com/parachutesBTC/status/2124993972468666418",
-   "m": {
-    "bookmark_count": 99,
-    "impression_count": 22217,
-    "like_count": 411,
-    "quote_count": 4,
-    "reply_count": 26,
-    "repost_count": 36
-   },
-   "reply_en": "$143K → $318K is a 2.2x on rhyme alone 👀 Peak-to-peak multiples have shrunk every cycle so far; how much of that decay does your line assume?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "medio",
-    "score": 2,
-    "reason": "20.7 h, ~1,075 vistas/h, autor 7,364 seguidores, replies: 26",
-    "vph": 1075
-   },
-   "visual": "gráfico: líneas de ciclos anteriores de $BTC superpuestas con el multiplicador pico a pico de cada ciclo decreciendo; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   }
  ]
 }
