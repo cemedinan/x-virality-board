@@ -1,16 +1,45 @@
 {
  "meta": {
-  "generated_at": "2026-11-23T20:03:21-03:00",
+  "generated_at": "2026-11-23T23:03:16-03:00",
   "window_hours": 24,
   "likes_scanned": 198,
   "listed": 3,
   "in_niche": 3,
   "not_recommended": 0,
-  "new_since_prev": 0,
+  "new_since_prev": 1,
   "removed_replied": 0,
-  "removed_old": 0
+  "removed_old": 1
  },
  "posts": [
+  {
+   "id": "2124906570471576025",
+   "author": "jack wang",
+   "username": "jeepwng",
+   "text": "@ForecastQuant This is why the power law fits keep loosening — time was never the driver, it was just riding on adoption, hashrate and liquidity all compounding together. Once ETF flows decouple from on-chain adoption, the proxy breaks and the curve bends. Describes, doesn't explain, exactly.",
+   "created_at": "2026-11-23T16:42:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/jeepwng/status/2124906570471576025",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "reply_en": "👀 Exactly: time is the proxy, adoption is the engine. If ETF flows keep decoupling from on-chain activity, what breaks first in your view: the power-law floor or the upper band?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "reason": "9.3 h, ~1 vistas/h, autor 132 seguidores, replies: 0",
+    "vph": 1
+   },
+   "visual": "gráfico: precio BTC en escala log-log vs ajuste power law con bandas, marcando el inicio de los ETF spot (ene 2024); fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
   {
    "id": "2124858462631063700",
    "author": "Mestray",
@@ -21,7 +50,7 @@
    "url": "https://x.com/bnbchami/status/2124858462631063700",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 4,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -34,8 +63,8 @@
    "with_link": false,
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "9.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
+    "score": 1,
+    "reason": "12.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
     "vph": 0
    }
   },
@@ -49,7 +78,7 @@
    "url": "https://x.com/bnbchami/status/2124858402866446500",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 4,
+    "impression_count": 5,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -62,37 +91,9 @@
    "with_link": true,
    "momentum": {
     "level": "bajo",
-    "score": 0,
-    "reason": "9.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
+    "score": 1,
+    "reason": "12.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
     "vph": 0
-   }
-  },
-  {
-   "id": "2124668313867280572",
-   "author": "Mary allison",
-   "username": "maryisalien",
-   "text": "is the naive human the new epstein class? https://t.co/wyLMQAqmpv",
-   "created_at": "2026-11-23T00:56:15.000Z",
-   "lang": "en",
-   "url": "https://x.com/maryisalien/status/2124668313867280572",
-   "m": {
-    "bookmark_count": 1219,
-    "impression_count": 75686,
-    "like_count": 2786,
-    "quote_count": 31,
-    "reply_count": 126,
-    "repost_count": 345
-   },
-   "reply_en": "😳 Blaming the Rockefellers is easy. Admitting we chose the sedation ourselves is the uncomfortable part. Which one would you cut first: the feed, the games, or handing your savings to someone else to hold?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3422,
-    "reason": "22.1 h, ~3422 vistas/h, autor 49895 seguidores, replies: 126",
-    "vph": 3422
    }
   }
  ]
