@@ -1,16 +1,722 @@
 {
  "meta": {
-  "generated_at": "2026-11-23T23:03:16-03:00",
+  "generated_at": "2026-11-24T09:04:23-03:00",
   "window_hours": 24,
-  "likes_scanned": 198,
-  "listed": 3,
-  "in_niche": 3,
+  "likes_scanned": 199,
+  "listed": 28,
+  "in_niche": 28,
   "not_recommended": 0,
-  "new_since_prev": 1,
+  "new_since_prev": 25,
   "removed_replied": 0,
-  "removed_old": 1
+  "removed_old": 0
  },
  "posts": [
+  {
+   "id": "2125085071237636583",
+   "author": "KhaiDao",
+   "username": "Khaikhaidao",
+   "text": "Ark Invest dumped $146 million into Anthropic shares, trimming Ethereum and Solana staking ETF positions. The institutional rotation from digital assets into AI infrastructure signals a hard shift in market leadership.",
+   "created_at": "2026-11-24T04:32:17.000Z",
+   "lang": "en",
+   "url": "https://x.com/Khaikhaidao/status/2125085071237636583",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 317,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 9,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 42,
+    "vph": 42,
+    "reason": "7.5 h, ~42 vistas/h, autor 7402 seguidores, replies: 9"
+   },
+   "reply_en": "😳 $146M into Anthropic while trimming ETH and SOL staking ETFs is a loud move, and notice Bitcoin isn't in that list. Rotation out of crypto, or just out of altcoins?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "visual": "gráfico: flujos reportados de ARK (Anthropic +$146M vs recortes en ETFs de staking ETH/SOL), barras comparativas; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2125084632366358898",
+   "author": "₿itcoin-GUS🧡",
+   "username": "Scavacini777",
+   "text": "@HodlFlorida https://t.co/vlafNETUmK",
+   "created_at": "2026-11-24T04:30:33.000Z",
+   "lang": "qme",
+   "url": "https://x.com/Scavacini777/status/2125084632366358898",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "vph": 1,
+    "reason": "7.6 h, ~1 vistas/h, autor 12283 seguidores, replies: 0"
+   },
+   "reply_en": "🥂",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "gif": "Leonardo DiCaprio cheers (El Gran Gatsby) — buscar \"DiCaprio cheers\""
+  },
+  {
+   "id": "2125084068542894307",
+   "author": "OluwaSegun🇳🇬",
+   "username": "August778",
+   "text": "Don't drive while you're drinking Alcohol \n\nDon't drink Alcohol while you're driving. \n\nYour life is precious to me. \n\nLet's have a fun filled December.",
+   "created_at": "2026-11-24T04:28:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/August778/status/2125084068542894307",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 28,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 1
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 4,
+    "vph": 4,
+    "reason": "7.6 h, ~4 vistas/h, autor 4127 seguidores, replies: 0"
+   },
+   "reply_en": "🙏 Simple and true. A taxi always costs less than the alternative. Fun December to you too!",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125083816297632230",
+   "author": "Against Wall Street",
+   "username": "aganstwallst",
+   "text": "Perfect bounce off $59K. This is a must-hold level for Bitcoin https://t.co/tvM7CGa6ij",
+   "created_at": "2026-11-24T04:27:18.000Z",
+   "lang": "en",
+   "url": "https://x.com/aganstwallst/status/2125083816297632230",
+   "m": {
+    "bookmark_count": 1,
+    "impression_count": 1071,
+    "like_count": 14,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 141,
+    "vph": 141,
+    "reason": "7.6 h, ~141 vistas/h, autor 20930 seguidores, replies: 2"
+   },
+   "reply_en": "👀 $59K held for now, but one bounce isn't confirmation. What would invalidate it for you: a daily close below $59K, or something else?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125083391901270309",
+   "author": "Climb Within",
+   "username": "climbwithin",
+   "text": "Never reward yourself for doing half the job.",
+   "created_at": "2026-11-24T04:25:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/climbwithin/status/2125083391901270309",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 395,
+    "like_count": 17,
+    "quote_count": 0,
+    "reply_count": 6,
+    "repost_count": 5
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 52,
+    "vph": 52,
+    "reason": "7.6 h, ~52 vistas/h, autor 22006 seguidores, replies: 6"
+   },
+   "reply_en": "💯 Half-done feels done until it ships. What's your rule for knowing a job is actually finished?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125083139101937982",
+   "author": "Mo",
+   "username": "MoVanCrypto777",
+   "text": "@aller_seelen321 He should’ve taken a pic upon arrival and saved it in his photo album",
+   "created_at": "2026-11-24T04:24:37.000Z",
+   "lang": "en",
+   "url": "https://x.com/MoVanCrypto777/status/2125083139101937982",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 11441,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "alto",
+    "score": 1493,
+    "vph": 1493,
+    "reason": "7.7 h, ~1493 vistas/h, autor 516 seguidores, replies: 0"
+   },
+   "reply_en": "😂📸",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "gif": "Leonardo DiCaprio pointing (Once Upon a Time in Hollywood) — buscar \"DiCaprio pointing\""
+  },
+  {
+   "id": "2125082962194739512",
+   "author": "Yoda",
+   "username": "Yoda21n",
+   "text": "Bon makes the point clearly: trust in @rarelistio comes from payouts already seen, not promises — $5,500 USDT across three campaigns, paid straight to connected wallets. I love that proof is on-chain and visible, with no waiting or selling involved. Which campaign's payout https://t.co/M2VOcJRvtr",
+   "created_at": "2026-11-24T04:23:54.000Z",
+   "lang": "en",
+   "url": "https://x.com/Yoda21n/status/2125082962194739512",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 276,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 10,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 36,
+    "vph": 36,
+    "reason": "7.7 h, ~36 vistas/h, autor 13001 seguidores, replies: 10"
+   },
+   "reply_en": "👀 On-chain proof beats promises, agreed. Before connecting a wallet to any campaign, do you check what permissions you're signing? That's where most drains start.",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125082905969934819",
+   "author": "Freedom Memes",
+   "username": "FreedomMemesIRL",
+   "text": "Hey @grok! Summarize the main ideas of this article. 👀👇 https://t.co/DtULuEQk88",
+   "created_at": "2026-11-24T04:23:41.000Z",
+   "lang": "en",
+   "url": "https://x.com/FreedomMemesIRL/status/2125082905969934819",
+   "m": {
+    "bookmark_count": 2,
+    "impression_count": 1581,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 206,
+    "vph": 206,
+    "reason": "7.7 h, ~206 vistas/h, autor 30308 seguidores, replies: 2"
+   },
+   "reply_en": "👀 A summary is fine, but the best Bitcoin articles are worth reading twice. What's the one line from it you'd keep?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125081989133082895",
+   "author": "Wall Street NYC Quant. bitcoin-fund-manager.com",
+   "username": "BITCOINFUNDMGR",
+   "text": "@BernardoFariaJJ This is why in the old days, warriors would just go fight until they got a sword through the heart. \n\nWe never had a single depressed warrior.",
+   "created_at": "2026-11-24T04:20:02.000Z",
+   "lang": "en",
+   "url": "https://x.com/BITCOINFUNDMGR/status/2125081989133082895",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 161,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 21,
+    "vph": 21,
+    "reason": "7.7 h, ~21 vistas/h, autor 72464 seguidores, replies: 0"
+   },
+   "reply_en": "💀 Zero depressed warriors, and also very few old ones. Hard to tell which stat explains the other 😂",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125081982522785960",
+   "author": "Climb Within",
+   "username": "climbwithin",
+   "text": "Being selfish with your focus while you build is how you become generous later.",
+   "created_at": "2026-11-24T04:20:01.000Z",
+   "lang": "en",
+   "url": "https://x.com/climbwithin/status/2125081982522785960",
+   "m": {
+    "bookmark_count": 3,
+    "impression_count": 466,
+    "like_count": 20,
+    "quote_count": 0,
+    "reply_count": 6,
+    "repost_count": 5
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 60,
+    "vph": 60,
+    "reason": "7.7 h, ~60 vistas/h, autor 22006 seguidores, replies: 6"
+   },
+   "reply_en": "🎯 Focus is the one resource you can't buy back. What's the one thing you said no to this month that made the biggest difference?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125081338533593352",
+   "author": "COOL",
+   "username": "cooooolx1",
+   "text": "@duongphat99 @Acurast a timestamp turns a trivial test into an actual verification method",
+   "created_at": "2026-11-24T04:17:27.000Z",
+   "lang": "en",
+   "url": "https://x.com/cooooolx1/status/2125081338533593352",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "vph": 1,
+    "reason": "7.8 h, ~1 vistas/h, autor 2115 seguidores, replies: 0"
+   },
+   "reply_en": "⏱️ Exactly: a timestamp turns \"trust me\" into something anyone can check. Is it anchored on-chain, or just signed by the device?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125081158807671216",
+   "author": "Tyler",
+   "username": "TylerDurden",
+   "text": "Bitcoin bottom $50k ish.\n\nTail risk and capitulation then you’ll see $40-45k.\n\nStart your DCA.",
+   "created_at": "2026-11-24T04:16:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/TylerDurden/status/2125081158807671216",
+   "m": {
+    "bookmark_count": 96,
+    "impression_count": 45222,
+    "like_count": 1011,
+    "quote_count": 4,
+    "reply_count": 54,
+    "repost_count": 27
+   },
+   "momentum": {
+    "level": "alto",
+    "score": 5803,
+    "vph": 5803,
+    "reason": "7.8 h, ~5803 vistas/h, autor 227542 seguidores, replies: 54"
+   },
+   "reply_en": "👀 From ~$60K, $40-45K would be another 25-33% down. DCA only works if you keep buying through that without selling. How long is your DCA horizon: months or years?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "visual": "gráfico: escenarios desde ~$60K a $50K y $40-45K con el % de caída de cada uno; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2125080719328170291",
+   "author": "Roseline",
+   "username": "iamroseline0",
+   "text": "Early morning roll call! 🌅\n\nWhere are my genuine mutuals?\n\nMay God bless our timelines, increase our opportunities and give us reasons to smile today.\n\nLet's connect! ❤️",
+   "created_at": "2026-11-24T04:15:00.000Z",
+   "lang": "en",
+   "url": "https://x.com/iamroseline0/status/2125080719328170291",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 812,
+    "like_count": 48,
+    "quote_count": 0,
+    "reply_count": 34,
+    "repost_count": 7
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 104,
+    "vph": 104,
+    "reason": "7.8 h, ~104 vistas/h, autor 5090 seguidores, replies: 34"
+   },
+   "reply_en": "🌅 Good morning from Chile! Here for Bitcoin, data and self-custody talk. What are you building or learning this week?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125080686256128329",
+   "author": "Freedom Memes",
+   "username": "FreedomMemesIRL",
+   "text": "Hey @grok! This isn’t fair to bitcoiners! https://t.co/IBrikZriHY",
+   "created_at": "2026-11-24T04:14:52.000Z",
+   "lang": "en",
+   "url": "https://x.com/FreedomMemesIRL/status/2125080686256128329",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 937,
+    "like_count": 8,
+    "quote_count": 0,
+    "reply_count": 3,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 120,
+    "vph": 120,
+    "reason": "7.8 h, ~120 vistas/h, autor 30308 seguidores, replies: 3"
+   },
+   "reply_en": "😂 Bitcoin has been declared dead hundreds of times and bitcoiners still show up. What's the unfair part this time?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125080565221413294",
+   "author": "Amit Jha",
+   "username": "thelivingdraft",
+   "text": "Very Slow Progress https://t.co/qrvThC3mmL",
+   "created_at": "2026-11-24T04:14:23.000Z",
+   "lang": "en",
+   "url": "https://x.com/thelivingdraft/status/2125080565221413294",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 1060,
+    "like_count": 80,
+    "quote_count": 0,
+    "reply_count": 50,
+    "repost_count": 10
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 135,
+    "vph": 135,
+    "reason": "7.8 h, ~135 vistas/h, autor 18646 seguidores, replies: 50"
+   },
+   "reply_en": "🐢 Slow progress is still progress, and it's the part nobody posts. What's one thing you've kept doing for 12+ months that finally started paying off?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125080376380989505",
+   "author": "₿itcoin-GUS🧡",
+   "username": "Scavacini777",
+   "text": "Why focus on the scam called fiat?\n\nFiat is a ponzi scheme, a bankster racket, why worship it?\n\nSeparate money from state, BITCOIN fixes this world. https://t.co/dD7Dd2tMcR",
+   "created_at": "2026-11-24T04:13:38.000Z",
+   "lang": "en",
+   "url": "https://x.com/Scavacini777/status/2125080376380989505",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 213,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 27,
+    "vph": 27,
+    "reason": "7.8 h, ~27 vistas/h, autor 12283 seguidores, replies: 1"
+   },
+   "reply_en": "🔥 Separating money from state only works if you hold your own keys. Coins on an exchange are still a promise from a company. Where are yours?\nI wrote about airgapped self-custody: https://x.com/forecastquant/status/2116083014815924397",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": true
+  },
+  {
+   "id": "2125071367746023786",
+   "author": "Autism Capital 🧩",
+   "username": "AutismCapital",
+   "text": "Back to hell https://t.co/HmAi8r72Pf",
+   "created_at": "2026-11-24T03:37:50.000Z",
+   "lang": "en",
+   "url": "https://x.com/AutismCapital/status/2125071367746023786",
+   "m": {
+    "bookmark_count": 6,
+    "impression_count": 24443,
+    "like_count": 559,
+    "quote_count": 1,
+    "reply_count": 30,
+    "repost_count": 21
+   },
+   "momentum": {
+    "level": "alto",
+    "score": 2895,
+    "vph": 2895,
+    "reason": "8.4 h, ~2895 vistas/h, autor 1747913 seguidores, replies: 30"
+   },
+   "reply_en": "🔥🐶",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "gif": "Perro \"This is fine\" en la habitación en llamas — buscar \"this is fine\""
+  },
+  {
+   "id": "2125064386553286969",
+   "author": "Crypto With Sarmad ₿",
+   "username": "Sarmad_Crypto",
+   "text": "$BTC has dropped below $60,000.\n\nYesterday's pump was nothing more than a liquidity sweep. The overall market structure remains extremely bearish.\n\nI expect Bitcoin to continue its downward move toward $52,000 sometime this week.\n\nAvoid opening long positions for now. Let the https://t.co/UVu8HuqhjU",
+   "created_at": "2026-11-24T03:10:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/Sarmad_Crypto/status/2125064386553286969",
+   "m": {
+    "bookmark_count": 5,
+    "impression_count": 6359,
+    "like_count": 81,
+    "quote_count": 1,
+    "reply_count": 17,
+    "repost_count": 13
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 714,
+    "vph": 714,
+    "reason": "8.9 h, ~714 vistas/h, autor 3965 seguidores, replies: 17"
+   },
+   "reply_en": "📉 Below $60K and everyone suddenly has a $52K target. If it gets there, what's your plan: spot DCA or cash? Leverage is how a 13% drop becomes a 100% loss.",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "visual": "gráfico: precio BTC con niveles $64K (rechazo), $60K y $52K, mostrando la caída de ~13% desde $60K; fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
+  },
+  {
+   "id": "2125058010502578557",
+   "author": "Lusubu TOP",
+   "username": "LusubuTOP",
+   "text": "nhìn anh ta cạo da con heo, tôi nổi hết da gà https://t.co/ScbkATsh1E",
+   "created_at": "2026-11-24T02:44:46.000Z",
+   "lang": "vi",
+   "url": "https://x.com/LusubuTOP/status/2125058010502578557",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 854,
+    "like_count": 43,
+    "quote_count": 0,
+    "reply_count": 28,
+    "repost_count": 6
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 92,
+    "vph": 92,
+    "reason": "9.3 h, ~92 vistas/h, autor 37067 seguidores, replies: 28"
+   },
+   "reply_en": "😳 Xem mà nổi da gà thật. Anh ta phải làm bao lâu mới thuần tay được như vậy nhỉ?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "vi",
+   "with_link": false
+  },
+  {
+   "id": "2125057012975493132",
+   "author": "BELAL",
+   "username": "Billal6968",
+   "text": "One sharp move can change the entire mood of the market.\n\nThe recent btc rejection near 64k is a good reminder of how quickly confidence can disappear. Price looked strong during the move up, but the selling afterward brought it back into a much weaker position.\n\nPersonally, i've https://t.co/uKwjKqE5Z1 https://t.co/1aDK20e4UM",
+   "created_at": "2026-11-24T02:40:48.000Z",
+   "lang": "en",
+   "url": "https://x.com/Billal6968/status/2125057012975493132",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 239,
+    "like_count": 25,
+    "quote_count": 0,
+    "reply_count": 26,
+    "repost_count": 1
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 25,
+    "vph": 25,
+    "reason": "9.4 h, ~25 vistas/h, autor 23361 seguidores, replies: 26"
+   },
+   "reply_en": "😳 From a rejection near $64K to under $60K: that's how fast confidence flips. Do moves like this change your plan, or only your mood?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125044921728200992",
+   "author": "Ken 🌊",
+   "username": "ken_w3b3",
+   "text": "$NVDA \n\nStock price? https://t.co/Frq0PnNeCh",
+   "created_at": "2026-11-24T01:52:45.000Z",
+   "lang": "en",
+   "url": "https://x.com/ken_w3b3/status/2125044921728200992",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 510,
+    "like_count": 32,
+    "quote_count": 0,
+    "reply_count": 17,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 50,
+    "vph": 50,
+    "reason": "10.2 h, ~50 vistas/h, autor 17073 seguidores, replies: 17"
+   },
+   "reply_en": "👀 The real question isn't the $NVDA price, it's whether AI keeps pulling money away from crypto. Do you see them as rivals or the same risk-on trade?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125044225486020962",
+   "author": "qazzaq.eth",
+   "username": "qazzaq_eth",
+   "text": "@JonnieKing every podcast saying the same bearish thing is kinda the tell ngl",
+   "created_at": "2026-11-24T01:49:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/qazzaq_eth/status/2125044225486020962",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 1,
+    "vph": 1,
+    "reason": "10.2 h, ~1 vistas/h, autor 5476 seguidores, replies: 1"
+   },
+   "reply_en": "👀 When every podcast says the same thing, the trade is usually already crowded. Which signal do you trust when they all agree?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125032386274423289",
+   "author": "Freedom Memes",
+   "username": "FreedomMemesIRL",
+   "text": "This is 100% why we need more bitcoin memes to increase adoption. https://t.co/8cpuBf4Gh0 https://t.co/benj2LCUrh",
+   "created_at": "2026-11-24T01:02:56.000Z",
+   "lang": "en",
+   "url": "https://x.com/FreedomMemesIRL/status/2125032386274423289",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 495,
+    "like_count": 18,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 45,
+    "vph": 45,
+    "reason": "11.0 h, ~45 vistas/h, autor 30308 seguidores, replies: 2"
+   },
+   "reply_en": "😂 Memes taught more people about Bitcoin than most whitepapers ever will. Which meme first made you actually get the 21M fixed supply?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2125021368156885496",
+   "author": "Jonnie King 🍌👑",
+   "username": "JonnieKing",
+   "text": "Max Pain is Up-Only.\n\nMost funds are bearish and heavily offsides right now.\n\nJust turn on any of your favorite podcasts and they are all parroting the same bear-p0rn.\n\nThe biggest headwind is behind us; \nJensen being indicted for selling state secrets and the bank of Nvidia",
+   "created_at": "2026-11-24T00:19:09.000Z",
+   "lang": "en",
+   "url": "https://x.com/JonnieKing/status/2125021368156885496",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 742,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 5,
+    "repost_count": 0
+   },
+   "momentum": {
+    "level": "medio",
+    "score": 63,
+    "vph": 63,
+    "reason": "11.8 h, ~63 vistas/h, autor 9266 seguidores, replies: 5"
+   },
+   "reply_en": "😳 \"Everyone is bearish\" sounds bullish, but consensus alone isn't a signal. What would change your mind first: price, ETF flows or funding?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
+  {
+   "id": "2124910874674762058",
+   "author": "The AmazeX",
+   "username": "TheAmazeX",
+   "text": "I have 12.3K followers.\n\nBut my posts don’t even get 123 likes. 😭\n\nThat’s literally 1%.",
+   "created_at": "2026-11-23T17:00:06.000Z",
+   "lang": "en",
+   "url": "https://x.com/TheAmazeX/status/2124910874674762058",
+   "m": {
+    "bookmark_count": 0,
+    "impression_count": 760,
+    "like_count": 62,
+    "quote_count": 0,
+    "reply_count": 28,
+    "repost_count": 4
+   },
+   "momentum": {
+    "level": "bajo",
+    "score": 40,
+    "vph": 40,
+    "reason": "19.1 h, ~40 vistas/h, autor 12385 seguidores, replies: 28"
+   },
+   "reply_en": "😭 On X followers aren't reach: posts get shown to people who engage, not just to who follows you. How many replies a day do you write vs posts?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false
+  },
   {
    "id": "2124906570471576025",
    "author": "jack wang",
@@ -21,8 +727,8 @@
    "url": "https://x.com/jeepwng/status/2124906570471576025",
    "m": {
     "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
+    "impression_count": 12,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "repost_count": 0
@@ -35,8 +741,8 @@
    "momentum": {
     "level": "bajo",
     "score": 1,
-    "reason": "9.3 h, ~1 vistas/h, autor 132 seguidores, replies: 0",
-    "vph": 1
+    "vph": 1,
+    "reason": "19.4 h, ~1 vistas/h, autor 132 seguidores, replies: 0"
    },
    "visual": "gráfico: precio BTC en escala log-log vs ajuste power law con bandas, marcando el inicio de los ETF spot (ene 2024); fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   },
@@ -63,9 +769,9 @@
    "with_link": false,
    "momentum": {
     "level": "bajo",
-    "score": 1,
-    "reason": "12.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
-    "vph": 0
+    "score": 0,
+    "vph": 0,
+    "reason": "22.5 h, ~0 vistas/h, autor 320 seguidores, replies: 0"
    }
   },
   {
@@ -91,9 +797,9 @@
    "with_link": true,
    "momentum": {
     "level": "bajo",
-    "score": 1,
-    "reason": "12.5 h, ~0 vistas/h, autor 322 seguidores, replies: 0",
-    "vph": 0
+    "score": 0,
+    "vph": 0,
+    "reason": "22.5 h, ~0 vistas/h, autor 320 seguidores, replies: 0"
    }
   }
  ]
