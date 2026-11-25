@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-25T13:08:26-03:00",
+  "generated_at": "2026-11-25T16:07:48-03:00",
   "window_hours": 24,
   "likes_scanned": 199,
-  "listed": 1,
-  "in_niche": 1,
+  "listed": 2,
+  "in_niche": 2,
   "not_recommended": 0,
-  "new_since_prev": 0,
+  "new_since_prev": 1,
   "removed_replied": 0,
-  "removed_old": 5
+  "removed_old": 0
  },
  "posts": [
   {
@@ -20,12 +20,12 @@
    "lang": "en",
    "url": "https://x.com/CineAudu/status/2125408779432861941",
    "m": {
-    "bookmark_count": 155,
-    "impression_count": 58232,
-    "like_count": 433,
-    "quote_count": 1,
-    "reply_count": 2,
-    "repost_count": 22
+    "bookmark_count": 199,
+    "impression_count": 70749,
+    "like_count": 546,
+    "quote_count": 2,
+    "reply_count": 6,
+    "repost_count": 27
    },
    "reply_en": "That grin is the same one that broke him on SNL every time Stefon showed up 😂 Which Hader character break is your all-time favorite?",
    "in_niche": true,
@@ -35,9 +35,38 @@
    "momentum": {
     "level": "alto",
     "score": 3,
-    "reason": "14.2 h, ~4,111 vistas/h, autor 30,885 seguidores, replies: 2",
-    "vph": 4111
+    "reason": "17.2 h, ~4,124 vistas/h, autor 30,907 seguidores, replies: 6",
+    "vph": 4124
    }
+  },
+  {
+   "id": "2125355022557020511",
+   "author": "Scotch",
+   "username": "scotchscotchzz",
+   "text": "New Bitcoin Rainbow chart just dropped https://t.co/fkE7VPLFFd",
+   "created_at": "2026-11-24T22:24:59.000Z",
+   "lang": "en",
+   "url": "https://x.com/scotchscotchzz/status/2125355022557020511",
+   "m": {
+    "bookmark_count": 221,
+    "impression_count": 230000,
+    "like_count": 5463,
+    "quote_count": 91,
+    "reply_count": 249,
+    "repost_count": 357
+   },
+   "reply_en": "👀 A new Rainbow chart always gets my attention: the last one was redrawn in 2022 after $BTC fell through its bottom band. Which band do you think holds this cycle, and would you trust it over a plain power-law fit?",
+   "in_niche": true,
+   "skip_reason": "",
+   "reply_lang": "en",
+   "with_link": false,
+   "momentum": {
+    "level": "alto",
+    "score": 3,
+    "reason": "20.7 h, ~11,104 vistas/h, autor 883 seguidores, replies: 249",
+    "vph": 11104
+   },
+   "visual": "gráfico: bandas del Rainbow chart vs ajuste power law del precio de BTC en escala log, fondo azul marino, Bitcoin en blanco, acentos lima, logo como marca de agua"
   }
  ]
 }
