@@ -1,43 +1,14 @@
 {
  "meta": {
-  "generated_at": "2026-11-25T20:11:00-03:00",
+  "generated_at": "2026-11-25T23:01:17-03:00",
   "window_hours": 24,
-  "likes_scanned": 199,
-  "listed": 1,
-  "in_niche": 1,
+  "likes_scanned": 100,
+  "listed": 0,
+  "in_niche": 0,
   "not_recommended": 0,
   "new_since_prev": 0,
   "removed_replied": 0,
   "removed_old": 1
  },
- "posts": [
-  {
-   "id": "2125408779432861941",
-   "author": "𝓐𝓤𝓓𝓤",
-   "username": "CineAudu",
-   "text": "Bill hader's cracking smile is insanely attractive. https://t.co/hQufmqBJlb https://t.co/b18oyjRefR",
-   "created_at": "2026-11-25T01:58:35.000Z",
-   "lang": "en",
-   "url": "https://x.com/CineAudu/status/2125408779432861941",
-   "m": {
-    "bookmark_count": 236,
-    "impression_count": 83064,
-    "like_count": 643,
-    "quote_count": 3,
-    "reply_count": 7,
-    "repost_count": 34
-   },
-   "reply_en": "That grin is the same one that broke him on SNL every time Stefon showed up 😂 Which Hader character break is your all-time favorite?",
-   "in_niche": true,
-   "skip_reason": "",
-   "reply_lang": "en",
-   "with_link": false,
-   "momentum": {
-    "level": "alto",
-    "score": 3,
-    "reason": "21.2 h, ~3,917 vistas/h, autor 30,936 seguidores, replies: 7",
-    "vph": 3917
-   }
-  }
- ]
+ "posts": []
 }
